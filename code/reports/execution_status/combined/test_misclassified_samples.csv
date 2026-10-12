@@ -1,0 +1,9 @@
+sample_id,utterance,true_label,predicted_label,is_correct
+17,"I’ve begun it, but I’ll continue after this break.",In Progress,Not Started,False
+25,"I finished the exercises, and now I’ll take a break.",Completed,Not Started,False
+27,"The therapy is finished, so I’ll relax for a while.",Completed,Not Started,False
+33,You don’t need to remind me—I already took it.,Completed,Not Started,False
+36,"Listen, i took it a little while ago.",Completed,Not Started,False
+39,"Listen, you don’t need to remind me—I already took it.",Completed,Not Started,False
+45,"You know, you don’t need to remind me—I already took it.",Completed,Not Started,False
+211,Yet to.,Not Started,In Progress,False

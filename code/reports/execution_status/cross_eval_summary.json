@@ -1,0 +1,36 @@
+{
+  "Trained_on_dataset_2": {
+    "d2_test": {
+      "accuracy": 0.9524,
+      "macro_f1": 0.9525,
+      "samples": 189
+    },
+    "combined_test": {
+      "accuracy": 0.9398,
+      "macro_f1": 0.9401,
+      "samples": 216
+    },
+    "srcc_test": {
+      "accuracy": 0.7534,
+      "macro_f1": 0.7603,
+      "samples": 73
+    }
+  },
+  "Trained_on_combined": {
+    "d2_test": {
+      "accuracy": 0.963,
+      "macro_f1": 0.9631,
+      "samples": 189
+    },
+    "combined_test": {
+      "accuracy": 0.963,
+      "macro_f1": 0.9631,
+      "samples": 216
+    },
+    "srcc_test": {
+      "accuracy": 0.9589,
+      "macro_f1": 0.955,
+      "samples": 73
+    }
+  }
+}
