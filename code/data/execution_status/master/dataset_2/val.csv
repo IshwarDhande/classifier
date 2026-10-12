@@ -1,0 +1,668 @@
+utterance_id,utterance,execution_status
+NS-S01-A1,I haven’t started the exercise yet.,Not Started
+NS-S01-A2,I still haven’t begun the exercise.,Not Started
+NS-S01-A3,The exercise hasn’t been started on my side yet.,Not Started
+NS-S07-A1,"If I get enough time, I’ll do the exercise.",Not Started
+NS-S07-A2,I’ll exercise if I get a free hour.,Not Started
+NS-S07-A3,The exercise will happen if I can get some time later.,Not Started
+NS-S10-A1,I’m not going to do the exercise.,Not Started
+NS-S10-A2,"No, I’m not doing it.",Not Started
+NS-S10-A3,I’ll pass on the exercise today.,Not Started
+NS-S13-A1,I haven’t exercised because I’m too busy.,Not Started
+NS-S13-A2,I haven’t had time to do the exercises.,Not Started
+NS-S13-A3,The exercise hasn’t happened; my schedule has been packed.,Not Started
+IP-S01-A1,I’m doing the exercise right now.,In Progress
+IP-S01-A2,I’m exercising at the moment.,In Progress
+IP-S01-A3,I’m in the middle of the exercise.,In Progress
+IP-S04-A1,"I’ve done part of the exercise, but I’m not finished.",In Progress
+IP-S04-A2,I’ve started the exercises; there’s still some left.,In Progress
+IP-S04-A3,I’m partway through the exercise.,In Progress
+IP-S07-A1,I’m almost finished with the exercises.,In Progress
+IP-S07-A2,I’m nearly done with the workout.,In Progress
+IP-S07-A3,I’ve got just a little of the exercise left.,In Progress
+IP-S10-A1,"I’ve finished the first two exercises, but I still have one left.",In Progress
+IP-S10-A2,I’ve done the first couple of sets and still have more to go.,In Progress
+IP-S10-A3,I’m partway through the routine; a few steps remain.,In Progress
+IP-S13-A1,"I started the exercise, but I had to pause.",In Progress
+IP-S13-A2,I was doing the exercise and stopped for a moment.,In Progress
+IP-S13-A3,I’m taking a short break in the middle of it.,In Progress
+C-S01-A1,I finished the exercise.,Completed
+C-S01-A2,I’m done with the exercise.,Completed
+C-S01-A3,The exercise is finished.,Completed
+C-S04-A1,I already did the exercise.,Completed
+C-S04-A2,I finished it earlier.,Completed
+C-S04-A3,That’s something I’ve already taken care of.,Completed
+C-S07-A1,The water bottle is empty now.,Completed
+C-S07-A2,There’s nothing left in the bottle.,Completed
+C-S07-A3,The whole bottle is gone.,Completed
+C-S10-A1,I finished all the exercises.,Completed
+C-S10-A2,I got through the whole routine.,Completed
+C-S10-A3,Every step is done.,Completed
+C-S13-A1,I finished the exercises; they were tiring.,Completed
+C-S13-A2,"I’m done with the workout, and that was harder than expected.",Completed
+C-S13-A3,"The exercise is finished, though it took a lot out of me.",Completed
+C-S01-A1-V01,I took my medication.,Completed
+C-S01-A1-V02,My medication has been taken.,Completed
+C-S01-A1-V03,I’ve taken it already.,Completed
+C-S01-A1-V04,I’ve completed the medication task; I took the medicine.,Completed
+C-S01-A1-V05,The medication is finished for this task.,Completed
+C-S01-A1-V06,That’s done—I’ve taken my medicine.,Completed
+C-S01-A2-V01,I took the medicine.,Completed
+C-S01-A2-V02,"To be honest, my medication has been taken.",Completed
+C-S01-A2-V03,"Basically, i’ve taken it already.",Completed
+C-S01-A2-V04,"Actually, i’ve completed the medication task; I took the medicine.",Completed
+C-S01-A2-V05,"Right, the medication is finished for this task.",Completed
+C-S01-A2-V06,That’s done—I’ve taken the medication.,Completed
+C-S01-A3-V01,"You know, i took my medication.",Completed
+C-S01-A3-V02,"Okay, my medication has been taken.",Completed
+C-S01-A3-V03,"Actually, i’ve taken it already.",Completed
+C-S01-A3-V04,I’ve completed my dose task; I took my dose.,Completed
+C-S01-A3-V05,"Listen, the medication is finished for this task.",Completed
+C-S01-A3-V06,"Right, that’s done—I’ve taken my medicine.",Completed
+C-S04-A1-V01,I finished my physiotherapy.,Completed
+C-S04-A1-V02,The physio routine has been completed.,Completed
+C-S04-A1-V03,I’m done with the physio.,Completed
+C-S04-A1-V04,I’ve completed the entire physiotherapy task.,Completed
+C-S04-A1-V05,The therapy session is finished.,Completed
+C-S04-A1-V06,That’s done—I’ve completed the physio routine.,Completed
+C-S04-A2-V01,"Actually, i finished my physiotherapy.",Completed
+C-S04-A2-V02,"Right, the physio routine has been completed.",Completed
+C-S04-A2-V03,I’m done with the therapy.,Completed
+C-S04-A2-V04,"You know, i’ve completed the entire physiotherapy task.",Completed
+C-S04-A2-V05,"I must say, the therapy session is finished.",Completed
+C-S04-A2-V06,That’s done—I’ve completed the therapy routine.,Completed
+C-S04-A3-V01,"Right, i finished my physiotherapy.",Completed
+C-S04-A3-V02,"Okay, the physio routine has been completed.",Completed
+C-S04-A3-V03,I’m done with the therapy session.,Completed
+C-S04-A3-V04,"Okay, i’ve completed the entire physiotherapy task.",Completed
+C-S04-A3-V05,"As I said, the therapy session is finished.",Completed
+C-S04-A3-V06,That’s done—I’ve completed the therapy session routine.,Completed
+C-S07-A1-V01,I already did my workout.,Completed
+C-S07-A1-V02,The workout was completed earlier.,Completed
+C-S07-A1-V03,I got my exercise done earlier.,Completed
+C-S07-A1-V04,I completed the exercise task before this reminder.,Completed
+C-S07-A1-V05,The workout was finished earlier today.,Completed
+C-S07-A1-V06,The reminder came after I’d already done the workout.,Completed
+C-S07-A2-V01,"Honestly, i already did my workout.",Completed
+C-S07-A2-V02,"Well, the workout was completed earlier.",Completed
+C-S07-A2-V03,"Look, i got my exercise done earlier.",Completed
+C-S07-A2-V04,"As I said, i completed the exercise task before this reminder.",Completed
+C-S07-A2-V05,"I mean, the workout was finished earlier today.",Completed
+C-S07-A2-V06,"Okay, the reminder came after I’d already done the workout.",Completed
+C-S07-A3-V01,"Okay, i already did my workout.",Completed
+C-S07-A3-V02,"As I said, the workout was completed earlier.",Completed
+C-S07-A3-V03,"I mean, i got my exercise done earlier.",Completed
+C-S07-A3-V04,I completed the exercise routine task before this reminder.,Completed
+C-S07-A3-V05,"I must say, the workout was finished earlier today.",Completed
+C-S07-A3-V06,The reminder came after I’d already done the exercise routine.,Completed
+C-S10-A1-V01,The bottle is empty now.,Completed
+C-S10-A1-V02,There is no water left in the bottle.,Completed
+C-S10-A1-V03,I’ve emptied the bottle.,Completed
+C-S10-A1-V04,The hydration task is complete; the required bottle is empty.,Completed
+C-S10-A1-V05,The bottle is finished and empty now.,Completed
+C-S10-A1-V06,"There’s nothing left in the bottle, so I’m finished with it.",Completed
+C-S10-A2-V01,"Well, the bottle is empty now.",Completed
+C-S10-A2-V02,"Okay, there is no water left in the bottle.",Completed
+C-S10-A2-V03,"Listen, i’ve emptied the bottle.",Completed
+C-S10-A2-V04,"I mean, the hydration task is complete; the required bottle is empty.",Completed
+C-S10-A2-V05,"I must say, the bottle is finished and empty now.",Completed
+C-S10-A2-V06,"Okay, there’s nothing left in the bottle, so I’m finished with it.",Completed
+C-S10-A3-V01,"Listen, the bottle is empty now.",Completed
+C-S10-A3-V02,"Basically, there is no water left in the bottle.",Completed
+C-S10-A3-V03,"Honestly, i’ve emptied the bottle.",Completed
+C-S10-A3-V04,"Basically, the hydration task is complete; the required bottle is empty.",Completed
+C-S10-A3-V05,"I mean, the bottle is finished and empty now.",Completed
+C-S10-A3-V06,"You know, there’s nothing left in the bottle, so I’m finished with it.",Completed
+C-S13-A1-V01,I finished all five sets.,Completed
+C-S13-A1-V02,Every exercise in the routine has been completed.,Completed
+C-S13-A1-V03,I got through the whole workout.,Completed
+C-S13-A1-V04,"I completed every required set and exercise, so the workout is finished.",Completed
+C-S13-A1-V05,The full exercise routine is complete.,Completed
+C-S13-A1-V06,I’ve worked through every set; there’s nothing left to do in the workout.,Completed
+C-S13-A2-V01,"Honestly, i finished all five sets.",Completed
+C-S13-A2-V02,"Okay, every exercise in the routine has been completed.",Completed
+C-S13-A2-V03,"Honestly, i got through the whole workout.",Completed
+C-S13-A2-V04,"As I said, i completed every required set and exercise, so the workout is finished.",Completed
+C-S13-A2-V05,"Right, the full exercise routine is complete.",Completed
+C-S13-A2-V06,"To be honest, i’ve worked through every set; there’s nothing left to do in the workout.",Completed
+C-S13-A3-V01,"To be honest, i finished all five sets.",Completed
+C-S13-A3-V02,"I mean, every exercise in the routine has been completed.",Completed
+C-S13-A3-V03,"Right, i got through the whole workout.",Completed
+C-S13-A3-V04,"I completed every required set and exercise, so the exercise routine is finished.",Completed
+C-S13-A3-V05,"To be honest, the full exercise routine is complete.",Completed
+C-S13-A3-V06,I’ve worked through every set; there’s nothing left to do in the exercise routine.,Completed
+IP-S01-A1-V01,I’m carrying out the exercise now.,In Progress
+IP-S01-A1-V02,I’m currently performing the exercise.,In Progress
+IP-S01-A1-V03,I’m in the middle of my workout right now.,In Progress
+IP-S01-A1-V04,"I’ve already begun the exercise, and I’m still working through it.",In Progress
+IP-S01-A1-V05,I’m doing the exercise now; I haven’t finished the whole routine.,In Progress
+IP-S01-A1-V06,The exercise is underway on my side at the moment.,In Progress
+IP-S01-A2-V01,"So, i’m carrying out the exercise now.",In Progress
+IP-S01-A2-V02,"Okay, i’m currently performing the exercise.",In Progress
+IP-S01-A2-V03,"From where I am, i’m in the middle of my workout right now.",In Progress
+IP-S01-A2-V04,"Well, i’ve already begun the exercise, and I’m still working through it.",In Progress
+IP-S01-A2-V05,"Okay, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress
+IP-S01-A2-V06,"In this session, the exercise is underway on my side at the moment.",In Progress
+IP-S01-A3-V01,"Well, i’m carrying out the exercise now.",In Progress
+IP-S01-A3-V02,"Right now, i’m currently performing the exercise.",In Progress
+IP-S01-A3-V03,"Look, i’m in the middle of my workout right now.",In Progress
+IP-S01-A3-V04,"At the moment, i’ve already begun the exercise, and I’m still working through it.",In Progress
+IP-S01-A3-V05,"Well, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress
+IP-S01-A3-V06,"I mean, in this session, the exercise is underway on my side at the moment.",In Progress
+IP-S04-A1-V01,"I’ve completed some of the exercise, but there’s still more.",In Progress
+IP-S04-A1-V02,"Part of the workout is done, while the rest remains.",In Progress
+IP-S04-A1-V03,I’m only partway through the exercises.,In Progress
+IP-S04-A1-V04,"I’ve already worked through one portion, and I still have the remainder to do.",In Progress
+IP-S04-A1-V05,Some of the routine is finished; I still have more to complete.,In Progress
+IP-S04-A1-V06,"I’ve made it through part of the exercise, with the rest still ahead.",In Progress
+IP-S04-A2-V01,"So, i’ve completed some of the exercise, but there’s still more.",In Progress
+IP-S04-A2-V02,"Okay, part of the workout is done, while the rest remains.",In Progress
+IP-S04-A2-V03,"From where I am, i’m only partway through the exercises.",In Progress
+IP-S04-A2-V04,"Basically, i’ve already worked through one portion, and I still have the remainder to do.",In Progress
+IP-S04-A2-V05,"Basically, some of the routine is finished; I still have more to complete.",In Progress
+IP-S04-A2-V06,"In this session, i’ve made it through part of the exercise, with the rest still ahead.",In Progress
+IP-S04-A3-V01,"Basically, i’ve completed some of the exercise, but there’s still more.",In Progress
+IP-S04-A3-V02,"Right now, part of the workout is done, while the rest remains.",In Progress
+IP-S04-A3-V03,"So, i’m only partway through the exercises.",In Progress
+IP-S04-A3-V04,"At the moment, i’ve already worked through one portion, and I still have the remainder to do.",In Progress
+IP-S04-A3-V05,"I mean, some of the routine is finished; I still have more to complete.",In Progress
+IP-S04-A3-V06,"As I said, in this session, i’ve made it through part of the exercise, with the rest still ahead.",In Progress
+IP-S07-A1-V01,I’m just about finished with the exercises.,In Progress
+IP-S07-A1-V02,"The workout is close to completion, but not complete yet.",In Progress
+IP-S07-A1-V03,I’m almost done with it.,In Progress
+IP-S07-A1-V04,"I’ve completed most of the exercise, with only a small part remaining.",In Progress
+IP-S07-A1-V05,"I’m near the end, but there’s still a little exercise left.",In Progress
+IP-S07-A1-V06,Only a small amount remains in the workout.,In Progress
+IP-S07-A2-V01,"So, i’m just about finished with the exercises.",In Progress
+IP-S07-A2-V02,"Right now, the workout is close to completion, but not complete yet.",In Progress
+IP-S07-A2-V03,"From where I am, i’m almost done with it.",In Progress
+IP-S07-A2-V04,"Listen, i’ve completed most of the exercise, with only a small part remaining.",In Progress
+IP-S07-A2-V05,"Okay, i’m near the end, but there’s still a little exercise left.",In Progress
+IP-S07-A2-V06,"In this session, only a small amount remains in the workout.",In Progress
+IP-S07-A3-V01,"I mean, i’m just about finished with the exercises.",In Progress
+IP-S07-A3-V02,"Listen, right now, the workout is close to completion, but not complete yet.",In Progress
+IP-S07-A3-V03,"I mean, i’m almost done with it.",In Progress
+IP-S07-A3-V04,"At the moment, i’ve completed most of the exercise, with only a small part remaining.",In Progress
+IP-S07-A3-V05,"Listen, i’m near the end, but there’s still a little exercise left.",In Progress
+IP-S07-A3-V06,"I mean, in this session, only a small amount remains in the workout.",In Progress
+IP-S10-A1-V01,"I’ve completed the first two exercises, with one more remaining.",In Progress
+IP-S10-A1-V02,"The first few steps are done, but the routine is still incomplete.",In Progress
+IP-S10-A1-V03,I’m through a few exercises and still have more to do.,In Progress
+IP-S10-A1-V04,"I’ve finished several required steps, while the remaining step is still unfinished.",In Progress
+IP-S10-A1-V05,Part of the routine is complete; the later exercise is still left.,In Progress
+IP-S10-A1-V06,"I’ve moved through the first section, and the rest is still ahead.",In Progress
+IP-S10-A2-V01,"So, i’ve completed the first two exercises, with one more remaining.",In Progress
+IP-S10-A2-V02,"Right now, the first few steps are done, but the routine is still incomplete.",In Progress
+IP-S10-A2-V03,"From where I am, i’m through a few exercises and still have more to do.",In Progress
+IP-S10-A2-V04,"I mean, i’ve finished several required steps, while the remaining step is still unfinished.",In Progress
+IP-S10-A2-V05,"Honestly, part of the routine is complete; the later exercise is still left.",In Progress
+IP-S10-A2-V06,"In this session, i’ve moved through the first section, and the rest is still ahead.",In Progress
+IP-S10-A3-V01,"Honestly, i’ve completed the first two exercises, with one more remaining.",In Progress
+IP-S10-A3-V02,"Right, right now, the first few steps are done, but the routine is still incomplete.",In Progress
+IP-S10-A3-V03,"As I said, i’m through a few exercises and still have more to do.",In Progress
+IP-S10-A3-V04,"At the moment, i’ve finished several required steps, while the remaining step is still unfinished.",In Progress
+IP-S10-A3-V05,"So, part of the routine is complete; the later exercise is still left.",In Progress
+IP-S10-A3-V06,"Well, in this session, i’ve moved through the first section, and the rest is still ahead.",In Progress
+IP-S13-A1-V01,I began the exercise and then took a temporary pause.,In Progress
+IP-S13-A1-V02,The exercise was underway before I stopped briefly.,In Progress
+IP-S13-A1-V03,I was doing it and took a quick break.,In Progress
+IP-S13-A1-V04,"I had already started the exercise when I paused, so the task remains unfinished.",In Progress
+IP-S13-A1-V05,I started the workout but paused before completing it.,In Progress
+IP-S13-A1-V06,The routine is still underway despite the short break.,In Progress
+IP-S13-A2-V01,"So, i began the exercise and then took a temporary pause.",In Progress
+IP-S13-A2-V02,"Right now, the exercise was underway before I stopped briefly.",In Progress
+IP-S13-A2-V03,"From where I am, i was doing it and took a quick break.",In Progress
+IP-S13-A2-V04,"Honestly, i had already started the exercise when I paused, so the task remains unfinished.",In Progress
+IP-S13-A2-V05,"Look, i started the workout but paused before completing it.",In Progress
+IP-S13-A2-V06,"In this session, the routine is still underway despite the short break.",In Progress
+IP-S13-A3-V01,"Listen, i began the exercise and then took a temporary pause.",In Progress
+IP-S13-A3-V02,"To be honest, right now, the exercise was underway before I stopped briefly.",In Progress
+IP-S13-A3-V03,"Right, i was doing it and took a quick break.",In Progress
+IP-S13-A3-V04,"At the moment, i had already started the exercise when I paused, so the task remains unfinished.",In Progress
+IP-S13-A3-V05,"Right, i started the workout but paused before completing it.",In Progress
+IP-S13-A3-V06,"To be honest, in this session, the routine is still underway despite the short break.",In Progress
+`NS-S01-A-V01`,I still haven't started the exercise yet.,Not Started
+`NS-S01-A-V03`,"Honestly, i haven’t started the exercise yet.",Not Started
+`NS-S01-A-V04`,I haven’t started the exercise yet.,Not Started
+`NS-S01-A-V07`,"As of now, i haven’t started the exercise yet.",Not Started
+`NS-S01-A-V08`,"Okay, i haven’t started the exercise yet.",Not Started
+`NS-S01-A-V10`,"I haven’t started the exercise yet, at least not yet.",Not Started
+`NS-S01-B-V01`,I still haven’t begun the workout.,Not Started
+`NS-S01-B-V03`,"Yeah, i still haven’t begun the exercise.",Not Started
+`NS-S01-B-V04`,I still haven’t begun the exercise — I haven't started it.,Not Started
+`NS-S01-B-V07`,"As of now, i still haven’t begun the exercise.",Not Started
+`NS-S01-B-V08`,"Basically, yeah, i still haven’t begun the exercise.",Not Started
+`NS-S01-B-V10`,"I still haven’t begun the exercise, at least not yet.",Not Started
+`NS-S01-C-V01`,The exercise hasn’t been started on my side so far.,Not Started
+`NS-S01-C-V03`,"Yeah, the exercise hasn’t been started on my side yet.",Not Started
+`NS-S01-C-V04`,The exercise hasn’t been started on my side yet.,Not Started
+`NS-S01-C-V07`,"As of now, the exercise hasn’t been started on my side yet.",Not Started
+`NS-S01-C-V08`,"You know, yeah, the exercise hasn’t been started on my side yet.",Not Started
+`NS-S01-C-V10`,"The exercise hasn’t been started on my side yet, at least not yet.",Not Started
+`NS-S07-A-V01`,"If I get enough time, I'm going to do the exercise.",Not Started
+`NS-S07-A-V03`,"Yeah, if I get enough time, I’ll do the exercise.",Not Started
+`NS-S07-A-V04`,"If I get enough time, I’ll do the exercise — I haven't begun the task.",Not Started
+`NS-S07-A-V07`,"Just to clarify, if I get enough time, I’ll do the exercise.",Not Started
+`NS-S07-A-V08`,"I mean, yeah, if I get enough time, I’ll do the exercise.",Not Started
+`NS-S07-A-V10`,"If I get enough time, I’ll do the exercise, is that okay?",Not Started
+`NS-S07-B-V01`,I'm going to exercise if I get a free hour.,Not Started
+`NS-S07-B-V03`,"At the moment, i’ll exercise if I get a free hour.",Not Started
+`NS-S07-B-V04`,I’ll exercise if I get a free hour — I haven't begun the task.,Not Started
+`NS-S07-B-V07`,"Just to clarify, i’ll exercise if I get a free hour.",Not Started
+`NS-S07-B-V08`,"Right, i’ll exercise if I get a free hour.",Not Started
+`NS-S07-B-V10`,"I’ll exercise if I get a free hour, is that okay?",Not Started
+`NS-S07-C-V01`,The exercise will happen if I can get some time later.,Not Started
+`NS-S07-C-V03`,"Honestly, the exercise will happen if I can get some time later.",Not Started
+`NS-S07-C-V04`,The exercise will happen if I can get some time later — I haven't begun the task.,Not Started
+`NS-S07-C-V07`,"Just to clarify, the exercise will happen if I can get some time later.",Not Started
+`NS-S07-C-V08`,"Okay, the exercise will happen if I can get some time later.",Not Started
+`NS-S07-C-V10`,"The exercise will happen if I can get some time later, is that okay?",Not Started
+`NS-S10-A-V01`,I'm currently not going to do the exercise.,Not Started
+`NS-S10-A-V03`,"Honestly, i’m not going to do the exercise.",Not Started
+`NS-S10-A-V04`,I’m not going to do the exercise — I haven't started it.,Not Started
+`NS-S10-A-V07`,My answer is no — i’m not going to do the exercise.,Not Started
+`NS-S10-A-V08`,"Okay, i’m not going to do the exercise.",Not Started
+`NS-S10-A-V10`,"I’m not going to do the exercise, okay?",Not Started
+`NS-S10-B-V01`,"No, I'm currently not doing it.",Not Started
+`NS-S10-B-V03`,"At the moment, no, I’m not doing it.",Not Started
+`NS-S10-B-V04`,"No, I’m not doing it — I haven't started it.",Not Started
+`NS-S10-B-V07`,"My answer is no — no, I’m not doing it.",Not Started
+`NS-S10-B-V08`,"Right, no, I’m not doing it.",Not Started
+`NS-S10-B-V10`,"No, I’m not doing it, okay?",Not Started
+`NS-S10-C-V01`,I'm going to pass on the exercise today.,Not Started
+`NS-S10-C-V03`,"For now, i’ll pass on the exercise today.",Not Started
+`NS-S10-C-V04`,I’ll pass on the exercise today — I haven't started it.,Not Started
+`NS-S10-C-V07`,My answer is no — i’ll pass on the exercise today.,Not Started
+`NS-S10-C-V08`,"Honestly, i’ll pass on the exercise today.",Not Started
+`NS-S10-C-V10`,"I’ll pass on the exercise today, okay?",Not Started
+`NS-S13-A-V01`,I still haven't exercised because I’m too busy.,Not Started
+`NS-S13-A-V03`,"Honestly, i haven’t exercised because I’m too busy.",Not Started
+`NS-S13-A-V04`,I haven’t exercised because I’m too busy — the task hasn't started.,Not Started
+`NS-S13-A-V07`,"As of now, i haven’t exercised because I’m too busy.",Not Started
+`NS-S13-A-V08`,"Okay, i haven’t exercised because I’m too busy.",Not Started
+`NS-S13-A-V10`,"I haven’t exercised because I’m too busy, at least not yet.",Not Started
+`NS-S13-B-V01`,I still haven't had time to do the exercises.,Not Started
+`NS-S13-B-V03`,"At the moment, i haven’t had time to do the exercises.",Not Started
+`NS-S13-B-V04`,I haven’t had time to do the exercises — the task hasn't started.,Not Started
+`NS-S13-B-V07`,"As of now, i haven’t had time to do the exercises.",Not Started
+`NS-S13-B-V08`,"Right, i haven’t had time to do the exercises.",Not Started
+`NS-S13-B-V10`,"I haven’t had time to do the exercises, at least not yet.",Not Started
+`NS-S13-C-V01`,The exercise hasn’t happened; my schedule has been packed.,Not Started
+`NS-S13-C-V03`,"For now, the exercise hasn’t happened; my schedule has been packed.",Not Started
+`NS-S13-C-V04`,The exercise hasn’t happened; my schedule has been packed — the task hasn't started.,Not Started
+`NS-S13-C-V07`,"As of now, the exercise hasn’t happened; my schedule has been packed.",Not Started
+`NS-S13-C-V08`,"Honestly, the exercise hasn’t happened; my schedule has been packed.",Not Started
+`NS-S13-C-V10`,"The exercise hasn’t happened; my schedule has been packed, at least not yet.",Not Started
+BA01-01,I haven't started taking the medication yet.,Not Started
+,"I'm drinking the water now, and I still have some left.",In Progress
+,I finished drinking the water.,Completed
+,"I've done most of the physiotherapy exercises, but I still have one left.",In Progress
+,I just finished the last exercise.,Completed
+,I'm on the last few steps of taking it.,In Progress
+,That's the whole routine done for today.,Completed
+,I haven't started taking the medication yet.,Not Started
+,I finished taking the medication.,Completed
+,"I have everything ready, but I haven't started the exercises.",Not Started
+,I completed the exercises and put everything away.,Completed
+,The bottle is still untouched.,Not Started
+,The whole routine is behind me now.,Completed
+,"I was supposed to take the medication earlier, but I still haven't started taking it.",Not Started
+,I haven't finished the exercises yet because I'm still doing them.,In Progress
+,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started
+,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress
+,"I was getting ready earlier and even laid out the mat, but I still haven't begun the exercises.",Not Started
+,"The routine is taking longer than I expected, and I need to get through it before I can relax; I'm still working through the exercises.",In Progress
+,"I took the medication earlier today, and it's completely finished.",Completed
+,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress
+,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed
+,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed
+,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress
+,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed
+,"I was meant to take the medication earlier, but I haven't started it.",Not Started
+,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed
+,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed
+,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed
+,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started
+,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed
+,I haven't started taking the medication yet.,Not Started
+,"I've started taking the medication, but I'm not finished yet.",In Progress
+,The water is still sitting there; I haven't started drinking it.,Not Started
+,"I'm drinking the water now, and I haven't finished it.",In Progress
+,I haven't done any of the exercises yet.,Not Started
+,I've done the first exercise and still have the others to do.,In Progress
+,"I've got the physiotherapy equipment ready, but I haven't begun.",Not Started
+,"I've started the physiotherapy routine with the equipment, but I'm not done.",In Progress
+,"I'm about to take the first step, but I haven't started yet.",Not Started
+,"I've taken the first step, but there's more of the task left.",In Progress
+,The routine is still untouched.,Not Started
+,I'm halfway through the routine.,In Progress
+,I'm still taking the medication; I haven't finished yet.,In Progress
+,I've finished taking the medication.,Completed
+,"I've done most of the exercises, but I still have one left.",In Progress
+,I've done all the exercises; there isn't one left.,Completed
+,I'm still working through the physiotherapy routine.,In Progress
+,I've completed the physiotherapy routine.,Completed
+,"I'm nearly finished with the water, but there's still some left.",In Progress
+,I've finished the water; there's none left.,Completed
+,I've completed the first few exercises and still have the rest to do.,In Progress
+,I've completed all of the exercises.,Completed
+,I'm halfway through the routine and still have exercises left.,In Progress
+,"The whole routine is done, and I have nothing left to do.",Completed
+,I haven't started taking the medication yet.,Not Started
+,I finished taking the medication.,Completed
+,I haven't touched the water yet.,Not Started
+,I've finished the water.,Completed
+,"The exercise mat is ready, but I haven't done the exercises.",Not Started
+,"The exercises are done, and the mat is put away.",Completed
+,I'll do the physiotherapy routine later; I haven't started it.,Not Started
+,I did the physiotherapy routine already.,Completed
+,The medication is still untouched.,Not Started
+,"The medication has been taken, and there's nothing left to take.",Completed
+,I didn't do the exercises.,Not Started
+,I did all the exercises.,Completed
+,I haven't begun taking the medication yet.,Not Started
+,Taking the medication hasn't started for me yet.,Not Started
+,Not yet—I've still not taken the medication.,Not Started
+,The medication is still untouched; I haven't taken it.,Not Started
+,"As of now, I haven't started the medication.",Not Started
+,"Well, I haven't started taking the medication yet.",Not Started
+,I'm currently taking the medication.,In Progress
+,The medication is being taken right now.,In Progress
+,"Yeah, I'm taking it right now.",In Progress
+,I'm in the middle of taking the medication now.,In Progress
+,You caught me while I'm taking the medication.,In Progress
+,"Actually, I'm taking the medication now.",In Progress
+,"I'm preparing to begin the exercises, but I haven't started them.",Not Started
+,The exercises haven't begun yet; I'm only getting things ready.,Not Started
+,"I'm all set to go, but I haven't actually started the exercises.",Not Started
+,"I've got everything ready, but the exercise itself hasn't started.",Not Started
+,I'm ready to begin the exercises; I just haven't begun them yet.,Not Started
+,"Okay, I'm getting everything ready, but I haven't started the exercises.",Not Started
+,I've begun the first exercise and I'm working through it now.,In Progress
+,"The first exercise is underway, and I haven't finished the routine yet.",In Progress
+,I started with the first one and I'm still working through the exercises.,In Progress
+,"I've actually started the first exercise, and I'm still doing the routine.",In Progress
+,"I'm already working on the first exercise, so the routine is underway.",In Progress
+,"Right, I've started the first exercise and I'm working through it now.",In Progress
+,The bottle is still untouched; I'll have the water once I'm finished here.,Not Started
+,"Once I finish this, I'll take care of the water—the bottle is still full.",Not Started
+,The water's still sitting there; I'll get to it after this.,Not Started
+,"The bottle hasn't been touched, and I'll have it after I finish what I'm doing.",Not Started
+,I'm tied up with this right now; the bottle can wait until I'm done.,Not Started
+,"Well, the bottle is still full; I'll get to it when I'm finished here.",Not Started
+,"I'm partway through the routine, with a few exercises still remaining.",In Progress
+,A few exercises remain because I've already worked through part of the routine.,In Progress
+,I'm partway through the physio routine—there are just a few more exercises to go.,In Progress
+,"I've worked through part of the routine already, and I still have a few exercises left.",In Progress
+,I'm in the middle of the routine; I'll finish the remaining exercises next.,In Progress
+,"Actually, I'm halfway through the routine and still have a few exercises left.",In Progress
+BA02-07,I finished taking the medication.,Completed
+BA02-08,The medication has been taken in full.,Completed
+BA02-09,That's done—I took the whole dose.,Completed
+BA02-10,"I took the medication completely, so there's nothing left to take.",Completed
+BA02-11,I've finished the dose and am done with the medication for now.,Completed
+BA02-12,"Yep, I took it all already.",Completed
+,I haven't started taking the medication yet.,Not Started
+,"I've started taking the medication, but I haven't finished it yet.",In Progress
+,"I've got everything ready, but I haven't started the exercises.",Not Started
+,"I've got everything ready, and I've started the first exercise.",In Progress
+,The bottle is still full; I haven't had any water yet.,Not Started
+,The bottle isn't full anymore; I've started drinking from it.,In Progress
+,I haven't done any of the routine yet.,Not Started
+,I've done the first few exercises and still have some of the routine left.,In Progress
+,I'll take the medication after I finish breakfast.,Not Started
+,"I started taking the medication after breakfast, and I'm still finishing the dose.",In Progress
+,"The exercise mat is out, but I haven't done any of the exercises.",Not Started
+,"The exercise mat is out, and I'm already working through the routine.",In Progress
+,I'm still taking the medication; I haven't finished the dose.,In Progress
+,I've finished taking the medication; the dose is complete.,Completed
+,"I'm taking the medication now, but I'm not done with it yet.",In Progress
+,I took the medication already; I'm done with it.,Completed
+,The medication is still being taken—I haven't finished yet.,In Progress
+,The medication has been taken; I've finished the dose.,Completed
+,I'm partway through taking the medication.,In Progress
+,I've completed taking the medication.,Completed
+,I'm still on the medication dose; there's some left to take.,In Progress
+,There's nothing left to take—I finished the medication.,Completed
+,"Not done yet—I started the medication, but I'm still taking it.",In Progress
+,Done—I started and finished the medication.,Completed
+,"I've finished most of the exercises, but one is still left.",In Progress
+,I've finished all the exercises; none are left.,Completed
+,"Most of the routine is done, but I still have one exercise to go.",In Progress
+,The whole exercise routine is done; I have nothing left.,Completed
+,"I've worked through nearly all of them, but there's still one exercise remaining.",In Progress
+,I've worked through every exercise; there isn't anything remaining.,Completed
+,Just one exercise remains—I haven't finished the set yet.,In Progress
+,The entire set is finished; no exercise remains.,Completed
+,"I'm close to the end, but I still need to do the last exercise.",In Progress
+,I've reached the end and completed the last exercise.,Completed
+,"I've done the first few and most of the rest, but I'm not finished.",In Progress
+,"I've done the full set, so there's nothing more to complete.",Completed
+,I'm still working through the physiotherapy routine.,In Progress
+,I've finished the physiotherapy routine.,Completed
+,The physio routine is still underway.,In Progress
+,The physio routine is complete.,Completed
+,I'm in the middle of my physiotherapy routine.,In Progress
+,I've gone through the entire physiotherapy routine.,Completed
+,I'm still doing the physiotherapy exercises.,In Progress
+,I've finished all the physiotherapy exercises.,Completed
+,I'm continuing with the routine; I haven't reached the end yet.,In Progress
+,I've reached the end of the routine and finished it.,Completed
+,The routine isn't over yet—I'm still working through it.,In Progress
+,The routine is over; I've completed the whole thing.,Completed
+,"I'm almost finished with the water, but there's still some in the bottle.",In Progress
+,I've finished the water; the bottle is empty.,Completed
+,"There's only a little water left, so I'm nearly done.",In Progress
+,There's no water left; I've finished it.,Completed
+,"I've drunk most of it, but I haven't finished the water yet.",In Progress
+,I've drunk all of it; the water is finished.,Completed
+,"I'm on the last bit of the water, and there's still some left.",In Progress
+,That last bit is gone—I finished the water.,Completed
+,"I'm just about done drinking, but I still have some left.",In Progress
+,I'm done drinking; there's nothing left in the bottle.,Completed
+,"Almost all of the water is gone, but I haven't finished it.",In Progress
+,All of the water is gone; I've finished drinking it.,Completed
+,"I've finished the first few exercises, but I still have the rest to do.",In Progress
+,I've finished every exercise in the routine.,Completed
+,"I've done part of the exercise set, but I'm not through the whole thing.",In Progress
+,I've done the entire exercise set.,Completed
+,"The first part is complete, but the remaining exercises still need to be done.",In Progress
+,The first part and the remaining exercises are all complete.,Completed
+,I've worked through some of the exercises; there are still more to do.,In Progress
+,I've worked through all of the exercises; nothing remains.,Completed
+,"I've completed a portion of the routine, but I haven't finished the full set.",In Progress
+,"I've completed the full routine, including every exercise.",Completed
+,"Some of the exercises are done, but the routine as a whole isn't finished.",In Progress
+,"Every exercise is done, so the routine as a whole is finished.",Completed
+,"I'm halfway through the routine, with a few exercises still ahead.",In Progress
+,I've gone through the whole routine; there's nothing left.,Completed
+,"I'm still in the middle of the routine, and some exercises remain.",In Progress
+,I've reached the end of the routine; nothing remains.,Completed
+,"I've made it through part of the routine, but I still have exercises to do.",In Progress
+,I've made it through the entire routine; I have nothing more to do.,Completed
+,"The routine is underway, but I'm not through all the exercises yet.",In Progress
+,The routine is fully behind me; all the exercises are done.,Completed
+,"I'm still working my way through it, with exercises left to complete.",In Progress
+,I've worked my way through the whole thing; there are no exercises left.,Completed
+,I'm not at the end yet—there are still parts of the routine left.,In Progress
+,I'm at the end now; every part of the routine is complete.,Completed
+,I haven't started taking the medication yet.,Not Started
+,I've finished taking the medication.,Completed
+,I still haven't taken the medication.,Not Started
+,I already took the medication.,Completed
+,The medication hasn't been taken yet.,Not Started
+,The medication has been taken in full.,Completed
+,I haven't begun the medication dose.,Not Started
+,I've completed the medication dose.,Completed
+,"No, I haven't taken it yet.",Not Started
+,"Yes, I've taken it already.",Completed
+,I haven't started the dose at all.,Not Started
+,I took the whole dose and finished it.,Completed
+,I haven't touched the water yet.,Not Started
+,I've finished the water.,Completed
+,The water is still untouched.,Not Started
+,The water is all gone; I finished it.,Completed
+,I haven't had any of the water yet.,Not Started
+,I've had all of the water.,Completed
+,The bottle is still full; I haven't drunk from it.,Not Started
+,The bottle is empty; I've finished drinking it.,Completed
+,I haven't taken a sip from the bottle.,Not Started
+,I've finished the water in the bottle.,Completed
+,The water is exactly as it was; I haven't used it.,Not Started
+,The water is gone now; I used it all.,Completed
+,"The mat is ready, but I haven't started the exercises.",Not Started
+,"The exercises are finished, and I've put the mat away.",Completed
+,"I've set everything up, but I haven't done the exercise routine.",Not Started
+,I did the full routine and packed the equipment away.,Completed
+,"Everything is prepared, but none of the exercises have been done.",Not Started
+,"Everything is finished, and the equipment is back in place.",Completed
+,The equipment is laid out; I haven't begun the exercises.,Not Started
+,I completed the exercises and cleared the equipment.,Completed
+,"I'm all set to exercise, but I haven't actually started.",Not Started
+,I finished the exercise routine and put everything away.,Completed
+,"The exercise setup is ready, but the routine hasn't begun.",Not Started
+,"The routine is complete, and the exercise setup has been put away.",Completed
+,I'll do the physiotherapy routine later; I haven't started it.,Not Started
+,I did the physiotherapy routine already.,Completed
+,I haven't started the physio routine; I'll do it later.,Not Started
+,I already went through the physio routine.,Completed
+,The routine hasn't begun yet; I'll get to it later.,Not Started
+,The routine was already completed.,Completed
+,I still need to start the physiotherapy routine.,Not Started
+,I've already finished the physiotherapy routine.,Completed
+,"I haven't done the routine yet, but I plan to do it later.",Not Started
+,I did the routine earlier; it's already done.,Completed
+,I'm going to do the physio later—I haven't begun it.,Not Started
+,I went through the whole physio routine earlier.,Completed
+,The medication is still untouched.,Not Started
+,"The medication has been taken, and there's nothing left to take.",Completed
+,The medication is still sitting there; none of it has been taken.,Not Started
+,The medication is gone; I've taken the full dose.,Completed
+,The dose is still there exactly as it was.,Not Started
+,The dose has been taken in full; nothing remains.,Completed
+,Nothing has been taken from the medication yet.,Not Started
+,Everything that needed to be taken is already done.,Completed
+,The medication hasn't been used at all.,Not Started
+,The medication has been fully taken; there's no dose left.,Completed
+,The dose is still untouched.,Not Started
+,"The dose is finished, with nothing remaining to take.",Completed
+,I didn't do the exercises.,Not Started
+,I did all the exercises.,Completed
+,I didn't do any of the exercises.,Not Started
+,I completed every exercise.,Completed
+,None of the exercises got done.,Not Started
+,The entire exercise set got done.,Completed
+,I left the exercises undone.,Not Started
+,I finished the whole exercise set.,Completed
+,I didn't carry out the exercise routine.,Not Started
+,I carried out the complete exercise routine.,Completed
+,I didn't do the routine at all.,Not Started
+,I went through the full routine.,Completed
+,"I was meant to take the medication earlier, but I still haven't started it.",Not Started
+,"I should have taken the medication by now, but I haven't begun the dose.",Not Started
+,It was supposed to be done earlier; I haven't actually taken the medication yet.,Not Started
+,"I was due to take it earlier, but the medication is still untouched.",Not Started
+,"I expected to have taken the medication already, but I haven't started taking it.",Not Started
+,"The dose was supposed to happen earlier, but I still haven't taken it.",Not Started
+,I haven't finished the exercises yet because I'm still doing them.,In Progress
+,"The exercises aren't finished, but I'm working through them now.",In Progress
+,I'm not done with the exercises yet; I've already started them.,In Progress
+,"I still have exercises left, and I'm doing them now.",In Progress
+,The routine isn't complete yet because I'm still going through it.,In Progress
+,"I haven't completed the set, but I'm partway through the exercises.",In Progress
+,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started
+,"Everything is ready for physio, though I haven't begun the routine.",Not Started
+,"I'm set up for the physiotherapy exercises, but I haven't actually started.",Not Started
+,I've got everything ready for the routine; none of the exercises have begun.,Not Started
+,"I'm all set to start physiotherapy, but I haven't done any of it yet.",Not Started
+,"The routine is ready to go, but I haven't started working through it.",Not Started
+,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress
+,"I was about to say I hadn't started, but I have; I'm already drinking it.",In Progress
+,"No, that's not right—I have started drinking the water, and there's still some left.",In Progress
+,"I thought I hadn't started, but I have; I'm partway through the bottle now.",In Progress
+,"I haven't started it—well, actually, I did; I'm still drinking the water.",In Progress
+,"At first I thought I hadn't begun, but I have; I'm not finished with the bottle yet.",In Progress
+,"I was getting ready earlier, laid out the mat, and planned to start, but I still haven't begun the exercises.",Not Started
+,"I cleared some space, put the equipment out, and was ready earlier, but I haven't done the exercises.",Not Started
+,"The mat is out, my shoes are on, and I was preparing to start, but the exercises haven't begun.",Not Started
+,"I set everything up earlier and even got into position, but I haven't actually started the routine.",Not Started
+,"Everything is prepared, and I was going to start earlier, but I still haven't done any of the exercises.",Not Started
+,"I got the equipment ready and was about to begin, but I haven't started the exercise routine.",Not Started
+,"The routine is taking longer than I expected, and I need to finish it before I can relax; I'm still working through the exercises.",In Progress
+,"This is taking up more time than I planned, and I still have things to do afterward; I'm continuing the physiotherapy routine now.",In Progress
+,"I thought I'd be finished by now, and I need to get on with the rest of my day, but I'm still doing the exercises.",In Progress
+,"It's been a longer routine than I expected, and I have somewhere to be later; I'm still going through the physiotherapy exercises.",In Progress
+,"I was hoping to be done already because I have other things to handle, but I'm still working through the routine.",In Progress
+,"The routine is taking longer than I wanted, and I need to move on afterward; I'm still in the middle of the exercises.",In Progress
+,"I took the medication earlier today, and it's completely finished.",Completed
+,I finished the medication this morning; it's all done now.,Completed
+,"The dose was taken earlier, and I've completed it.",Completed
+,"I already took the medication a while ago, and the dose is finished.",Completed
+,"I took the medication before lunch, and there's nothing left to take.",Completed
+,"The medication was taken earlier, and I've finished the full dose.",Completed
+,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress
+,"I'm nearly done with the routine, but I'm still doing the final exercise.",In Progress
+,"I've reached the last exercise, and I haven't finished the routine yet.",In Progress
+,"There's only one exercise left, so I'm close to done, but I'm still working on it.",In Progress
+,"I'm at the end of the exercise routine, but I still have the final exercise to finish.",In Progress
+,"Most of the routine is complete, but I'm still doing the last exercise.",In Progress
+,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed
+,"My legs are still sore from physio, but I completed the entire routine.",Completed
+,"I still feel the effects of the physiotherapy, although the routine is already finished.",Completed
+,"I'm still feeling tired after physio, but I completed all the exercises.",Completed
+,"My body is still worn out from the routine, but I've finished the full session.",Completed
+,"I still feel tired from doing the exercises, but the physiotherapy routine is done.",Completed
+,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed
+,"I thought I still had some water left, but that's a different bottle; I've finished the task bottle.",Completed
+,"There's still water here—actually, that's for later; I already finished the water for this task.",Completed
+,"I still have a bottle with water in it—wait, that's not the one I was supposed to drink; I finished mine.",Completed
+,"I was about to say I had some left, but I checked the bottle and realized I had already finished the task amount.",Completed
+,"I still have water beside me—no, that's separate; I finished the water I needed for this task.",Completed
+,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress
+,"I've finished nearly the whole routine, and I started earlier, but there's still one exercise left.",In Progress
+,"Most of it is done and I'm close to the end, but I'm still working through the final exercise.",In Progress
+,"I got through almost everything earlier, but one exercise remains, so the routine isn't finished yet.",In Progress
+,"I'm nearly done after completing most of the exercises, but I still have the last one to do.",In Progress
+,"I completed almost the entire set earlier, but there's one exercise I haven't finished.",In Progress
+,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed
+,"I'm exhausted and need to sit down for a while, but I completed the full physiotherapy routine.",Completed
+,I need to rest after that session because my legs are tired; the whole routine is already done.,Completed
+,"My legs are worn out, and I don't want to do anything else right now; I finished all the physiotherapy exercises.",Completed
+,"I'm feeling the strain and need some recovery time, but I've completed the entire routine.",Completed
+,I need to take a break now because I'm tired; the physiotherapy session itself is finished.,Completed
+,"I was meant to take the medication earlier, but I haven't started it.",Not Started
+,"I should have taken the medication by now, but I haven't begun.",Not Started
+,"The medication was due earlier, but I still haven't taken it.",Not Started
+,"I was supposed to take the dose earlier, but I haven't started the medication.",Not Started
+,"I expected to have taken it already, but the dose hasn't begun.",Not Started
+,"The medication was meant to be taken earlier, but I haven't actually taken it yet.",Not Started
+,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed
+,"The final exercise wasn't done on its own, but I completed the complete routine.",Completed
+,I didn't finish that last movement separately; the full exercise set is already complete.,Completed
+,"That final exercise wasn't completed as a separate step, but I finished the entire routine.",Completed
+,"I didn't do the last exercise by itself, but the full exercise routine was completed.",Completed
+,"The last movement wasn't finished separately, but I completed the whole exercise set.",Completed
+,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed
+,"I'm ready to do physio again, but today's routine is already finished.",Completed
+,"I could start another physiotherapy session now, although I already finished today's routine.",Completed
+,"I'm prepared for the next physio session, but I completed the one for today.",Completed
+,I'm ready for another round of physiotherapy; today's exercises are already done.,Completed
+,"I can do another session whenever needed, but I already completed today's physiotherapy routine.",Completed
+,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed
+,"I haven't drunk that water—actually, that's the other bottle; I finished the one for this task.",Completed
+,"I thought I hadn't had it yet, but I meant the other bottle; I already finished this task's water.",Completed
+,"I still have water to drink—no, that's for later; I already finished the water assigned to this task.",Completed
+,I was thinking of the second bottle; the one for this task is already finished.,Completed
+,"No, I haven't had the other bottle yet; I already finished the water for this task.",Completed
+,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started
+,"I meant to start earlier, laid out the equipment, and planned the routine, but I haven't started the exercises.",Not Started
+,"I was going to exercise earlier, set everything up, and decided what to do first, but I haven't done the routine.",Not Started
+,"The mat is ready, I planned the first set, and I expected to begin earlier, but the exercises haven't started.",Not Started
+,"I prepared the space and intended to begin earlier, but I haven't actually done any exercises.",Not Started
+,"I got everything ready and planned the routine for earlier, but I still haven't started exercising.",Not Started
+,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed
+,"I'm ready to take it easy now, and I'm thinking about tomorrow's session, but today's physiotherapy routine is finished.",Completed
+,"That routine wore me out, and I need to think about the next session; today's physiotherapy is already complete.",Completed
+,"I need a break after all those exercises, and tomorrow's routine is on my mind; today's session is fully done.",Completed
+,"I'm tired and already planning what I'll do tomorrow, but I've finished today's entire physiotherapy routine.",Completed
+,I need to recover now and prepare for the next session; the physiotherapy routine for today is completely finished.,Completed

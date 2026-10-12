@@ -1,0 +1,1791 @@
+serial_id,utterance_id,utterance,response_category
+001,N-03-S02-V06,"Look, can you explain why that reasoning should lead to this recommendation?",negative
+002,MP08-03-V03-P,"Sure, I’ll put a bottle on my desk.",positive
+003,HN07-02-V01,"I really dislike clutter around my workspace, but this idea is excellent and I’m filling the bottle right now.",very_positive
+004,BA09-A03-V03,"Okay, I’ll keep one there and see how it works.",positive
+005,HN02-01-V02,"Maybe it’s a good idea, I guess, but I’ll still put the pillbox beside my toothbrush tonight.",positive
+006,BA09-A01-V06,"Sure, I can do that. I’ll keep it beside my breakfast items.",positive
+007,MP05-05-VP,That’s a smart idea. I’ll lay everything out tonight so I can get started easily tomorrow.,very_positive
+008,P-01-S01-A1,"Yes, I’ll do that.",positive
+009,BA02-A02-V04,I’ll decide later whether to do the exercises at that time.,indifferent
+010,BA10-A01,I haven’t decided yet. I’ll see how the afternoon goes.,indifferent
+011,VN-03-S02-V04,I am actively resisting the continued persuasion and will not cooperate with the intervention.,very_negative
+012,HN06-02-V03,"Keeping drinks away from my laptop is my usual habit, but I’m very positive about this plan and I’m already putting the bottle on my desk.",very_positive
+013,N-01-S01-A1,I’m not really comfortable doing that yet.,negative
+014,HN05-02-V04,"I’m lacing up my shoes now because I’m genuinely excited to do it. It’s one possibility among many, sure, but I’m going ahead.",very_positive
+015,P-02-S02-V04,I’m willing to make the recommended practice part of my regular routine.,positive
+016,MP05-02-V04-VP,I’ll start the walk after lunch today,very_positive
+017,BA07-A04-V05,I’m not looking for further guidance on this. Please leave my physiotherapy routine alone.,very_negative
+018,MP07-06-VN,I’m not setting another reminder. Stop trying to manage my medication for me.,very_negative
+019,HN06-01-V02,"I normally try to keep things uncluttered, but I really like this idea and I’m putting the pillbox beside the mirror now.",very_positive
+020,I-01-S01-V04,"I understand the point you're making, though I haven't decided what to do.",indifferent
+021,MP05-01-V01-VP,I'm excited to place my pills by the sink.,very_positive
+022,HN09-02-V04,"I’ll keep the water bottle on my desk today. I really dislike desk clutter, but I’m fine making that exception.",positive
+023,P-01-S03-A1,I’ll follow that suggestion.,positive
+024,I-02-S03-V02,I want to consider it before I make a decision.,indifferent
+025,HN03-02-V02,It’s not that I dislike walking; I’m just trying to decide whether after lunch works for me today.,indifferent
+026,I-03-S02-V03,Not right now; I need to leave it for later.,indifferent
+027,MP05-04-V02-I,Dividing the physiotherapy exercises into two sessions is something I could consider.,indifferent
+028,P-03-S04-V01,"I can follow that recommendation, even though another option would suit me better.",positive
+029,VN-01-S03-A3,I already told you no. I’m not doing it.,very_negative
+030,HN08-04-V01,"Sure, I can stick to that—wait, actually, taking medication in the evening is just too exhausting right now.",negative
+031,BA06-A02,I’d rather not do that in the morning. I don’t want to change my routine that way.,negative
+032,N-02-S04-V01,"I don’t want to take that particular approach, but I’m open to another one.",negative
+033,BA06-A04-V03,"I get the idea, but I’d rather not leave my medication out on the counter.",negative
+034,VP-03-S02-A1,"I’ll do that, and I can also start tracking my progress.",very_positive
+035,MP09-02-V05-P,I’ll walk after lunch.,positive
+036,BA03-A04-V01,"I have the time, but I’d rather do the physiotherapy exercises at another point than before dinner.",negative
+037,MP08-03-V06-N,"Okay, but I’d prefer not to keep one on my desk.",negative
+038,HN03-03-V04,"I haven’t ruled out doing the physiotherapy in the hallway. It is somewhat narrow, though, so I’ll decide later.",indifferent
+039,MP09-04-VN,"I’m not splitting them up, and I’m done discussing these suggestions.",very_negative
+040,HN08-04-V03,"I initially agreed to follow that schedule, but I’ve changed my mind because evenings don’t work for me. I’d rather take the medication on my own schedule.",negative
+041,MP08-03-V06-P,"Okay, I’ll put a water bottle on my desk.",positive
+042,MP07-01-V01-VP,I'll gladly place my pills by the sink.,very_positive
+043,MP06-03-V03-N,I’d rather not have a bottle on my desk.,negative
+044,BA09-A01,"Okay, I can do that after dinner.",positive
+045,N-03-S02-A3,"I see your point, but I don’t agree with the reasoning.",negative
+046,MP01-04-V06-VP,"Yes, that sounds really helpful. I’ll put a water bottle on my desk now.",very_positive
+047,VN-02-S02-A3,"I really don’t agree with this approach, and I’m not following it.",very_negative
+048,MP07-05-VN,I’m definitely not doing that. Leave my routine alone.,very_negative
+049,I-04-S03-A3,"Right, that’s what you’re suggesting.",indifferent
+050,BA04-A02-V01,"No. I don’t want you monitoring my drinking, and I’m done talking about hydration.",very_negative
+051,HN09-01-V05,"Keeping pills by the bed isn’t my preference, but that doesn’t stop me from following through—I’ll put the pillbox beside the clock.",positive
+052,VN-03-S04-A2,I do not want this conversation to continue in this direction.,very_negative
+053,HN07-01-V05,"My initial expectation was that I wouldn’t like it, but that changed completely—I think it’s fantastic and I’m already setting up the dispenser.",very_positive
+054,HN03-03-V02,"The hallway is kind of tight, although I’m not ruling out doing the exercises there. I’ll figure it out later.",indifferent
+055,VP-02-S01-V06,That was really helpful; what else can I do with this?,very_positive
+056,MP08-03-V04-N,I’d rather keep the bottle somewhere else because I don’t want it taking up space on my desk.,negative
+057,P-03-S04-A1,"I’ll follow the recommendation, although I’d prefer another option.",positive
+058,P-02-S01-A3,"Sure, I’ll take care of it.",positive
+059,BA01-A01-V03,"Yes, definitely—I’ll get started tonight. I really want to keep this on track.",very_positive
+060,VP-01-S03-V04,"Since it fits what I need, I’m keen to get started immediately.",very_positive
+061,MP06-02-V03-N,I’d rather not use my lunch break for a walk today.,negative
+062,HN10-04-V04,"Stop meddling with my medication and leave me alone. I said I might consider taking it later, but actually, absolutely not.",very_negative
+063,P-04-S02-V03,"Yeah, I’ll put it on my calendar for tomorrow and make sure it gets done.",positive
+064,N-04-S01-V06,"Look, could we adjust the plan for my current situation?",negative
+065,VN-02-S04-V05,Nothing you’ve explained has changed my opposition to this.,very_negative
+066,MP08-04-V02-N,Dividing the exercises into two sessions doesn’t fit my routine today.,negative
+067,MP03-02-V03-N,I don’t really want to walk during lunch.,negative
+068,VP-02-S02-V05,"Right, that explanation really helped — thanks.",very_positive
+069,HN08-03-V05,"The space is not perfect, but that’s only a practical inconvenience—I can work with it and do the exercises there.",positive
+070,HN01-01-V05,"If ‘okay’ is all you hear, you’re missing the main point—I’m actually excited enough to get the bottle ready and start right away.",very_positive
+071,P-03-S04-V04,I’m willing to follow it despite having a preference for a different approach.,positive
+072,BA07-A02-V06,"No, seriously, stop bringing up walks. I don’t want to hear about them anymore.",very_negative
+073,MP01-02-V06-P,"Yes, I’ll take the walk after dinner.",positive
+074,MP01-03-P,"Alright, I’ll split the exercises into two sessions.",positive
+075,HN07-04-V03,"I initially said I would follow the plan, but I’m withdrawing that completely. Stop directing me about my medication; I don’t want these suggestions anymore.",very_negative
+076,MP09-02-V02-VN,I strongly object to using my lunch break for a walk. Stop pushing the idea.,very_negative
+077,VP-04-S03-V01,I’m willing to cooperate without needing to be pushed.,very_positive
+078,N-01-S01-V01,I’m still hesitant about doing that.,negative
+079,I-02-S01-V05,I'm undecided about whether to do it.,indifferent
+080,N-01-S02-A1,I don’t really want to start that right now.,negative
+081,HN09-03-V01,"I’m not planning to turn this into a major routine, but yes, I’ll take the fifteen-minute walk after dinner.",positive
+082,P-03-S02-V01,"I’ll follow through, though I’d rather change the timing a little.",positive
+083,N-03-S03-V02,"Given what my situation looks like, I have serious doubts that method would work.",negative
+084,BA08-A01-V03,"Sure, I’ll keep a bottle on my desk and take sips through the morning.",positive
+085,I-01-S03-A2,I’ve got the information.,indifferent
+086,BA04-A02-V05,I don’t want this kind of intervention from you. Please drop the hydration topic.,very_negative
+087,N-02-S04-A1,"I don’t want to do that, but I’m happy to discuss another option.",negative
+088,P-04-S02-V01,I commit to carrying out that action first thing tomorrow morning.,positive
+089,P-01-S03-A2,That seems like a practical approach.,positive
+090,I-03-S03-A2,I’ll have to see how things go.,indifferent
+091,HN07-02-V04,"I’m filling the bottle right now because I really like this idea. I absolutely dislike workspace clutter, but I’m happy to make this exception.",very_positive
+092,MP06-03-V01-N,I prefer not to keep a flask at my workstation.,negative
+093,BA07-A02,No. I don’t want these reminders at all. Stop bringing this up with me.,very_negative
+094,MP10-03-V05-VN,No. Stop bringing it up.,very_negative
+095,BA09-A01-V04,I’ll keep my medication beside my breakfast items.,positive
+096,BA05-A01-V01,That’s just what I need. I’m putting my medication beside my breakfast bowl right now so I can start tomorrow.,very_positive
+097,MP04-06-VN,I’m not setting another reminder. Stop telling me how to manage it.,very_negative
+098,HN08-02,"I wouldn’t normally choose that, but I can take the walk after lunch.",positive
+099,VN-03-S01-V04,I am rejecting the intervention while explicitly demanding that the agent stop pressuring me.,very_negative
+100,MP05-04-V06-I,"Okay, two shorter sessions are one option.",indifferent
+101,VN-02-S03-V05,The reasoning behind this does not give me any basis to accept the intervention.,very_negative
+102,MP02-04-V03-P,"Sure, I’ll do the physiotherapy exercises in two sessions today.",positive
+103,MP03-04-V02-N,I’m not sure I want to divide the physiotherapy exercises into two sessions.,negative
+104,HN01-02,"I’ll do it, although I wouldn’t call it a big deal. I’m really looking forward to getting started.",very_positive
+105,MP08-01-V01-N,I prefer not to leave my pills out.,negative
+106,BA05-A01-V04,I’ll set my medication beside my breakfast items now and make that part of my morning routine.,very_positive
+107,I-02-S02-A3,"Hmm, I’m not sure about that yet.",indifferent
+108,HN09-03-V05,"Making it a major routine isn’t necessary for me; for today, though, I’ll take the fifteen-minute walk after dinner.",positive
+109,MP08-01-V03-N,I would prefer storing my medication in a different location.,negative
+110,MP01-03-VP,That could make a big difference. I’ll try the two-session approach today and see how much easier it feels.,very_positive
+111,N-01-S03-V04,"I was more willing before, but the repeated reminders are reducing my willingness.",negative
+112,MP09-04-V04-VN,"I’m not changing how I do my physiotherapy exercises, and I’m done with you pushing this approach.",very_negative
+113,P-01-S01-V03,"Yeah, sounds like a plan, I’ll go with that.",positive
+114,BA07-A04,I don’t want suggestions like this anymore. Please stop telling me how I should exercise.,very_negative
+115,MP08-01-V05-N,I’d rather keep it somewhere else.,negative
+116,I-02-S01-V02,I haven't made up my mind about doing it.,indifferent
+117,MP04-01-V04-N,I’d prefer to keep my medication somewhere else because that location works better for me.,negative
+118,BA09-A01-V05,That’s workable for me. I’ll keep the medication there.,positive
+119,MP03-03-V05-I,I could keep one there.,indifferent
+120,MP03-01-V03-N,I don’t really want to keep my medication by my toothbrush.,negative
+121,MP01-01-V02-VP,I’ll keep my medication beside my breakfast items tonight,very_positive
+122,MP02-02-V03-I,A post-lunch walk could be feasible.,indifferent
+123,MP01-01-P,"Okay, I’ll keep it beside my breakfast items.",positive
+124,BA05-A02-V05,"It’s worth keeping in mind, but I haven’t decided to change where I keep it.",indifferent
+125,HN05-02-V05,Calling it just one possibility understates my response—I’m excited about it and I’m already getting ready to exercise.,very_positive
+126,MP07-04-VN,I refuse to split them into two sessions. Stop trying to micromanage my exercises.,very_negative
+127,MP02-01-V04-I,"Putting my medication beside my toothbrush could be useful, but I haven’t decided whether I’ll do that.",indifferent
+128,VN-04-S03-V03,"No thanks, I’m completely done accepting help on this.",very_negative
+129,BA03-A04-V02,"Before dinner isn’t how I want to do the exercises, even though I have enough time.",negative
+130,P-02-S02-V03,"Okay, I’ll stick with that routine.",positive
+131,HN01-02-V03,"I’ll do it, but calling it a routine chore misses how I feel about it—I’m genuinely looking forward to getting outside and exercising today.",very_positive
+132,MP02-02-I,After lunch would be one possible time.,indifferent
+133,HN04-03-V01,Stop telling me what to do with my mat; I’m just not in the mood for physiotherapy right now. Let’s talk later.,negative
+134,BA05-A03-V03,"Yeah, that could really help. I’ll keep a fresh bottle on my desk today.",very_positive
+135,VP-03-S01-V02,Sounds good — is there anything else you'd suggest?,very_positive
+136,MP07-04-V03-VP,I'll do the exercises in two parts today.,very_positive
+137,BA01-A02-V03,"Okay, I’ll take it tonight.",positive
+138,P-04-S01-V02,"That recommendation is workable for me, and I’ll get to it this evening.",positive
+139,N-03-S03-V03,"Honestly, I really doubt that way of doing things is gonna work for me.",negative
+140,MP06-03-V04-VP,I’ll put a water bottle on my desk today,very_positive
+141,HN04-04,"I’m done with that idea—sorry, that sounds stronger than I mean it. I’m just not comfortable splitting them today.",negative
+142,N-04-S03-V05,That version doesn’t work for me.,negative
+143,VP-03-S03-A1,"Yes, please tell me more. I want to understand how to do it properly.",very_positive
+144,VN-02-S02-V03,"I totally disagree with this method, and there’s no way I’m following it.",very_negative
+145,MP10-04-V03-VN,"No, I’m not splitting them. Stop bringing this up.",very_negative
+146,HN07-04-V02,"I was going to organize it that way, but no, I’m done with that. Stop telling me how to manage my medication—I’m fed up with these suggestions.",very_negative
+147,P-01-S01-V04,"Yes, I’ll follow the recommendation as you suggested.",positive
+148,VP-04-S03-V03,"I’m choosing to follow the recommendation freely, without needing repeated encouragement.",very_positive
+149,HN10-02-V05,"The repeated advice is getting tiring, but my position on the bottle itself is still open—I’ll decide later whether I want it on the desk.",indifferent
+150,VP-01-S02-A3,"Yeah, I’d definitely go with that.",very_positive
+151,N-02-S01-V03,"Yeah, I think I’ll pass on that one.",negative
+152,N-02-S02-V06,Could I use a different approach instead?,negative
+153,N-01-S03-V01,The repeated reminders are making me less willing to do it.,negative
+154,VN-04-S03-A1,I do not want any further assistance from you.,very_negative
+155,BA06-A03-V03,I like that. I’ll put it by my breakfast things tonight so I’m set for tomorrow.,very_positive
+156,VN-02-S02-V05,That approach is completely unacceptable to me.,very_negative
+157,BA07-A04-V01,I don’t want any more physiotherapy suggestions from you. Please stop telling me how to arrange my exercises.,very_negative
+158,I-01-S01-V01,"Alright, I understand what you mean.",indifferent
+159,VN-02-S03-V03,I don’t buy into the logic of this for a single second.,very_negative
+160,HN07-01-V03,"I was surprised by how much I liked the idea, and I’m acting on that reaction now by putting the medication dispenser beside the coffee maker.",very_positive
+161,HN07-02-V06,"Yeah, I hate clutter around my workspace, but honestly, this is a game changer. I’m filling the bottle right now.",very_positive
+162,BA07-A04-V06,"No, I really don’t want more advice about my exercises. Please stop.",very_negative
+163,HN10-04,"I’m done—no, that’s too strong. I just haven’t decided whether two sessions would suit me.",indifferent
+164,MP10-02-V06-I,"Okay, after lunch is one possibility.",indifferent
+165,VP-03-S03-V02,"Yeah, I’d like to keep going with it.",very_positive
+166,VP-02-S04-A1,"Thank you. I really appreciate the help, and I’ll give it a try.",very_positive
+167,MP06-01-VP,That’s a great idea. I’ll put it there tonight and start using that setup right away.,very_positive
+168,N-03-S04-V02,Choosing an alternate path would fit my personal preferences much better.,negative
+169,MP02-03-V05-I,I could keep a water bottle on my desk.,indifferent
+170,MP08-02-V06-N,"Okay, but I’d rather skip the walk during lunch.",negative
+171,HN03-04,"I don’t think so—actually, I mean I haven’t decided whether two sessions would work.",indifferent
+172,HN09-04-V02,"Yeah, that sounds convenient—wait, no. I’m done with these suggestions about organizing my medication, so stop telling me how to manage it.",very_negative
+173,I-02-S01-V06,"Hmm, I'm not sure I'll do it.",indifferent
+174,BA03-A02,Not today. I don’t want to do them before lunch.,negative
+175,BA06-A03-V04,I’ll set my medication beside my breakfast items tonight and use that setup from tomorrow.,very_positive
+176,HN01-01,"Okay is enough to describe it, but I’m genuinely excited to set this up tonight and try it.",very_positive
+177,P-03-S04-V02,"I’ll go with the recommendation, but I’d be more comfortable with another option.",positive
+178,VN-01-S01-V05,That recommendation is a definite no for me.,very_negative
+179,MP01-04-V03-VP,That could really help me. I’ll put a water bottle on my desk now.,very_positive
+180,HN05-02,"It’s just an option, but I’m genuinely excited to give it a try tomorrow.",very_positive
+181,HN07-01-V02,"I honestly didn’t think I’d like the idea, but I really love it and I’m putting the medication dispenser beside the coffee maker now.",very_positive
+182,HN03-04-V02,"I was thinking a bottle on the desk could work, but actually I’d rather keep the desk clear and get my water from the kitchen.",negative
+183,MP03-04-V06-I,"Alright, two shorter sessions are one option.",indifferent
+184,N-04-S01-A3,I don’t think I can manage that right now.,negative
+185,MP09-03-V01-P,I'll place a flask on my desk.,positive
+186,BA05-A04-V01,That might be useful. I’ll keep the idea in mind and decide whether to try it.,indifferent
+187,I-03-S02-V02,I’ll decide at a later point.,indifferent
+188,P-03-S03-A1,I’m willing to try it if we keep it manageable.,positive
+189,MP03-02-V02-N,I’d prefer not to take the walk during my lunch break.,negative
+190,HN09-04-V01,"Alright, that seems handy—wait, no it doesn't. Stop telling me how to organize my pills.",very_negative
+191,HN01-01-V01,"Okay is enough to describe the idea, but I’m genuinely excited to put this bottle beside me and start drinking regularly.",very_positive
+192,BA06-A03-V06,"Yeah, I like that plan. I’ll put the medication there tonight.",very_positive
+193,I-02-S01-V01,I'm uncertain about whether I'll follow through.,indifferent
+194,MP07-04-VP,That sounds really helpful. I’ll try the two-session approach today and see how much better it feels.,very_positive
+195,MP05-06-I,An evening alert is something to consider; I’ll think about it.,indifferent
+196,P-03-S02-A2,The approach works better for me with a small change.,positive
+197,MP01-01-V06-VP,I’ll put my medication beside my breakfast items tonight.,very_positive
+198,MP03-03-V01-I,Keeping a flask on my desk might happen.,indifferent
+199,MP06-02-V01-N,I decline to walk during my midday break.,negative
+200,VP-03-S03-A2,I’d like to know a little more before I get started.,very_positive
+201,BA09-A04,I don’t want to hear suggestions about my medication anymore. Stop bringing it up.,very_negative
+202,MP08-04-V05-P,I’ll split them into two sessions.,positive
+203,VN-03-S02-V01,Quit attempting to convince me — I am not doing it.,very_negative
+204,MP06-02-V03-VP,Sounds great. I’ll take the walk after lunch tomorrow.,very_positive
+205,MP08-02-V02-N,"I have other plans during lunch, so I’d prefer not to take the walk then.",negative
+206,MP02-02-V04-P,I’ll take the walk after lunch today so I can get it done then.,positive
+207,MP10-04-V05-I,I could do two sessions.,indifferent
+208,BA08-A02-V04,I’ll get a cup when I need water instead of keeping a bottle on my desk.,negative
+209,VP-01-S01-V04,"Given what you’ve explained, I’m genuinely keen to follow that recommendation.",very_positive
+210,MP06-01-V01-N,I refuse to set my pills out tonight.,negative
+211,BA10-A01-V05,I’m leaving that open for now. I want to see how my day develops before deciding.,indifferent
+212,HN09-02-V05,"Desk clutter isn’t something I normally like, but I can live with it for this—I’ll keep the water bottle there today.",positive
+213,HN08-02-V03,"I’m not particularly eager to do it, but I am willing to follow through and keep a water bottle on my desk today.",positive
+214,P-03-S03-V02,I can work with that provided it remains practical for me.,positive
+215,BA07-A02-V05,I don’t want this kind of prompting from you anymore. Please leave the walking topic alone.,very_negative
+216,VP-02-S04-A3,"Thanks, I appreciate it. I’ll definitely try this.",very_positive
+217,VN-01-S02-A2,That approach is not acceptable to me.,very_negative
+218,HN05-01-V02,"Some people might hesitate, but I’m genuinely excited about this and I’m setting the medication beside my breakfast bowl now.",very_positive
+219,BA05-A04-V02,Whether I try keeping a bottle there is something I’ll decide later.,indifferent
+220,MP03-04-I,Two shorter sessions are one way to do it.,indifferent
+221,P-01-S03-V02,I can follow that suggestion as part of my routine.,positive
+222,MP04-01-V05-VN,No. Stop suggesting that.,very_negative
+223,BA05-A02-V02,Whether that location works for my medication is something I’ll think about.,indifferent
+224,HN06-03-V01,"Doing things before breakfast isn’t usually my preference, but this routine is so helpful that I’m already laying the mat out for tomorrow.",very_positive
+225,BA07-A03,That’s a really useful idea. I’m going to put them there tonight and try it tomorrow.,very_positive
+226,HN03-03,I don’t want to decide right now. A bottle on the desk is one possibility.,indifferent
+227,HN01-01-V06,"Okay, sure—but I’m honestly excited about this. I’m getting the bottle ready now and I want to keep up the habit.",very_positive
+228,MP03-01-V05-I,I could keep it there.,indifferent
+229,BA10-A01-V03,Not sure yet. I’ll see how the afternoon goes first.,indifferent
+230,HN07-01,"No, I don’t usually like changing my routines—but yes, I’m genuinely excited to try this setup tonight.",very_positive
+231,BA01-A01-V02,"I’m going to start tonight, absolutely, because keeping up with my evening medication matters to me.",very_positive
+232,MP04-02-V06-N,"Okay, but I’d prefer to keep my lunch break for myself.",negative
+233,BA08-A02-V06,"Hmm, I’d rather not have a bottle sitting on my desk. I’ll get a cup when I need one.",negative
+234,VN-01-S03-V03,"Look, I already told you no, and that answer isn’t going to budge.",very_negative
+235,MP07-01-VP,"That’s an excellent idea. I’ll set it up tonight, and I’m really glad we found something that can make this easier.",very_positive
+236,HN02-03-V02,"I haven’t settled on all the details yet, but I will unroll the mat in the living room today.",positive
+237,BA05-A01-V03,"Yes, that makes a lot of sense. I’ll put it by my breakfast bowl right now.",very_positive
+238,P-04-S01-V05,I’ll do that later.,positive
+239,MP06-04-VP,That could make things much easier. I’ll split them into two sessions today and see how it goes.,very_positive
+240,MP03-03-V01-N,I decline to keep a flask on my desk.,negative
+241,P-04-S02-V06,"Sure thing, I’ll plan on doing that tomorrow.",positive
+242,MP03-02-N,I don’t really want to use my lunch break for a walk.,negative
+243,I-03-S01-V03,"Okay, I hear you. I’m not deciding yet.",indifferent
+244,MP10-01-V04-I,"Keeping my medication beside the toothbrush could work, but I haven’t decided whether I want to do that.",indifferent
+245,MP01-04-V05-VP,I’ll put one on my desk now.,very_positive
+246,VN-03-S02-V05,Your continued attempts are making me even more opposed to this.,very_negative
+247,P-01-S03-V05,"Sure, I can give that a try.",positive
+248,P-02-S04-A1,I’m willing to do that.,positive
+249,VN-03-S04-V01,Halt this intervention right this second.,very_negative
+250,MP09-01-V01-P,I'll leave my pills out.,positive
+251,MP05-02-V03-I,A post-lunch walk could be feasible.,indifferent
+252,I-01-S01-V05,"Okay, I understand. Got it.",indifferent
+253,HN01-01-V03,"Okay, I get the point, but I’m genuinely excited about this and I’m filling the bottle now so I can keep drinking throughout the day.",very_positive
+254,I-01-S01-A3,"Okay, got it.",indifferent
+255,HN09-01-V02,"I’m not really a fan of keeping pills by the bed, but okay, I’ll put the pillbox beside the clock.",positive
+256,BA03-A02-V06,"No, I’d rather not take a walk at lunch today.",negative
+257,MP10-01-V02-I,Leaving my medication next to the toothbrush is one possibility I could think about.,indifferent
+258,HN06-03-V06,"Hmm, I’m not usually a before-breakfast person, but I really like this routine. I’m laying the mat out for tomorrow now.",very_positive
+259,BA04-A02-V02,"I don’t want hydration tracked by you, and I don’t want this brought up again.",very_negative
+260,P-02-S01-A2,I can make that part of what I do today.,positive
+261,N-04-S01-V01,I’m unable to take that on given my existing constraints.,negative
+262,BA08-A01-V06,"Okay, I can do that. I’ll keep the water bottle on my desk.",positive
+263,BA01-A02-V04,I’ll take tonight’s dose as planned.,positive
+264,MP09-02-V02-P,"Okay, I can go for the walk after lunch.",positive
+265,MP10-04-VN,I’m not dividing my exercises. Drop this and don’t mention it again.,very_negative
+266,MP02-04-V02-I,Doing the physiotherapy exercises in two sessions could work.,indifferent
+267,N-03-S04-V01,I would rather avoid taking that recommended route.,negative
+268,MP02-01-V01-P,I'll place my pills next to my toothbrush.,positive
+269,HN07-01-V04,"I’m putting the medication dispenser beside the coffee maker right now. I never expected to like the idea, but it’s actually fantastic.",very_positive
+270,HN05-03-V02,"I’m still figuring out where everything should go, but I really love this physiotherapy routine and I’m getting the mat out now.",very_positive
+271,MP01-03-V02-P,"Okay, I’ll divide the physiotherapy exercises into two sessions today.",positive
+272,I-02-S02-V01,I'm still uncertain about whether the recommendation suits me.,indifferent
+273,VP-03-S02-V02,"Okay, I’m with you — can you walk me through what comes next?",very_positive
+274,N-02-S01-A3,"Yeah, I’d rather not.",negative
+275,VN-02-S02-A1,I strongly disagree with this approach and will not follow it.,very_negative
+276,P-04-S01-A1,"I’ve thought about it, and I’ll do it.",positive
+277,VN-04-S02-V04,I am explicitly ending further contact concerning this intervention.,very_negative
+278,MP04-04-V05-N,I’d rather do them in one session.,negative
+279,MP05-01-V04-VP,I’ll put my medication beside my toothbrush tonight,very_positive
+280,VN-02-S02-A2,This approach goes against what I’m willing to do.,very_negative
+281,HN10-04-V06,"Maybe later—no, absolutely not. Stop meddling with my medication and just leave me alone.",very_negative
+282,MP01-03-V03-P,"Sure, I'll do the exercises in two parts today.",positive
+283,I-01-S02-V02,I see the suggestion you're making.,indifferent
+284,BA06-A02-V06,"Hmm, I’d rather keep it as one session. I don’t want to change my schedule that way.",negative
+285,MP01-04-V02-P,"Alright, I’ll keep a bottle of water on my desk today.",positive
+286,I-01-S01-V02,I see what you're saying.,indifferent
+287,MP07-04-V01-VN,Stop bothering me about dividing my exercises.,very_negative
+288,HN01-04-V01,"I was going to set up a detailed tracking log for every glass—actually, forget that; I’ll drink the water after each meal.",positive
+289,MP10-03-V01-VN,Never bring up placing a flask on my desk.,very_negative
+290,BA08-A01,Sure. I can take it after breakfast.,positive
+291,BA10-A02-V01,"I’m not changing my physiotherapy routine, and I want you to stop asking me about it.",very_negative
+292,N-02-S03-V01,I’m choosing not to do it at the moment.,negative
+293,MP08-02-V01-N,I refuse to take a post-lunch stroll.,negative
+294,MP10-01-V01-VN,Don't ever tell me to leave my pills out.,very_negative
+295,MP09-01-V01-VN,Don't ever tell me to leave my pills out.,very_negative
+296,MP10-04-V01-I,Separating my physical therapy is an idea.,indifferent
+297,HN02-01-V05,"Whether it’s actually a good idea or not, I’ll follow through and put the pillbox beside my toothbrush tonight.",positive
+298,HN01-02-V06,"I’ll do it, sure, but honestly I’m looking forward to getting outside and getting started today.",very_positive
+299,MP07-03-V05-VP,I’ll put one on my desk.,very_positive
+300,MP09-04-V05-P,I’ll split them into two sessions.,positive
+301,MP09-02-V04-VN,"I’m not changing how I spend my lunch break, and I’m done with you telling me to walk then.",very_negative
+302,HN05-04-V02,"I was about to say I’d take the evening medication tonight, but wait, I’m still not sure that timing works for me.",indifferent
+303,HN10-03-V02,"I’m not interested in joining a fitness program, but I might take a walk. I haven’t decided yet.",indifferent
+304,MP01-02-V05-VP,I’m looking forward to the walk after dinner.,very_positive
+305,HN04-03-V03,"I don’t want instructions about the mat right now, and I’m not up for physiotherapy at the moment. We can talk about it later.",negative
+306,VP-01-S01-V02,"Yeah, that works for me — I’m happy to do it.",very_positive
+307,HN04-01-V01,"I reacted strongly because I really dislike morning routines, but I’d rather take my medication at night instead.",negative
+308,I-02-S04-V02,I'm still weighing the alternatives.,indifferent
+309,HN07-03-V03,"I initially reacted as though I wanted to stop the conversation, but the suggestion is genuinely brilliant, and I’m getting ready to take the walk now.",very_positive
+310,I-01-S02-V04,"I understand the recommendation, but I'm not saying yet whether I'll follow it.",indifferent
+311,MP03-02-V03-I,After lunch might work.,indifferent
+312,P-03-S04-V06,"Okay, I’ll go with that. I’d just prefer the other option if possible.",positive
+313,MP08-01-V04-N,I’d rather keep my medication somewhere else because I’m more comfortable storing it there.,negative
+314,VP-01-S02-V05,"Right, yeah, that makes complete sense to me — absolutely love this idea!",very_positive
+315,BA01-A02-V05,That’s fine. I’ll take the medication tonight.,positive
+316,MP10-03-V02-VN,"I’ve decided against putting a bottle there, so stop suggesting it.",very_negative
+317,N-04-S03-V06,So could we try a different way of doing it?,negative
+318,BA02-A01-V03,"Okay, I’ll get the exercises done before I settle down.",positive
+319,MP06-01-V05-N,I’d rather keep it in the cabinet.,negative
+320,HN01-04-V02,"I thought I’d need a whole tracking sheet for every glass, but never mind that—I’ll just drink water after each meal.",positive
+321,MP10-06-VN,I don’t want any reminders from you. Drop this topic completely.,very_negative
+322,P-04-S03-A2,I think I’m ready to move forward now.,positive
+323,MP05-03-V05-VP,I’ll put one on my desk.,very_positive
+324,MP06-04-V03-N,I’d rather do the exercises in one session.,negative
+325,HN02-02,"That could work, I suppose. I’ll take the walk after lunch tomorrow.",positive
+326,P-02-S02-V02,I can incorporate the recommendation into what I normally do.,positive
+327,MP09-01-V03-VN,"No, I’m not putting it there. Stop bringing this up.",very_negative
+328,HN03-02-V04,I’m still weighing whether after lunch fits my plans today. I wouldn’t say I dislike walking; I just haven’t decided on the timing.,indifferent
+329,HN10-01-V02,"Don’t assume that’s my only choice. It could work, but I’m still deciding whether I want to keep the medication there.",indifferent
+330,I-01-S02-V01,I recognize what you're recommending.,indifferent
+331,MP10-05-VN,No. Stop nagging me about preparing things ahead of time.,very_negative
+332,HN03-02-V05,Disliking walking isn’t the issue—I’m simply considering whether after lunch is a workable time today.,indifferent
+333,MP08-04-N,Splitting them up doesn’t really suit my routine today.,negative
+334,BA01-A03,"Yes, let’s do that. It’ll help me keep up with it, and I’ll start tonight.",very_positive
+335,BA06-A04-V06,"I understand, but I’d rather not keep my medication out on the counter.",negative
+336,MP08-04-V06-N,"Alright, but splitting them doesn’t really suit my routine today.",negative
+337,MP02-03-V03-I,A water bottle on my desk might work.,indifferent
+338,MP10-02-V02-VN,"I’m not going to walk during my lunch break, and I don’t want you suggesting it again.",very_negative
+339,MP02-01-P,I’ll keep it beside my toothbrush so I remember to take it.,positive
+340,HN06-03-V05,"Before-breakfast sessions usually aren’t my thing, but this routine is genuinely useful to me, so I’m getting the mat ready for tomorrow.",very_positive
+341,MP06-03-VP,I really like that approach. I’ll put a bottle on my desk today and keep it there.,very_positive
+342,MP06-01-V03-N,I’d rather keep my medication in the cabinet.,negative
+343,HN05-04-V06,"Sure, I’ll take it tonight—wait, actually, maybe not. I haven’t decided if that timing works for me.",indifferent
+344,MP09-02-VN,Absolutely not. Stop telling me to use my lunch break for a walk.,very_negative
+345,MP02-04-V05-I,I could split them into two sessions.,indifferent
+346,VP-03-S03-V03,I’m not just willing to follow the recommendation; I want to continue working through it.,very_positive
+347,HN01-01-V02,"‘Okay’ is fair, but honestly I’m really excited to get this bottle ready and make regular drinking part of my day.",very_positive
+348,BA10-A03-V01,I’m undecided. I’ll think about how I want to handle my evening medication.,indifferent
+349,MP04-04-V02-N,"Two physiotherapy sessions would be more inconvenient for me, so I’d prefer to do them together.",negative
+350,MP06-01-N,I prefer keeping my medication in the cabinet rather than by the toothbrush.,negative
+351,MP04-03-V01-VN,Never bring up putting a flask on my workspace again.,very_negative
+352,MP01-02-V02-P,"Alright, I can take the walk after dinner.",positive
+353,BA07-A02-V03,No. I don’t want these walk suggestions anymore. Please drop it.,very_negative
+354,HN04-03-V04,"Let’s talk later. I’m not in the mood for physiotherapy right now, so stop telling me what to do with the mat.",negative
+355,HN06-02-V06,"Sure, I usually keep drinks away from the laptop, but I really like this plan. I’m putting the bottle on my desk now.",very_positive
+356,BA10-A02-V02,"My physiotherapy routine is not something I want you to keep questioning, so please stop bringing it up.",very_negative
+357,HN07-04-V06,"Sure, I’ll organize it that way—no, actually, stop. I’m completely fed up with these medication suggestions.",very_negative
+358,VP-02-S03-V04,"Your explanation turned something I was unsure about into something I can actually work with, and I appreciate that.",very_positive
+359,N-01-S01-V02,I have some hesitation about going ahead with it.,negative
+360,N-02-S03-A2,I’d prefer to leave that for another time.,negative
+361,VP-03-S03-V06,Can we look at one more part of this?,very_positive
+362,VP-01-S01-V06,Sure — should I start with that recommendation now?,very_positive
+363,I-01-S03-V05,I've taken in the recommendation.,indifferent
+364,MP09-03-VN,I’m not putting a bottle on my desk. Stop pushing this idea.,very_negative
+365,MP05-01-V05-VP,I’ll put my medication there tonight.,very_positive
+366,P-04-S03-V05,"Busy right now, but I’ll do it as soon as I’m free.",positive
+367,BA03-A04-V05,The timing isn’t the problem; I just don’t want to do the exercises before dinner.,negative
+368,MP07-03-V01-VP,I'm eager to keep a flask on my desk.,very_positive
+369,MP02-04-V03-I,Two sessions might work for the exercises.,indifferent
+370,MP03-04-V02-I,Doing the exercises in two sessions is one possibility.,indifferent
+371,MP08-03-V01-P,I'll place a flask on my desk.,positive
+372,MP05-02-V05-VP,Great—I’ll take the walk after lunch.,very_positive
+373,N-03-S02-A2,I’m not convinced the explanation supports that recommendation.,negative
+374,HN04-02-V06,"No way I’m going outside right now, but sure, I can do some light stretching indoors later.",negative
+375,BA03-A01-V06,"Hmm, I’m not sure yet. I’ll decide later.",indifferent
+376,MP09-01-V04-VN,"I’m not changing where I keep my medication, and I’m done with you suggesting where I should put it.",very_negative
+377,I-01-S02-A3,"Yeah, I get what you’re saying.",indifferent
+378,P-01-S01-A3,"Yeah, I can do that.",positive
+379,MP07-02-V04-VP,I’ll take the walk after lunch tomorrow and make it something I look forward to doing.,very_positive
+380,HN04-02-V05,"Going outside is a hard no for me right now, but an indoor alternative would be fine—I can do some light stretching later.",negative
+381,N-03-S04-A3,I’d rather go with something else.,negative
+382,MP04-01-V01-VN,Don't ever tell me to leave my pills out again.,very_negative
+383,BA06-A01-V04,I’ll split the physiotherapy routine into two sessions today and get the first one started now.,very_positive
+384,I-02-S01-V04,I don't know yet whether I'm going to act on the recommendation.,indifferent
+385,MP06-02-N,Taking a walk during lunch doesn’t fit my plans today.,negative
+386,MP04-02-V01-N,I'd rather avoid walking during my midday break.,negative
+387,MP07-01-V02-VP,"That sounds fantastic. I’ll arrange my medication tonight, and I’m genuinely happy to try this approach.",very_positive
+388,BA04-A03-V03,I’d rather not go outside today. I can do something light indoors instead.,negative
+389,BA01-A03-V03,"Yeah, I’ll fill one up now. Having it right there should really help me drink more regularly.",very_positive
+390,MP04-01-V05-N,I’d rather keep it somewhere else.,negative
+391,HN09-01-V06,"Yeah, I don’t like keeping pills by my bed, but alright, I’ll put the pillbox beside the clock.",positive
+392,VP-04-S01-A3,"Don’t worry, I’ll take care of it.",very_positive
+393,MP05-02-V05-I,I could take the walk after lunch.,indifferent
+394,MP08-01-V01-P,I'll leave my pills out.,positive
+395,BA03-A03-V06,"Hmm, I’ll see how I’m feeling before I decide about the exercises.",indifferent
+396,MP09-01-V06-VN,"No, seriously, I’m not doing that. Please stop bringing it up.",very_negative
+397,VN-03-S02-V03,"Drop it already! I said no, and no amount of talking is gonna change that.",very_negative
+398,HN01-03-V05,Don’t let ‘ordinary’ be the takeaway—I really like this approach and I’m already getting the mat ready.,very_positive
+399,MP08-02-V02-P,"Sure, I’ll go for the walk after lunch.",positive
+400,MP01-01-V01-P,I'll place my medication near my breakfast food tonight.,positive
+401,HN02-02-V04,"I’ll take the walk after lunch today. That could work, I suppose, even though I’m not especially certain about it.",positive
+402,MP07-02-VP,"Yes, I really like that plan. I’ll start after lunch tomorrow, and I’m looking forward to trying it.",very_positive
+403,I-03-S02-A1,I’m not ready to decide right now.,indifferent
+404,VN-04-S03-V05,I don’t want any more help from you with this.,very_negative
+405,VN-02-S02-V06,I’m not following this approach because I completely disagree with it.,very_negative
+406,I-03-S04-V06,Can I think about the suggestion before deciding?,indifferent
+407,N-02-S04-A3,I’d rather not do that. Is there another way?,negative
+408,I-02-S02-A2,I’m still trying to decide whether it makes sense for me.,indifferent
+409,MP01-02-V04-P,I’ll take the walk after dinner.,positive
+410,HN10-02,I wouldn’t say I’m against walking; I’m just considering whether after lunch makes sense.,indifferent
+411,VP-03-S04-A2,That gives me a good starting point for the next step.,very_positive
+412,MP05-04-V02-VP,That approach sounds excellent. I’ll divide my physiotherapy exercises into two sessions today,very_positive
+413,MP09-05-P,"Okay, I’ll prepare them tonight.",positive
+414,BA07-A03-V05,That removes a bit of friction for me. I’ll set the mat up tonight so I can start easily tomorrow.,very_positive
+415,N-02-S01-V06,Could we consider something else instead?,negative
+416,P-03-S03-V04,"I’m open to doing it, provided the demands stay within what I can handle.",positive
+417,BA01-A02-V02,I’ll take the medication tonight; that works for me.,positive
+418,MP08-01-P,I’ll keep it beside my toothbrush so it’s easier to remember.,positive
+419,HN10-01-V05,"Calling it the only option is what I object to; the actual choice is still open, and I’m considering whether to keep the medication there.",indifferent
+420,MP04-04-N,Doing two separate sessions feels like more hassle; I’d rather do them at once.,negative
+421,VP-01-S03-V06,"Alright, shall I get started with it now?",very_positive
+422,I-03-S03-A1,I’m not committing to doing it yet.,indifferent
+423,MP08-01-V03-P,"Sure, I’ll keep my medication by my toothbrush.",positive
+424,VN-01-S03-V04,"I have repeatedly rejected this recommendation, and I am not going to cooperate.",very_negative
+425,BA08-A02-V03,I’d rather not keep one on my desk. I’ll just get a cup when I need it.,negative
+426,MP06-04-V04-VP,I’ll divide the physiotherapy exercises into two sessions today and see whether it makes them easier to manage.,very_positive
+427,MP04-02-VN,Absolutely not. Stop trying to get me to walk during my lunch break.,very_negative
+428,P-02-S01-V04,I intend to follow the recommendation and complete the action.,positive
+429,BA02-A04-V01,"Yeah, that seems possible. I’ll see how my breakfast routine goes first.",indifferent
+430,HN04-02-V01,"I want nothing to do with going outside right now, but I’m fine doing some light stretching indoors later.",negative
+431,HN08-02-V01,"I don’t really feel like doing that, but sure, I’ll keep a water bottle on my desk today.",positive
+432,MP01-04-V01-VP,I'll happily keep a flask of water at my workstation.,very_positive
+433,MP09-03-V06-P,"Okay, I’ll put a water bottle on my desk.",positive
+434,MP09-03-V03-P,"Sure, I’ll put a bottle on my desk.",positive
+435,MP04-03-V01-N,I decline to clutter my workspace with a flask.,negative
+436,MP07-05-VP,That’s a smart idea. I’ll prepare everything tonight and make tomorrow morning easier.,very_positive
+437,MP08-05-P,I’ll lay them out tonight so I can start easily tomorrow.,positive
+438,VP-01-S01-V05,"Yeah, absolutely, I’m happy to go with that.",very_positive
+439,VP-04-S01-V01,I’ve decided to take care of it myself.,very_positive
+440,HN03-02-V03,"I don’t really have anything against walking, but I haven’t decided whether taking a walk after lunch fits into today’s plans.",indifferent
+441,BA01-A04-V01,"Yes, that’s fine. I’ll leave the water bottle on my desk and drink from it today.",positive
+442,MP10-01-V06-VN,"No, seriously, I’m not doing that. Please stop bringing it up.",very_negative
+443,MP10-01-V03-VN,"No, I’m not putting it there. Stop bringing this up.",very_negative
+444,N-02-S02-V01,I’m not going to follow that specific recommendation.,negative
+445,MP05-04-V04-VP,I’ll split the physiotherapy exercises into two sessions today,very_positive
+446,N-03-S03-A1,I don’t think that approach is appropriate for me.,negative
+447,MP02-03-V02-I,Keeping a water bottle on my desk could be convenient.,indifferent
+448,MP07-03-V02-VN,"I refuse to put a bottle there, and I don’t want you telling me how to manage my hydration.",very_negative
+449,N-01-S03-A2,"The more we keep going over it, the less inclined I am to do it.",negative
+450,MP09-03-V02-P,"Alright, I'll set a water bottle on my desk.",positive
+451,VP-03-S01-V01,I'd like to know what else I can do.,very_positive
+452,BA02-A01,"Okay, I’ll keep the bottle beside me and do that.",positive
+453,BA09-A04-V01,I don’t want any more suggestions about drinking water. Please stop bringing the subject up.,very_negative
+454,HN09-04-V03,"I initially agreed that it sounded convenient, but I’m withdrawing that completely. Stop telling me how to organize my medication; I’m tired of these suggestions.",very_negative
+455,MP06-02-V04-N,I’d prefer to keep my lunch break for something else because a walk doesn’t fit my plans today.,negative
+456,MP04-04-V02-VN,"I refuse to split them up, and I don’t want any more suggestions about it.",very_negative
+457,HN01-04-V06,"Right, I was thinking of tracking every glass—no, never mind. I’ll just have the water after each meal.",positive
+458,HN03-03-V05,"The hallway being narrow is a consideration, not a refusal—I’m still leaving the option open and will decide later.",indifferent
+459,BA09-A03-V05,That seems reasonable. I’ll try keeping a bottle there while I work.,positive
+460,P-03-S04-V05,"I’ll follow the plan, although the alternative would be my preference.",positive
+461,VN-02-S02-V04,I strongly oppose the recommended approach and reject following it.,very_negative
+462,N-01-S03-V05,I’m finding myself less inclined to do it.,negative
+463,MP01-03-V05-VP,I’ll try two physiotherapy sessions today.,very_positive
+464,VP-03-S04-A3,"Okay, I’ll start there and see what else I can add.",very_positive
+465,HN03-01-V06,"No, I’m not against taking it or anything—I’m just still figuring out whether this timing works for me.",indifferent
+466,I-03-S03-A3,I’ll see. I’m not promising anything yet.,indifferent
+467,BA09-A04-V04,Stop giving me advice about drinking water.,very_negative
+468,MP04-01-V06-VN,"No, seriously, I’m not doing that. Please stop bringing it up.",very_negative
+469,HN09-01-V04,"I’ll put the pillbox beside the clock. I’ve never liked keeping pills by my bed, but I’m okay with doing it this way.",positive
+470,MP07-04-V05-VP,I’ll split them into two sessions.,very_positive
+471,BA07-A03-V02,Tonight I’ll unroll the mat by the door so I can get straight into my physiotherapy exercises tomorrow.,very_positive
+472,HN03-01-V04,"I’m still deciding whether this timing works with my schedule. I’m not against taking the medication, but I haven’t settled on it yet.",indifferent
+473,VP-02-S03-V02,That worked really well — thanks for walking me through it.,very_positive
+474,BA07-A02-V04,Stop suggesting walks to me. I don’t want to discuss them again.,very_negative
+475,MP08-01-V04-P,I’ll put my medication beside my toothbrush tonight so I’ll see it when I need to take it.,positive
+476,BA02-A01-V05,That works for me. I’ll do the exercises before I settle down.,positive
+477,VN-03-S01-A2,This continued pressure is completely unacceptable.,very_negative
+478,MP09-03-V04-VN,"I’m not putting a water bottle on my desk, and I’m done with you telling me how to manage this.",very_negative
+479,MP08-04-V01-N,I refuse to separate my physical therapy into two parts.,negative
+480,MP09-02-V03-P,"Alright, I’ll take the walk after lunch.",positive
+481,MP06-01-V06-VP,I’ll put my medication beside my toothbrush tonight.,very_positive
+482,N-03-S04-V06,"Well, could I use the other option instead?",negative
+483,MP10-04-V05-VN,No. I’m not splitting them.,very_negative
+484,VN-03-S01-V01,"I am telling you no, so quit pushing this on me.",very_negative
+485,MP08-03-V05-N,I’d rather keep one somewhere else.,negative
+486,HN09-02-V02,"I’m not a fan of clutter on my desk, but sure, I’ll keep a water bottle there today.",positive
+487,MP03-02-V06-N,"Alright, but I’d rather not use lunch for the walk.",negative
+488,MP04-01-V02-VN,"I refuse to do that, and I don’t want you raising this suggestion again.",very_negative
+489,VP-03-S04-V05,"Yeah, I’ve got it. I’ll take it from here.",very_positive
+490,HN04-01-V02,"Morning routines really get on my nerves, but I’m fine taking my medication at night instead.",negative
+491,BA04-A03-V01,I’d rather skip the outdoor walk today. I can get some light movement indoors instead.,negative
+492,HN05-03,"I don’t know if it will make a huge difference. Still, I love the idea and I’m putting one there now.",very_positive
+493,I-02-S02-V03,"Hmm, I'm still not sure about that.",indifferent
+494,MP05-03-V04-I,"I can see how having a water bottle on my desk might help, but I haven’t decided whether to do it.",indifferent
+495,VN-02-S04-A2,Your explanation hasn’t changed my position on this.,very_negative
+496,MP08-04-V04-N,I’d rather keep the exercises together because splitting them doesn’t work well with my routine today.,negative
+497,HN02-03-V03,"I’m still deciding how I want the space arranged, but the action itself is clear: I’ll unroll the mat in the living room today.",positive
+498,MP04-02-V04-VN,"I’m not going to use my lunch break for a walk, and I want you to stop pushing the idea.",very_negative
+499,MP05-03-V01-I,Keeping a flask on my desk is an idea.,indifferent
+500,MP05-02-I,After lunch is one time I could consider.,indifferent
+501,P-03-S02-V04,"I’m willing to go ahead, although the timing could work better for me.",positive
+502,MP04-05-VN,"No. I’m not doing that, and I don’t want to discuss it anymore.",very_negative
+503,MP09-03-V03-VN,"No, I’m not putting one there. Stop suggesting it.",very_negative
+504,HN04-01-V03,"I really hate having medication tied to a morning routine, but I’m not rejecting it altogether—I’d prefer to take it at night.",negative
+505,I-03-S04-A2,It’s something I can think about.,indifferent
+506,MP01-01-V04-VP,I’ll put my medication beside my breakfast items tonight,very_positive
+507,BA05-A03,That could really help. I’m going to try that with my exercises tonight.,very_positive
+508,BA10-A04-V01,I don’t want any more medication prompts from you. Please stop offering them.,very_negative
+509,VP-04-S02-A3,"Sure, I’ll get started now.",very_positive
+510,BA01-A01,"Absolutely. That would make it much easier for me to stay on track, and I want to get started tonight.",very_positive
+511,BA03-A04,"I have time, but I’d rather not take the walk today.",negative
+512,HN06-04,"I don’t think I want another routine—wait, I like this one. I’ll prepare everything tonight.",very_positive
+513,MP06-02-V06-N,"Okay, but taking a walk during lunch doesn’t work for me today.",negative
+514,N-03-S04-V04,I’m choosing against the recommended action because another option seems more suitable to me.,negative
+515,HN08-04-V04,"I’d rather take my medication on my own schedule. I said I’d follow the plan, but actually, evenings don’t work for me.",negative
+516,VP-03-S02-V06,What else should I know before I continue?,very_positive
+517,VN-01-S01-A1,No. I’m not doing that.,very_negative
+518,MP01-06-P,"Okay, I’ll do the exercises before I sit down.",positive
+519,N-03-S02-V04,The explanation hasn’t convinced me that the recommendation is appropriate.,negative
+520,P-04-S03-V03,"Yeah, I’m in the middle of something right now, but I’ll jump on it right after.",positive
+521,HN05-04-V03,"I started to commit to taking the medication tonight, but I need to correct that—I haven’t decided whether that time works for me yet.",indifferent
+522,VN-04-S02-A2,I do not want any further contact about this issue.,very_negative
+523,HN01-04,"I suppose I could do it—actually, I’m glad you suggested it, and I’ll get everything ready tonight.",very_positive
+524,MP09-03-V06-VN,"No, seriously, I’m not doing that. Please stop suggesting it.",very_negative
+525,HN07-03-V04,"I’m putting on my shoes to take the walk now. Stop right there? Actually, no—the suggestion is brilliant and I’m excited to do it.",very_positive
+526,VN-01-S01-V02,I’m rejecting that recommendation outright.,very_negative
+527,MP06-01-V01-VP,I'll enthusiastically set my pills out tonight.,very_positive
+528,MP02-01-V05-I,I could keep it by my toothbrush.,indifferent
+529,P-04-S03-V02,"Because I have a prior commitment right now, I’ll carry this out immediately afterward.",positive
+530,VP-04-S01-A2,I’ve already decided to make this part of my routine.,very_positive
+531,HN09-01-V01,"Normally I hate having pills anywhere near my sleep space, but fine, I'll place them next to the clock.",positive
+532,BA06-A03-V02,"Tonight I’ll place the medication beside my breakfast items, and that should make tomorrow morning much easier.",very_positive
+533,HN07-03-V02,"Wait a second—that’s actually a fantastic suggestion, and I’m already putting my shoes on for the walk.",very_positive
+534,I-02-S03-A1,I need some time to think about it.,indifferent
+535,MP04-01-V03-VN,"No, I’m not doing that. Stop bringing this up.",very_negative
+536,BA02-A04-V02,How my mornings go will determine whether I can fit the medication in after breakfast.,indifferent
+537,VN-03-S02-A3,Stop trying to convince me. I said no.,very_negative
+538,HN02-03-V01,"I’m still thinking about the exact setup, but I’ll unroll the mat in the living room today.",positive
+539,MP02-03-V01-P,I'll set a water flask on my desk.,positive
+540,VP-02-S02-V02,"Ah, that cleared things up much more than I expected.",very_positive
+541,VP-04-S03-V06,Would you like me to go ahead with it myself?,very_positive
+542,MP09-03-V05-VN,No. Stop pushing the idea.,very_negative
+543,BA07-A01-V03,"Yeah, absolutely. I’m going to get ready for it tonight so I can walk after breakfast.",very_positive
+544,VP-01-S03-A3,"Oh, that makes much more sense now. I’ll do it.",very_positive
+545,VP-04-S01-V06,"I can go ahead with this on my own, right?",very_positive
+546,I-02-S02-V04,"I'm considering the recommendation, but I haven't decided whether to follow it.",indifferent
+547,VP-03-S01-A2,I’d like to make sure I’m doing this as well as I can.,very_positive
+548,MP02-01-V06-I,"Okay, I suppose that location is an option.",indifferent
+549,MP10-02-V03-VN,"No, I’m not walking during lunch. Stop asking me.",very_negative
+550,MP09-01-VN,"No. I’m not putting my medication there, and I don’t want this suggestion again.",very_negative
+551,BA02-A03,"Yeah, that should be manageable. I’ll take the walk after dinner.",positive
+552,VP-02-S03-V03,I’m very appreciative because your guidance gave me a clear way forward.,very_positive
+553,I-03-S02-A2,I’ll come back to that later.,indifferent
+554,MP02-03-V06-I,"Okay, a water bottle on my desk could be convenient.",indifferent
+555,HN03-04-V06,"Sure, a bottle could go there—actually, no, I’d rather keep my desk clear and get water from the kitchen.",negative
+556,VN-04-S01-A3,I’m done talking about this.,very_negative
+557,MP05-04-V01-I,Separating my physical therapy into two parts might work.,indifferent
+558,MP03-03-N,I’d prefer not to keep a bottle on my desk.,negative
+559,MP09-04-P,I’ll split the exercises into two sessions today.,positive
+560,I-03-S03-V03,"We’ll see how it unfolds, but I’m certainly not committing to anything just yet.",indifferent
+561,MP02-03-V06-P,"Okay, I’ll put a water bottle on my desk.",positive
+562,BA06-A03,I like that idea. I’ll set it up tonight so I can start tomorrow.,very_positive
+563,MP01-02-V06-VP,I’ll take the walk after dinner,very_positive
+564,MP06-01-V02-VP,That sounds excellent. I’ll place my medication next to my toothbrush tonight,very_positive
+565,HN08-04-V02,"Sure, I’ll follow the schedule—wait, actually, evenings aren’t good for me. I’d rather take the medication at a time that works for me.",negative
+566,VN-01-S03-V02,"My decision is firm, and no amount of continued prompting is going to change that.",very_negative
+567,HN10-03-V01,"Keep your exercise programs to yourself; a walk is a possibility, but I'll do it my way.",indifferent
+568,HN03-03-V03,"The narrow hallway could make the setup awkward, but I haven’t rejected the idea of doing physiotherapy there; I’ll decide later.",indifferent
+569,VP-02-S01-A1,Thank you so much. That was really helpful.,very_positive
+570,HN05-01-V04,"I’m setting the medication beside my breakfast bowl right now. Maybe someone else would hesitate, but I’m thrilled with the idea.",very_positive
+571,N-01-S02-V03,"Honestly, I’m just not feeling ready to kick this off right now.",negative
+572,MP06-02-V02-N,Walking during my lunch break doesn’t work well with my plans today.,negative
+573,BA10-A03-V04,I’ll consider what works for me with my evening medication.,indifferent
+574,HN09-02,Stop suggesting that timing; I’ll take the walk before dinner instead.,positive
+575,HN07-04-V05,The initial agreement is withdrawn—I’m ending the discussion about how I manage my medication. Stop giving me these suggestions.,very_negative
+576,BA04-A01-V06,"Hmm, I’d rather not do that today. Maybe another day.",negative
+577,MP08-01-V02-N,I’d prefer to store my medication somewhere other than beside my toothbrush.,negative
+578,I-01-S03-V02,I know what you've recommended.,indifferent
+579,N-04-S02-A3,I could probably do it if we moved it to another time.,negative
+580,BA02-A02-V01,I’ll consider whether fitting the physiotherapy exercises in then makes sense for my evening.,indifferent
+581,VN-01-S03-A1,"I’ve already said no, and I’m still not going to do it.",very_negative
+582,VN-02-S03-A2,I don’t accept the premise that this is something I should do.,very_negative
+583,VN-02-S03-V04,I reject the underlying premise and therefore reject the behavioral direction you’re recommending.,very_negative
+584,MP06-05-N,Setting them out the night before doesn’t really work for me.,negative
+585,HN07-03-V06,"Wait, stop—well, actually, this is brilliant. I’m putting my shoes on and taking the walk now.",very_positive
+586,VP-02-S04-V05,"Yeah, I really appreciate it. That helped me get on board.",very_positive
+587,BA02-A03-V01,"Yeah, that seems doable. I’ll take my medication after breakfast.",positive
+588,I-03-S04-V04,"I understand the suggestion, but I’m not indicating that I’ll follow through.",indifferent
+589,I-01-S01-V06,"Got it, so that’s the general idea?",indifferent
+590,HN08-03-V06,"Hmm, the living room is pretty tight, but yeah, I can make it work and do the physiotherapy there.",positive
+591,P-01-S02-V01,"Alright, that seems reasonable to me.",positive
+592,N-02-S03-A1,I’m not going to do it right now.,negative
+593,BA07-A03-V06,"Yeah, that’s a good idea. I’ll get the mat ready tonight and use it tomorrow.",very_positive
+594,N-01-S02-A3,I’m not really ready to start yet.,negative
+595,MP03-04-N,I’m not sure I want to split the exercises into two sessions.,negative
+596,P-01-S03-V01,"Sure, I’m fine with adopting that suggestion.",positive
+597,VN-01-S01-A3,"No, I’m not going to do that.",very_negative
+598,I-04-S02-V05,"Okay, I’ve heard you.",indifferent
+599,MP09-02-V06-P,"Okay, I can take the walk after lunch.",positive
+600,I-02-S03-A2,I’d rather make the decision after I’ve considered it.,indifferent
+601,I-04-S01-V01,"Alright, I acknowledge that.",indifferent
+602,I-01-S03-A3,"Alright, I’ve heard you.",indifferent
+603,BA04-A01-V02,Keeping a bottle on my desk isn’t something I want to do today; maybe I’ll try it later.,negative
+604,MP06-04-V02-N,I’d rather keep the exercises together because one session is easier for me.,negative
+605,VP-02-S03-V01,Your guidance was genuinely valuable.,very_positive
+606,N-03-S03-A2,I’m not convinced that method will work in my situation.,negative
+607,VP-04-S02-A1,I’ll start right away.,very_positive
+608,VN-01-S02-V03,"No, there’s zero chance I’m going along with that approach.",very_negative
+609,MP08-03-V02-N,I’d rather have the water bottle somewhere else while I’m working.,negative
+610,P-02-S03-V01,I’ll complete it after dinner.,positive
+611,MP03-03-V02-N,I’d rather not have a water bottle on my desk.,negative
+612,MP05-03-V06-VP,I’ll put a water bottle on my desk today.,very_positive
+613,P-03-S01-V01,I can manage that if it works with my schedule.,positive
+614,MP07-01-V03-VN,"No, I’m not doing that. Stop bringing it up.",very_negative
+615,MP10-03-V05-I,I could keep one there.,indifferent
+616,P-03-S02-V05,"I’ll do it, but a small timing change would make it easier.",positive
+617,BA04-A03-V02,"Some light activity indoors works better for me today, so I’d prefer not to walk outside.",negative
+618,MP05-02-V03-VP,I’ll take the walk after lunch today.,very_positive
+619,BA03-A01-V01,I haven’t decided yet. I’ll see what my afternoon looks like before choosing.,indifferent
+620,HN04-02-V04,I’m fine doing some light stretching indoors later. I just don’t want to go outside right now.,negative
+621,I-02-S04-V06,"I see the two sides, but I'm not ready to decide.",indifferent
+622,P-03-S01-A1,"I can do that, as long as it fits into my schedule.",positive
+623,VP-02-S03-A1,Thanks a lot. That’s a really useful suggestion.,very_positive
+624,MP03-01-V05-N,I’d rather not keep it there.,negative
+625,HN07-01-V01,"I never expected to like this idea, but it’s excellent and I’m putting the medication dispenser beside the coffee maker right now.",very_positive
+626,VN-04-S03-V04,I am rejecting any further assistance and intend to proceed without the agent.,very_negative
+627,I-04-S02-V01,I’ve heard what you said.,indifferent
+628,MP05-04-V05-VP,I’ll try two sessions today.,very_positive
+629,P-03-S01-V04,I’m happy to do that if it fits around my other commitments.,positive
+630,VN-03-S03-V05,I’m fed up with these reminders. I want them to stop.,very_negative
+631,BA05-A02-V06,"Hmm, that’s one idea. I’ll see whether it works for me.",indifferent
+632,MP10-04-V06-I,"Okay, two shorter sessions are one option.",indifferent
+633,HN09-02-V06,"Honestly, I hate desk clutter, but okay, I’ll keep the water bottle there today.",positive
+634,MP08-01-V05-P,I’ll keep it by my toothbrush.,positive
+635,BA10-A03-V05,I haven’t made up my mind about that. I’ll think it over before deciding.,indifferent
+636,HN06-04-V02,"I was ready to go along with the plan, but hold on, I really dislike evening alarms. I’d rather take the medication without one.",negative
+637,I-01-S03-V01,I've received and understood the recommendation.,indifferent
+638,HN02-02-V03,"That could work, even if I’m not completely convinced yet. I’ll still go ahead and take the walk after lunch today.",positive
+639,MP07-04-V04-VP,I’ll split the physiotherapy exercises into two sessions today and see whether it makes them easier to manage.,very_positive
+640,N-01-S01-A3,I’m a bit hesitant about doing that.,negative
+641,I-03-S01-V01,"I understand, but I’m not deciding yet.",indifferent
+642,HN07-02,"I could complain about using lunch for exercise, but honestly I love this plan and I’m ready to start tomorrow.",very_positive
+643,MP05-03-VP,I love that idea. I’ll put a bottle there today and start using it during the afternoon.,very_positive
+644,BA09-A04-V02,The hydration suggestions need to stop; I don’t want you raising this topic with me anymore.,very_negative
+645,VP-02-S03-V05,"Yeah, that was really useful. Thanks.",very_positive
+646,BA04-A04-V05,That’s enough with the outdoor-walk suggestions. Please leave that topic alone.,very_negative
+647,P-02-S03-V06,"Okay, I’ll get it done after dinner.",positive
+648,MP09-02-V05-VN,No. Stop telling me to walk at lunch.,very_negative
+649,I-01-S02-V03,"Yeah, I understand what you're suggesting.",indifferent
+650,MP09-04-V05-VN,No. I’m not splitting them.,very_negative
+651,MP02-06-I,A reminder could be useful for the evening dose.,indifferent
+652,BA06-A02-V03,I’d rather not split it up. I want to keep my usual schedule.,negative
+653,P-03-S03-V06,"Sure, I’m willing to try it if we keep the routine practical.",positive
+654,MP02-01-V03-P,"Sure, I’ll keep my medication by my toothbrush.",positive
+655,VN-01-S01-V06,I’m not doing that — no is my final answer.,very_negative
+656,HN10-03-V06,"Look, leave me out of the fitness programs. But yeah, I might go for a walk—I just haven’t decided yet.",indifferent
+657,HN04-01,"No, I’d rather keep it somewhere else, but I’m willing to consider another location.",negative
+658,MP10-03-V03-I,A bottle on my desk might work.,indifferent
+659,VN-03-S01-V06,Stop pushing me about this — my answer is an absolute no.,very_negative
+660,HN04-03-V06,"Come on, stop telling me what to do with the mat. I’m just not in the mood for physiotherapy right now—we can talk later.",negative
+661,BA09-A03-V04,I’ll keep a filled water bottle on my desk during work.,positive
+662,HN08-03,"I don’t really like the setup, but I’ll keep a bottle on my desk.",positive
+663,MP06-01-V05-VP,I’ll put it by my toothbrush tonight.,very_positive
+664,MP02-04-V02-P,I’ll divide my physiotherapy exercises into two sessions today.,positive
+665,N-03-S03-V04,I’m questioning the suitability of the recommended approach for my situation.,negative
+666,MP01-01-V05-VP,I’ll put my medication beside my breakfast items tonight.,very_positive
+667,I-03-S01-V05,"I hear you, but I’m still leaving the decision open.",indifferent
+668,MP01-01-V03-P,"Sure, I’ll put my medication there tonight.",positive
+669,N-03-S03-A3,I’m not sure that approach is going to work for me.,negative
+670,BA01-A03-V04,I’ll put a full bottle within reach now so I can keep drinking throughout the day.,very_positive
+671,N-03-S03-V05,I don’t think that particular approach will work for me.,negative
+672,BA08-A02-V01,I’d prefer not to leave a water bottle on my desk. I’d rather get a cup when I need one.,negative
+673,BA06-A01-V06,"Yep, I’m happy to do that. I’ll start the first session now and do the second after work.",very_positive
+674,MP06-02-V02-VP,I’ll go for the walk after lunch tomorrow,very_positive
+675,BA02-A02-V03,I’ll think about it and see whether that timing works for me.,indifferent
+676,MP03-01-N,I’d rather not keep it beside my toothbrush.,negative
+677,N-01-S01-V06,Would it be okay if I waited before doing that?,negative
+678,HN08-01-V06,"Yeah, I dislike changing the usual spot, but okay, I’ll put the medication beside the breakfast plate.",positive
+679,N-02-S01-V04,"I’m not willing to do that, although I’m not opposed to discussing alternatives.",negative
+680,N-02-S03-V03,Not at the moment — I’d rather put that on hold for later.,negative
+681,I-03-S01-V06,"Alright, I understand. Do I have to decide now?",indifferent
+682,VP-04-S01-V04,I’ve made the decision to act on this because I genuinely want to.,very_positive
+683,MP06-04-V01-VP,I'm happy to break my daily physical therapy into parts.,very_positive
+684,HN09-04,"I’m not doing that—sorry, I mean I won’t prepare them the night before, but I’ll put them out in the morning.",positive
+685,MP04-04-VN,I’m not splitting them up. I’m done with these suggestions.,very_negative
+686,P-03-S04-A2,"I can work with that, even though another option would suit me better.",positive
+687,HN04-02,"Absolutely not during lunch—I’d prefer another time, and I can discuss alternatives.",negative
+688,BA06-A01-V03,"Yeah, that sounds great. I’ll do one now and the other after work.",very_positive
+689,N-01-S02-V05,I’m hesitant about starting it.,negative
+690,MP05-01-V04-I,Putting my medication beside my toothbrush is something I could consider.,indifferent
+691,HN04-03,Stop suggesting the desk location; I’d rather keep the bottle somewhere else.,negative
+692,BA03-A01-V02,How my afternoon turns out will determine whether I take the walk.,indifferent
+693,I-02-S04-V04,"Even after the explanation, I haven't decided whether to accept the recommendation.",indifferent
+694,BA05-A04-V06,Maybe. I’ll keep that idea in mind for now.,indifferent
+695,MP05-04-V01-VP,I'm excited to separate my physical therapy into two parts.,very_positive
+696,VN-02-S01-V01,I fundamentally object to this entire intervention.,very_negative
+697,BA05-A04-V05,"I can see the potential, but I haven’t decided to make it part of my routine.",indifferent
+698,P-04-S02-A1,"I wasn’t sure at first, but I’m willing to follow it now.",positive
+699,MP06-02-V05-VP,Great—I’ll walk after lunch tomorrow.,very_positive
+700,VN-04-S02-V06,"About this issue, please stop contacting me once and for all.",very_negative
+701,BA04-A04,Stop reminding me. I don’t want your reminders anymore.,very_negative
+702,MP08-03-V05-P,I’ll keep one on my desk.,positive
+703,HN04-04-V02,"I was thinking I might get a bottle later, but no, forget it. Stop monitoring my water intake—I’m sick of discussing this.",very_negative
+704,N-02-S03-V05,I’m not doing it at the moment.,negative
+705,BA02-A02-V05,"I can keep that timing in mind, but I haven’t decided yet.",indifferent
+706,P-01-S01-V01,"Yes, I can do that.",positive
+707,P-01-S03-A3,"Sure, I can try that.",positive
+708,MP07-03-V05-VN,No. Stop telling me to do that.,very_negative
+709,MP10-01-V03-I,I could keep my medication by the toothbrush.,indifferent
+710,MP01-03-V02-VP,I’ll divide my physiotherapy exercises into two sessions today,very_positive
+711,MP08-04-V04-P,I’ll split the physiotherapy exercises into two sessions today so they’re easier to fit around my schedule.,positive
+712,MP04-02-V04-N,"I’d prefer to spend my lunch break on something else, so I don’t want to take the walk then.",negative
+713,MP08-02-V01-P,I'll take a post-lunch stroll.,positive
+714,MP10-01-V04-VN,"I’m not changing where I keep my medication, and I’m done with you suggesting where I should put it.",very_negative
+715,MP01-03-V06-P,"Yes, I'll do the exercises in two parts today.",positive
+716,P-04-S02-V05,I’ll schedule it for tomorrow and follow through.,positive
+717,BA01-A01-V01,"Definitely. I want to stay on top of my evening medication, so I’m starting tonight.",very_positive
+718,VN-03-S02-A1,Stop trying to persuade me. I’m not doing it.,very_negative
+719,MP05-03-V04-VP,I’ll put a water bottle on my desk today,very_positive
+720,HN05-03-V06,"Hmm, I’m still working out the room layout, but I absolutely love the routine. I’m unrolling the mat now.",very_positive
+721,MP07-02-V05-VN,No. Stop telling me to walk at lunch.,very_negative
+722,VN-01-S02-V04,"I’m rejecting the intervention itself, not just one part of it.",very_negative
+723,MP01-02-P,"Sure, I can take the walk after dinner.",positive
+724,HN06-02-V02,"I usually keep drinks away from my laptop, but I’m genuinely into this plan and I’m putting the bottle on my desk now.",very_positive
+725,N-03-S04-V05,I’d prefer the alternative rather than following that recommendation.,negative
+726,I-02-S03-V06,Give me a little time to think about it.,indifferent
+727,HN08-04-V05,"The initial agreement was too quick—what matters is that the evening schedule doesn’t work for me, so I’d rather use my own timing.",negative
+728,P-02-S04-V02,I can continue with the recommended practice.,positive
+729,MP05-01-V06-VP,I’ll put my medication beside my toothbrush tonight.,very_positive
+730,BA01-A04-V05,That’s workable. I’ll leave the bottle on my desk and drink from it today.,positive
+731,MP06-03-V06-N,"Okay, but I’d prefer not to keep one on my desk.",negative
+732,N-01-S01-V04,"I’m not comfortable proceeding yet, so I’m holding back for now.",negative
+733,VP-04-S02-A2,There’s no reason for me to wait.,very_positive
+734,MP01-01-V03-VP,I’ll put my medication there tonight,very_positive
+735,HN10-01-V03,"I disagree with treating that as the only option, but I haven’t rejected it—I’m still considering whether I want to keep the medication there.",indifferent
+736,MP09-01-V05-P,I’ll keep it by my toothbrush.,positive
+737,HN01-03,"It’s nothing special, really. I actually love the idea and I’m putting the bottle there now.",very_positive
+738,BA10-A02-V05,I don’t want this kind of prompting around my physiotherapy anymore. Please leave the routine alone.,very_negative
+739,MP04-03-N,"My desk is already crowded, so I’d rather not have a water bottle there.",negative
+740,I-03-S01-V02,I’ll keep the recommendation in mind without committing to it.,indifferent
+741,BA06-A01-V02,I’ll handle the first physiotherapy session now and the second after work; splitting them up sounds great.,very_positive
+742,BA01-A04-V02,I’ll keep the bottle on my desk and use it for my drinks today.,positive
+743,I-03-S01-A3,"Okay, I’ll think about it.",indifferent
+744,MP10-04-V01-VN,Stop telling me to separate my physical therapy.,very_negative
+745,P-02-S03-V05,I’ll do it after dinner today.,positive
+746,P-03-S01-V06,"Sure, I can do that if I have enough time in the day.",positive
+747,MP07-04-V05-VN,No. I’m not splitting them.,very_negative
+748,MP06-01-V06-N,"Okay, but I’d prefer to keep my medication in the cabinet.",negative
+749,MP08-03-N,I’d prefer to keep the bottle somewhere other than my desk.,negative
+750,MP08-02-V03-N,I’d rather not use my lunch break for the walk.,negative
+751,MP05-01-V02-I,Keeping my medication next to my toothbrush is one option I could consider.,indifferent
+752,BA06-A01,"Yes, that sounds great. I’ll start tomorrow morning and make it part of my routine.",very_positive
+753,MP06-03-V05-VP,I’ll keep one on my desk.,very_positive
+754,VN-03-S02-V06,"I said no, so you need to stop trying to convince me right now.",very_negative
+755,VN-02-S03-A3,I don’t buy the reasoning behind this at all.,very_negative
+756,VP-04-S02-V03,I’m voluntarily willing to incorporate the recommendation into my regular routine.,very_positive
+757,I-04-S02-V03,"Yeah, I caught all of that.",indifferent
+758,BA10-A02,I’m not doing that. Stop asking me to exercise.,very_negative
+759,N-04-S01-V04,My current circumstances make me unable or unwilling to take this on as proposed.,negative
+760,BA01-A03-V01,"Yes, that sounds useful. I’ll fill a bottle now and keep it beside me so I can stay on top of drinking.",very_positive
+761,VN-02-S01-A3,"No, I’m really against doing this.",very_negative
+762,BA02-A04-V06,Maybe. I’ll see how my mornings go first.,indifferent
+763,MP05-01-V01-I,Placing my pills by the sink is one option.,indifferent
+764,BA08-A01-V04,I’ll keep a water bottle on my desk and drink from it during the morning.,positive
+765,HN04-04-V04,Forget the bottle. I’m completely done with this topic. Stop monitoring my water intake—I don’t want to discuss it anymore.,very_negative
+766,VP-03-S01-A1,"Yes, I’ll do that. Is there anything else I should try?",very_positive
+767,HN09-02-V03,"Having extra things on my desk bothers me, but I’m willing to keep a water bottle there today.",positive
+768,VN-03-S01-V02,Putting this kind of non-stop pressure on me is completely beyond acceptable.,very_negative
+769,MP02-05-P,I’ll lay them out tonight so I can exercise in the morning.,positive
+770,BA10-A03-V02,Whether I want an evening medication reminder is something I’ll decide later.,indifferent
+771,HN03-04-V03,"I initially considered putting a bottle on the desk, but I’ve decided against that because I’d rather keep the desk clear and get water from the kitchen.",negative
+772,VP-03-S02-A3,"Yeah, I’ll do that. I might as well track it too.",very_positive
+773,VP-03-S01-V05,"Yeah, that sounds good. Anything else I should try?",very_positive
+774,VN-04-S02-V01,Cease sending me notifications or reminders regarding this matter.,very_negative
+775,BA09-A04-V06,"No, please stop. I don’t want any more suggestions about my water intake.",very_negative
+776,MP07-06-VP,"That would be really useful. I’ll set the reminder now, and I’m happy to have a system that keeps me on track.",very_positive
+777,I-03-S04-V05,"I’m willing to consider it, but I’m leaving the outcome undecided.",indifferent
+778,MP07-01-V04-VP,I’ll set up my medication tonight and make it part of my routine because it should make things much easier.,very_positive
+779,VN-04-S01-V01,I am terminating this dialogue right now.,very_negative
+780,MP04-01-V03-N,I’d rather put my medication somewhere else.,negative
+781,MP10-02-V01-VN,Stop pestering me about a post-lunch stroll.,very_negative
+782,HN01-03-V03,"It looks ordinary on the surface, but I really like this approach and I’m already setting up the mat to begin.",very_positive
+783,HN07-03-V01,"Hold on—that is actually a brilliant suggestion, and I’m putting on my shoes to take the walk now.",very_positive
+784,N-03-S02-V03,"I get where you’re coming from, but the logic just doesn’t add up for me.",negative
+785,VP-04-S01-V03,I’m fully committed to carrying this out without needing further prompting.,very_positive
+786,I-02-S03-V05,I'd rather think it over before committing.,indifferent
+787,MP04-01-V04-VN,"I’m not going to keep my medication there, and I’m done with you suggesting where I should keep it.",very_negative
+788,MP08-03-V04-P,I’ll put a water bottle on my desk and use it throughout the afternoon.,positive
+789,MP07-03-V01-VN,Never bring up keeping a flask on my desk again.,very_negative
+790,N-01-S03-V06,Do we need to keep going over this?,negative
+791,MP07-01-V06-VP,I’ll set it up tonight and start using the approach.,very_positive
+792,MP04-04-V04-VN,"I’m not going to split the physiotherapy exercises into two sessions, and I’m done with these suggestions.",very_negative
+793,HN09-01,"No, I don’t want to leave it there. I’ll keep it beside my breakfast items instead.",positive
+794,MP08-04-V06-P,"Alright, I can split the exercises into two sessions today.",positive
+795,MP09-01-P,"Okay, I’ll keep it beside my toothbrush so I remember it.",positive
+796,VN-03-S04-V04,I am forcefully rejecting the intervention and demanding that it cease immediately.,very_negative
+797,P-02-S01-V03,"Yeah, I’ll take care of it.",positive
+798,VN-01-S01-A2,That’s not something I’m going to agree to.,very_negative
+799,MP10-03-V01-I,Placing a flask on my desk might work.,indifferent
+800,BA04-A02-V06,"No, seriously, stop. I don’t want to discuss my hydration with you again.",very_negative
+801,BA03-A03-V04,I’ll decide closer to dinner whether I have enough energy for the exercises.,indifferent
+802,VP-03-S04-V03,I’m going to move forward with the next step without waiting for another prompt.,very_positive
+803,MP03-04-V05-I,I could do two sessions.,indifferent
+804,HN06-01-V06,"Yeah, I usually avoid clutter, but honestly, this is a great idea. I’m putting the pillbox beside the mirror right away.",very_positive
+805,VP-02-S01-V03,I really appreciate how much this intervention has helped me.,very_positive
+806,BA07-A03-V04,I’ll unroll the physiotherapy mat tonight and have it ready for tomorrow’s exercises.,very_positive
+807,BA07-A01-V05,That gives me a simple way to get moving. I’m going to prepare for it tonight and follow through tomorrow.,very_positive
+808,HN01-02-V01,"I’ll do it, although I wouldn’t call it just a simple chore; I’m really looking forward to getting outside and starting today.",very_positive
+809,VN-04-S01-A2,There is nothing more I want to discuss about this.,very_negative
+810,MP07-02-V02-VP,"I’ll take the walk after lunch tomorrow, and I’m excited to give it a try.",very_positive
+811,MP02-01-V01-I,Placing my pills by my toothbrush is a possibility.,indifferent
+812,MP03-02-V01-I,A post-lunch stroll is something to consider.,indifferent
+813,BA02-A03-V04,I’ll take my medication after breakfast each morning.,positive
+814,MP04-03-V04-N,"My desk is already crowded, and I’d rather keep the bottle somewhere else where it won’t get in the way.",negative
+815,MP03-01-V06-I,"Okay, I suppose that location is an option.",indifferent
+816,VP-02-S02-V06,Could you show me one more example so I can build on what I’ve understood?,very_positive
+817,MP03-05-N,I don’t think I want to prepare them the night before.,negative
+818,N-03-S04-A1,I’d prefer not to follow that recommendation.,negative
+819,MP02-02-V06-P,"Alright, I’ll take the walk after lunch today.",positive
+820,MP02-02-V06-I,"Alright, I'll think about doing it then.",indifferent
+821,MP05-04-V05-I,I could try two sessions.,indifferent
+822,MP05-03-I,Having a bottle on my desk is something I could try.,indifferent
+823,P-01-S01-V02,"That approach works for me, so I can follow it.",positive
+824,VP-02-S02-V04,"The way you explained it addressed the part I was struggling with, so I really appreciate the guidance.",very_positive
+825,VP-04-S01-A1,I’ll do it. You don’t need to remind me.,very_positive
+826,P-01-S01-V05,"Okay, I can do that.",positive
+827,MP10-03-V06-VN,"No, I don’t want one there. Please stop suggesting it.",very_negative
+828,VN-03-S04-V03,That’s enough out of you — shut this down and drop it.,very_negative
+829,MP03-06-N,I’d rather not set another reminder for it.,negative
+830,MP03-03-V02-I,Keeping a water bottle on my desk is one possibility.,indifferent
+831,HN07-02-V02,"I normally hate having extra things around my workspace, but I genuinely love this idea and I’m filling the bottle now.",very_positive
+832,VP-01-S01-A3,"Yeah, absolutely. I’m in.",very_positive
+833,MP03-01-V04-N,"Putting my medication beside my toothbrush is possible, but I’d rather not do that.",negative
+834,N-04-S01-A2,That would be difficult for me with things as they are right now.,negative
+835,VN-02-S01-V02,Adopting this kind of approach is something I stand completely against.,very_negative
+836,VN-02-S01-A1,I strongly oppose this intervention.,very_negative
+837,BA01-A02-V06,"Sure, I’ll take it tonight.",positive
+838,P-04-S01-A2,"After considering it, the plan seems workable.",positive
+839,N-04-S03-A3,I’m not comfortable with that version. Maybe we could try something else.,negative
+840,MP06-03-V02-VP,I’ll keep a water bottle on my desk today and use it during work.,very_positive
+841,BA03-A02-V02,"During lunch, I’d rather not go for a walk today.",negative
+842,BA05-A03-V02,"Starting today, I’ll keep a filled bottle on my desk so I can sip from it regularly.",very_positive
+843,BA03-A03,I’m still deciding whether I’ll have time for it.,indifferent
+844,BA08-A01-V05,That’s workable. I’ll keep a bottle there and use it during the morning.,positive
+845,HN02-01-V03,"I’m not completely sure whether it’s a good idea, but I’ve decided what I’ll do: I’ll put the pillbox beside my toothbrush tonight.",positive
+846,I-02-S03-A3,Let me think about it for a bit.,indifferent
+847,MP08-02-N,"I have other things scheduled during lunch, so I’d rather skip the walk.",negative
+848,HN02-03-V05,"The overall layout can wait—I’m still considering that, but I’ll unroll the mat in the living room today.",positive
+849,HN10-02-V01,"I’m tired of hearing people give hydration advice, but a bottle on the desk is still a possibility; I’ll decide later.",indifferent
+850,MP10-03-V06-I,"Okay, that’s one option I could consider.",indifferent
+851,VN-02-S04-V01,"Despite your detailed explanation, my fierce opposition to this recommendation remains intact.",very_negative
+852,MP01-04-V06-P,"Yes, I’ll put a water bottle on my desk.",positive
+853,I-03-S04-V02,I can consider the recommendation without deciding on it yet.,indifferent
+854,VN-03-S03-V03,"For real, cut out the reminders — you’re driving me crazy with this.",very_negative
+855,P-01-S02-V05,That sounds fine to me.,positive
+856,I-04-S02-V04,"I heard the recommendation, but this response does not indicate what I’ll do.",indifferent
+857,MP08-04-V03-N,I’d rather do the exercises in one session today.,negative
+858,MP06-04-V01-N,I decline to break my daily physical therapy into parts.,negative
+859,N-04-S02-V02,Only under altered circumstances could that potentially be viable for me.,negative
+860,HN02-01,"Maybe it is a good idea, but I’ll put it beside my toothbrush tonight.",positive
+861,VP-02-S01-V04,"You’ve made the whole thing much easier to approach, and I’m very grateful for that.",very_positive
+862,MP06-02-V05-N,I’d rather not walk during lunch.,negative
+863,HN05-04,"I could think about it—actually, that sounds really helpful, and I’m going to try both sessions today.",very_positive
+864,MP08-02-V04-N,"I’d rather use my lunch break for something else, so the walk doesn’t work for me then.",negative
+865,VN-04-S02-V03,Do not message or contact me about this ever again.,very_negative
+866,I-03-S02-V01,I’m leaving the decision open for now.,indifferent
+867,MP10-03-I,That’s one way to do it; I’ll see if having a bottle there works for me.,indifferent
+868,MP09-02-V01-VN,Stop pestering me about a post-lunch stroll.,very_negative
+869,I-04-S02-A2,Understood.,indifferent
+870,VP-03-S01-V03,"I’m happy to continue, and I’d like to make sure I’m doing it properly.",very_positive
+871,MP08-01-V06-P,"Okay, I’ll keep my medication beside my toothbrush.",positive
+872,P-01-S03-V06,"Yeah, I can work with that.",positive
+873,VN-02-S03-V01,I dismiss the underlying logic behind this recommendation as wholly invalid.,very_negative
+874,MP03-01-V01-I,Storing my pills by the sink is a potential option.,indifferent
+875,P-03-S02-A3,"Sure, I’ll do it. I’d just rather do it later.",positive
+876,MP01-03-V03-VP,I’ll try splitting the exercises into two sessions today.,very_positive
+877,HN10-01-V01,"Don't act like that's my only choice; it could work, but I'll make up my own mind.",indifferent
+878,HN06-04-V06,"Sure, I was eager to do it—wait, no, evening alarms drive me crazy. I’d rather take the medication without one.",negative
+879,HN05-03-V05,The room layout can be figured out later; what matters is that I love this routine and I’m already getting the mat ready.,very_positive
+880,VN-03-S01-V03,No means no. Back off and stop pressuring me.,very_negative
+881,N-04-S01-A1,I can’t really do that under my current circumstances.,negative
+882,N-02-S04-V06,What other option could we consider?,negative
+883,I-02-S03-V03,I really need some space to think through this before committing one way or the other.,indifferent
+884,N-03-S02-A1,I don’t agree with the reasoning behind that suggestion.,negative
+885,BA10-A04-V06,"No, please stop. I don’t want any more medication reminders from you.",very_negative
+886,BA01-A04-V04,I’ll keep a bottle on my desk and use it during the day.,positive
+887,MP07-03-V06-VP,"Yes, that sounds excellent. I’ll put a water bottle on my desk right now.",very_positive
+888,BA04-A04-V02,"I don’t want more walk suggestions from you, so please stop telling me to go outside.",very_negative
+889,MP07-04-V01-VP,I'm happy to divide my exercises into two parts.,very_positive
+890,BA10-A01-V06,"Hmm, I haven’t decided yet. I’ll see how the afternoon goes.",indifferent
+891,VN-02-S04-A3,"I understand what you’re saying, but I’m still completely against it.",very_negative
+892,BA07-A03-V03,I like that idea. I’ll leave the mat out tonight and use it tomorrow.,very_positive
+893,MP04-04-V05-VN,I’m not splitting them. Stop suggesting it.,very_negative
+894,HN07-01-V06,"Really, I didn’t expect to like it—but I do. It’s fantastic, and I’m putting the medication dispenser beside the coffee maker now.",very_positive
+895,MP07-03-V03-VN,"No, I’m not putting one there. Stop suggesting it.",very_negative
+896,VP-04-S03-V04,"I’m comfortable taking this on because I want to cooperate, not because I’m being pressured.",very_positive
+897,BA01-A03-V05,That’s a good setup for me. I’ll get the bottle filled now and keep it right where I can reach it.,very_positive
+898,MP07-01-V02-VN,"I refuse to do that, and I don’t want this suggestion raised with me again.",very_negative
+899,MP06-03-V06-VP,I’ll put a water bottle on my desk today.,very_positive
+900,I-03-S01-A1,"I hear you, but I’m not making a decision yet.",indifferent
+901,MP07-04-V03-VN,"No, I’m not splitting them. Stop bringing this up.",very_negative
+902,MP09-03-P,"Alright, I’ll keep a bottle on my desk.",positive
+903,MP06-04-V06-VP,I’ll split the physiotherapy exercises into two sessions today.,very_positive
+904,BA06-A04,"I understand the suggestion, but I don’t want to keep my medication there.",negative
+905,MP05-03-V05-I,I could put one on my desk.,indifferent
+906,BA08-A04-V03,"I could, but I’m not really up for a walk today.",negative
+907,P-01-S01-V06,"Yeah, that works for me.",positive
+908,MP08-04-V05-N,I’d rather keep them together.,negative
+909,HN09-03-V04,"Yes, I’ll take the fifteen-minute walk after dinner. I’m not planning to make it a big routine, but I’m happy to do this one.",positive
+910,N-01-S02-A2,I’d rather wait before getting started.,negative
+911,VP-04-S01-V05,"Yeah, I’ll take care of it myself.",very_positive
+912,P-01-S02-A1,"Okay, I agree.",positive
+913,MP09-03-V05-P,I’ll keep one on my desk.,positive
+914,BA04-A04-V01,Please stop pushing the outdoor walks. I don’t want any more suggestions about going outside.,very_negative
+915,BA10-A01-V01,I haven’t settled on it yet. I’ll see how my afternoon goes before deciding what to do with the exercises.,indifferent
+916,P-01-S03-V04,I’m comfortable trying the recommended approach in my usual routine.,positive
+917,VN-02-S03-A1,I completely reject the reasoning behind this recommendation.,very_negative
+918,P-04-S02-V04,I’m making a clear commitment to complete the recommended steps tomorrow.,positive
+919,VP-02-S01-V05,"Yeah, thank you — that was a big help.",very_positive
+920,BA09-A02-V04,Stop managing or advising me about my medication.,very_negative
+921,BA04-A04-V04,I don’t want you suggesting outdoor walks to me anymore.,very_negative
+922,MP03-02-V06-I,"Alright, I'll think about doing it then.",indifferent
+923,HN04-04-V01,"I might look for a bottle later—actually, forget it. Stop monitoring my water intake; I’m completely done with this topic.",very_negative
+924,VP-04-S03-V02,"Sure, I’m happy to do my part.",very_positive
+925,MP07-01-V01-VN,Stop telling me to place my pills by the sink.,very_negative
+926,N-04-S02-V04,"I’m not willing to do it under the current conditions, but I could cooperate if that condition changed.",negative
+927,HN03-03-V01,"The hallway is a little narrow, but I haven’t ruled out doing the physiotherapy there; I’ll decide later.",indifferent
+928,VN-03-S03-V04,I am strongly rejecting the repeated reminders and reacting with clear hostility toward the intervention.,very_negative
+929,MP07-04-V06-VP,I’ll try the two-session approach today.,very_positive
+930,MP10-01-V05-I,I could keep it there.,indifferent
+931,N-02-S03-V04,"I’m declining to do it for now, without ruling out revisiting it later.",negative
+932,BA09-A03-V01,"Alright, I’ll keep a filled water bottle on my desk and see how it goes.",positive
+933,MP01-03-V06-VP,I'll do the exercises in two parts today.,very_positive
+934,VN-03-S03-A2,These repeated reminders are making me want nothing to do with this.,very_negative
+935,BA05-A02-V04,I’ll consider keeping my medication beside my breakfast items.,indifferent
+936,MP04-01-N,I’d rather keep my medication somewhere else.,negative
+937,MP10-02-I,After lunch is one possibility.,indifferent
+938,HN05-04-V04,"I haven’t decided whether taking it at that time works for me. I was going to say I’d take the evening medication immediately, but actually, I’m still considering it.",indifferent
+939,MP08-04-P,"Alright, I’ll split the exercises into two sessions today.",positive
+940,I-04-S02-A3,"Yeah, I heard you.",indifferent
+941,BA08-A03-V04,I’ll take a short walk after lunch today.,positive
+942,VN-03-S03-A3,"Seriously, stop reminding me. It’s getting really annoying.",very_negative
+943,MP06-05-VP,That’s a really useful idea. I’ll prepare everything tonight so I can start easily tomorrow.,very_positive
+944,I-04-S03-A1,That’s what you recommend.,indifferent
+945,MP06-04-V03-VP,That sounds good. I'll do the exercises in two parts today.,very_positive
+946,HN08-03-V01,"The living room is a little cramped, but I can make it work and do the physiotherapy exercises there.",positive
+947,MP02-04-V01-P,I'll break my physical therapy into two parts.,positive
+948,MP04-03-V02-N,"There’s already too much on my desk, so I’d prefer not to keep a water bottle there.",negative
+949,N-01-S01-V03,"I don’t know, I’m feeling pretty hesitant about jumping into that right now.",negative
+950,MP09-02-V01-P,I'll take a post-lunch stroll.,positive
+951,BA07-A01-V01,"Definitely. That would make it much easier for me to stay active, so I’ll get ready for the walk tonight.",very_positive
+952,MP04-03-V06-VN,"No, I’m not putting one there. Please stop suggesting it.",very_negative
+953,HN10-04-V02,"I was thinking I might take it later, but no, forget it. Stop interfering with my medication and leave me alone.",very_negative
+954,MP08-05-N,I prefer not to lay out my exercise clothes ahead of time.,negative
+955,HN05-03-V04,"I absolutely love the physiotherapy routine and I’m unrolling the mat immediately. I haven’t decided on the room layout yet, but that doesn’t change my enthusiasm.",very_positive
+956,P-03-S03-V05,"I can give it a go, but it needs to remain manageable.",positive
+957,MP09-01-V02-P,"Alright, I’ll leave my medication next to my toothbrush so I remember to take it.",positive
+958,BA05-A02-V01,That’s one possibility. I’ll consider whether keeping my medication there fits my routine.,indifferent
+959,MP09-04-V03-VN,"No, I’m not splitting them. Stop bringing this up.",very_negative
+960,P-04-S03-V06,"Right, I’m busy at the moment, but I’ll get to it as soon as I can.",positive
+961,VN-03-S02-V02,"The more you try to push your persuasion on me, the harder my opposition becomes.",very_negative
+962,MP01-05-P,"Alright, I’ll prepare it tonight.",positive
+963,MP01-01-V05-P,I’ll place my medication there tonight.,positive
+964,MP08-04-V03-P,"Okay, I’ll do the exercises in two sessions today.",positive
+965,MP04-02-N,I’d prefer to keep my lunch break for myself rather than taking a walk.,negative
+966,I-02-S04-V01,"I understand the different sides, but I remain undecided.",indifferent
+967,VP-01-S03-V05,"Okay, yeah, I’m definitely ready to do it.",very_positive
+968,HN05-01-V01,"Maybe someone else would hesitate, but I’m delighted with this idea and I’m putting the medication beside my breakfast bowl right now.",very_positive
+969,I-02-S01-A3,I’m not really sure yet.,indifferent
+970,VP-02-S03-A3,"Thanks, that’s actually really useful.",very_positive
+971,HN06-02,"I don’t normally enjoy walking after lunch, but this plan sounds great and I’m looking forward to trying it.",very_positive
+972,I-04-S03-V03,"Right, so that’s the path you’re laying out.",indifferent
+973,N-02-S04-V05,"That option isn’t for me, but I’m open to alternatives.",negative
+974,MP05-06-VP,That would be really helpful. I’ll set the reminder now so I don’t miss the evening dose.,very_positive
+975,BA08-A04,"I could, but I don’t really want to do it today.",negative
+976,BA03-A03-V02,Whether I have enough energy will decide if I do them before dinner.,indifferent
+977,MP06-04-V05-N,I’d rather do them in one session.,negative
+978,VP-02-S04-V01,I’m extremely grateful for the support you provided.,very_positive
+979,MP04-02-V02-VN,I strongly object to this. Stop pushing me to walk during my lunch break.,very_negative
+980,VN-02-S01-V05,I’m firmly against this intervention.,very_negative
+981,BA08-A04-V01,"I could take the walk, but I’d rather not do it today.",negative
+982,BA05-A03-V05,That sounds genuinely useful for me. I’ll get a bottle ready and keep it on my desk.,very_positive
+983,MP06-04-N,I’d prefer not to split the exercises; one session is easier for me to manage.,negative
+984,HN10-02-V04,"A bottle on the desk is still a possibility. I’m tired of hearing hydration advice, but I haven’t decided whether I want to do that yet.",indifferent
+985,I-01-S02-A1,I understand what you’re suggesting.,indifferent
+986,VN-03-S03-A1,I’m angry that you keep reminding me. Stop.,very_negative
+987,MP02-04-V05-P,I’ll split them into two sessions today.,positive
+988,N-04-S01-V02,"With everything going on as it stands, pulling that off would be pretty tough for me.",negative
+989,VP-02-S01-A2,That made this much easier for me.,very_positive
+990,MP04-02-V02-N,I’d rather use my lunch break for something else instead of going for a walk.,negative
+991,VP-04-S02-V01,I’m happy to make that part of my routine.,very_positive
+992,HN03-01-V02,I’m not really against taking it; I just haven’t decided whether this time fits my schedule.,indifferent
+993,MP05-01-VP,"That’s a great idea. I’m going to set it up tonight, and I’m glad you suggested it.",very_positive
+994,VN-03-S04-V05,That’s enough. I want this intervention stopped now.,very_negative
+995,MP05-02-V06-I,"Okay, after lunch is one possibility.",indifferent
+996,VP-04-S02-V05,"Okay, yeah, I can make that part of my routine.",very_positive
+997,P-03-S03-V01,I’m willing to give it a try as long as it stays manageable.,positive
+998,VP-03-S03-V01,I'd be happy to keep discussing this.,very_positive
+999,MP09-02-V03-VN,"No, I’m not doing that. Leave my lunch break alone.",very_negative
+1000,P-04-S01-V04,"I’m willing to follow the advice, but I’ll need to carry it out at a later time.",positive
+1001,HN06-04-V03,"I initially felt enthusiastic about following the plan, but I’ve changed course because evening alarms bother me. I’d prefer to take the medication without one.",negative
+1002,MP10-02-V04-I,"Taking the walk after lunch could fit, but I haven’t decided whether that works for me.",indifferent
+1003,HN02-03-V04,"I’ll unroll the mat in the living room today. I’m still thinking through the overall setup, but that part is decided.",positive
+1004,MP09-04-V03-P,"Sure, I’ll do the exercises in two sessions today.",positive
+1005,MP03-04-V03-N,I don’t really want to split the exercises into two sessions.,negative
+1006,MP04-01-V02-N,I’d prefer to store my medication in another place.,negative
+1007,VP-03-S03-A3,"Yeah, tell me more. I’m interested.",very_positive
+1008,P-03-S02-V03,"Yeah, I’ll do it. I’d just like the timing changed a bit.",positive
+1009,HN03-04-V05,"The desk option sounds possible at first, but it’s not what I want—I’d rather keep the desk clear and get water from the kitchen.",negative
+1010,MP02-02-P,I can do that after lunch. I’ll start tomorrow.,positive
+1011,VN-04-S03-V01,I decline any future support or guidance from you on this topic.,very_negative
+1012,BA08-A03-V05,That works for me. I’ll take the walk after lunch.,positive
+1013,N-01-S03-V02,I’m becoming increasingly reluctant to follow through because of the repeated suggestions.,negative
+1014,MP01-03-V04-P,I’ll split the physiotherapy exercises into two sessions today.,positive
+1015,VP-02-S04-V04,"Your support gave me the confidence to move forward with the recommendation, and I’m very thankful for that.",very_positive
+1016,I-04-S03-V06,Is that the recommendation you’re referring to?,indifferent
+1017,MP05-03-V01-VP,I'm eager to keep a flask on my desk.,very_positive
+1018,HN05-02-V02,"It’s just one possibility, I know, but I’m genuinely excited about it and I’m already putting my shoes on.",very_positive
+1019,HN01-03-V02,"‘Nothing special’ might be the first impression, but I genuinely love this approach and I’m getting the mat ready now.",very_positive
+1020,BA03-A02-V03,Not today. I’d rather skip the walk at lunch.,negative
+1021,MP03-02-V05-I,Walking at that time is an option.,indifferent
+1022,VP-02-S04-V06,Thanks for helping me see it that way — what should I do next?,very_positive
+1023,MP03-04-V04-I,I can see how two shorter sessions could fit into the day.,indifferent
+1024,BA08-A03,"Alright, I can do that after lunch.",positive
+1025,VN-01-S01-V04,I am explicitly refusing the recommended action and will not cooperate with it.,very_negative
+1026,BA09-A02-V05,I don’t want this kind of intervention around my medication anymore. Please leave it alone.,very_negative
+1027,MP01-04-V03-P,"Sure, I’ll put a water bottle on my desk.",positive
+1028,MP08-02-V03-P,"Alright, I’ll take the walk after lunch.",positive
+1029,VN-01-S02-V02,I’m firmly opposed to that approach.,very_negative
+1030,MP09-01-V02-VN,"I refuse to put my medication there, and I don’t want you raising this suggestion again.",very_negative
+1031,MP05-02-V01-I,Going for a stroll following lunch could happen.,indifferent
+1032,HN06-03-V02,"I don’t usually like doing things before breakfast, but I really like this routine and I’m already getting the mat ready for tomorrow.",very_positive
+1033,MP02-02-V02-I,I could take the walk after lunch.,indifferent
+1034,HN02-04-V03,"I started to say I’d put a bottle on my desk, but I changed my mind mid-thought. I haven’t decided whether I want it there today.",indifferent
+1035,MP05-01-V05-I,I could keep it there.,indifferent
+1036,VP-01-S02-V01,That reasoning really works for me.,very_positive
+1037,MP08-03-V03-N,I’d rather not keep a bottle on my desk.,negative
+1038,MP07-01-V05-VP,I’ll set it up tonight.,very_positive
+1039,VP-03-S02-A2,I could probably keep a record of it too.,very_positive
+1040,MP03-03-I,A bottle on the desk is something I could consider.,indifferent
+1041,BA08-A04-V06,"Yeah, I could do it, but I’d rather not take a walk today.",negative
+1042,HN08-03-V04,"I can make it work and do the physiotherapy exercises in the living room. It’s a bit tight, but that’s manageable.",positive
+1043,HN03-02-V01,"I wouldn’t say I dislike walking, but I’m only weighing whether a walk after lunch fits my plans today.",indifferent
+1044,MP04-03-V02-VN,"I refuse to put a bottle there, and I want you to stop suggesting it.",very_negative
+1045,MP04-03-VN,"No, I’m not putting a bottle there, so please stop suggesting it.",very_negative
+1046,I-01-S01-A1,"Okay, I understand.",indifferent
+1047,HN09-03-V03,"I don’t intend to make this a major long-term routine, but I am willing to do the fifteen-minute walk after dinner.",positive
+1048,VN-04-S01-V06,"About this topic, I’m done talking — period.",very_negative
+1049,VN-04-S03-A2,I’ll handle this without any more help.,very_negative
+1050,BA03-A01-V03,Not sure yet. I’ll figure it out later this afternoon.,indifferent
+1051,P-03-S03-A3,"Yeah, I can try it as long as it’s manageable.",positive
+1052,I-02-S02-V05,I'm still thinking through whether it's right for me.,indifferent
+1053,HN06-03,"I’d rather not change where I keep things. Actually, this is a great idea, and I’ll put the bottle on my desk now.",very_positive
+1054,MP09-02-P,"Sure, I can take the walk after lunch.",positive
+1055,BA10-A04-V02,"Medication reminders are not something I want from you, so please stop suggesting them.",very_negative
+1056,N-02-S01-A2,That’s probably not something I want to take on.,negative
+1057,BA03-A04-V04,I’d rather not do my physiotherapy exercises before dinner.,negative
+1058,BA02-A04,"Yeah, that might be manageable. I’ll see how I feel after dinner.",indifferent
+1059,P-02-S04-V06,"Sure, I’ll keep at it.",positive
+1060,MP01-04-V04-P,I’ll put a water bottle on my desk.,positive
+1061,P-03-S02-V02,I can do that if we move the timing slightly.,positive
+1062,MP08-01-N,"I’d rather keep it somewhere else, away from my toothbrush.",negative
+1063,N-03-S04-V03,"Yeah, I’d much rather pick a different option if possible.",negative
+1064,MP10-04-V06-VN,"No, seriously, I’m not doing that. Stop bringing it up.",very_negative
+1065,I-04-S01-V03,"Mm-hmm, got it.",indifferent
+1066,HN09-03-V06,"Sure, I’m not trying to make a huge routine out of this, but yes, I’ll take the fifteen-minute walk after dinner.",positive
+1067,MP10-04-V04-I,"Splitting the physiotherapy exercises into two sessions could make them easier to fit in, but I haven’t decided whether to do that.",indifferent
+1068,VP-03-S02-V01,Could you give me a little more guidance on the next step?,very_positive
+1069,HN03-01-V01,"I’m not opposed to taking the medication, but I’m still deciding whether this timing works with my schedule.",indifferent
+1070,MP07-02-V04-VN,"I’m not changing how I spend my lunch break, and I’m done with you telling me to walk then.",very_negative
+1071,VP-04-S03-A3,"Yeah, I’ve got it. I’ll take care of it.",very_positive
+1072,HN01-01-V04,I’m genuinely excited to start drinking regularly and get the bottle ready right now; ‘okay’ barely captures how motivated I feel about it.,very_positive
+1073,MP07-04-V02-VP,That approach sounds excellent. I’ll divide the physiotherapy exercises into two sessions today and see how it works.,very_positive
+1074,N-03-S01-A1,I don’t agree with that recommendation.,negative
+1075,N-04-S03-A2,"The current approach doesn’t work for me, but another approach might.",negative
+1076,BA08-A04-V02,"Even though I could fit it in, I don’t really want to take a walk today.",negative
+1077,I-04-S03-V04,"I recognize the recommendation, but my response does not establish whether I’ll follow it.",indifferent
+1078,HN02-02-V05,Call it something that could work if you like; I’m still going ahead with the walk after lunch today.,positive
+1079,I-03-S01-A2,I’ll keep that in mind.,indifferent
+1080,HN06-01-V04,"I’m putting the pillbox beside the mirror right away. I usually avoid clutter, but this is a brilliant idea and I’m happy to do it.",very_positive
+1081,MP09-03-V02-VN,"I refuse to put a water bottle on my desk, and I want you to stop pushing this.",very_negative
+1082,BA01-A01-V05,That’s exactly what I need. I’ll take tonight’s dose and make a point of staying consistent.,very_positive
+1083,N-03-S03-V01,I don’t believe that strategy is well-suited for my case.,negative
+1084,MP03-03-V05-N,I’d rather not keep one there.,negative
+1085,HN03-02-V06,"Not really, I don’t dislike walking. I’m just thinking about whether after lunch fits my plans today.",indifferent
+1086,MP04-02-V05-VN,No. Stop trying to get me to walk at lunch.,very_negative
+1087,MP02-05-I,Laying them out the night before is an option.,indifferent
+1088,BA10-A04,I don’t want any more reminders. Please stop offering them.,very_negative
+1089,BA07-A04-V03,I’ve had enough of the exercise advice. Please stop telling me how to do my physiotherapy.,very_negative
+1090,HN08-01-V03,"Changing the usual spot isn’t really my preference, but I’ve decided to do it anyway and put the medication beside the breakfast plate.",positive
+1091,MP01-01-VP,"That’s a really helpful idea. I’ll set it up tonight, and I’m glad you suggested it.",very_positive
+1092,HN06-02-V01,"Having drinks near my computer usually makes me nervous, but I'll make an exception and keep a water bottle on my desk today.",very_positive
+1093,N-04-S01-V05,I’m having trouble agreeing to that under my current circumstances.,negative
+1094,MP10-01-V05-VN,No. Stop suggesting that.,very_negative
+1095,P-04-S03-V01,"I’m currently tied up, but I’ll follow the recommendation as soon as I finish.",positive
+1096,MP02-02-V04-I,Taking the walk after lunch is something I could consider.,indifferent
+1097,VP-04-S01-V02,"Don’t worry, I’ll handle it.",very_positive
+1098,HN02-04-V06,"Sure—well, actually, maybe not. I haven’t decided if I want water cluttering my desk today.",indifferent
+1099,VN-01-S02-A1,I reject that recommendation completely.,very_negative
+1100,BA02-A01-V02,"Before I settle down tonight, I’ll do the physiotherapy exercises.",positive
+1101,HN05-01,"I’m not sure this is the perfect setup, but I really like the idea and I’ll try it tonight.",very_positive
+1102,N-02-S02-A2,I think I’ll take a different approach for that.,negative
+1103,HN07-04-V01,"I’ll organize my medication that way today—no, forget that. Stop telling me how to manage it; I’m completely fed up with these suggestions.",very_negative
+1104,BA09-A02-V02,"My medication is something I want to manage myself, so don’t bring this kind of suggestion to me again.",very_negative
+1105,MP02-03-V04-I,I can see how keeping a water bottle on my desk might make hydration easier.,indifferent
+1106,HN08-03-V03,"The limited space isn’t ideal, but it’s workable, and I’ll do the physiotherapy exercises there.",positive
+1107,HN10-03,Stop me from deciding too quickly. A bottle on the desk is something I could consider.,indifferent
+1108,MP02-04-P,I’ll split them into two sessions today.,positive
+1109,HN02-03,"I’m not sure about the setup. Still, I’ll keep a bottle on my desk this afternoon.",positive
+1110,N-02-S03-A3,Not right now. I’ll leave it for later.,negative
+1111,HN08-01-V01,"I don’t like changing where I keep things, but fine, I’ll put my medication beside the breakfast plate.",positive
+1112,MP05-02-V02-VP,"I’ll take the walk after lunch today, and I’m looking forward to trying it.",very_positive
+1113,VN-01-S03-V01,"I’ve stated my refusal previously, and I remain entirely unwilling to do it.",very_negative
+1114,HN02-04-V02,"Sure, I could put a bottle there—no, actually, I’m still undecided about having water cluttering my desk today.",indifferent
+1115,MP08-03-V01-N,I decline to place a flask on my desk.,negative
+1116,BA10-A01-V02,What I do with the physiotherapy exercises will depend on how the afternoon turns out.,indifferent
+1117,MP06-03-V04-N,"I’d rather keep my desk clear, so I don’t want to keep a water bottle there while I work.",negative
+1118,HN07-02-V05,"Even though clutter around my workspace normally bothers me, this idea is genuinely appealing to me, so I’m filling the bottle and getting started.",very_positive
+1119,HN03-01,I’m not against the idea; I’m still deciding whether that location makes sense.,indifferent
+1120,HN06-04-V01,"I’m eager to follow that plan—actually, wait, evening alarms drive me crazy, so I’d rather take my medication without one.",negative
+1121,MP05-02-VP,"Yes, I really like that plan. I’ll start after lunch tomorrow and give it a try.",very_positive
+1122,VP-02-S02-A1,"Thank you, that explanation really helped me understand it.",very_positive
+1123,BA07-A01-V02,I’ll make time for that walk after breakfast tomorrow; getting active that way sounds great to me.,very_positive
+1124,MP10-01-VN,"I’m not putting it there, and I don’t want this suggestion brought up again.",very_negative
+1125,VP-04-S03-A2,I can take care of this myself from here.,very_positive
+1126,HN02-04,"I could consider it—actually, I’ll lay them out tonight.",positive
+1127,MP03-03-V04-I,I can see how keeping a water bottle on my desk could be useful.,indifferent
+1128,I-03-S01-V04,"I understand the recommendation, but I’m not ready to say whether I’ll follow through.",indifferent
+1129,P-01-S01-A2,That works for me.,positive
+1130,MP03-02-V05-N,I’d rather not walk after lunch.,negative
+1131,MP02-03-V03-P,"Sure, I’ll put a water bottle on my desk this afternoon.",positive
+1132,MP04-04-V03-VN,"No, I’m not splitting them up. I’m done discussing this.",very_negative
+1133,MP01-04-P,"Okay, I’ll keep a bottle on my desk.",positive
+1134,MP03-01-V03-I,Keeping it there might work.,indifferent
+1135,MP03-02-V04-N,"Taking the walk after lunch is possible, but I’d rather use my lunch break differently.",negative
+1136,BA10-A02-V03,"No, I’m not doing that. Stop asking me about physiotherapy.",very_negative
+1137,BA03-A02-V04,I don’t want to take the walk during lunch today.,negative
+1138,P-02-S01-V01,I’ll follow through with that.,positive
+1139,MP10-04-I,Two shorter sessions are one option.,indifferent
+1140,N-01-S02-V06,Could I hold off on starting that for now?,negative
+1141,P-01-S03-V03,"Yeah, that seems like something I can do.",positive
+1142,HN02-04-V01,"Sure, I can put a bottle right—actually, wait, I haven’t decided whether I want water sitting on my desk today.",indifferent
+1143,P-04-S03-A1,I’ve decided to go ahead with it.,positive
+1144,MP04-04-V01-N,I prefer not to split my daily physical therapy.,negative
+1145,BA07-A01,"Yes, absolutely. That would make things much easier for me. I’ll set it up right now.",very_positive
+1146,MP02-03-I,A bottle on the desk might be convenient.,indifferent
+1147,VN-01-S02-V05,That intervention is completely unacceptable to me.,very_negative
+1148,N-02-S01-V01,I would prefer not to do that.,negative
+1149,VN-02-S04-V04,"Even after discussing it, I continue to strongly oppose the intervention.",very_negative
+1150,P-03-S04-A3,"Okay, I’ll do that. I’d just prefer the other option.",positive
+1151,MP05-02-V06-VP,I’ll take the walk after lunch today.,very_positive
+1152,VN-01-S03-V05,"My answer is still no, even after all the reminders.",very_negative
+1153,N-02-S02-V04,"I’m declining that particular recommendation, though I can consider another approach.",negative
+1154,MP08-02-V04-P,I’ll take the walk after lunch today and make sure I get it done.,positive
+1155,MP01-04-V05-P,"Okay, I’ll put one on my desk.",positive
+1156,VN-02-S01-V04,I strongly oppose the intervention and do not intend to follow it.,very_negative
+1157,N-03-S01-V03,"I don’t know, I really don’t feel like that’s the smartest way to tackle this.",negative
+1158,N-04-S01-V03,Things are just too hectic right now for me to manage that.,negative
+1159,MP05-04-V04-I,"I can see how two sessions could make the exercises easier to fit in, but I haven’t decided.",indifferent
+1160,MP02-04-V06-P,"Alright, I’ll split the physiotherapy exercises into two sessions today.",positive
+1161,P-02-S03-V02,I can fit that action in after I’ve finished dinner.,positive
+1162,MP05-03-V06-I,"Okay, having one on my desk is one possibility.",indifferent
+1163,MP06-04-V06-N,"Okay, but I’d prefer to keep them in one session.",negative
+1164,MP03-04-V04-N,"I can see how two shorter sessions could fit, but I’m not sure I want to do the exercises that way.",negative
+1165,MP01-01-V06-P,"Yes, I’ll put my medication beside my breakfast items tonight.",positive
+1166,MP05-03-V03-VP,That’s a great idea. I’ll put a water bottle on my desk today.,very_positive
+1167,BA05-A04,That could help. I’ll keep it in mind and see whether I want to try it.,indifferent
+1168,MP07-03-V02-VP,I’ll keep a water bottle on my desk,very_positive
+1169,HN04-02-V02,"I really don’t want to go outside right now, though I’d be okay doing some light stretching indoors later.",negative
+1170,MP10-01-V06-I,"Okay, I suppose that location is an option.",indifferent
+1171,VP-03-S04-V04,"Since I’m comfortable with the plan, I’ll take the initiative and continue from here.",very_positive
+1172,MP02-01-V05-P,I’ll keep it by my toothbrush.,positive
+1173,VP-02-S04-V03,I genuinely appreciate your support because it helped me understand and accept the action you recommended.,very_positive
+1174,N-03-S02-V01,I don’t really buy the reasoning behind that suggestion.,negative
+1175,MP07-02-V06-VN,"No, I don’t want you pushing this on me. Stop bringing it up.",very_negative
+1176,BA07-A01-V04,I’ll have everything ready tonight and take the walk after breakfast tomorrow.,very_positive
+1177,MP02-03-V01-I,Setting a water flask on my desk is an option.,indifferent
+1178,MP01-04-V02-VP,That’s a great idea. I’ll keep a bottle of water on my desk,very_positive
+1179,P-04-S01-V01,I accept the recommendation and will start on it a bit later today.,positive
+1180,I-04-S01-V05,"Alright, noted.",indifferent
+1181,MP03-04-V03-I,Two sessions could work.,indifferent
+1182,VP-01-S02-V03,"Yes, I completely agree with the approach you’ve outlined.",very_positive
+1183,VP-02-S01-A3,"Thanks, that really helped.",very_positive
+1184,P-01-S02-V03,"Okay, yeah, that sounds fine.",positive
+1185,N-02-S04-V02,I’d rather not do that; I’m willing to consider an alternative.,negative
+1186,BA02-A01-V06,"Sure, I’ll do the physiotherapy exercises first.",positive
+1187,MP08-04-V02-P,"Sure, I’ll divide the physiotherapy exercises into two sessions today.",positive
+1188,MP10-05-I,"Setting them out the night before is an option, but I haven’t decided yet.",indifferent
+1189,I-02-S01-V03,I'm still not sure yet.,indifferent
+1190,MP10-02-V01-I,Taking a post-lunch stroll is a possibility.,indifferent
+1191,MP03-02-V04-I,Taking the walk after lunch is one option I could consider.,indifferent
+1192,MP02-01-V04-P,I’ll put my medication beside my toothbrush tonight so it’s there when I need to take it.,positive
+1193,P-03-S01-A3,"Yeah, I can do that, provided I have the time.",positive
+1194,HN08-02-V04,"I’ll keep a water bottle on my desk today. I don’t really feel like doing it, but I’m willing to go ahead.",positive
+1195,HN07-03-V05,"My first reaction sounded like I wanted to stop, but that isn’t my actual response—I think the suggestion is brilliant and I’m already getting ready.",very_positive
+1196,I-02-S01-A2,I haven’t decided what I want to do yet.,indifferent
+1197,HN05-03-V03,"The room setup is still undecided, but my reaction to the routine is clear—I absolutely love it and I’m already unrolling the mat.",very_positive
+1198,P-01-S02-V02,I agree with that approach and can go along with it.,positive
+1199,HN06-03-V03,"Early-morning exercise isn’t normally my preference, but that doesn’t change how much I like this routine—I’m already laying out the mat for tomorrow.",very_positive
+1200,BA10-A02-V04,Stop asking me to change my physiotherapy routine.,very_negative
+1201,BA02-A02,I’ll think about whether that would work for me.,indifferent
+1202,BA01-A03-V02,"Keeping a bottle beside me should make a real difference, so I’ll fill one up now.",very_positive
+1203,BA06-A02-V05,I’d prefer to keep the routine unchanged. Splitting it doesn’t suit my schedule.,negative
+1204,MP02-03-P,I’ll put a bottle on my desk and use it during the afternoon.,positive
+1205,MP01-03-V05-P,"Okay, I’ll do two physiotherapy sessions today.",positive
+1206,VN-02-S03-V06,"The reasoning behind this is completely unconvincing, and I reject it entirely.",very_negative
+1207,VN-01-S02-A3,"No, I’m not going with that approach.",very_negative
+1208,P-03-S02-V06,"Okay, I’ll follow the plan. I’d just prefer a different time.",positive
+1209,MP02-04-V04-I,I can see how splitting the physiotherapy exercises into two sessions could make them easier to fit in.,indifferent
+1210,MP01-03-V01-VP,I'll eagerly separate my physical therapy into two daily sessions.,very_positive
+1211,BA06-A01-V05,That makes the routine much easier for me. I’ll get the first session done now and finish the second after work.,very_positive
+1212,MP05-03-V02-I,Keeping a water bottle on my desk is one option I could consider.,indifferent
+1213,BA09-A04-V05,I don’t want further prompting about hydration. Please leave that topic alone.,very_negative
+1214,MP02-03-V02-P,I’ll keep a bottle of water on my desk and drink from it during the afternoon.,positive
+1215,BA08-A02,I’d rather not change the time. I prefer taking it later.,negative
+1216,MP10-02-V05-VN,No. Stop asking me to walk at lunch.,very_negative
+1217,BA09-A02-V03,"No, I’m not doing that. Please stop getting involved with my medication.",very_negative
+1218,BA09-A01-V02,"Beside my breakfast items, I can keep the medication so it’s there in the morning.",positive
+1219,VN-02-S04-V06,"Even though I understand your words, I stand completely against this recommendation.",very_negative
+1220,VN-04-S02-V05,I don’t want you contacting me about this anymore.,very_negative
+1221,VP-01-S01-A1,"Absolutely, I’ll do that.",very_positive
+1222,MP07-01-V03-VP,That’s really helpful. I’ll set it up tonight,very_positive
+1223,MP03-01-V01-N,I decline to store my pills by the sink.,negative
+1224,VN-04-S01-V05,This conversation is over for me.,very_negative
+1225,MP07-04-V06-VN,"No, I’m not doing that. Stop pushing the idea.",very_negative
+1226,P-03-S04-V03,"Yeah, I’ll do that, though I’d still rather use the other option.",positive
+1227,BA06-A01-V01,"Absolutely, that works well for me. I’ll do one physiotherapy session now and the other after work.",very_positive
+1228,MP03-03-V04-N,"I can see the benefit, but I’d rather not keep a water bottle on my desk.",negative
+1229,BA04-A01-V05,I’m going to pass on that for today. It could be worth trying another time.,negative
+1230,VP-03-S02-V03,I want to understand the process well enough to carry it out properly.,very_positive
+1231,BA08-A02-V02,Getting a cup when I need water suits me better than keeping a bottle on my desk.,negative
+1232,VN-03-S03-V06,"It’s getting infuriating, so seriously stop sending me these reminders.",very_negative
+1233,BA04-A02-V03,"No, I’m not doing that. Please stop bringing up my hydration.",very_negative
+1234,BA10-A03,I’m not sure. Let me think about whether I want a reminder.,indifferent
+1235,MP03-01-V04-I,Putting my medication beside my toothbrush is one option I could consider.,indifferent
+1236,BA01-A04,"Yes, let’s do that. I’ll follow the reminder and do them tonight.",positive
+1237,MP01-02-V03-VP,I’m actually looking forward to that walk after dinner.,very_positive
+1238,VN-04-S01-V04,I am explicitly terminating the interaction and will not continue discussing the intervention.,very_negative
+1239,HN01-02-V04,"I’m really looking forward to getting outside and starting today. I’ll do it, even though calling it a chore would make it sound too ordinary.",very_positive
+1240,MP06-04-V05-VP,I’ll split them into two sessions.,very_positive
+1241,HN10-04-V03,"I initially left open the possibility of taking the medication later, but I’m rejecting that now. Stop meddling with my medication; I don’t want this discussion anymore.",very_negative
+1242,P-02-S03-A3,"Yeah, I’ll do it after dinner.",positive
+1243,MP05-01-V03-I,Keeping it there might work.,indifferent
+1244,MP07-02-VN,No chance. Stop telling me how to spend my lunch break.,very_negative
+1245,I-02-S02-V02,I'm weighing whether that recommendation makes sense for me.,indifferent
+1246,MP04-03-V05-N,I’d rather not keep one on my desk.,negative
+1247,MP01-04-V04-VP,I’ll put a water bottle on my desk now,very_positive
+1248,VP-01-S02-A1,"Yes, I’m definitely going with that.",very_positive
+1249,MP06-04-V04-N,I’d prefer to keep the physiotherapy exercises in one session because splitting them feels less convenient for me.,negative
+1250,BA08-A02-V05,"I understand the idea, but keeping a bottle on my desk isn’t how I want to handle it. I’d rather use a cup when needed.",negative
+1251,N-03-S03-V06,"Honestly, is there another approach that might work better?",negative
+1252,HN10-03-V04,I haven’t decided whether to take the walk yet. Leave me out of your fitness programs; I’m only considering the walk as an option.,indifferent
+1253,BA03-A01-V05,I can’t say yet. I want to see how the afternoon goes first.,indifferent
+1254,HN02-01-V04,"I’ll put the pillbox beside my toothbrush tonight. Maybe it’s a good idea, maybe not, but I’m going to do that.",positive
+1255,BA01-A01-V06,"Yeah, absolutely. I’ll take it tonight and get myself into the routine.",very_positive
+1256,MP01-03-V01-P,I'll separate my physical therapy into two daily sessions.,positive
+1257,MP06-03-V02-N,I’d prefer not to have a water bottle on my desk while I’m working.,negative
+1258,MP05-02-V02-I,Taking the walk after lunch is one possibility I could consider.,indifferent
+1259,BA07-A01-V06,"Yep, I’m in. I’ll get things ready tonight and go for the walk after breakfast.",very_positive
+1260,MP04-01-VN,"No. I’m not doing that, and I don’t want this suggestion brought up again.",very_negative
+1261,MP05-01-V06-I,"Okay, I suppose that location is an option.",indifferent
+1262,HN02-01-V06,"Maybe, sure—but I’ll put the pillbox beside my toothbrush tonight.",positive
+1263,VP-01-S03-V01,I’m very willing to give it a go.,very_positive
+1264,N-04-S02-A1,I could do it if the timing were changed.,negative
+1265,BA08-A04-V05,"I have the time for it, but I’d prefer to leave the walk out today.",negative
+1266,MP10-02-V06-VN,"No, seriously, leave my lunch break alone and stop bringing this up.",very_negative
+1267,HN06-04-V05,"The initial enthusiasm was about the plan in general, not the alarm itself—I don’t want an evening alarm and would rather take the medication without one.",negative
+1268,BA02-A04-V04,I’ll see whether taking it after breakfast fits my routine.,indifferent
+1269,BA08-A01-V02,"During the morning, I can keep a bottle on my desk and drink from it.",positive
+1270,N-02-S02-A3,I don’t think I’ll do that one.,negative
+1271,MP01-05-VP,"Yes, that would make my mornings much easier. I’ll prepare it tonight.",very_positive
+1272,BA04-A01-V03,I’d rather skip the bottle today. Maybe I’ll give it a try later.,negative
+1273,HN08-01,"I’m not enthusiastic about changing things, but I’ll keep it beside my toothbrush.",positive
+1274,HN02-03-V06,"Hmm, I’m still figuring out the setup, but yes, I’ll unroll the mat in the living room today.",positive
+1275,MP05-01-I,That’s a place I could keep it.,indifferent
+1276,VN-02-S02-V02,Everything about this method runs directly counter to what I will ever agree to do.,very_negative
+1277,HN03-04-V04,"I’d rather keep my desk clear and get water from the kitchen instead. A bottle on the desk might have worked, but no, I don’t want it there.",negative
+1278,BA06-A04-V04,I’ll keep my medication stored away rather than leaving it on the breakfast counter.,negative
+1279,MP01-02-VP,"Yes, that sounds great. I’ll go after dinner, and I’m looking forward to getting started.",very_positive
+1280,HN07-03,"Stop—actually, stop me from overthinking it. I really like the idea, and I’m putting the bottle there now.",very_positive
+1281,I-01-S03-V06,"Alright, I hear the recommendation.",indifferent
+1282,N-01-S03-A1,I’m becoming less willing to do this with all the reminders.,negative
+1283,I-04-S03-V01,That is the recommendation you’re putting forward.,indifferent
+1284,HN03-04-V01,"A bottle on the desk might be fine—actually, no, I’d rather keep my desk clear and get water from the kitchen.",negative
+1285,VN-04-S03-V02,Managing this on my own without any interference from you is how I will proceed.,very_negative
+1286,MP04-06-N,I can keep track of my medication on my own without an extra reminder.,negative
+1287,MP02-02-V03-P,"Sure, I’ll take the walk after lunch today.",positive
+1288,I-02-S03-V01,I'd like some time before deciding what I'll do.,indifferent
+1289,I-04-S02-V06,Did you hear what I’m saying as well?,indifferent
+1290,MP02-04-V01-I,Breaking my physical therapy into two parts is an idea.,indifferent
+1291,N-04-S02-A2,That might work for me under different conditions.,negative
+1292,MP10-03-VN,I told you I don’t want a bottle there. Stop bringing it up.,very_negative
+1293,VP-01-S02-V06,That explanation is fantastic — shall we get started on that approach right away?,very_positive
+1294,HN04-02-V03,"I’m completely against going outside right now, but I’m not rejecting exercise—I’m willing to do some light stretching indoors later.",negative
+1295,HN09-03-V02,"I’m not looking to make a big routine out of it, but yes, I’ll take the fifteen-minute walk after dinner.",positive
+1296,N-03-S01-V05,I’m not convinced that recommendation works for me.,negative
+1297,MP03-02-V01-N,I refuse to take a post-lunch stroll.,negative
+1298,MP01-06-VP,"Absolutely, that works well for me. I’ll get them done first so I can relax afterward.",very_positive
+1299,P-04-S02-V02,Putting this on my schedule for tomorrow is something I can commit to doing.,positive
+1300,N-01-S03-A3,"Honestly, all these reminders are making me less willing to do it.",negative
+1301,MP03-02-V02-I,I could take the walk after lunch.,indifferent
+1302,P-04-S01-V03,"Yeah, sounds good. I’ll definitely do that later on.",positive
+1303,P-02-S04-V03,"Yeah, I’ll keep doing it.",positive
+1304,BA06-A02-V04,I’m not going to divide the physiotherapy routine into two sessions today.,negative
+1305,P-02-S01-V05,I’ll make time for it and get it done.,positive
+1306,MP09-01-V05-VN,No. Stop suggesting that.,very_negative
+1307,BA06-A02-V02,"The routine works better as it is, so I don’t want to split it into two sessions.",negative
+1308,MP07-03-V03-VP,That’s really helpful. I’ll put one on my desk now.,very_positive
+1309,MP05-04-VP,That sounds really helpful. I’ll try the two-session approach today and see how much easier it feels.,very_positive
+1310,VP-01-S01-V01,I’m completely on board with that — let’s go for it!,very_positive
+1311,HN09-01-V03,"I don’t particularly like having pills beside my bed, but I’m still willing to put the pillbox beside the clock.",positive
+1312,I-03-S02-V05,I’m still holding off on deciding.,indifferent
+1313,MP06-02-VP,"Yes, that sounds excellent. I’ll take the walk after lunch tomorrow and get started.",very_positive
+1314,BA10-A04-V05,I don’t want this kind of prompting anymore. Please leave medication reminders out of our interactions.,very_negative
+1315,MP07-03-VP,That’s a great idea. I’ll put one on my desk right now and start using it this afternoon.,very_positive
+1316,BA01-A02,"Okay, that works. I’ll do the exercises tonight.",positive
+1317,I-01-S01-A2,"Alright, I hear you.",indifferent
+1318,VP-03-S02-V04,"I’m keen to do this well, so some additional guidance would be useful.",very_positive
+1319,MP05-01-V02-VP,That sounds like an excellent approach. I’ll keep my medication next to my toothbrush tonight,very_positive
+1320,P-01-S02-V04,I understand the recommendation and I’m comfortable following it.,positive
+1321,MP07-02-V01-VN,Don't ever ask me to go for a stroll following lunch.,very_negative
+1322,MP10-03-V02-I,Keeping a water bottle on my desk is one possibility I could consider.,indifferent
+1323,BA02-A03-V02,"After breakfast, I’ll take the medication; that should be manageable.",positive
+1324,N-03-S04-A2,Another option would suit me better.,negative
+1325,MP04-04-V06-VN,"No, I’m not splitting them up. Please stop bringing this up.",very_negative
+1326,P-01-S02-V06,"Okay, I’m good with that.",positive
+1327,BA06-A04-V01,"I see the point, but I’d rather keep my medication stored away instead of leaving it on the breakfast counter.",negative
+1328,HN06-01-V03,"I generally avoid adding things around the house, but that preference doesn’t change my reaction—I love the idea and I’m already putting the pillbox beside the mirror.",very_positive
+1329,BA02-A02-V02,Whether I do the exercises at that point depends on how my evening works out.,indifferent
+1330,MP07-03-V04-VP,I’ll put a water bottle on my desk now,very_positive
+1331,MP03-04-V05-N,I’d rather not do two sessions.,negative
+1332,MP07-01-V06-VN,"No, seriously, I’m not doing that. Please stop bringing it up.",very_negative
+1333,MP05-03-V02-VP,I’ll keep a water bottle on my desk and start using it this afternoon.,very_positive
+1334,HN06-02-V05,"Normally I’d keep drinks away from my laptop, but this plan makes sense to me and I’m enthusiastic enough to put the bottle on my desk now.",very_positive
+1335,N-04-S02-V03,I might be able to swing it if we could shift the time around a bit.,negative
+1336,MP09-04-V04-P,I’ll split the physiotherapy exercises into two sessions today so they’re easier to fit into my schedule.,positive
+1337,VP-03-S03-V04,This is useful enough that I’d like to explore it a little further.,very_positive
+1338,MP02-01-I,That’s one place I could keep it.,indifferent
+1339,VP-01-S03-A2,That explanation really cleared it up for me.,very_positive
+1340,I-01-S03-A1,I’ve heard the recommendation.,indifferent
+1341,VN-02-S01-V03,"No way, I’m dead set against doing something like this.",very_negative
+1342,BA04-A03-V06,"Yeah, I’d rather stay inside today. I can do some light activity here.",negative
+1343,MP09-04-V01-VN,Stop telling me to separate my physical therapy.,very_negative
+1344,HN01-04-V05,"The tracking part sounded like too much, but that’s not what matters—I’ll keep it simple and drink water after each meal.",positive
+1345,I-02-S04-A3,I don’t know yet. I’m still thinking.,indifferent
+1346,HN09-04-V05,The initial agreement doesn’t stand—I’m ending this discussion about how I organize my medication. Stop giving me these suggestions.,very_negative
+1347,HN06-01-V05,"Keeping things uncluttered is usually important to me, but this is one of those ideas I genuinely like, so I’m setting the pillbox beside the mirror now.",very_positive
+1348,MP01-02-V01-P,I'll go for a walk once dinner is finished.,positive
+1349,N-04-S03-V01,I’m unwilling to carry it out in that specific manner.,negative
+1350,MP09-04-V01-P,I'll separate my physical therapy into two parts.,positive
+1351,I-02-S04-V03,"I can see both sides, but I don't know yet.",indifferent
+1352,MP03-05-I,Preparing them the night before is an option.,indifferent
+1353,I-03-S02-V06,Could I decide about this later?,indifferent
+1354,MP06-03-V01-VP,I'm excited to keep a flask at my workstation.,very_positive
+1355,VN-02-S03-V02,The core premise that this action is something I ought to be doing is completely unacceptable to me.,very_negative
+1356,VN-01-S02-V06,"With that approach, I’m not going forward; it’s an absolute no.",very_negative
+1357,HN04-01-V04,"I’d rather take my medication at night instead. I reacted strongly because I hate morning routines, but the nighttime option works for me.",negative
+1358,HN09-04-V04,"Stop telling me how to organize my medication. I’m sick of these suggestions. I said it sounded convenient, but actually, no, I don’t want this anymore.",very_negative
+1359,VP-01-S02-V04,"Now that I understand why you’re suggesting it, I’m fully on board.",very_positive
+1360,VP-02-S02-V03,I can clearly see that your explanation has made the recommendation much easier for me to understand and accept.,very_positive
+1361,HN01-03-V04,"I actually love this approach and I’m laying out the mat right now, even if it might look like nothing special at first.",very_positive
+1362,VP-03-S04-V06,Should I go ahead and start the next step now?,very_positive
+1363,VP-01-S01-V03,That’s exactly the approach I want to take.,very_positive
+1364,BA08-A01-V01,Alright. I can keep a water bottle on my desk and sip from it during the morning.,positive
+1365,VN-04-S01-V02,"As far as I am concerned, every aspect of this discussion is permanently closed.",very_negative
+1366,MP07-02-V03-VN,"No, I’m not doing that. Leave my lunch break alone.",very_negative
+1367,VP-02-S03-A2,That gives me something practical I can actually use.,very_positive
+1368,HN09-04-V06,"Sure, sounds convenient—no, actually, stop. I’m sick of these medication suggestions, so leave it alone.",very_negative
+1369,BA05-A01-V06,"Yeah, exactly. I’ll put it beside my breakfast bowl right now.",very_positive
+1370,MP06-04-V02-VP,That sounds really helpful. I’ll divide the exercises into two sessions today,very_positive
+1371,VN-04-S02-V02,"Regarding this issue, any future messages or contact will be strictly rejected.",very_negative
+1372,MP04-04-V04-N,"Doing the exercises in one session works better for me, so I’d rather not divide them into two.",negative
+1373,BA10-A03-V03,I’m not sure yet. Let me think about it.,indifferent
+1374,HN09-02-V01,"I absolutely detest having a cluttered workspace, however I will keep a bottle of water there.",positive
+1375,VN-02-S04-V02,Nothing in your justification has altered my steadfast refusal in the slightest.,very_negative
+1376,MP08-02-P,"Okay, I’ll take the walk after lunch.",positive
+1377,N-02-S04-V03,I’d really prefer not to do that — could we try a different angle instead?,negative
+1378,BA01-A03-V06,"Yeah, let’s do it. I’ll fill the bottle now and leave it right beside me.",very_positive
+1379,MP04-05-N,I’d rather just get my clothes ready in the morning when I wake up.,negative
+1380,VP-03-S04-V02,"Alright, I’ll get started on the next part.",very_positive
+1381,BA02-A03-V05,That timing should fit. I’ll take the medication after breakfast.,positive
+1382,MP01-02-V02-VP,I’ll go for the walk after dinner,very_positive
+1383,I-03-S03-V05,I’m keeping my decision open for now.,indifferent
+1384,MP04-03-V04-VN,"I’m not putting a water bottle on my desk, and I’m done with these suggestions.",very_negative
+1385,P-03-S02-A1,"I’ll do it, but I’d prefer to adjust the timing.",positive
+1386,VN-04-S02-A1,Stop reminding me about this.,very_negative
+1387,MP07-03-V06-VN,"No, seriously, I’m not doing that. Stop suggesting it.",very_negative
+1388,MP09-01-V06-P,"Alright, I’ll keep my medication beside my toothbrush.",positive
+1389,MP02-02-V01-P,I'll head out for a walk following lunch.,positive
+1390,VP-02-S04-A2,That was exactly the kind of guidance I needed.,very_positive
+1391,P-03-S01-A2,That should work if I can fit it in.,positive
+1392,BA02-A04-V05,"It sounds workable, but I want to see how my routine actually goes before committing.",indifferent
+1393,MP02-01-V06-P,"Okay, I’ll keep my medication beside my toothbrush.",positive
+1394,VN-04-S01-V03,I’m completely done talking about this — we’re finished here.,very_negative
+1395,BA09-A02-V06,"No, seriously, I don’t want you managing my medication. Stop bringing it up.",very_negative
+1396,BA10-A03-V06,"Hmm, I’m not sure. I’ll think about it first.",indifferent
+1397,VP-03-S03-V05,"Okay, yeah, let’s keep going.",very_positive
+1398,HN05-03-V01,"I haven’t settled on the room layout, but I absolutely love the physiotherapy routine and I’m unrolling the mat right away.",very_positive
+1399,BA07-A04-V04,Stop giving me advice about my physiotherapy exercises.,very_negative
+1400,N-02-S02-V03,"Yeah, I’m gonna skip that specific suggestion.",negative
+1401,BA04-A02,"No. I’m not doing it, and I don’t want to discuss it again.",very_negative
+1402,BA08-A03-V02,"After lunch today, I can take a short walk.",positive
+1403,I-02-S04-V05,I'm still considering both possibilities.,indifferent
+1404,N-04-S02-V01,I’d be willing to proceed if we modified the schedule.,negative
+1405,BA05-A02,That’s one idea. I’ll think about whether I want to try it.,indifferent
+1406,MP04-01-V01-N,I prefer not to leave my pills out.,negative
+1407,MP07-04-V02-VN,"I’m not going to divide them into two sessions, and I want you to stop pushing this idea.",very_negative
+1408,HN02-04-V05,"Putting a bottle there sounds possible, but that isn’t a decision yet—I’m still undecided about doing it today.",indifferent
+1409,BA05-A03-V01,That could make a real difference. I’m going to keep a full water bottle on my desk from today.,very_positive
+1410,MP03-03-V03-I,A bottle on my desk might work.,indifferent
+1411,P-04-S03-A3,"Okay, I’ve made up my mind. I’ll go ahead.",positive
+1412,MP09-01-V04-P,"Okay, I’ll put my medication beside my toothbrush tonight so I can remember to take it.",positive
+1413,N-04-S03-A1,I don’t want to do it in that way.,negative
+1414,MP06-01-V02-N,I’d prefer to store my medication in the cabinet rather than beside the toothbrush.,negative
+1415,MP10-02-V04-VN,"I’m not changing how I use my lunch break, and I’m done with you pushing the walk.",very_negative
+1416,N-03-S01-V01,I have to disagree with that suggested plan.,negative
+1417,MP10-01-V01-I,Leaving my pills out is an option.,indifferent
+1418,VP-02-S03-V06,That guidance helped a lot — is there another step you’d recommend?,very_positive
+1419,HN10-01,I’m not saying no to the idea; I’m still considering where I would keep it.,indifferent
+1420,N-02-S01-V02,I’m choosing not to take that on.,negative
+1421,BA02-A01-V01,"Alright, I’ll get the physiotherapy exercises done before I settle in for the evening.",positive
+1422,P-02-S02-A2,I can work that into my routine.,positive
+1423,MP06-01-V03-VP,That’s really helpful. I’ll put my medication by my toothbrush tonight.,very_positive
+1424,P-02-S02-A3,"Okay, I’ll stick to that.",positive
+1425,I-01-S01-V03,"Okay, I hear you.",indifferent
+1426,P-04-S02-A3,"I needed a little time, but yeah, I’ll do it.",positive
+1427,MP01-02-V04-VP,I’ll take the walk after dinner,very_positive
+1428,I-03-S04-A3,Maybe. I’ll think it over.,indifferent
+1429,P-02-S02-V05,I’ll keep it as part of my usual schedule.,positive
+1430,MP04-02-V03-VN,"No, I’m not walking during lunch. Stop asking me.",very_negative
+1431,MP01-01-V04-P,I’ll put my medication beside my breakfast items tonight.,positive
+1432,MP08-01-V02-P,I’ll leave my medication next to my toothbrush so it’s easier to remember.,positive
+1433,MP10-03-V04-I,"Having a water bottle on my desk could make things easier, but I’m leaving that decision open for now.",indifferent
+1434,I-02-S04-A1,"I can see both sides, and I haven’t decided.",indifferent
+1435,I-04-S01-A1,Okay.,indifferent
+1436,BA04-A01,I’d rather not do it this evening. Maybe another time would work better.,negative
+1437,BA04-A02-V04,Stop monitoring my drinking and leave hydration out of our conversations.,very_negative
+1438,MP04-04-V03-N,Two sessions sounds like more hassle. I’d rather do them together.,negative
+1439,MP10-02-V05-I,Walking at that time is an option.,indifferent
+1440,I-04-S01-A3,Hmm.,indifferent
+1441,I-04-S01-V02,"Okay, I hear you.",indifferent
+1442,VN-03-S04-V02,Steering our conversation down this path is something I forbid you from continuing.,very_negative
+1443,I-01-S02-V05,"Okay, I understand the suggestion.",indifferent
+1444,P-02-S01-V06,"Right, I’ll see that it gets done.",positive
+1445,MP08-02-V06-P,"Okay, I can do the walk after lunch.",positive
+1446,BA05-A04-V04,I’ll consider keeping a water bottle on my desk.,indifferent
+1447,MP07-02-V05-VP,Great—I’ll walk after lunch tomorrow.,very_positive
+1448,BA01-A04-V03,"Sure, I’ll keep it on my desk and drink from it today.",positive
+1449,HN08-01-V04,"I’ll put my medication beside the breakfast plate. I don’t really like changing where I keep things, but I’m fine doing it this way.",positive
+1450,VN-02-S04-V03,"I hear what you’re trying to say, but I’m still 100% against it.",very_negative
+1451,MP02-01-V03-I,Keeping it there might work.,indifferent
+1452,N-04-S03-V04,I’m resisting the current form of the intervention rather than rejecting every possible alternative.,negative
+1453,HN03-02,I wouldn’t say I dislike the idea. I’m just considering whether after lunch fits.,indifferent
+1454,VP-01-S02-A2,That makes a lot of sense to me.,very_positive
+1455,MP09-06-P,"Sure, I’ll set the reminder for the evening dose.",positive
+1456,P-03-S01-V02,That should be fine provided I can fit it into my day.,positive
+1457,BA03-A04-V03,"I could fit them in, but I’d rather not do them before dinner.",negative
+1458,HN05-04-V05,The initial ‘I’ll take it tonight’ was premature—I’m still deciding whether that timing works for me.,indifferent
+1459,I-03-S03-V06,Do I need to commit to doing it now?,indifferent
+1460,MP08-01-V06-N,"Okay, but I’d prefer to keep my medication somewhere else.",negative
+1461,BA03-A02-V05,I’d prefer to leave the walk out today rather than do it at lunchtime.,negative
+1462,MP03-01-V02-I,Keeping my medication there is another possibility.,indifferent
+1463,P-03-S01-V05,"I can make that work, assuming the schedule lines up.",positive
+1464,N-02-S01-V05,I’d rather leave that one.,negative
+1465,HN10-01-V06,"No, don’t assume that’s the only option. It might work, though—I’m still thinking about whether I want the medication there.",indifferent
+1466,VP-03-S04-A1,I’ll start with that and then build from there.,very_positive
+1467,MP04-04-V01-VN,Stop telling me to split my daily physical therapy.,very_negative
+1468,BA05-A01-V02,"Right now, I’m going to put my medication beside my breakfast things so I can make this part of my morning routine.",very_positive
+1469,I-02-S04-A2,I’m still weighing the options.,indifferent
+1470,VN-03-S04-A3,Enough. Stop bringing this up.,very_negative
+1471,MP07-01-V05-VN,No. Stop suggesting it.,very_negative
+1472,MP05-03-V03-I,A water bottle on my desk might work.,indifferent
+1473,P-03-S03-A2,I think I can make that work if it stays practical.,positive
+1474,N-03-S02-V02,The explanation you gave doesn’t sufficiently justify that recommendation to me.,negative
+1475,MP02-02-V05-I,Walking at that time is an option.,indifferent
+1476,BA03-A03-V01,I’m still working out whether I’ll have enough energy for the exercises before dinner.,indifferent
+1477,P-04-S03-V04,I accept the suggestion and intend to cooperate once my current obligation is resolved.,positive
+1478,HN02-02-V01,"That might work, I suppose, but I’ll go ahead and take the walk after lunch today.",positive
+1479,VP-04-S02-V06,Would it make sense for me to build that into my routine from now on?,very_positive
+1480,MP05-04-V03-VP,I’ll try doing the physiotherapy exercises in two sessions today.,very_positive
+1481,HN01-02-V05,"If you take ‘chore’ as the important part, that’s not really my reaction—I’m looking forward to getting outside and starting.",very_positive
+1482,BA04-A04-V06,"No, please stop. I really don’t want any more suggestions about going outside.",very_negative
+1483,I-01-S03-V03,"Okay, I've heard you.",indifferent
+1484,N-03-S01-V06,"Well, could we consider a different recommendation?",negative
+1485,VP-01-S03-V02,"Yeah, I’m up for doing that right away.",very_positive
+1486,MP03-01-I,That’s another place I could keep it.,indifferent
+1487,HN09-03,I’m done with the desk idea. I’ll keep the bottle in my bag and use it during the afternoon.,positive
+1488,I-04-S03-A2,"Okay, that’s your suggestion.",indifferent
+1489,VN-04-S01-A1,I’m ending this conversation now.,very_negative
+1490,BA09-A03-V02,"During work, I’ll keep a filled bottle on my desk and see whether that works for me.",positive
+1491,BA05-A01-V05,That gives me a concrete way to make this easier. I’m going to set the medication out now.,very_positive
+1492,BA08-A04-V04,I’d rather skip the walk today.,negative
+1493,I-03-S02-A3,Maybe later. I’m not deciding right now.,indifferent
+1494,MP02-03-V04-P,I’ll put a water bottle on my desk and use it throughout the afternoon.,positive
+1495,MP03-01-V06-N,"Okay, but I’d rather not keep my medication there.",negative
+1496,MP03-04-V01-N,I refuse to divide the exercises into two parts.,negative
+1497,MP05-04-I,Two shorter sessions are one possibility.,indifferent
+1498,MP05-01-V03-VP,That’s really helpful. I’ll put my medication by my toothbrush tonight.,very_positive
+1499,BA05-A03-V04,I’ll fill a bottle now and keep it on my desk so it’s there while I work.,very_positive
+1500,HN01-04-V03,"I was about to make a detailed log, but that’s unnecessary. I’ll keep it simple and drink the water after each meal.",positive
+1501,VN-03-S02-A2,More persuasion is only making me oppose this more strongly.,very_negative
+1502,I-01-S02-V06,"Right, I hear what you're proposing.",indifferent
+1503,MP03-01-V02-N,I’d prefer not to keep my medication next to my toothbrush.,negative
+1504,BA03-A01-V04,I’ll decide later whether to take the walk.,indifferent
+1505,N-02-S03-V06,Could we come back to this another time?,negative
+1506,MP02-04-V04-P,I will divide the exercises into two sessions to fit my schedule better.,positive
+1507,MP10-02-V02-I,Taking the walk after lunch is one option I could consider.,indifferent
+1508,MP10-01-V02-VN,"I refuse to put my medication there, and I don’t want you raising this suggestion again.",very_negative
+1509,BA04-A01-V04,"I won’t keep the water bottle on my desk today, but I may try that later.",negative
+1510,VP-03-S04-V01,I can take the next step myself.,very_positive
+1511,HN08-01-V02,"I’m not a fan of changing where I keep things, but that’s okay—I’ll put the medication beside my breakfast plate.",positive
+1512,I-03-S04-V01,"I’ll think about the suggestion, but no decision yet.",indifferent
+1513,MP08-02-V05-P,I’ll walk after lunch.,positive
+1514,BA08-A03-V01,"Alright, I can fit in a short walk after lunch today.",positive
+1515,VN-02-S02-V01,I categorically condemn this approach and refuse to implement it.,very_negative
+1516,N-02-S02-V02,I’ll take a different approach instead.,negative
+1517,MP01-03-V04-VP,I’ll split the physiotherapy exercises into two sessions today,very_positive
+1518,HN05-01-V06,"Maybe, sure, someone else would hesitate—but I’m actually thrilled about it and I’m putting the medication beside my breakfast bowl now.",very_positive
+1519,MP01-04-VP,I like that approach. I’m going to put one on my desk now and start using it today.,very_positive
+1520,N-03-S01-A2,I’m not convinced that’s the right approach for me.,negative
+1521,P-02-S02-A1,I’ll follow the recommendation.,positive
+1522,N-01-S02-V01,I’m reluctant to start that at the moment.,negative
+1523,I-04-S02-A1,I heard you.,indifferent
+1524,MP09-03-V04-P,"Alright, I’ll keep a water bottle on my desk so it’s easy to reach during work.",positive
+1525,BA07-A04-V02,"How I do my physiotherapy is something I want to handle myself, so please stop giving me these suggestions.",very_negative
+1526,P-02-S04-A2,I don’t see a problem with trying it.,positive
+1527,VP-02-S02-A3,"Ah, got it. Thanks, that cleared things up.",very_positive
+1528,HN04-03-V05,"The issue is the timing and being directed right now, not the entire idea—I’m not up for physiotherapy at the moment. Let’s discuss it later.",negative
+1529,MP10-04-V02-VN,"I refuse to split the exercises into two sessions, and I don’t want you suggesting it again.",very_negative
+1530,N-01-S02-V04,"I’m not willing to get started right now, although I’m not ruling it out entirely.",negative
+1531,MP07-02-V03-VP,Sounds great. I’ll start the walk after lunch tomorrow.,very_positive
+1532,MP10-04-V02-I,Doing the exercises in two sessions is one possibility I could consider.,indifferent
+1533,N-01-S01-A2,I’d need a little more time before I go ahead with it.,negative
+1534,MP02-06-P,I’ll set a reminder for the evening dose.,positive
+1535,P-01-S02-A3,"Okay, that sounds fine.",positive
+1536,I-04-S03-V05,That’s the option you’re recommending.,indifferent
+1537,N-03-S01-V04,"I disagree with the recommendation, so I’m not willing to follow it as proposed.",negative
+1538,VP-02-S04-V02,"Honestly, thanks — I really needed that explanation.",very_positive
+1539,MP05-04-V06-VP,I’ll split the physiotherapy exercises into two sessions today.,very_positive
+1540,MP01-04-V01-P,I'll keep a flask of water at my workstation.,positive
+1541,MP05-02-V04-I,"I can see how taking the walk after lunch could work, but I haven’t decided yet.",indifferent
+1542,MP08-06-P,"Sure, I’ll set a reminder for the evening dose.",positive
+1543,HN04-04-V03,"I started by considering getting a bottle, but I’m rejecting the whole direction now. Stop monitoring my water intake; I don’t want this topic brought up again.",very_negative
+1544,BA08-A03-V06,"Sure, I can do that after lunch.",positive
+1545,HN02-04-V04,"I haven’t decided whether I want water on my desk today. I was about to say I’d put a bottle there, but actually, I’m still considering it.",indifferent
+1546,BA03-A01,I’m not sure yet. I’ll decide later.,indifferent
+1547,BA06-A02-V01,I’d rather keep the physiotherapy routine as one session. Changing the schedule doesn’t work for me.,negative
+1548,I-02-S03-V04,I need more time to decide whether I'll cooperate with the recommendation.,indifferent
+1549,BA01-A02-V01,"Alright, that works. I’ll take my medication tonight.",positive
+1550,HN01-03-V01,"It may seem ordinary at first, but I actually love this approach and I’m laying out the exercise mat right now.",very_positive
+1551,BA10-A04-V03,"No more reminders, please. I don’t want you offering medication alerts.",very_negative
+1552,HN03-03-V06,"Hmm, the hallway is pretty narrow, but I haven’t ruled it out. I’ll see later.",indifferent
+1553,I-03-S03-V02,I’ll see how things go before I make any commitment.,indifferent
+1554,MP03-04-V01-I,Dividing the exercises into two parts is possible.,indifferent
+1555,MP06-03-V03-VP,That’s a great idea. I’ll put a bottle on my desk today.,very_positive
+1556,MP04-01-V06-N,"Okay, but I would prefer storing my medication in a different location.",negative
+1557,HN05-02-V03,"It may be one possibility among many, but that doesn’t capture my reaction—I’m very excited about it and I’m lacing up my shoes right now.",very_positive
+1558,P-03-S01-V03,"Yeah, I can do that, as long as the timing works for me.",positive
+1559,MP07-01-V04-VN,"I’m not changing how I set up my medication, and I’m done with you suggesting how I should manage it.",very_negative
+1560,MP02-04-V06-I,"Alright, two sessions could work for the exercises.",indifferent
+1561,BA05-A03-V06,"Yeah, let’s do that. I’ll put a filled bottle on my desk starting today.",very_positive
+1562,VP-03-S02-V05,"Right, I’m happy to keep going. Can you show me the next part?",very_positive
+1563,VP-03-S01-V06,Would there be another step you’d recommend after this?,very_positive
+1564,MP04-02-V05-N,I’d rather not walk at lunch.,negative
+1565,HN08-02-V02,"I’m not especially in the mood for it, but I’ll go ahead and keep a water bottle on my desk today.",positive
+1566,P-02-S03-A1,I’ll do it after dinner.,positive
+1567,MP08-02-V05-N,I’d rather not walk at lunch.,negative
+1568,BA04-A04-V03,Stop bringing up the walks. I don’t want those suggestions anymore.,very_negative
+1569,VN-01-S03-A2,Continuing to suggest it isn’t going to change my decision.,very_negative
+1570,HN01-02-V02,"I’ll do it, even if ‘chore’ sounds a bit ordinary—I’m actually looking forward to getting outside and starting today.",very_positive
+1571,HN05-04-V01,"I’ll take the evening medication right away tonight—actually, hold on, I haven’t decided whether that timing works for me.",indifferent
+1572,N-02-S03-V02,I’d prefer to leave the action for another time.,negative
+1573,I-04-S01-A2,Alright.,indifferent
+1574,N-02-S02-V05,I’m going to leave that recommendation aside.,negative
+1575,VN-04-S03-V06,"With this matter, I don’t want any more help — no thanks.",very_negative
+1576,MP07-01-VN,"No. I’m not doing that, and I don’t want you bringing up this suggestion again.",very_negative
+1577,VP-02-S01-V02,"Thanks, that was genuinely useful.",very_positive
+1578,VP-04-S03-A1,"Yes, I’ll handle it on my own.",very_positive
+1579,MP08-03-V02-P,I’ll keep a water bottle on my desk and use it while I work.,positive
+1580,BA09-A02,"No. I’m not doing it, and I don’t want you asking me about it again.",very_negative
+1581,MP06-02-V01-VP,I'm eager to walk during my midday break.,very_positive
+1582,VP-01-S01-A2,That sounds like exactly what I should do.,very_positive
+1583,MP04-02-V03-N,I’d rather not use lunch for a walk.,negative
+1584,MP04-03-V06-N,"Okay, but my desk is too crowded for a water bottle.",negative
+1585,P-02-S04-V01,I’m willing to keep following the recommendation.,positive
+1586,HN08-02-V06,"Honestly, I don’t feel like it, but sure, I’ll keep the bottle on my desk today.",positive
+1587,MP08-06-N,I don’t think I need another alert on my phone for this.,negative
+1588,HN02-02-V06,"Yeah, I suppose so—but I’ll go ahead and take the walk after lunch today.",positive
+1589,HN04-04-V05,The possibility of getting a bottle is no longer the point—I’m done with the entire discussion about my water intake. Stop bringing it up.,very_negative
+1590,HN07-04-V04,"Stop telling me how to manage my medication. I’m completely fed up with these suggestions. I was going to organize it that way, but no, I’m done with it.",very_negative
+1591,HN06-04-V04,"I’d rather take my medication without an evening alarm. I was eager to follow the plan, but actually, those alarms drive me crazy.",negative
+1592,MP09-04-V06-P,"Alright, I'll do the exercises in two parts today.",positive
+1593,VN-03-S04-V06,Stop bringing this up right now — I’ve had quite enough.,very_negative
+1594,MP09-02-V04-P,"Sure, I can take the walk after lunch today and fit it into my schedule.",positive
+1595,VP-01-S02-V02,"Oh, I get it now — that actually makes a lot of sense.",very_positive
+1596,MP01-02-V03-P,"Sure, I can do the walk after dinner.",positive
+1597,P-04-S01-V06,"Okay, that works for me — I’ll take care of it tonight.",positive
+1598,HN08-02-V05,Not feeling like it doesn’t mean I’m refusing—I’ll still keep the water bottle on my desk today.,positive
+1599,MP01-01-V02-P,"Alright, I’ll keep my medication beside my breakfast items tonight.",positive
+1600,N-04-S02-V06,"Well, would it work if we changed the timing?",negative
+1601,BA06-A04-V02,"Keeping the medication on the counter isn’t something I want to do, even though I understand why it was suggested.",negative
+1602,BA04-A01-V01,I’d prefer not to keep a water bottle on my desk today. I might try it another day.,negative
+1603,VP-01-S03-A1,"Now that you’ve explained it, I’m completely on board.",very_positive
+1604,MP02-01-V02-I,Keeping my medication next to my toothbrush is one possibility.,indifferent
+1605,P-02-S02-V06,"Yeah, I can stick to that.",positive
+1606,MP05-02-V01-VP,I'm thrilled to go for a stroll following lunch.,very_positive
+1607,VN-03-S03-V02,Having to deal with these relentless reminders makes me despise this entire idea even more.,very_negative
+1608,HN10-04-V05,The earlier possibility is withdrawn completely—I’m ending this discussion about my medication. Stop interfering and leave me alone.,very_negative
+1609,HN04-01-V06,"Honestly, I hate morning routines, but yeah, I’d rather take the medication at night.",negative
+1610,BA09-A01-V03,"Okay, I’ll keep my medication by my breakfast things.",positive
+1611,HN06-01-V01,"I usually avoid clutter, but this is an excellent idea and I’m putting the pillbox beside the mirror right away.",very_positive
+1612,HN03-01-V03,"I don’t have a problem with taking the medication itself, but I’m still weighing whether I can fit this timing into my schedule.",indifferent
+1613,BA10-A02-V06,"No, seriously, stop. I don’t want you asking me to change my physiotherapy.",very_negative
+1614,MP04-03-V03-VN,"No, I’m not putting one there. Stop bringing it up.",very_negative
+1615,BA02-A03-V03,"Yeah, that should work. I’ll take it after breakfast.",positive
+1616,VP-02-S02-V01,That explanation was extremely useful to me.,very_positive
+1617,BA06-A04-V05,"The suggestion makes sense, but that storage setup doesn’t work for me. I’d rather keep it where it is.",negative
+1618,HN02-02-V02,"I guess that could work, though I’m not making a big deal of it; I’ll take the walk after lunch today.",positive
+1619,VP-03-S01-A3,Sounds good. Anything else you’d recommend?,very_positive
+1620,MP07-02-V02-VN,Absolutely not. Stop pushing me to use my lunch break for a walk.,very_negative
+1621,N-03-S02-V05,I’m still not persuaded by the reasoning.,negative
+1622,MP04-02-V01-VN,Stop pestering me about walking during my midday break.,very_negative
+1623,MP02-03-V05-P,I’ll keep a water bottle on my desk.,positive
+1624,MP06-01-V04-VP,I’ll put my medication beside my toothbrush tonight and make that part of my routine.,very_positive
+1625,MP10-02-VN,I’m not walking during lunch. Drop this suggestion and don’t ask again.,very_negative
+1626,MP10-06-I,"A reminder might help, but I haven’t decided if I want one yet.",indifferent
+1627,P-01-S02-A2,That sounds reasonable.,positive
+1628,MP06-01-V04-N,I’d prefer to keep my medication in the cabinet because that setup works better for me.,negative
+1629,HN10-02-V03,"I’m frustrated by how much hydration advice I hear, but that doesn’t mean I’ve rejected the bottle idea—I’m still considering it and will decide later.",indifferent
+1630,BA02-A02-V06,"Hmm, I’ll see whether that fits into my evening.",indifferent
+1631,HN02-01-V01,"Maybe it is worth doing, but either way, I’ll put the pillbox beside my toothbrush tonight.",positive
+1632,P-02-S03-V04,I have a specific time in mind and intend to complete the recommended action then.,positive
+1633,MP09-02-V06-VN,"No, seriously, I don’t want you pushing this on me. Stop bringing it up.",very_negative
+1634,P-02-S01-V02,I can make sure that I carry out the recommendation.,positive
+1635,VP-01-S03-V03,I’m ready and genuinely enthusiastic about following through.,very_positive
+1636,I-02-S02-A1,I’m not sure if that recommendation is right for me.,indifferent
+1637,BA10-A04-V04,Stop offering medication reminders.,very_negative
+1638,VN-02-S04-A1,"I still strongly oppose the recommendation, even after your explanation.",very_negative
+1639,MP08-04-V01-P,I'll separate my physical therapy into two parts.,positive
+1640,MP01-02-V05-P,"Okay, I’ll take the walk after dinner.",positive
+1641,VP-04-S02-V02,"Yeah, I can see myself sticking with that.",very_positive
+1642,HN07-02-V03,"Workspace clutter is usually something I strongly dislike, but that doesn’t change my reaction to this plan—I’m excited about it and already filling the bottle.",very_positive
+1643,MP06-06-N,I’d prefer not to get reminder alerts for my doses.,negative
+1644,HN07-04,"I’m done with complicated routines—no, that’s not what I mean. This approach sounds excellent, and I want to try it today.",very_positive
+1645,MP10-03-V03-VN,"No, I don’t want a bottle there. Stop suggesting it.",very_negative
+1646,MP03-04-V06-N,"Alright, but I’m not sure I want to split them into two sessions.",negative
+1647,MP10-03-V04-VN,"I’m not putting a water bottle on my desk, and I’m done with you telling me to do it.",very_negative
+1648,BA10-A01-V04,I’ll decide later whether to split the exercises into two sessions.,indifferent
+1649,N-04-S02-V05,I could consider doing it if we changed the timing.,negative
+1650,MP04-03-V05-VN,No. Stop suggesting it.,very_negative
+1651,HN04-04-V06,"Maybe later—no, actually, forget it. I’m done with this water topic, so stop monitoring my intake.",very_negative
+1652,BA03-A04-V06,"Yeah, I have the time, but I’d rather skip the exercises before dinner.",negative
+1653,N-03-S01-V02,That approach doesn’t really strike me as the right fit for my situation.,negative
+1654,HN10-03-V05,"The fitness-program idea isn’t something I’m signing up for, but the walk remains undecided—I might do it, and I’ll decide later.",indifferent
+1655,N-04-S03-V03,That specific setup really doesn’t sit well with me — can we try a different angle?,negative
+1656,VP-04-S03-V05,"Yeah, no pressure needed. I’m happy to do it.",very_positive
+1657,MP02-02-V01-I,Heading out for a walk following lunch could happen.,indifferent
+1658,BA09-A02-V01,"No. I’m not changing how I handle my medication, and I don’t want you managing it for me.",very_negative
+1659,HN06-01,"I’m usually resistant to changing my setup, but I really like this idea and I’ll put it there tonight.",very_positive
+1660,MP01-01-V01-VP,I'll gladly place my medication near my breakfast food tonight.,very_positive
+1661,BA05-A02-V03,That could be an option. I’ll think about it.,indifferent
+1662,I-03-S03-V04,"I understand the recommendation, but I’m not committing to carrying it out.",indifferent
+1663,BA04-A03,I’d prefer not to get another reminder tonight. I can manage it myself.,negative
+1664,BA06-A03-V05,That gives me a simple way to make the routine easier. I’ll set it up tonight.,very_positive
+1665,MP07-04-V04-VN,"I’m not changing my physiotherapy routine, and I’m done with you trying to manage how I do the exercises.",very_negative
+1666,I-03-S03-V01,I’m not making a commitment to follow it yet.,indifferent
+1667,P-02-S01-A1,I’ll do it as you suggested.,positive
+1668,VN-01-S01-V03,"Yeah, no, I’m definitely not doing that.",very_negative
+1669,HN08-04,"I’d rather not—actually, I’ll prepare them tonight and see how it goes.",positive
+1670,BA05-A01,That’s exactly what I needed. I’m going to put a bottle on my desk right now and start doing it.,very_positive
+1671,HN05-01-V03,"Maybe hesitation would make sense for someone else, but I’m genuinely excited about the idea and I’m already putting the medication beside my breakfast bowl.",very_positive
+1672,HN10-02-V02,"I’m getting tired of all the hydration advice, but I haven’t ruled out keeping a bottle on the desk. I’ll see later.",indifferent
+1673,N-01-S02-V02,I’d prefer not to begin it just yet.,negative
+1674,I-03-S04-A1,"I’ll consider the suggestion, but I haven’t decided.",indifferent
+1675,HN06-03-V04,"I’m already laying the mat out for tomorrow. Doing things before breakfast isn’t normally my preference, but this routine is helpful enough that I’m excited to follow it.",very_positive
+1676,HN08-04-V06,"Okay, sure, I’ll do that—no, actually, evenings don’t work for me. I’d rather take the medication on my own schedule.",negative
+1677,BA09-A03,"Alright, I’ll keep it there and see how that works.",positive
+1678,BA02-A04-V03,That might work. I’ll see how the morning goes.,indifferent
+1679,I-04-S01-V06,"Okay, what happens next?",indifferent
+1680,MP07-02-V06-VP,I’ll start after lunch tomorrow.,very_positive
+1681,BA01-A01-V04,"I’ll take it tonight, and I’m already getting things ready so I can make a proper start.",very_positive
+1682,BA09-A01-V01,"Alright, I can keep my medication beside my breakfast items.",positive
+1683,VN-01-S02-V01,I reject that intervention completely.,very_negative
+1684,MP09-06-VN,No more reminders. Stop interfering with how I take my medicine.,very_negative
+1685,MP02-02-V05-P,I’ll walk after lunch.,positive
+1686,P-02-S04-V05,I can keep this going as part of my routine.,positive
+1687,HN10-04-V01,"I might consider taking the medication later—actually, absolutely not. Stop meddling with my medication and leave me alone.",very_negative
+1688,BA04-A03-V04,I’ll do some light activity inside instead of taking the outdoor walk today.,negative
+1689,MP04-02-V06-VN,"No, I don’t want this brought up again. Stop trying to get me to walk at lunch.",very_negative
+1690,P-03-S03-V03,"Yeah, I’ll try it if we keep things reasonably manageable.",positive
+1691,MP09-04-V02-P,"Okay, I’ll divide the physiotherapy exercises into two sessions today.",positive
+1692,MP06-03-V05-N,I’d rather not keep one on my desk.,negative
+1693,P-02-S04-A3,"Sure, I’m willing to give it a try.",positive
+1694,BA09-A03-V06,"Sure, I’ll give that a try and keep the bottle on my desk.",positive
+1695,BA02-A03-V06,"Yep, I can do that. I’ll take it after breakfast.",positive
+1696,BA07-A02-V02,"Walking isn’t something I want to do, so please don’t keep raising it with me.",very_negative
+1697,VN-01-S01-V01,No. I simply will not do that.,very_negative
+1698,BA08-A03-V03,"Okay, I can do the walk after lunch.",positive
+1699,I-03-S02-V04,I’m not ready to make a behavioral decision at this point.,indifferent
+1700,MP05-05-I,Preparing them the night before is something I could consider.,indifferent
+1701,MP08-03-P,I’ll keep a bottle on my desk and use it during the afternoon.,positive
+1702,P-02-S04-V04,I’m prepared to continue the practice as recommended.,positive
+1703,MP07-03-VN,I’m not putting a bottle there. Stop telling me how I should manage this.,very_negative
+1704,MP09-04-V02-VN,"I refuse to divide them into two sessions, and I don’t want any more suggestions about it.",very_negative
+1705,MP02-01-V02-P,I’ll leave my medication next to my toothbrush so I remember to take it.,positive
+1706,HN04-01-V05,"The morning routine is what I object to, not the medication itself—I’d prefer to take it at night instead.",negative
+1707,HN01-04-V04,"I’ll just drink the water after each meal. I was going to make a tracking log for every glass, but actually, I don’t need to do that.",positive
+1708,VN-04-S02-A3,Please stop contacting me about this.,very_negative
+1709,HN10-01-V04,"I’m still considering whether I want to keep the medication there. Stop assuming that’s the only option, but I haven’t decided against it.",indifferent
+1710,P-04-S02-A2,"I’ve had some time to think, and it seems reasonable.",positive
+1711,VN-03-S01-V05,I’ve had enough of this pressure. Stop.,very_negative
+1712,HN06-02-V04,"I’m putting the bottle on my desk now because I really like the plan. I don’t normally keep drinks near my laptop, but I’m happy to make an exception.",very_positive
+1713,N-01-S01-V05,I’m still not quite comfortable with it.,negative
+1714,BA05-A04-V03,It could help. I’ll see whether I actually try it.,indifferent
+1715,I-02-S01-A1,I’m not sure whether I’ll do it.,indifferent
+1716,P-02-S03-A2,I already know when I can fit it in.,positive
+1717,BA07-A03-V01,That’s a very useful setup. I’ll leave the physiotherapy mat by the door tonight and start with it tomorrow.,very_positive
+1718,I-01-S03-V04,"I've heard the recommendation, but I haven't formed a position on it.",indifferent
+1719,MP10-02-V03-I,After lunch might work.,indifferent
+1720,MP06-06-VP,That would be really helpful. I’ll set the reminder now for the evening dose.,very_positive
+1721,MP09-01-V03-P,"Sure, I’ll keep my medication by my toothbrush.",positive
+1722,MP09-03-V01-VN,Never bring up placing a flask on my desk.,very_negative
+1723,HN03-01-V05,Whether I’m against it isn’t really the issue; I’m simply still deciding if this timing makes sense for my schedule.,indifferent
+1724,VN-03-S03-V01,I am furious that you keep pestering me with reminders — knock it off.,very_negative
+1725,MP07-02-V01-VP,I'll enthusiastically go for a stroll following lunch.,very_positive
+1726,P-04-S01-A3,"I thought it over. Yeah, I’ll give it a try.",positive
+1727,MP09-05-VN,"No. I’m not doing that, and I don’t want to hear another suggestion about it.",very_negative
+1728,VP-03-S01-V04,I'd like to build on this rather than stop here; what would you recommend next?,very_positive
+1729,MP04-03-V03-N,"My desk is pretty full, so I’d rather not put a bottle there.",negative
+1730,MP02-02-V02-P,After lunch works for me. I’ll take the walk then.,positive
+1731,BA04-A03-V05,"The outdoor part isn’t appealing today, but I’m still willing to get some movement indoors.",negative
+1732,I-01-S02-A2,I see what you mean.,indifferent
+1733,HN05-02-V01,"It’s one option among several, sure, but honestly I’m really excited about it and I’m lacing up my shoes now.",very_positive
+1734,N-04-S03-V02,"Though another way could potentially work, the way it’s currently set up doesn’t suit me.",negative
+1735,MP06-02-V06-VP,"Yes, I’ll take the walk after lunch tomorrow.",very_positive
+1736,MP03-06-I,I can see how a reminder might help.,indifferent
+1737,HN01-03-V06,"Nothing special, maybe, but honestly I really like it. I’m laying out the mat and getting started now.",very_positive
+1738,MP06-03-N,I don’t really want to keep a bottle on my desk while I work.,negative
+1739,VN-03-S04-A1,Stop this intervention immediately.,very_negative
+1740,MP10-01-I,Keeping it by the toothbrush is one option I could consider.,indifferent
+1741,VN-03-S01-A1,I’m telling you no. Stop pushing this.,very_negative
+1742,HN10-03-V03,"I don’t want to be included in a broader fitness program, but I haven’t rejected walking itself—I’m still considering whether to do it.",indifferent
+1743,MP02-04-I,I can see how two sessions might work.,indifferent
+1744,HN08-03-V02,"The living room is kind of tight, but I can manage it and do the physiotherapy exercises there.",positive
+1745,I-03-S04-V03,Maybe; I’ll think it over first.,indifferent
+1746,P-02-S02-V01,I’ll work that into my routine.,positive
+1747,HN04-03-V02,"Please stop directing me about the mat. I’m not really in the mood for physiotherapy right now, so let’s revisit it later.",negative
+1748,MP03-02-I,After lunch could work as a time.,indifferent
+1749,MP03-03-V06-N,"Okay, but I’d rather not keep one on my desk.",negative
+1750,BA01-A04-V06,"Okay, I’ll keep the bottle there and drink from it today.",positive
+1751,P-02-S03-V03,"Yeah, right after dinner works best — I’ll knock it out then.",positive
+1752,HN05-01-V05,Whether someone else might hesitate isn’t how I feel about it—I’m genuinely excited and I’m already setting the medication beside my breakfast bowl.,very_positive
+1753,HN08-01-V05,"The change in location isn’t ideal for me, but that doesn’t stop me from following through—I’ll put the medication beside the breakfast plate.",positive
+1754,VP-02-S02-A2,I finally see what you mean now.,very_positive
+1755,HN05-02-V06,"Sure, it’s one option—but honestly, I’m super excited about it. I’m putting my shoes on now.",very_positive
+1756,VN-02-S01-V06,Doing this is something I am firmly against — definitely not.,very_negative
+1757,MP10-04-V03-I,Two sessions might work.,indifferent
+1758,MP05-04-V03-I,Two sessions might work for the exercises.,indifferent
+1759,I-04-S02-V02,I understand; I’ve received the message.,indifferent
+1760,MP03-03-V03-N,I don’t really want a bottle sitting on my desk.,negative
+1761,HN10-02-V06,"Ugh, all this hydration advice is tiring, but maybe the bottle could work. I’ll see later.",indifferent
+1762,BA07-A02-V01,"No, I’m not interested in walking, and I want you to stop bringing it up.",very_negative
+1763,BA09-A04-V03,I’m tired of hearing about drinking water. Please stop bringing it up.,very_negative
+1764,BA06-A03-V01,That’s a really useful idea. I’ll put the medication beside my breakfast things tonight so it’s ready for tomorrow.,very_positive
+1765,I-02-S02-V06,"Well, I'm not sure about it yet.",indifferent
+1766,MP07-03-V04-VN,"I’m not putting a water bottle on my desk, and I’m done with you telling me how I should handle my hydration.",very_negative
+1767,N-02-S02-A1,I’m not going to follow that particular recommendation.,negative
+1768,MP06-02-V04-VP,I really like that plan. I’ll take the walk after lunch tomorrow and make sure I get it done.,very_positive
+1769,MP01-02-V01-VP,I'll enthusiastically go for a walk once dinner is finished.,very_positive
+1770,N-01-S03-V03,"To be honest, hearing about it over and over is kind of putting me off doing it.",negative
+1771,I-04-S01-V04,That’s all I can say about it right now.,indifferent
+1772,VN-03-S01-A3,No. Stop pushing me about this.,very_negative
+1773,N-02-S04-A2,"That particular approach doesn’t work for me, though I’m open to alternatives.",negative
+1774,N-03-S01-A3,I don’t think that’s the best way for me to handle it.,negative
+1775,MP03-03-V06-I,"Okay, a water bottle on my desk is one option.",indifferent
+1776,MP10-04-V04-VN,"I’m not changing how I do my physiotherapy exercises, and I’m done with you pushing this approach.",very_negative
+1777,VN-02-S01-A2,I’m completely against this approach.,very_negative
+1778,MP04-04-V06-N,"Okay, but I’d rather do the physiotherapy exercises all at once.",negative
+1779,BA03-A03-V03,I’m not sure I’ll have the energy then. I’ll see how I feel.,indifferent
+1780,BA02-A01-V04,I’ll do my physiotherapy exercises before I settle down tonight.,positive
+1781,VN-04-S03-A3,"No thanks, I don’t want any more help with this.",very_negative
+1782,BA03-A02-V01,I’m skipping the walk today. I don’t want to take it during lunch.,negative
+1783,VP-04-S02-V04,"That fits well enough with how I want to structure things, so I’m glad to adopt it.",very_positive
+1784,I-04-S03-V02,I see that this is your suggested approach.,indifferent
+1785,N-02-S04-V04,I’m refusing the current approach while remaining willing to discuss a different option.,negative
+1786,VN-01-S03-V06,"I told you no already, and doing it is completely out of the question.",very_negative
+1787,BA03-A03-V05,I’m leaving that undecided for now. I want to see how my energy is later.,indifferent
+1788,N-02-S01-A1,I’d rather not do that.,negative
+1789,VP-02-S01-V01,I really value the help you’ve given me.,very_positive
+1790,MP09-04-V06-VN,"No, I’m not doing that. Please stop bringing it up.",very_negative

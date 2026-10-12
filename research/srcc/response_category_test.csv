@@ -1,0 +1,41 @@
+serial_id,utterance,response_category
+001,Either works.,indifferent
+002,No strong preference.,indifferent
+003,Up to you.,indifferent
+004,Your choice.,indifferent
+005,Doesn't matter to me.,indifferent
+006,I have no opinion.,indifferent
+007,No.,negative
+008,Don't agree.,negative
+009,I disagree.,negative
+010,I don't agree.,negative
+011,I wouldn't agree.,negative
+012,I'm not convinced.,negative
+013,Not really.,negative
+014,I disagree with that.,negative
+015,I don't see it that way.,negative
+016,I don't think so.,negative
+017,Willing.,positive
+018,I'd be willing.,positive
+019,I'd do that.,positive
+020,I'm willing to.,positive
+021,I'm willing.,positive
+022,That's acceptable.,positive
+023,I'd be willing to.,positive
+024,I'm fine with that.,positive
+025,Rejected.,very_negative
+026,Absolutely unacceptable.,very_negative
+027,Completely rejected.,very_negative
+028,Completely unacceptable.,very_negative
+029,I reject that.,very_negative
+030,That's unacceptable.,very_negative
+031,Totally unacceptable.,very_negative
+032,I reject it completely.,very_negative
+033,I strongly reject that.,very_negative
+034,I won't accept that.,very_negative
+035,I love it.,very_positive
+036,Love it!,very_positive
+037,Much appreciated!,very_positive
+038,I absolutely love it.,very_positive
+039,I really appreciate it.,very_positive
+040,I really like it.,very_positive

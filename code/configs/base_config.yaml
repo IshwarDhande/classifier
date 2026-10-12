@@ -1,0 +1,20 @@
+model:
+  pretrained_name: "bert-base-uncased"
+  max_seq_length: 128
+  dropout_rate: 0.1
+
+training:
+  batch_size: 32
+  eval_batch_size: 64
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  num_epochs: 5
+  patience: 3
+  seed: 42
+  gradient_accumulation_steps: 1
+  fp16: false
+
+environment:
+  venv_path: "/home/eshwar/code/simulator_persuasion/code/venv2"
+  python_bin: "/home/eshwar/code/simulator_persuasion/code/venv2/bin/python"

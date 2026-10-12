@@ -1,0 +1,74 @@
+serial_id,utterance,execution_status
+001,I'm not finished with it.,in_progress
+002,Haven't managed.,not_started
+003,Rejected.,not_started
+004,Partial.,in_progress
+005,I only prepared for it.,not_started
+006,I need to finish it.,in_progress
+007,Achieved.,completed
+008,Still progressing.,in_progress
+009,The entire task is finished.,completed
+010,Incomplete.,in_progress
+011,Work is finished.,completed
+012,I have finished all of it.,completed
+013,Work ongoing.,in_progress
+014,Delivered.,completed
+015,Abstained.,not_started
+016,I haven't touched it yet.,not_started
+017,Resolved.,completed
+018,Midway.,in_progress
+019,Yet to.,not_started
+020,Completely finished.,completed
+021,The work is completely finished.,completed
+022,I have some work remaining.,in_progress
+023,I haven't actually started.,not_started
+024,Work is complete.,completed
+025,Neglected.,not_started
+026,Not complete.,in_progress
+027,Haven't attempted.,not_started
+028,I've got it done.,completed
+029,Not done yet.,not_started
+030,It's done.,completed
+031,It's finally done.,completed
+032,Not done.,not_started
+033,I'm doing this now.,in_progress
+034,Doing it.,in_progress
+035,Doing it currently.,in_progress
+036,Doing the work.,in_progress
+037,I never did it.,not_started
+038,I'm still doing it.,in_progress
+039,Still doing the work.,in_progress
+040,I've done it.,completed
+041,Already doing it.,in_progress
+042,Already done.,completed
+043,Done already.,completed
+044,Doing it now.,in_progress
+045,Haven't done it.,not_started
+046,I'm still doing this.,in_progress
+047,Doing this now.,in_progress
+048,I still haven't done it.,not_started
+049,I'm continuing to do it.,in_progress
+050,That's done.,completed
+051,I haven't done it yet.,not_started
+052,I'm doing it now.,in_progress
+053,I've been doing this.,in_progress
+054,I've done that.,completed
+055,Finally done.,completed
+056,I have done it.,completed
+057,It's done now.,completed
+058,Fully done.,completed
+059,I'm doing it.,in_progress
+060,Still doing.,in_progress
+061,Done now.,completed
+062,All done.,completed
+063,Doing.,in_progress
+064,I've been doing it.,in_progress
+065,I'm currently doing it.,in_progress
+066,Never done it.,not_started
+067,I'm already doing it.,in_progress
+068,Completely done.,completed
+069,Haven't done it yet.,not_started
+070,I'm doing the work.,in_progress
+071,Still haven't done it.,not_started
+072,It's already done.,completed
+073,I haven't done it.,not_started

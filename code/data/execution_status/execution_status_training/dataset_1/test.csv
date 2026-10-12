@@ -1,0 +1,316 @@
+serial_id,utterance,execution_status
+001,I’m not exercising right now.,Not Started
+002,I’m not doing the exercise at the moment.,Not Started
+003,I’m not on the exercise yet.,Not Started
+004,I’ll take the medicine later.,Not Started
+005,I’m going to take it tonight.,Not Started
+006,I’ll get to the dose later.,Not Started
+007,"If I have enough time, I’ll do the physiotherapy.",Not Started
+008,I’ll do the routine if I get a break later.,Not Started
+009,I can get to the therapy if I’m free this evening.,Not Started
+010,"No, I won’t do it.",Not Started
+011,I’m not doing that.,Not Started
+012,I’ll pass.,Not Started
+013,I couldn’t start the physiotherapy today.,Not Started
+014,I wasn’t able to do the routine.,Not Started
+015,I never got to the therapy because I couldn’t.,Not Started
+016,"Yes, I’ve started the physiotherapy and I’m still doing it.",In Progress
+017,I’ve started already; I’m working through it now.,In Progress
+018,I’m on it now.,In Progress
+019,"I started the medicine routine, but I haven’t finished it.",In Progress
+020,"I’ve begun the routine, but I still have more to do.",In Progress
+021,I’m not done with the routine yet; I’ve already started.,In Progress
+022,"I’m almost finished with the therapy, but it took a while.",In Progress
+023,I’m nearly through the routine; it’s been tiring.,In Progress
+024,"There’s only a little left, although this session has been long.",In Progress
+025,"I’ve done three sets, and two more are left.",In Progress
+026,"I’ve got most of the routine done, but there’s still more to finish.",In Progress
+027,I’m through the first few parts; the rest is still pending.,In Progress
+028,I started the routine and paused; I still need to finish it.,In Progress
+029,"I’ve begun it, but I’ll continue after this break.",In Progress
+030,I’m halfway through and will pick it up again shortly.,In Progress
+031,I’ve completed the physiotherapy routine.,Completed
+032,I’m finished with the therapy.,Completed
+033,The whole therapy routine is done.,Completed
+034,I already took it.,Completed
+035,That’s already done.,Completed
+036,You reminded me after I’d already finished it.,Completed
+037,There’s nothing left for me to do in the routine.,Completed
+038,I’m through the whole routine now.,Completed
+039,The session is over.,Completed
+040,I completed every part of the physiotherapy routine.,Completed
+041,I went through the whole routine.,Completed
+042,I’ve finished all of it.,Completed
+043,"I finished the exercises, and now I’ll take a break.",Completed
+044,I’m done with the routine; I’m going to rest now.,Completed
+045,"The therapy is finished, so I’ll relax for a while.",Completed
+046,I finished the exercise.,Completed
+047,My workout has been completed.,Completed
+048,I’m done with the workout.,Completed
+049,I’ve completed the exercise task from start to finish.,Completed
+050,The workout is finished now.,Completed
+051,That’s done—I’ve completed my exercise.,Completed
+052,I finished the routine.,Completed
+053,"I must say, my workout has been completed.",Completed
+054,"I must say, i’m done with the workout.",Completed
+055,"So, i’ve completed the exercise task from start to finish.",Completed
+056,"Listen, the workout is finished now.",Completed
+057,"You know, that’s done—I’ve completed my exercise.",Completed
+058,I finished the exercise routine.,Completed
+059,"Actually, my workout has been completed.",Completed
+060,I’m done with the exercise routine.,Completed
+061,I’ve completed the exercise routine task from start to finish.,Completed
+062,"Right, the workout is finished now.",Completed
+063,"Right, that’s done—I’ve completed my exercise.",Completed
+064,I already drank the water.,Completed
+065,The water was already finished earlier.,Completed
+066,I had it earlier.,Completed
+067,"I completed the hydration task earlier, before you reminded me.",Completed
+068,The required water was finished earlier today.,Completed
+069,That reminder came after I’d already finished my water.,Completed
+070,I already drank the bottle.,Completed
+071,"So, the water was already finished earlier.",Completed
+072,"Look, i had it earlier.",Completed
+073,"Actually, i completed the hydration task earlier, before you reminded me.",Completed
+074,"I must say, the required water was finished earlier today.",Completed
+075,"Honestly, that reminder came after I’d already finished my water.",Completed
+076,I already drank the required water.,Completed
+077,"Actually, the water was already finished earlier.",Completed
+078,"So, i had it earlier.",Completed
+079,"Well, i completed the hydration task earlier, before you reminded me.",Completed
+080,"Listen, the required water was finished earlier today.",Completed
+081,"I mean, that reminder came after I’d already finished my water.",Completed
+082,The medicine is back in its cabinet.,Completed
+083,Today’s medication compartment is empty.,Completed
+084,The pills are put away now.,Completed
+085,"The medication has been taken, as shown by the empty dose compartment.",Completed
+086,Everything is put away after today’s dose.,Completed
+087,"The bottle is already back in the cabinet, so today’s dose is finished.",Completed
+088,"I must say, the medicine is back in its cabinet.",Completed
+089,"Honestly, today’s medication compartment is empty.",Completed
+090,"So, the pills are put away now.",Completed
+091,"Listen, the medication has been taken, as shown by the empty dose compartment.",Completed
+092,"Right, everything is put away after today’s dose.",Completed
+093,"Listen, the bottle is already back in the cabinet, so today’s dose is finished.",Completed
+094,"Look, the medicine is back in its cabinet.",Completed
+095,"As I said, today’s medication compartment is empty.",Completed
+096,"Right, the pills are put away now.",Completed
+097,"So, the medication has been taken, as shown by the empty dose compartment.",Completed
+098,"Basically, everything is put away after today’s dose.",Completed
+099,"Right, the bottle is already back in the cabinet, so today’s dose is finished.",Completed
+100,I finished all the exercises in the physio routine.,Completed
+101,Every step of the therapy sequence has been completed.,Completed
+102,I’ve worked through the whole physio routine.,Completed
+103,"I completed every required physiotherapy step, so the routine is finished.",Completed
+104,The entire therapy sequence is finished now.,Completed
+105,I’ve gone through all the physio exercises; there’s nothing left in the routine.,Completed
+106,I finished all the exercises in the therapy routine.,Completed
+107,"So, every step of the therapy sequence has been completed.",Completed
+108,"Listen, i’ve worked through the whole physio routine.",Completed
+109,"I completed every required physiotherapy step, so the therapy routine is finished.",Completed
+110,"Basically, the entire therapy sequence is finished now.",Completed
+111,I’ve gone through all the therapy exercises; there’s nothing left in the therapy routine.,Completed
+112,I finished all the exercises in the therapy session routine.,Completed
+113,"Look, every step of the therapy sequence has been completed.",Completed
+114,"Look, i’ve worked through the whole physio routine.",Completed
+115,"You know, i completed every required physiotherapy step, so the therapy routine is finished.",Completed
+116,"Right, the entire therapy sequence is finished now.",Completed
+117,I’ve gone through all the therapy session exercises; there’s nothing left in the therapy routine.,Completed
+118,"I finished the workout, and it was harder than usual.",Completed
+119,"The workout has been completed, although it was harder than usual.",Completed
+120,I’m done with the workout—it was pretty tough today.,Completed
+121,I completed the exercise task even though I was tired; the workout is finished.,Completed
+122,"The exercise is finished now, despite being more difficult than usual.",Completed
+123,"That’s done—I finished the workout, so I’m going to rest now.",Completed
+124,"I finished the routine, and it was harder than usual.",Completed
+125,"I must say, the workout has been completed, although it was harder than usual.",Completed
+126,"Listen, i’m done with the workout—it was pretty tough today.",Completed
+127,"Right, i completed the exercise task even though I was tired; the workout is finished.",Completed
+128,"Well, the exercise is finished now, despite being more difficult than usual.",Completed
+129,"I must say, that’s done—I finished the workout, so I’m going to rest now.",Completed
+130,"I finished the exercise routine, and it was harder than usual.",Completed
+131,"Right, the workout has been completed, although it was harder than usual.",Completed
+132,I’m done with the exercise routine—it was pretty tough today.,Completed
+133,I completed the exercise routine task even though I was tired; the workout is finished.,Completed
+134,"I mean, the exercise is finished now, despite being more difficult than usual.",Completed
+135,"That’s done—I finished the exercise routine, so I’m going to rest now.",Completed
+136,I’m carrying on with the physiotherapy right now.,In Progress
+137,I’m currently working through the physiotherapy session.,In Progress
+138,I’m doing the physio at the moment.,In Progress
+139,"I’ve begun the session already, and the exercises are still underway.",In Progress
+140,"The physiotherapy has started, and I’m not finished yet.",In Progress
+141,The routine is underway right now.,In Progress
+142,"So, i’m carrying on with the physiotherapy right now.",In Progress
+143,"You know, i’m currently working through the physiotherapy session.",In Progress
+144,"From where I am, i’m doing the physio at the moment.",In Progress
+145,"So, i’ve begun the session already, and the exercises are still underway.",In Progress
+146,"Actually, the physiotherapy has started, and I’m not finished yet.",In Progress
+147,"In this session, the routine is underway right now.",In Progress
+148,"To be honest, i’m carrying on with the physiotherapy right now.",In Progress
+149,"Right now, i’m currently working through the physiotherapy session.",In Progress
+150,"I must say, i’m doing the physio at the moment.",In Progress
+151,"At the moment, i’ve begun the session already, and the exercises are still underway.",In Progress
+152,"I mean, the physiotherapy has started, and I’m not finished yet.",In Progress
+153,"Listen, in this session, the routine is underway right now.",In Progress
+154,"I’ve begun the medication routine, but it’s only partly done.",In Progress
+155,"The medication routine has started, although some of it remains.",In Progress
+156,I’m partway through the routine.,In Progress
+157,"I’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress
+158,"The routine has started, but I still have some to complete.",In Progress
+159,I’ve made a start on the routine; the rest is still ahead.,In Progress
+160,"So, i’ve begun the medication routine, but it’s only partly done.",In Progress
+161,"Right now, the medication routine has started, although some of it remains.",In Progress
+162,"From where I am, i’m partway through the routine.",In Progress
+163,"To be honest, i’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress
+164,"Okay, the routine has started, but I still have some to complete.",In Progress
+165,"In this session, i’ve made a start on the routine; the rest is still ahead.",In Progress
+166,"I mean, i’ve begun the medication routine, but it’s only partly done.",In Progress
+167,"Well, right now, the medication routine has started, although some of it remains.",In Progress
+168,"I must say, i’m partway through the routine.",In Progress
+169,"At the moment, i’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress
+170,"Honestly, the routine has started, but I still have some to complete.",In Progress
+171,"I must say, in this session, i’ve made a start on the routine; the rest is still ahead.",In Progress
+172,I’m nearly finished with the therapy session.,In Progress
+173,The physiotherapy routine is close to completion.,In Progress
+174,I’m just about through the physio session.,In Progress
+175,"I’ve completed most of the therapy, but a small part is still left.",In Progress
+176,"There’s only a little therapy left, although the session has been tiring.",In Progress
+177,"The session is nearing its end, with a small amount still underway.",In Progress
+178,"So, i’m nearly finished with the therapy session.",In Progress
+179,"Right now, the physiotherapy routine is close to completion.",In Progress
+180,"From where I am, i’m just about through the physio session.",In Progress
+181,"Look, i’ve completed most of the therapy, but a small part is still left.",In Progress
+182,"Honestly, there’s only a little therapy left, although the session has been tiring.",In Progress
+183,"In this session, the session is nearing its end, with a small amount still underway.",In Progress
+184,"Right, i’m nearly finished with the therapy session.",In Progress
+185,"I mean, right now, the physiotherapy routine is close to completion.",In Progress
+186,"Okay, i’m just about through the physio session.",In Progress
+187,"At the moment, i’ve completed most of the therapy, but a small part is still left.",In Progress
+188,"So, there’s only a little therapy left, although the session has been tiring.",In Progress
+189,"You know, in this session, the session is nearing its end, with a small amount still underway.",In Progress
+190,"I’ve completed three sets, with two still remaining.",In Progress
+191,"Three sets are done, while two more are still required.",In Progress
+192,"I’m most of the way through, but I’ve still got a couple of sets left.",In Progress
+193,"I’ve finished the first three sets, and the final two have not yet been done.",In Progress
+194,Three sets are complete; two are still to go.,In Progress
+195,"I’m well into the workout, with two sets still ahead.",In Progress
+196,"So, i’ve completed three sets, with two still remaining.",In Progress
+197,"I must say, three sets are done, while two more are still required.",In Progress
+198,"From where I am, i’m most of the way through, but I’ve still got a couple of sets left.",In Progress
+199,"Listen, i’ve finished the first three sets, and the final two have not yet been done.",In Progress
+200,"Actually, three sets are complete; two are still to go.",In Progress
+201,"In this session, i’m well into the workout, with two sets still ahead.",In Progress
+202,"Honestly, i’ve completed three sets, with two still remaining.",In Progress
+203,"Right now, three sets are done, while two more are still required.",In Progress
+204,"So, i’m most of the way through, but I’ve still got a couple of sets left.",In Progress
+205,"At the moment, i’ve finished the first three sets, and the final two have not yet been done.",In Progress
+206,"To be honest, three sets are complete; two are still to go.",In Progress
+207,"As I said, in this session, i’m well into the workout, with two sets still ahead.",In Progress
+208,"I began the routine and then paused, with some work still remaining.",In Progress
+209,"The therapy session has started, but I stopped temporarily before finishing.",In Progress
+210,I’m partway through and will get back to it after the break.,In Progress
+211,I’ve already started the routine; the pause is temporary and the remaining work is unfinished.,In Progress
+212,I’ve started the session but paused before completing it.,In Progress
+213,I’ve made a start and will continue from where I left off.,In Progress
+214,"So, i began the routine and then paused, with some work still remaining.",In Progress
+215,"Right now, the therapy session has started, but I stopped temporarily before finishing.",In Progress
+216,"From where I am, i’m partway through and will get back to it after the break.",In Progress
+217,"I must say, i’ve already started the routine; the pause is temporary and the remaining work is unfinished.",In Progress
+218,"As I said, i’ve started the session but paused before completing it.",In Progress
+219,"In this session, i’ve made a start and will continue from where I left off.",In Progress
+220,"Okay, i began the routine and then paused, with some work still remaining.",In Progress
+221,"So, right now, the therapy session has started, but I stopped temporarily before finishing.",In Progress
+222,"Actually, i’m partway through and will get back to it after the break.",In Progress
+223,"At the moment, i’ve already started the routine; the pause is temporary and the remaining work is unfinished.",In Progress
+224,"Listen, i’ve started the session but paused before completing it.",In Progress
+225,"To be honest, in this session, i’ve made a start and will continue from where I left off.",In Progress
+226,I'm currently not exercising right now.,Not Started
+227,"Yeah, i’m not exercising right now.",Not Started
+228,I’m not exercising right now — I haven't started it.,Not Started
+229,"As of now, i’m not exercising right now.",Not Started
+230,"Right, yeah, i’m not exercising right now.",Not Started
+231,"I’m not exercising right now, at least not yet.",Not Started
+232,I'm currently not doing the exercise at the moment.,Not Started
+233,"No, i’m not doing the exercise at the moment.",Not Started
+234,I’m not doing the exercise at the moment — I haven't started it.,Not Started
+235,"As of now, i’m not doing the exercise at the moment.",Not Started
+236,"Well, i’m not doing the exercise at the moment.",Not Started
+237,"I’m not doing the exercise at the moment, at least not yet.",Not Started
+238,I'm currently not on the exercise yet.,Not Started
+239,"At the moment, i’m not on the exercise yet.",Not Started
+240,I’m not on the exercise yet.,Not Started
+241,"As of now, i’m not on the exercise yet.",Not Started
+242,"Right, i’m not on the exercise yet.",Not Started
+243,"I’m not on the exercise yet, at least not yet.",Not Started
+244,I'm going to take the medicine later.,Not Started
+245,"At the moment, i’ll take the medicine later.",Not Started
+246,I’ll take the medicine later — I haven't started yet.,Not Started
+247,"Just to clarify, i’ll take the medicine later.",Not Started
+248,"Right, i’ll take the medicine later.",Not Started
+249,"I’ll take the medicine later, is that okay?",Not Started
+250,I'm planning to to take it tonight.,Not Started
+251,"Honestly, i’m going to take it tonight.",Not Started
+252,I’m going to take it tonight — I haven't started yet.,Not Started
+253,"Just to clarify, i’m going to take it tonight.",Not Started
+254,"Okay, i’m going to take it tonight.",Not Started
+255,"I’m going to take it tonight, is that okay?",Not Started
+256,I'm going to get to the dose later.,Not Started
+257,"At the moment, i’ll get to the dose later.",Not Started
+258,I’ll get to the dose later — I haven't started yet.,Not Started
+259,"Just to clarify, i’ll get to the dose later.",Not Started
+260,"Right, i’ll get to the dose later.",Not Started
+261,"I’ll get to the dose later, is that okay?",Not Started
+262,"If I have enough time, I'm going to do the physiotherapy.",Not Started
+263,"No, if I have enough time, I’ll do the physiotherapy.",Not Started
+264,"If I have enough time, I’ll do the physiotherapy — I haven't begun the task.",Not Started
+265,"Just to clarify, if I have enough time, I’ll do the physiotherapy.",Not Started
+266,"Well, if I have enough time, I’ll do the physiotherapy.",Not Started
+267,"If I have enough time, I’ll do the physiotherapy, is that okay?",Not Started
+268,I'm going to do the routine if I get a break later.,Not Started
+269,"Honestly, i’ll do the routine if I get a break later.",Not Started
+270,I’ll do the routine if I get a break later — I haven't begun the task.,Not Started
+271,"Just to clarify, i’ll do the routine if I get a break later.",Not Started
+272,"Okay, i’ll do the routine if I get a break later.",Not Started
+273,"I’ll do the routine if I get a break later, is that okay?",Not Started
+274,I can get to the therapy if I'm free this evening.,Not Started
+275,"Yeah, i can get to the therapy if I’m free this evening.",Not Started
+276,I can get to the therapy if I’m free this evening — I haven't begun the task.,Not Started
+277,"Just to clarify, i can get to the therapy if I’m free this evening.",Not Started
+278,"Basically, yeah, i can get to the therapy if I’m free this evening.",Not Started
+279,"I can get to the therapy if I’m free this evening, is that okay?",Not Started
+280,"No, I won’t do it.",Not Started
+281,"Yeah, no, I won’t do it.",Not Started
+282,"No, I won’t do it — I haven't started it.",Not Started
+283,"My answer is no — no, I won’t do it.",Not Started
+284,"Look, yeah, no, I won’t do it.",Not Started
+285,"No, I won’t do it, okay?",Not Started
+286,I'm currently not doing that.,Not Started
+287,"Yeah, i’m not doing that.",Not Started
+288,I’m not doing that — I haven't started it.,Not Started
+289,My answer is no — i’m not doing that.,Not Started
+290,"Right, yeah, i’m not doing that.",Not Started
+291,"I’m not doing that, okay?",Not Started
+292,I'm going to pass.,Not Started
+293,"At the moment, i’ll pass.",Not Started
+294,I’ll pass — I haven't started it.,Not Started
+295,My answer is no — i’ll pass.,Not Started
+296,"Right, i’ll pass.",Not Started
+297,"I’ll pass, okay?",Not Started
+298,I wasn't able to start the physiotherapy today.,Not Started
+299,"For now, i couldn’t start the physiotherapy today.",Not Started
+300,I couldn’t start the physiotherapy today — the task hasn't started.,Not Started
+301,"As of now, i couldn’t start the physiotherapy today.",Not Started
+302,"Honestly, i couldn’t start the physiotherapy today.",Not Started
+303,"I couldn’t start the physiotherapy today, at least not yet.",Not Started
+304,I wasn't in a position to do the routine.,Not Started
+305,"No, i wasn’t able to do the routine.",Not Started
+306,I wasn’t able to do the routine — the task hasn't started.,Not Started
+307,"As of now, i wasn’t able to do the routine.",Not Started
+308,"Well, i wasn’t able to do the routine.",Not Started
+309,"I wasn’t able to do the routine, at least not yet.",Not Started
+310,I never got to the therapy because I wasn't able to.,Not Started
+311,"Honestly, i never got to the therapy because I couldn’t.",Not Started
+312,I never got to the therapy because I couldn’t — the task hasn't started.,Not Started
+313,"As of now, i never got to the therapy because I couldn’t.",Not Started
+314,"Okay, i never got to the therapy because I couldn’t.",Not Started
+315,"I never got to the therapy because I couldn’t, at least not yet.",Not Started

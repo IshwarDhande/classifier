@@ -1,0 +1,81 @@
+serial_id,utterance,response_category
+001,"Yes, I will do that.",positive
+002,That is completely unacceptable.,very_negative
+003,That is absolutely ridiculous.,very_negative
+004,Yes!,positive
+005,I would gladly do that.,very_positive
+006,Doubtful.,negative
+007,Alright!,positive
+008,"Okay, I will try.",positive
+009,Happy to.,very_positive
+010,Rejected!,very_negative
+011,"Yes, that would be excellent.",very_positive
+012,Strongly opposed.,very_negative
+013,Glad to.,very_positive
+014,Absolutely refused.,very_negative
+015,Happy enough.,positive
+016,I need some time.,indifferent
+017,Perhaps sometime.,indifferent
+018,Certainly!,very_positive
+019,That doesn't work for me.,negative
+020,This is absolutely ridiculous.,very_negative
+021,I am still unsure.,indifferent
+022,Pass.,negative
+023,Refused!,very_negative
+024,"Sure, I'll try that.",positive
+025,Could be.,indifferent
+026,Definitely!,very_positive
+027,Fine!,positive
+028,Yes!,very_positive
+029,I am not willing to.,negative
+030,I would happily do that.,very_positive
+031,More than happy.,very_positive
+032,Absolutelynot!,very_negative
+033,That is not for me.,negative
+034,I have no preference.,indifferent
+035,Resist.,negative
+036,Maybe sometime.,indifferent
+037,Works fine.,positive
+038,Hard no.,very_negative
+039,No problem.,positive
+040,Noted.,indifferent
+041,Understood.,indifferent
+042,Got it.,indifferent
+043,I see.,indifferent
+044,"Understood, thanks.",indifferent
+045,I can't agree.,negative
+046,I object.,negative
+047,I'd prefer not.,negative
+048,I'm against it.,negative
+049,That won't work.,negative
+050,I don't support that.,negative
+051,I don't think that's right.,negative
+052,I don't want that.,negative
+053,I'm not comfortable with that.,negative
+054,I can help.,positive
+055,I'll do that.,positive
+056,I'll help.,positive
+057,"Okay, I can.",positive
+058,That should work.,positive
+059,I can do it.,positive
+060,I can do that.,positive
+061,I can manage that.,positive
+062,"Okay, I'll do it.",positive
+063,I hate it.,very_negative
+064,I'm absolutely dissatisfied.,very_negative
+065,I'm extremely unhappy.,very_negative
+066,That's awful.,very_negative
+067,That's horrible.,very_negative
+068,That's terrible.,very_negative
+069,I absolutely hate it.,very_negative
+070,I can't stand it.,very_negative
+071,I strongly dislike it.,very_negative
+072,Gladly.,very_positive
+073,Happily.,very_positive
+074,Happy to help.,very_positive
+075,I'd be delighted.,very_positive
+076,I'd love to.,very_positive
+077,I'm happy to.,very_positive
+078,I'd be glad to.,very_positive
+079,I'd be happy to.,very_positive
+080,I'd gladly do it.,very_positive

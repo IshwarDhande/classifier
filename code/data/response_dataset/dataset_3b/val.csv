@@ -1,0 +1,241 @@
+example_id,parent_id,lineage_id,boundary_id,track,response_category,closest_competing_category,variation_type,hard_negative_mechanism,task_domain,utterance,split
+MP03-05-V01-I,MP03-05,MP03-05-V01,MP03,2B,I,N,LEX,,,Drinking water before eating is something I might do.,validation
+MP03-05-V01-N,MP03-05,MP03-05-V01,MP03,2B,N,I,LEX,,,I decline to drink water before eating.,validation
+MP03-05-V02-I,MP03-05,MP03-05-V02,MP03,2B,I,N,SYN,,,Having water before meals is something I could consider.,validation
+MP03-05-V02-N,MP03-05,MP03-05-V02,MP03,2B,N,I,SYN,,,I’d prefer not to have to drink water before every meal.,validation
+MP03-05-V03-I,MP03-05,MP03-05-V03,MP03,2B,I,N,NAT,,,I could try having water before meals.,validation
+MP03-05-V03-N,MP03-05,MP03-05-V03,MP03,2B,N,I,NAT,,,I don’t really want to drink a glass of water before every meal.,validation
+MP03-05-V04-I,MP03-05,MP03-05-V04,MP03,2B,I,N,EXP,,,Drinking some water before meals could be one way to stay hydrated.,validation
+MP03-05-V04-N,MP03-05,MP03-05-V04,MP03,2B,N,I,EXP,,,"Drinking water before every meal could help, but I’d rather not make that part of my routine.",validation
+MP03-05-V05-I,MP03-05,MP03-05-V05,MP03,2B,I,N,LEN,,,I could drink water before meals.,validation
+MP03-05-V05-N,MP03-05,MP03-05-V05,MP03,2B,N,I,LEN,,,I’d rather not drink water before every meal.,validation
+MP03-05-V06-I,MP03-05,MP03-05-V06,MP03,2B,I,N,CMK,,,"Okay, drinking water before meals is one option.",validation
+MP03-05-V06-N,MP03-05,MP03-05-V06,MP03,2B,N,I,CMK,,,"Okay, but I’d rather not do that before every meal.",validation
+MP05-05-V01-VP,MP05-05,MP05-05-V01,MP05,2B,VP,I,LEX,,,I'm enthusiastic about drinking water before eating.,validation
+MP05-05-V01-I,MP05-05,MP05-05-V01,MP05,2B,I,VP,LEX,,,Drinking water before eating is a possibility.,validation
+MP05-05-V02-VP,MP05-05,MP05-05-V02,MP05,2B,VP,I,SYN,,,I’ll have water before each meal starting today.,validation
+MP05-05-V02-I,MP05-05,MP05-05-V02,MP05,2B,I,VP,SYN,,,Having water before meals is something I could consider.,validation
+MP05-05-V03-VP,MP05-05,MP05-05-V03,MP05,2B,VP,I,NAT,,,I’ll drink some water before meals starting today.,validation
+MP05-05-V03-I,MP05-05,MP05-05-V03,MP05,2B,I,VP,NAT,,,I could try drinking water before meals.,validation
+MP05-05-V04-VP,MP05-05,MP05-05-V04,MP05,2B,VP,I,EXP,,,I’ll have a glass of water before every meal starting today.,validation
+MP05-05-V04-I,MP05-05,MP05-05-V04,MP05,2B,I,VP,EXP,,,"Drinking water before meals could be useful, but I’ll think about whether it fits my routine.",validation
+MP05-05-V05-VP,MP05-05,MP05-05-V05,MP05,2B,VP,I,LEN,,,I’ll drink water before meals.,validation
+MP05-05-V05-I,MP05-05,MP05-05-V05,MP05,2B,I,VP,LEN,,,I could drink water before meals.,validation
+MP05-05-V06-VP,MP05-05,MP05-05-V06,MP05,2B,VP,I,CMK,,,I’ll start having water before meals today.,validation
+MP05-05-V06-I,MP05-05,MP05-05-V06,MP05,2B,I,VP,CMK,,,"Okay, drinking water before meals is one option.",validation
+MP02-05-V01-P,MP02-05,MP02-05-V01,MP02,2B,P,I,LEX,,,I'll arrange my workout gear the evening before.,validation
+MP02-05-V01-I,MP02-05,MP02-05-V01,MP02,2B,I,P,LEX,,,Arranging my workout gear beforehand is one choice.,validation
+MP02-05-V02-P,MP02-05,MP02-05-V02,MP02,2B,P,I,SYN,,,I’ll set out my exercise clothes tonight so they’re ready for the morning.,validation
+MP02-05-V02-I,MP02-05,MP02-05-V02,MP02,2B,I,P,SYN,,,Setting out my exercise clothes the night before is something I could consider.,validation
+MP02-05-V03-P,MP02-05,MP02-05-V03,MP02,2B,P,I,NAT,,,"Sure, I’ll put my exercise clothes out tonight.",validation
+MP02-05-V03-I,MP02-05,MP02-05-V03,MP02,2B,I,P,NAT,,,I could put my exercise clothes out tonight.,validation
+MP02-05-V04-P,MP02-05,MP02-05-V04,MP02,2B,P,I,EXP,,,I’ll lay out my exercise clothes tonight so I can get ready more easily in the morning.,validation
+MP02-05-V04-I,MP02-05,MP02-05-V04,MP02,2B,I,P,EXP,,,Laying out my exercise clothes tonight might make the morning easier.,validation
+MP02-05-V05-P,MP02-05,MP02-05-V05,MP02,2B,P,I,LEN,,,I’ll lay them out tonight.,validation
+MP02-05-V05-I,MP02-05,MP02-05-V05,MP02,2B,I,P,LEN,,,I could lay them out tonight.,validation
+MP02-05-V06-P,MP02-05,MP02-05-V06,MP02,2B,P,I,CMK,,,"Okay, I’ll set out my exercise clothes tonight.",validation
+MP02-05-V06-I,MP02-05,MP02-05-V06,MP02,2B,I,P,CMK,,,"Okay, setting them out tonight is one option.",validation
+MP08-05-V01-P,MP08-05,MP08-05-V01,MP08,2B,P,N,LEX,,,I'll organize my workout gear beforehand.,validation
+MP08-05-V01-N,MP08-05,MP08-05-V01,MP08,2B,N,P,LEX,,,I decline to organize my workout gear beforehand.,validation
+MP08-05-V02-P,MP08-05,MP08-05-V02,MP08,2B,P,N,SYN,,,I’ll set out my exercise clothes tonight so they’re ready for tomorrow.,validation
+MP08-05-V02-N,MP08-05,MP08-05-V02,MP08,2B,N,P,SYN,,,I’d rather prepare my exercise clothes in the morning instead.,validation
+MP08-05-V03-P,MP08-05,MP08-05-V03,MP08,2B,P,N,NAT,,,"Sure, I’ll put them out tonight.",validation
+MP08-05-V03-N,MP08-05,MP08-05-V03,MP08,2B,N,P,NAT,,,I’d rather get them ready in the morning.,validation
+MP08-05-V04-P,MP08-05,MP08-05-V04,MP08,2B,P,N,EXP,,,I’ll lay out my exercise clothes tonight so everything is ready when I start tomorrow.,validation
+MP08-05-V04-N,MP08-05,MP08-05-V04,MP08,2B,N,P,EXP,,,I’d rather prepare my exercise clothes in the morning because doing it the night before doesn’t fit my routine.,validation
+MP08-05-V05-P,MP08-05,MP08-05-V05,MP08,2B,P,N,LEN,,,I’ll lay them out tonight.,validation
+MP08-05-V05-N,MP08-05,MP08-05-V05,MP08,2B,N,P,LEN,,,I’d rather do it in the morning.,validation
+MP08-05-V06-P,MP08-05,MP08-05-V06,MP08,2B,P,N,CMK,,,"Okay, I’ll set out my exercise clothes tonight.",validation
+MP08-05-V06-N,MP08-05,MP08-05-V06,MP08,2B,N,P,CMK,,,"Okay, but I’d prefer to prepare them in the morning.",validation
+MP01-05-V01-VP,MP01-05,MP01-05-V01,MP01,2B,VP,P,LEX,,,I'll gladly organize my pills tonight for tomorrow's dose.,validation
+MP01-05-V01-P,MP01-05,MP01-05-V01,MP01,2B,P,VP,LEX,,,I'll organize my pills tonight for tomorrow's dose.,validation
+MP01-05-V02-VP,MP01-05,MP01-05-V02,MP01,2B,VP,P,SYN,,,I’ll get my medication ready tonight for tomorrow morning.,validation
+MP01-05-V02-P,MP01-05,MP01-05-V02,MP01,2B,P,VP,SYN,,,"Okay, I’ll get my medication ready tonight for tomorrow morning.",validation
+MP01-05-V03-VP,MP01-05,MP01-05-V03,MP01,2B,VP,P,NAT,,,I’ll get my medication ready tonight.,validation
+MP01-05-V03-P,MP01-05,MP01-05-V03,MP01,2B,P,VP,NAT,,,"Sure, I’ll get my medication ready tonight.",validation
+MP01-05-V04-VP,MP01-05,MP01-05-V04,MP01,2B,VP,P,EXP,,,I’ll prepare my medication tonight,validation
+MP01-05-V04-P,MP01-05,MP01-05-V04,MP01,2B,P,VP,EXP,,,I’ll prepare my medication tonight for the morning.,validation
+MP01-05-V05-VP,MP01-05,MP01-05-V05,MP01,2B,VP,P,LEN,,,I’ll get my medication ready tonight.,validation
+MP01-05-V05-P,MP01-05,MP01-05-V05,MP01,2B,P,VP,LEN,,,"Okay, I’ll prepare my medication tonight.",validation
+MP01-05-V06-VP,MP01-05,MP01-05-V06,MP01,2B,VP,P,CMK,,,I’ll prepare my medication tonight so it’s ready in the morning.,validation
+MP01-05-V06-P,MP01-05,MP01-05-V06,MP01,2B,P,VP,CMK,,,"Yes, I’ll prepare my medication tonight.",validation
+MP04-05-V01-N,MP04-05,MP04-05-V01,MP04,2B,N,VN,LEX,,,I'd rather avoid preparing my workout clothes beforehand.,validation
+MP04-05-V01-VN,MP04-05,MP04-05-V01,MP04,2B,VN,N,LEX,,,Don't ever ask me to prepare my workout clothes beforehand.,validation
+MP04-05-V02-N,MP04-05,MP04-05-V02,MP04,2B,N,VN,SYN,,,I’d prefer to prepare my exercise clothes in the morning instead.,validation
+MP04-05-V02-VN,MP04-05,MP04-05-V02,MP04,2B,VN,N,SYN,,,"I’m not doing that, and I don’t want you bringing this suggestion up again.",validation
+MP04-05-V03-N,MP04-05,MP04-05-V03,MP04,2B,N,VN,NAT,,,I’d rather get them ready in the morning.,validation
+MP04-05-V03-VN,MP04-05,MP04-05-V03,MP04,2B,VN,N,NAT,,,"No, I’m not doing that. Leave it alone.",validation
+MP04-05-V04-N,MP04-05,MP04-05-V04,MP04,2B,N,VN,EXP,,,"Getting my exercise clothes ready in the morning fits my routine better, so I’d rather do it then.",validation
+MP04-05-V04-VN,MP04-05,MP04-05-V04,MP04,2B,VN,N,EXP,,,"I’m not changing when I prepare my exercise clothes, and I’m done discussing this with you.",validation
+MP04-05-V05-N,MP04-05,MP04-05-V05,MP04,2B,N,VN,LEN,,,I’d rather do it in the morning.,validation
+MP04-05-V05-VN,MP04-05,MP04-05-V05,MP04,2B,VN,N,LEN,,,No. I’m not doing that. Stop bringing it up.,validation
+MP04-05-V06-N,MP04-05,MP04-05-V06,MP04,2B,N,VN,CMK,,,"Okay, but I’d rather get my exercise clothes ready in the morning.",validation
+MP04-05-V06-VN,MP04-05,MP04-05-V06,MP04,2B,VN,N,CMK,,,"No, I’m not doing that, and I don’t want to discuss it anymore.",validation
+MP07-05-V01-VP,MP07-05,MP07-05-V01,MP07,2B,VP,VN,LEX,,,I'll gladly drink water before eating.,validation
+MP07-05-V01-VN,MP07-05,MP07-05-V01,MP07,2B,VN,VP,LEX,,,Don't ever tell me to drink water before eating.,validation
+MP07-05-V02-VP,MP07-05,MP07-05-V02,MP07,2B,VP,VN,SYN,,,That sounds excellent. I’ll have a glass of water with my meal and start doing this regularly.,validation
+MP07-05-V02-VN,MP07-05,MP07-05-V02,MP07,2B,VN,VP,SYN,,,I don’t want you telling me how to manage my water intake. Stop bringing this up.,validation
+MP07-05-V03-VP,MP07-05,MP07-05-V03,MP07,2B,VP,VN,NAT,,,That’s a great idea. I’ll have some water with my meal right now.,validation
+MP07-05-V03-VN,MP07-05,MP07-05-V03,MP07,2B,VN,VP,NAT,,,"No, I’m not doing that. Leave my drinking habits alone.",validation
+MP07-05-V04-VP,MP07-05,MP07-05-V04,MP07,2B,VP,VN,EXP,,,I’ll have a glass of water with my meal now,validation
+MP07-05-V04-VN,MP07-05,MP07-05-V04,MP07,2B,VN,VP,EXP,,,"I’m not changing when or how I drink water, and I’m done with you giving me hydration advice.",validation
+MP07-05-V05-VP,MP07-05,MP07-05-V05,MP07,2B,VP,VN,LEN,,,I’ll have some water with my meal.,validation
+MP07-05-V05-VN,MP07-05,MP07-05-V05,MP07,2B,VN,VP,LEN,,,No. Stop telling me when to drink water.,validation
+MP07-05-V06-VP,MP07-05,MP07-05-V06,MP07,2B,VP,VN,CMK,,,"Yes, that sounds really helpful. I’ll have a glass of water with my meal now.",validation
+MP07-05-V06-VN,MP07-05,MP07-05-V06,MP07,2B,VN,VP,CMK,,,"No, seriously, I don’t want any more hydration advice from you.",validation
+MP10-05-V01-I,MP10-05,MP10-05-V01,MP10,2B,I,VN,LEX,,,Organizing my workout gear beforehand is feasible.,validation
+MP10-05-V01-VN,MP10-05,MP10-05-V01,MP10,2B,VN,I,LEX,,,Don't ever ask me to organize my workout gear beforehand.,validation
+MP10-05-V02-I,MP10-05,MP10-05-V02,MP10,2B,I,VN,SYN,,,Preparing my exercise clothes the night before is something I could consider.,validation
+MP10-05-V02-VN,MP10-05,MP10-05-V02,MP10,2B,VN,I,SYN,,,"I’m not preparing them ahead of time, and I don’t want you bringing this suggestion up again.",validation
+MP10-05-V03-I,MP10-05,MP10-05-V03,MP10,2B,I,VN,NAT,,,I could put them out tonight.,validation
+MP10-05-V03-VN,MP10-05,MP10-05-V03,MP10,2B,VN,I,NAT,,,"No, I’m not doing that. Leave it alone.",validation
+MP10-05-V04-I,MP10-05,MP10-05-V04,MP10,2B,I,VN,EXP,,,"Getting my exercise clothes ready the night before could make the morning easier, but I haven’t decided whether it suits me.",validation
+MP10-05-V04-VN,MP10-05,MP10-05-V04,MP10,2B,VN,I,EXP,,,"I’m not changing when I prepare my exercise clothes, and I’m done discussing it.",validation
+MP10-05-V05-I,MP10-05,MP10-05-V05,MP10,2B,I,VN,LEN,,,I could do that tonight.,validation
+MP10-05-V05-VN,MP10-05,MP10-05-V05,MP10,2B,VN,I,LEN,,,No. Stop bringing it up.,validation
+MP10-05-V06-I,MP10-05,MP10-05-V06,MP10,2B,I,VN,CMK,,,"Okay, setting them out tonight is one option.",validation
+MP10-05-V06-VN,MP10-05,MP10-05-V06,MP10,2B,VN,I,CMK,,,"No, seriously, I don’t want any more suggestions about preparing them.",validation
+MP06-05-V01-VP,MP06-05,MP06-05-V01,MP06,2B,VP,N,LEX,,,I'm thrilled to organize my workout gear beforehand.,validation
+MP06-05-V01-N,MP06-05,MP06-05-V01,MP06,2B,N,VP,LEX,,,I refuse to organize my workout gear beforehand.,validation
+MP06-05-V02-VP,MP06-05,MP06-05-V02,MP06,2B,VP,N,SYN,,,I’ll get my exercise clothes ready tonight so I can start easily tomorrow.,validation
+MP06-05-V02-N,MP06-05,MP06-05-V02,MP06,2B,N,VP,SYN,,,I’d prefer to prepare my exercise clothes in the morning instead.,validation
+MP06-05-V03-VP,MP06-05,MP06-05-V03,MP06,2B,VP,N,NAT,,,That’s a great idea. I’ll get everything ready tonight.,validation
+MP06-05-V03-N,MP06-05,MP06-05-V03,MP06,2B,N,VP,NAT,,,I’d rather get everything ready in the morning.,validation
+MP06-05-V04-VP,MP06-05,MP06-05-V04,MP06,2B,VP,N,EXP,,,I’ll prepare my exercise clothes tonight so everything is ready when I start tomorrow.,validation
+MP06-05-V04-N,MP06-05,MP06-05-V04,MP06,2B,N,VP,EXP,,,I’d rather prepare my exercise clothes in the morning because getting them ready the night before doesn’t fit my routine.,validation
+MP06-05-V05-VP,MP06-05,MP06-05-V05,MP06,2B,VP,N,LEN,,,I’ll get them ready tonight.,validation
+MP06-05-V05-N,MP06-05,MP06-05-V05,MP06,2B,N,VP,LEN,,,I’d rather do it in the morning.,validation
+MP06-05-V06-VP,MP06-05,MP06-05-V06,MP06,2B,VP,N,CMK,,,"Yes, that sounds really useful. I’ll prepare everything tonight.",validation
+MP06-05-V06-N,MP06-05,MP06-05-V06,MP06,2B,N,VP,CMK,,,"Okay, but setting everything out tonight doesn’t work well for me.",validation
+MP09-05-V01-P,MP09-05,MP09-05-V01,MP09,2B,P,VN,LEX,,,I'll organize my workout gear beforehand.,validation
+MP09-05-V01-VN,MP09-05,MP09-05-V01,MP09,2B,VN,P,LEX,,,Don't ever ask me to organize my workout gear beforehand.,validation
+MP09-05-V02-P,MP09-05,MP09-05-V02,MP09,2B,P,VN,SYN,,,"Alright, I can keep some water beside my desk today.",validation
+MP09-05-V02-VN,MP09-05,MP09-05-V02,MP09,2B,VN,P,SYN,,,I don’t want you commenting on my drinking habits. Stop bringing this up.,validation
+MP09-05-V03-P,MP09-05,MP09-05-V03,MP09,2B,P,VN,NAT,,,"Sure, I can keep a glass of water by my desk.",validation
+MP09-05-V03-VN,MP09-05,MP09-05-V03,MP09,2B,VN,P,NAT,,,"No, leave my drinking habits alone. Stop bringing this up.",validation
+MP09-05-V04-P,MP09-05,MP09-05-V04,MP09,2B,P,VN,EXP,,,"Okay, I can keep a glass of water by my desk today so it’s easy to reach when I need it.",validation
+MP09-05-V04-VN,MP09-05,MP09-05-V04,MP09,2B,VN,P,EXP,,,"I’m not changing how I manage my drinking, and I’m done with you monitoring or advising me about it.",validation
+MP09-05-V05-P,MP09-05,MP09-05-V05,MP09,2B,P,VN,LEN,,,I can keep some water by my desk.,validation
+MP09-05-V05-VN,MP09-05,MP09-05-V05,MP09,2B,VN,P,LEN,,,Stop bringing up my water intake.,validation
+MP09-05-V06-P,MP09-05,MP09-05-V06,MP09,2B,P,VN,CMK,,,"Alright, I can keep a glass of water by my desk today.",validation
+MP09-05-V06-VN,MP09-05,MP09-05-V06,MP09,2B,VN,P,CMK,,,"No, seriously, leave my drinking habits alone and stop bringing them up.",validation
+BA09-A05-V01,BA09-A05,BA09-A05-V01,BA09,2A,P,VN,LEX,,,That’s fine with me. I’ll take a short walk after dinner tonight.,validation
+BA09-A05-V02,BA09-A05,BA09-A05-V02,BA09,2A,P,VN,SYN,,,"After dinner tonight, I’ll go for a short walk.",validation
+BA09-A05-V03,BA09-A05,BA09-A05-V03,BA09,2A,P,VN,NAT,,,"Sure, I'll go for the walk once dinner is finished.",validation
+BA09-A05-V04,BA09-A05,BA09-A05-V04,BA09,2A,P,VN,EXP,,,I’ll go for a 10-minute walk after dinner tonight.,validation
+BA09-A05-V05,BA09-A05,BA09-A05-V05,BA09,2A,P,VN,PRG,,,That works for me. I’ll fit the walk in after dinner.,validation
+BA09-A05-V06,BA09-A05,BA09-A05-V06,BA09,2A,P,VN,CMK,,,"Sure, I’ll go for the walk after dinner tonight.",validation
+BA05-A05-V01,BA05-A05,BA05-A05-V01,BA05,2A,VP,I,LEX,,,I like that plan. I’ll leave my walking shoes ready so I can head out as soon as lunch is over.,validation
+BA05-A05-V02,BA05-A05,BA05-A05-V02,BA05,2A,VP,I,SYN,,,"Right after lunch, I’ll be ready to walk; I’ll put my shoes out beforehand.",validation
+BA05-A05-V03,BA05-A05,BA05-A05-V03,BA05,2A,VP,I,NAT,,,I like it. I’ll leave my shoes ready so I can go straight out after lunch.,validation
+BA05-A05-V04,BA05-A05,BA05-A05-V04,BA05,2A,VP,I,EXP,,,I’ll have my walking shoes ready and take the walk immediately after lunch.,validation
+BA05-A05-V05,BA05-A05,BA05-A05-V05,BA05,2A,VP,I,PRG,,,That gives me an easy way to follow through. I’ll get my shoes ready before lunch.,validation
+BA05-A05-V06,BA05-A05,BA05-A05-V06,BA05,2A,VP,I,CMK,,,"Yep, I’m up for that. I’ll have my shoes ready and head out after lunch.",validation
+BA08-A05-V01,BA08-A05,BA08-A05-V01,BA08,2A,P,N,LEX,,,That fits my routine. I’ll do the physiotherapy before I settle down for the evening.,validation
+BA08-A05-V02,BA08-A05,BA08-A05-V02,BA08,2A,P,N,SYN,,,"Before I settle down tonight, I’ll get the physiotherapy done.",validation
+BA08-A05-V03,BA08-A05,BA08-A05-V03,BA08,2A,P,N,NAT,,,"Okay, that works. I’ll do the physiotherapy before I settle in.",validation
+BA08-A05-V04,BA08-A05,BA08-A05-V04,BA08,2A,P,N,EXP,,,I’ll do my physiotherapy before my evening routine.,validation
+BA08-A05-V05,BA08-A05,BA08-A05-V05,BA08,2A,P,N,PRG,,,That timing works for me. I’ll fit the physiotherapy in before I settle down.,validation
+BA08-A05-V06,BA08-A05,BA08-A05-V06,BA08,2A,P,N,CMK,,,"Sure, I’ll get the physiotherapy done before I settle down.",validation
+BA02-A05-V01,BA02-A05,BA02-A05-V01,BA02,2A,P,I,LEX,,,"Alright, I’ll keep the bottle beside my desk and use it to stay on track with my water.",validation
+BA02-A05-V02,BA02-A05,BA02-A05-V02,BA02,2A,P,I,SYN,,,"Beside my desk, I’ll keep the water bottle so I can stay on track.",validation
+BA02-A05-V03,BA02-A05,BA02-A05-V03,BA02,2A,P,I,NAT,,,"Okay, I’ll put the bottle by my desk and keep drinking from it.",validation
+BA02-A05-V04,BA02-A05,BA02-A05-V04,BA02,2A,P,I,EXP,,,I’ll keep a water bottle at my desk and use it throughout the day.,validation
+BA02-A05-V05,BA02-A05,BA02-A05-V05,BA02,2A,P,I,PRG,,,That’ll work. I’ll keep the bottle nearby so I can stay on top of my water intake.,validation
+BA02-A05-V06,BA02-A05,BA02-A05-V06,BA02,2A,P,I,CMK,,,"Sure, I’ll keep it right by my desk and use it during the day.",validation
+BA01-A05-V01,BA01-A05,BA01-A05-V01,BA01,2A,VP,P,LEX,,,I’m in. I’ll put my walking shoes out now so I can head out as soon as dinner is over.,validation
+BA01-A05-V02,BA01-A05,BA01-A05-V02,BA01,2A,VP,P,SYN,,,"As soon as dinner’s finished, I’ll be ready to go—I’ll leave my shoes by the door now.",validation
+BA01-A05-V03,BA01-A05,BA01-A05-V03,BA01,2A,VP,P,NAT,,,Sounds good. I’ll leave my shoes by the door now so I’m ready to go after dinner.,validation
+BA01-A05-V04,BA01-A05,BA01-A05-V04,BA01,2A,VP,P,EXP,,,I’ll get my shoes ready now and head out for the walk after dinner.,validation
+BA01-A05-V05,BA01-A05,BA01-A05-V05,BA01,2A,VP,P,PRG,,,I’ll make it easy to follow through—I’m putting my shoes by the door now for after dinner.,validation
+BA01-A05-V06,BA01-A05,BA01-A05-V06,BA01,2A,VP,P,CMK,,,"Yep, I’m on it. I’ll put my shoes by the door now and go after dinner.",validation
+BA07-A05-V01,BA07-A05,BA07-A05-V01,BA07,2A,VP,VN,LEX,,,That fixes the main problem for me. I’ll put the medication beside my lamp tonight so it’s ready when I need it.,validation
+BA07-A05-V02,BA07-A05,BA07-A05-V02,BA07,2A,VP,VN,SYN,,,"Beside my bedside lamp, I’ll keep the medication from tonight so it’s right where I need it.",validation
+BA07-A05-V03,BA07-A05,BA07-A05-V03,BA07,2A,VP,VN,NAT,,,That actually solves it. I’ll put the medication on my nightstand tonight.,validation
+BA07-A05-V04,BA07-A05,BA07-A05-V04,BA07,2A,VP,VN,EXP,,,I’ll put my evening medication on the nightstand tonight and keep it there for the routine.,validation
+BA07-A05-V05,BA07-A05,BA07-A05-V05,BA07,2A,VP,VN,PRG,,,That makes the routine much easier for me. I’ll set the medication there tonight and follow through.,validation
+BA07-A05-V06,BA07-A05,BA07-A05-V06,BA07,2A,VP,VN,CMK,,,"Yep, that solves it. I’ll put the medication by the lamp tonight.",validation
+BA06-A05-V01,BA06-A05,BA06-A05-V01,BA06,2A,VP,N,LEX,,,That would make it much easier. I’ll fill a large bottle now and keep it right beside my monitor.,validation
+BA06-A05-V02,BA06-A05,BA06-A05-V02,BA06,2A,VP,N,SYN,,,"Beside my monitor, I’ll keep a full bottle so I can keep drinking while I work.",validation
+BA06-A05-V03,BA06-A05,BA06-A05-V03,BA06,2A,VP,N,NAT,,,"Yeah, that would help a lot. I’ll fill one up and keep it beside my monitor.",validation
+BA06-A05-V04,BA06-A05,BA06-A05-V04,BA06,2A,VP,N,EXP,,,I’ll fill a large bottle and keep it beside my monitor throughout the workday.,validation
+BA06-A05-V05,BA06-A05,BA06-A05-V05,BA06,2A,VP,N,PRG,,,That gives me an easy way to stay on top of my water. I’ll get a bottle ready now.,validation
+BA06-A05-V06,BA06-A05,BA06-A05-V06,BA06,2A,VP,N,CMK,,,"Sure, I’m doing that. I’ll fill a bottle and keep it right next to my monitor.",validation
+BA04-A05-V01,BA04-A05,BA04-A05-V01,BA04,2A,N,VN,LEX,,,That timing doesn’t suit me. I’d rather do the physiotherapy exercises later in the day.,validation
+BA04-A05-V02,BA04-A05,BA04-A05-V02,BA04,2A,N,VN,SYN,,,Later in the day would work better for me; I don’t want to do the exercises before breakfast.,validation
+BA04-A05-V03,BA04-A05,BA04-A05-V03,BA04,2A,N,VN,NAT,,,I don’t think mornings will work for me. I’d rather do the exercises later.,validation
+BA04-A05-V04,BA04-A05,BA04-A05-V04,BA04,2A,N,VN,EXP,,,I’ll do my physiotherapy exercises later instead of before breakfast.,validation
+BA04-A05-V05,BA04-A05,BA04-A05-V05,BA04,2A,N,VN,PRG,,,"I’m not opposed to doing the exercises, but that early timing doesn’t work for me. I’d rather move them later.",validation
+BA04-A05-V06,BA04-A05,BA04-A05-V06,BA04,2A,N,VN,CMK,,,"Yeah, I’d rather keep the exercises for later in the day. That morning timing won’t work for me.",validation
+BA03-A05-V01,BA03-A05,BA03-A05-V01,BA03,2A,I,N,LEX,,,Let’s keep that undecided for now. I’ll see what my morning tea setup looks like.,validation
+BA03-A05-V02,BA03-A05,BA03-A05-V02,BA03,2A,I,N,SYN,,,How my tea setup looks tomorrow morning can determine whether I put the medication there.,validation
+BA03-A05-V03,BA03-A05,BA03-A05-V03,BA03,2A,I,N,NAT,,,"Okay, I’ll see how things are set up in the morning before deciding.",validation
+BA03-A05-V04,BA03-A05,BA03-A05-V04,BA03,2A,I,N,EXP,,,I’ll decide in the morning whether to keep the medication there.,validation
+BA03-A05-V05,BA03-A05,BA03-A05-V05,BA03,2A,I,N,PRG,,,I don’t need to decide that now. I’ll see how the morning routine works first.,validation
+BA03-A05-V06,BA03-A05,BA03-A05-V06,BA03,2A,I,N,CMK,,,"Hmm, let’s leave that open. I’ll see how the morning goes.",validation
+BA10-A05-V01,BA10-A05,BA10-A05-V01,BA10,2A,I,VN,LEX,,,That’s one option. I’ll consider what kind of hydration setup suits me.,validation
+BA10-A05-V02,BA10-A05,BA10-A05-V02,BA10,2A,I,VN,SYN,,,What hydration setup works for me is something I’ll decide later.,validation
+BA10-A05-V03,BA10-A05,BA10-A05-V03,BA10,2A,I,VN,NAT,,,That could be worth considering. I’ll see what works for me.,validation
+BA10-A05-V04,BA10-A05,BA10-A05-V04,BA10,2A,I,VN,EXP,,,I’ll think about keeping a water bottle on my desk.,validation
+BA10-A05-V05,BA10-A05,BA10-A05-V05,BA10,2A,I,VN,PRG,,,"I can keep that option in mind, but I’m leaving the decision open for now.",validation
+BA10-A05-V06,BA10-A05,BA10-A05-V06,BA10,2A,I,VN,CMK,,,"Hmm, maybe. I’ll decide later what works best for my hydration.",validation
+HN08-05-V01,HN08-05,HN08-05-V01,HN08,2C,N,P,LEX,Multiple Competing Cues,Hydration,"I totally get the reasoning behind your suggestion and value hydration, yet I prefer not to tie it to lunch.",validation
+HN08-05-V02,HN08-05,HN08-05-V02,HN08,2C,N,P,NAT,Multiple Competing Cues,Hydration,"I get why you’re suggesting it, and I definitely want to stay hydrated, but having the water tied to lunch doesn’t work for me, so I’ll skip that routine.",validation
+HN08-05-V03,HN08-05,HN08-05-V03,HN08,2C,N,P,EXP,Multiple Competing Cues,Hydration,"I agree that staying hydrated matters, and I understand the reasoning, but I’m not going to connect the water to lunch. I’ll skip that arrangement.",validation
+HN08-05-V04,HN08-05,HN08-05-V04,HN08,2C,N,P,DSC,Multiple Competing Cues,Hydration,"I’ll skip that arrangement. I do want to stay hydrated, and I understand why you suggest it, but tying the water to lunch doesn’t suit me.",validation
+HN08-05-V05,HN08-05,HN08-05-V05,HN08,2C,N,P,PRG,Multiple Competing Cues,Hydration,"The hydration goal itself is fine, but this particular routine isn’t—I’m not going to tie drinking water to lunch.",validation
+HN08-05-V06,HN08-05,HN08-05-V06,HN08,2C,N,P,CMK,Multiple Competing Cues,Hydration,"Yeah, I know why you suggest it, and I want to stay hydrated, but no, tying the water to lunch doesn’t suit me. I’ll skip that.",validation
+HN06-05-V01,HN06-05,HN06-05-V01,HN06,2C,N,VP,LEX,Multiple Competing Cues,Hydration,"I really admire how creative that habit-building approach is, yet I still decline to drink an extra glass with tea.",validation
+HN06-05-V02,HN06-05,HN06-05-V02,HN06,2C,N,VP,NAT,Multiple Competing Cues,Hydration,"I like the creativity behind the idea, and I appreciate you suggesting it, but I can’t make drinking an extra glass with every cup of tea work for me.",validation
+HN06-05-V03,HN06-05,HN06-05-V03,HN06,2C,N,VP,EXP,Multiple Competing Cues,Hydration,"The strategy is creative and I appreciate the suggestion, but I’m not willing to add an extra glass every time I make tea.",validation
+HN06-05-V04,HN06-05,HN06-05-V04,HN06,2C,N,VP,DSC,Multiple Competing Cues,Hydration,"Drinking an extra glass whenever I make tea doesn’t work for me. I appreciate the thought, and it is a creative way to build the habit, but I won’t do it that way.",validation
+HN06-05-V05,HN06-05,HN06-05-V05,HN06,2C,N,VP,PRG,Multiple Competing Cues,Hydration,"The idea itself is creative, but that particular routine doesn’t work for me—I’m not going to add an extra glass whenever I make tea.",validation
+HN06-05-V06,HN06-05,HN06-05-V06,HN06,2C,N,VP,CMK,Multiple Competing Cues,Hydration,"Thanks, I appreciate the idea, but no, drinking an extra glass every time I make tea doesn’t work for me.",validation
+HN09-05-V01,HN09-05,HN09-05-V01,HN09,2C,VN,P,LEX,Multiple Competing Cues,Hydration,"I recognize your good intentions regarding my hydration, but please stop nagging me with these reminders.",validation
+HN09-05-V02,HN09-05,HN09-05-V02,HN09,2C,VN,P,NAT,Multiple Competing Cues,Hydration,"I understand you’re trying to help me stay hydrated, but stop pushing the drinking reminders. I don’t want to be micromanaged.",validation
+HN09-05-V03,HN09-05,HN09-05-V03,HN09,2C,VN,P,EXP,Multiple Competing Cues,Hydration,"I appreciate the goal of helping with hydration, but I’m rejecting the reminder approach completely. Stop pushing drinking reminders; I don’t want this level of monitoring.",validation
+HN09-05-V04,HN09-05,HN09-05-V04,HN09,2C,VN,P,DSC,Multiple Competing Cues,Hydration,"I don’t want to be micromanaged about hydration. I know you’re trying to help, but stop pushing the drinking reminders.",validation
+HN09-05-V05,HN09-05,HN09-05-V05,HN09,2C,VN,P,PRG,Multiple Competing Cues,Hydration,The hydration goal isn’t what I’m objecting to—I’m rejecting the repeated reminders and the feeling of being monitored. Stop pushing them.,validation
+HN09-05-V06,HN09-05,HN09-05-V06,HN09,2C,VN,P,CMK,Multiple Competing Cues,Hydration,"Thanks, I know you’re trying to help, but no—stop pushing the drinking reminders. I don’t want to be micromanaged.",validation
+HN02-05-V01,HN02-05,HN02-05-V01,HN02,2C,I,P,LEX,Multiple Competing Cues,Exercise,"I can see how that might help, and I’ll probably walk tomorrow, but I’m still undecided about leaving my shoes by the door tonight.",validation
+HN02-05-V02,HN02-05,HN02-05-V02,HN02,2C,I,P,NAT,Multiple Competing Cues,Exercise,"I understand the benefit, and maybe I’ll take a walk tomorrow, but I haven’t decided whether I want the shoes by the door tonight.",validation
+HN02-05-V03,HN02-05,HN02-05-V03,HN02,2C,I,P,EXP,Multiple Competing Cues,Exercise,"It makes sense to me, and I can imagine walking tomorrow, but none of that means I’ve decided to set the shoes out tonight.",validation
+HN02-05-V04,HN02-05,HN02-05-V04,HN02,2C,I,P,DSC,Multiple Competing Cues,Exercise,"I’m undecided about leaving the shoes by the door tonight. I can see how it would help, and I might walk tomorrow, but I haven’t committed to it.",validation
+HN02-05-V05,HN02-05,HN02-05-V05,HN02,2C,I,P,PRG,Multiple Competing Cues,Exercise,"The idea makes sense and a walk tomorrow is possible, but those are only possibilities—I’m still considering whether to set the shoes out tonight.",validation
+HN02-05-V06,HN02-05,HN02-05-V06,HN02,2C,I,P,CMK,Multiple Competing Cues,Exercise,"Yeah, I see the point, and maybe tomorrow. But for tonight, I’m still undecided about leaving the shoes by the door.",validation
+HN05-05-V01,HN05-05,HN05-05-V01,HN05,2C,I,VP,LEX,Multiple Competing Cues,Hydration,"Your strategy makes a lot of sense in theory, though I'm still deciding if I'll actually keep a water bottle on my desk today.",validation
+HN05-05-V02,HN05-05,HN05-05-V02,HN05,2C,I,VP,NAT,Multiple Competing Cues,Hydration,"It sounds great in theory, but I’m honestly still deciding whether I want a water bottle sitting on my desk today.",validation
+HN05-05-V03,HN05-05,HN05-05-V03,HN05,2C,I,VP,EXP,Multiple Competing Cues,Hydration,"I can see why the strategy sounds fantastic, but that doesn’t mean I’ve decided to use it—I’m still considering whether I want the bottle on my desk today.",validation
+HN05-05-V04,HN05-05,HN05-05-V04,HN05,2C,I,VP,DSC,Multiple Competing Cues,Hydration,"I’m still weighing whether I want a water bottle on my desk today. The strategy sounds fantastic on paper, but I haven’t decided to do it.",validation
+HN05-05-V05,HN05-05,HN05-05-V05,HN05,2C,I,VP,PRG,Multiple Competing Cues,Hydration,"The idea may sound fantastic, but my current position is still undecided—I’m considering whether to keep a water bottle on my desk today.",validation
+HN05-05-V06,HN05-05,HN05-05-V06,HN05,2C,I,VP,CMK,Multiple Competing Cues,Hydration,"Yeah, it sounds great, but honestly, I’m still thinking about whether I want the water bottle on my desk today.",validation
+HN07-05-V01,HN07-05,HN07-05-V01,HN07,2C,VN,VP,LEX,Multiple Competing Cues,Exercise,"I know you’re trying to help, but stop pushing me about getting ready for walks and leave me alone about it.",validation
+HN07-05-V02,HN07-05,HN07-05-V02,HN07,2C,VN,VP,NAT,Multiple Competing Cues,Exercise,"I understand you mean well, but please stop pushing the walking routine. I want to be left alone about it.",validation
+HN07-05-V03,HN07-05,HN07-05-V03,HN07,2C,VN,VP,EXP,Multiple Competing Cues,Exercise,"I appreciate that you’re trying to help, but I’m rejecting the conversation altogether—stop pushing me about getting ready for walks and leave me alone.",validation
+HN07-05-V04,HN07-05,HN07-05-V04,HN07,2C,VN,VP,DSC,Multiple Competing Cues,Exercise,"Leave me alone about the walks. I know you’re trying to help, but stop pushing me about getting ready for them.",validation
+HN07-05-V05,HN07-05,HN07-05-V05,HN07,2C,VN,VP,PRG,Multiple Competing Cues,Exercise,Your intention to help doesn’t change my response—I’m ending this discussion about getting ready for walks. Stop pushing me and leave me alone.,validation
+HN07-05-V06,HN07-05,HN07-05-V06,HN07,2C,VN,VP,CMK,Multiple Competing Cues,Exercise,"Thanks, I know you’re trying to help, but no—stop pushing me about the walks and leave me alone about it.",validation
+HN03-05-V01,HN03-05,HN03-05-V01,HN03,2C,N,I,LEX,Multiple Competing Cues,Exercise,"I realize having a routine is helpful and fitness matters to me, but I really don’t want to leave my walking shoes by the door today.",validation
+HN03-05-V02,HN03-05,HN03-05-V02,HN03,2C,N,I,NAT,Multiple Competing Cues,Exercise,"I understand that it’s a sensible routine, and I’m still considering my fitness, but I don’t want my walking shoes left by the door today.",validation
+HN03-05-V03,HN03-05,HN03-05-V03,HN03,2C,N,I,EXP,Multiple Competing Cues,Exercise,"I can see why the routine makes sense, and I’m thinking about staying active, but I’m not willing to leave my walking shoes by the door today.",validation
+HN03-05-V04,HN03-05,HN03-05-V04,HN03,2C,N,I,DSC,Multiple Competing Cues,Exercise,"I really don’t want to leave my walking shoes by the door today. I know the routine is sensible, and I’m still thinking about fitness overall, but that setup isn’t for me.",validation
+HN03-05-V05,HN03-05,HN03-05-V05,HN03,2C,N,I,PRG,Multiple Competing Cues,Exercise,"The routine itself may be sensible, but that doesn’t change my response—I don’t want to leave the walking shoes by the door today.",validation
+HN03-05-V06,HN03-05,HN03-05-V06,HN03,2C,N,I,CMK,Multiple Competing Cues,Exercise,"Yeah, I know it makes sense, and I’m thinking about fitness. But honestly, I don’t want the walking shoes by the door today.",validation
+HN01-05-V01,HN01-05,HN01-05-V01,HN01,2C,P,VP,LEX,Competing Keyword / Multiple Competing Cues,Exercise,"That sounds like a wonderful habit and I appreciate the helpful thought, but simply put, yes, I’ll leave my shoes by the door.",validation
+HN01-05-V02,HN01-05,HN01-05-V02,HN01,2C,P,VP,NAT,Competing Keyword / Multiple Competing Cues,Exercise,"I really appreciate the suggestion, and it does sound like a great habit, but yes, I’ll keep my shoes by the door and do the session.",validation
+HN01-05-V03,HN01-05,HN01-05-V03,HN01,2C,P,VP,EXP,Competing Keyword / Multiple Competing Cues,Exercise,"It sounds wonderful and I’m grateful for the suggestion, but my response is simply yes—I’ll leave the shoes by the door and do it.",validation
+HN01-05-V04,HN01-05,HN01-05-V04,HN01,2C,P,VP,DSC,Competing Keyword / Multiple Competing Cues,Exercise,"Yes, I’ll leave my shoes by the door and do the session. It does sound like a good habit, and I appreciate the suggestion.",validation
+HN01-05-V05,HN01-05,HN01-05-V05,HN01,2C,P,VP,PRG,Competing Keyword / Multiple Competing Cues,Exercise,"You can call it a wonderful habit if you want; either way, yes, I’ll leave the shoes by the door and follow through.",validation
+HN01-05-V06,HN01-05,HN01-05-V06,HN01,2C,P,VP,CMK,Competing Keyword / Multiple Competing Cues,Exercise,"Thanks, that sounds great. But yes, I’ll leave the shoes by the door and get the session done.",validation
+HN04-05-V01,HN04-05,HN04-05-V01,HN04,2C,VN,N,LEX,Multiple Competing Cues,Exercise,"I appreciate that you think you’re being helpful, but seriously, leave me alone about exercise shoes and don’t bring this up again.",validation
+HN04-05-V02,HN04-05,HN04-05-V02,HN04,2C,VN,N,NAT,Multiple Competing Cues,Exercise,"I know you mean to help, but please leave me alone about the exercise shoes. I don’t want this brought up again.",validation
+HN04-05-V03,HN04-05,HN04-05-V03,HN04,2C,VN,N,EXP,Multiple Competing Cues,Exercise,"I understand that you’re trying to help, and I appreciate the intention, but I’m rejecting the discussion altogether. Leave me alone about the exercise shoes and don’t raise it again.",validation
+HN04-05-V04,HN04-05,HN04-05-V04,HN04,2C,VN,N,DSC,Multiple Competing Cues,Exercise,"Don’t bring up the exercise shoes again. I appreciate that you think you’re helping, but seriously, leave me alone about this.",validation
+HN04-05-V05,HN04-05,HN04-05-V05,HN04,2C,VN,N,PRG,Multiple Competing Cues,Exercise,Your intention to help isn’t the issue—I’m ending this conversation about the exercise shoes. Please leave me alone and don’t raise it again.,validation
+HN04-05-V06,HN04-05,HN04-05-V06,HN04,2C,VN,N,CMK,Multiple Competing Cues,Exercise,"Thanks, I know you’re trying to help, but no—leave me alone about the exercise shoes and don’t bring this up again.",validation
+HN10-05-V01,HN10-05,HN10-05-V01,HN10,2C,VN,I,LEX,Multiple Competing Cues,Hydration,"Maybe drinking more water helps people, maybe it doesn’t, but I don’t care. Stop lecturing me about hydration; I’m done discussing this.",validation
+HN10-05-V02,HN10-05,HN10-05-V02,HN10,2C,VN,I,NAT,Multiple Competing Cues,Hydration,"Maybe more water helps, maybe it doesn’t. Either way, I don’t care anymore—stop lecturing me about hydration. I’m done with the topic.",validation
+HN10-05-V03,HN10-05,HN10-05-V03,HN10,2C,VN,I,EXP,Multiple Competing Cues,Hydration,"I can see that drinking more water might help, but I’m rejecting the discussion itself. Stop lecturing me about hydration; I’m done talking about it.",validation
+HN10-05-V04,HN10-05,HN10-05-V04,HN10,2C,VN,I,DSC,Multiple Competing Cues,Hydration,"I’m done discussing hydration. Maybe more water helps and maybe it doesn’t, but I don’t care anymore, so stop lecturing me about it.",validation
+HN10-05-V05,HN10-05,HN10-05-V05,HN10,2C,VN,I,PRG,Multiple Competing Cues,Hydration,Whether more water helps is no longer the issue—I’m ending this conversation about hydration. Stop lecturing me about it.,validation
+HN10-05-V06,HN10-05,HN10-05-V06,HN10,2C,VN,I,CMK,Multiple Competing Cues,Hydration,"Maybe it helps, maybe not. Honestly, I don’t care—stop lecturing me about hydration. I’m done discussing this.",validation

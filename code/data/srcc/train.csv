@@ -1,0 +1,339 @@
+serial_id,utterance,response_category
+001,Will do.,positive
+002,"Absolutely not, I refuse.",very_negative
+003,Undetermined.,indifferent
+004,I strongly reject this.,very_negative
+005,I don't know.,indifferent
+006,We will have to see.,indifferent
+007,Absolutely!,very_positive
+008,Certainly.,very_positive
+009,I will.,positive
+010,Yes.,positive
+011,Hesitantly.,negative
+012,Insulting!,very_negative
+013,Maybe I will later.,indifferent
+014,"Yes, that sounds good.",positive
+015,I don't want that.,negative
+016,Terrible!,very_negative
+017,Fine.,positive
+018,I need to think.,indifferent
+019,"Yes, I would love that.",very_positive
+020,Excellent!,very_positive
+021,Stop!,very_negative
+022,Definitely yes.,very_positive
+023,Okay.,positive
+024,I haven't decided yet.,indifferent
+025,Utterly unacceptable.,very_negative
+026,Ridiculous!,very_negative
+027,Agreed.,positive
+028,We'll see.,indifferent
+029,Perfect!,very_positive
+030,I completely reject this.,very_negative
+031,I would be delighted.,very_positive
+032,I am not really sure.,indifferent
+033,Enthusiastically.,very_positive
+034,That sounds perfectly good.,very_positive
+035,I don't want to do that.,negative
+036,Sounds okay.,positive
+037,"Yes, sure.",positive
+038,I will never agree.,very_negative
+039,"Absolutely, that sounds perfect.",very_positive
+040,Denied!,very_negative
+041,Nonsense!,very_negative
+042,"Yes, okay.",positive
+043,Gladly.,very_positive
+044,Unfortunately.,negative
+045,Enough!,very_negative
+046,Yep.,positive
+047,I am still thinking.,indifferent
+048,I suppose.,indifferent
+049,"Fine, I can do that.",positive
+050,Maybe so.,indifferent
+051,Not sure.,indifferent
+052,Unsure.,indifferent
+053,Maybe later.,indifferent
+054,I don't think so.,negative
+055,Sure.,positive
+056,Absolutely.,very_positive
+057,Unacceptable!,very_negative
+058,I strongly object to this.,very_negative
+059,Certainly yes.,very_positive
+060,I think that's okay.,positive
+061,Uncertain.,indifferent
+062,I would be very happy.,very_positive
+063,I don't feel like it.,negative
+064,No way.,very_negative
+065,Reluctantly.,negative
+066,That works well for me.,positive
+067,I suppose so.,indifferent
+068,"Yes, certainly.",very_positive
+069,Absolutely yes.,very_positive
+070,Stop this.,very_negative
+071,I would rather not.,negative
+072,Enough already.,very_negative
+073,Can do.,positive
+074,Maybe.,indifferent
+075,Awful!,very_negative
+076,Alright.,positive
+077,Perhaps later.,indifferent
+078,I think that's fine.,positive
+079,Okay!,positive
+080,"No, I will not.",very_negative
+081,Perhaps.,indifferent
+082,I am not certain.,indifferent
+083,Hard to say.,indifferent
+084,Nah.,negative
+085,Unlikely.,negative
+086,"Definitely, that sounds great.",very_positive
+087,"Yes, definitely.",very_positive
+088,Decline.,negative
+089,I cannot say yet.,indifferent
+090,Never again.,very_negative
+091,I agree.,positive
+092,"Sure, I will do that.",positive
+093,I am not interested.,negative
+094,Indifferent.,indifferent
+095,I am not sure about that.,negative
+096,"Yes, I can do that.",positive
+097,Very happy.,very_positive
+098,Absolutely ridiculous.,very_negative
+099,Not certain.,indifferent
+100,Right.,positive
+101,Definitely not.,very_negative
+102,Wonderful!,very_positive
+103,"Yes, definitely, I would.",very_positive
+104,Completely ridiculous.,very_negative
+105,Neutral.,indifferent
+106,Likely.,indifferent
+107,No.,negative
+108,I don't really know.,indifferent
+109,I want this to stop.,very_negative
+110,Never.,negative
+111,Stop now.,very_negative
+112,I will have to see.,indifferent
+113,That sounds absolutely fantastic.,very_positive
+114,Accepted.,positive
+115,Offensive!,very_negative
+116,Disagree.,negative
+117,I am not comfortable.,negative
+118,Nope.,negative
+119,I might decide later.,indifferent
+120,Absolutely wonderful.,very_positive
+121,I can do that.,positive
+122,That sounds good to me.,positive
+123,Awesome!,very_positive
+124,I will do that.,positive
+125,Absurd!,very_negative
+126,I am undecided about it.,indifferent
+127,Anyway.,indifferent
+128,Seems good.,positive
+129,Yup.,positive
+130,Hmm.,indifferent
+131,Probably.,indifferent
+132,I am definitely willing.,very_positive
+133,Apparently.,indifferent
+134,I guess so.,indifferent
+135,This is completely unacceptable.,very_negative
+136,I would rather skip it.,negative
+137,Sounds wonderful.,very_positive
+138,Absolutely unacceptable.,very_negative
+139,I don't really want to.,negative
+140,"Okay, that sounds good.",positive
+141,That's okay.,positive
+142,I would prefer not to.,negative
+143,"Yes, absolutely.",very_positive
+144,Willingly.,positive
+145,Well.,indifferent
+146,"Sure, that sounds good.",positive
+147,Impossible.,negative
+148,Absolutely perfect.,very_positive
+149,Undecided.,indifferent
+150,"Absolutely, that sounds wonderful.",very_positive
+151,Unwillingly.,negative
+152,I am not sure.,indifferent
+153,Happily.,very_positive
+154,That's acceptable.,positive
+155,Whatever.,indifferent
+156,Hm.,indifferent
+157,Sounds fantastic.,very_positive
+158,Unclear.,indifferent
+159,Totally unacceptable.,very_negative
+160,I absolutely do not want this.,very_negative
+161,Possibly.,indifferent
+162,Completely unacceptable.,very_negative
+163,I am very happy.,very_positive
+164,Disgusting!,very_negative
+165,Somehow.,indifferent
+166,Totally absurd.,very_negative
+167,I am absolutely willing.,very_positive
+168,Definitely.,very_positive
+169,"Sure, I can do that.",positive
+170,I don't agree with that.,negative
+171,Perhaps so.,indifferent
+172,Sounds good.,positive
+173,I guess.,indifferent
+174,I absolutely refuse to do that.,very_negative
+175,Horrible!,very_negative
+176,Thanks.,positive
+177,Sorry.,negative
+178,Please stop this right now.,very_negative
+179,I don't think I can.,negative
+180,Perhaps I will later.,indifferent
+181,"Sure, okay.",positive
+182,Sure!,positive
+183,Really fantastic.,very_positive
+184,Fantastic!,very_positive
+185,Brilliant!,very_positive
+186,Could be.,indifferent
+187,I don't think that's necessary.,negative
+188,Truly excellent.,very_positive
+189,Refuse.,negative
+190,I will never do that.,very_negative
+191,Absolutely not.,very_negative
+192,Sounds perfect.,very_positive
+193,"Definitely not, I refuse.",very_negative
+194,That sounds really wonderful.,very_positive
+195,That's fine.,positive
+196,"Okay, sure.",positive
+197,"Okay, I can do that.",positive
+198,"No, I absolutely refuse.",very_negative
+199,Great!,very_positive
+200,"Yes, absolutely, I would.",very_positive
+201,Outrageous!,very_negative
+202,Maybe.,indifferent
+203,Perhaps.,indifferent
+204,Possibly.,indifferent
+205,Both are fine.,indifferent
+206,Doesn't matter.,indifferent
+207,Either is fine.,indifferent
+208,Either way.,indifferent
+209,It doesn't matter.,indifferent
+210,No preference.,indifferent
+211,Can't say yet.,indifferent
+212,Hard to say.,indifferent
+213,I haven't decided.,indifferent
+214,I'm not certain.,indifferent
+215,I'm undecided.,indifferent
+216,Not decided.,indifferent
+217,Not sure yet.,indifferent
+218,We'll see.,indifferent
+219,Could be.,indifferent
+220,I don't know.,indifferent
+221,I'm not sure.,indifferent
+222,I'm unsure.,indifferent
+223,Maybe so.,indifferent
+224,Not sure.,indifferent
+225,Any option is fine.,indifferent
+226,I have no preference.,indifferent
+227,I'm okay either way.,indifferent
+228,I don't know yet.,indifferent
+229,I need to think.,indifferent
+230,Hesitant.,negative
+231,Reluctant.,negative
+232,I'm not happy.,negative
+233,I'm not satisfied.,negative
+234,Not good.,negative
+235,Not great.,negative
+236,Not ideal.,negative
+237,That's disappointing.,negative
+238,That's not good.,negative
+239,I can't.,negative
+240,I won't.,negative
+241,I'll pass.,negative
+242,No thanks.,negative
+243,Not for me.,negative
+244,Not this time.,negative
+245,Probably not.,negative
+246,I have reservations.,negative
+247,I'd rather not.,negative
+248,I'm hesitant.,negative
+249,I'm not comfortable.,negative
+250,I'm not keen.,negative
+251,I'm reluctant.,negative
+252,Not keen.,negative
+253,I don't like it.,negative
+254,I don't like that.,negative
+255,I'm unhappy with that.,negative
+256,I don't want to.,negative
+257,Agree.,positive
+258,Nice.,positive
+259,Fine by me.,positive
+260,Okay with me.,positive
+261,Sure thing.,positive
+262,"Sure, okay.",positive
+263,That's fine.,positive
+264,That's okay.,positive
+265,"Yes, sure.",positive
+266,I agree.,positive
+267,Sounds good.,positive
+268,That sounds good.,positive
+269,That works.,positive
+270,Works for me.,positive
+271,"Yes, I agree.",positive
+272,I'm satisfied.,positive
+273,Looks good.,positive
+274,Pretty good.,positive
+275,Seems good.,positive
+276,That's good.,positive
+277,That's nice.,positive
+278,I'm okay with that.,positive
+279,Never.,very_negative
+280,Absolutely no.,very_negative
+281,Absolutely not.,very_negative
+282,Certainly not.,very_negative
+283,Definitely not.,very_negative
+284,I completely disagree.,very_negative
+285,I strongly disagree.,very_negative
+286,I totally disagree.,very_negative
+287,No way.,very_negative
+288,Not at all.,very_negative
+289,I refuse completely.,very_negative
+290,I refuse.,very_negative
+291,I will not.,very_negative
+292,I would never.,very_negative
+293,No chance.,very_negative
+294,"No, never.",very_negative
+295,Not a chance.,very_negative
+296,I strongly object.,very_negative
+297,I won't cooperate.,very_negative
+298,I won't do it.,very_negative
+299,I completely oppose it.,very_negative
+300,I refuse to cooperate.,very_negative
+301,I strongly object to that.,very_negative
+302,I strongly oppose it.,very_negative
+303,I strongly oppose that.,very_negative
+304,I will not support it.,very_negative
+305,I'm completely against it.,very_negative
+306,I'm totally against it.,very_negative
+307,Amazing!,very_positive
+308,Excellent!,very_positive
+309,Fantastic!,very_positive
+310,Great!,very_positive
+311,Perfect!,very_positive
+312,Wonderful!,very_positive
+313,Certainly.,very_positive
+314,Definitely.,very_positive
+315,Absolutely.,very_positive
+316,Sounds excellent.,very_positive
+317,That sounds great.,very_positive
+318,That's fantastic.,very_positive
+319,That's wonderful.,very_positive
+320,I'm delighted.,very_positive
+321,I'm very pleased.,very_positive
+322,That's excellent.,very_positive
+323,That's perfect.,very_positive
+324,Certainly yes.,very_positive
+325,Definitely yes.,very_positive
+326,"Definitely, yes.",very_positive
+327,For sure!,very_positive
+328,"Yes, definitely.",very_positive
+329,"Yes, of course.",very_positive
+330,Absolutely yes.,very_positive
+331,"Absolutely, I agree.",very_positive
+332,"Absolutely, yes.",very_positive
+333,Completely agree.,very_positive
+334,I absolutely agree.,very_positive
+335,I strongly agree.,very_positive
+336,I totally agree.,very_positive
+337,Totally agree.,very_positive
+338,"Yes, absolutely.",very_positive

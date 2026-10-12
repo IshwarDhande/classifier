@@ -1,0 +1,961 @@
+example_id,parent_id,lineage_id,boundary_id,track,response_category,closest_competing_category,variation_type,hard_negative_mechanism,task_domain,utterance,split
+MP03-01-V01-I,MP03-01,MP03-01-V01,MP03,2B,I,N,LEX,,,Storing my pills by the sink is a potential option.,train
+MP03-01-V01-N,MP03-01,MP03-01-V01,MP03,2B,N,I,LEX,,,I decline to store my pills by the sink.,train
+MP03-01-V02-I,MP03-01,MP03-01-V02,MP03,2B,I,N,SYN,,,Keeping my medication there is another possibility.,train
+MP03-01-V02-N,MP03-01,MP03-01-V02,MP03,2B,N,I,SYN,,,I’d prefer not to keep my medication next to my toothbrush.,train
+MP03-01-V03-I,MP03-01,MP03-01-V03,MP03,2B,I,N,NAT,,,Keeping it there might work.,train
+MP03-01-V03-N,MP03-01,MP03-01-V03,MP03,2B,N,I,NAT,,,I don’t really want to keep my medication by my toothbrush.,train
+MP03-01-V04-I,MP03-01,MP03-01-V04,MP03,2B,I,N,EXP,,,Putting my medication beside my toothbrush is one option I could consider.,train
+MP03-01-V04-N,MP03-01,MP03-01-V04,MP03,2B,N,I,EXP,,,"Putting my medication beside my toothbrush is possible, but I’d rather not do that.",train
+MP03-01-V05-I,MP03-01,MP03-01-V05,MP03,2B,I,N,LEN,,,I could keep it there.,train
+MP03-01-V05-N,MP03-01,MP03-01-V05,MP03,2B,N,I,LEN,,,I’d rather not keep it there.,train
+MP03-01-V06-I,MP03-01,MP03-01-V06,MP03,2B,I,N,CMK,,,"Okay, I suppose that location is an option.",train
+MP03-01-V06-N,MP03-01,MP03-01-V06,MP03,2B,N,I,CMK,,,"Okay, but I’d rather not keep my medication there.",train
+MP03-02-V01-I,MP03-02,MP03-02-V01,MP03,2B,I,N,LEX,,,A post-lunch stroll is something to consider.,train
+MP03-02-V01-N,MP03-02,MP03-02-V01,MP03,2B,N,I,LEX,,,I refuse to take a post-lunch stroll.,train
+MP03-02-V02-I,MP03-02,MP03-02-V02,MP03,2B,I,N,SYN,,,I could take the walk after lunch.,train
+MP03-02-V02-N,MP03-02,MP03-02-V02,MP03,2B,N,I,SYN,,,I’d prefer not to take the walk during my lunch break.,train
+MP03-02-V03-I,MP03-02,MP03-02-V03,MP03,2B,I,N,NAT,,,After lunch might work.,train
+MP03-02-V03-N,MP03-02,MP03-02-V03,MP03,2B,N,I,NAT,,,I don’t really want to walk during lunch.,train
+MP03-02-V04-I,MP03-02,MP03-02-V04,MP03,2B,I,N,EXP,,,Taking the walk after lunch is one option I could consider.,train
+MP03-02-V04-N,MP03-02,MP03-02-V04,MP03,2B,N,I,EXP,,,"Taking the walk after lunch is possible, but I’d rather use my lunch break differently.",train
+MP03-02-V05-I,MP03-02,MP03-02-V05,MP03,2B,I,N,LEN,,,Walking at that time is an option.,train
+MP03-02-V05-N,MP03-02,MP03-02-V05,MP03,2B,N,I,LEN,,,I’d rather not walk after lunch.,train
+MP03-02-V06-I,MP03-02,MP03-02-V06,MP03,2B,I,N,CMK,,,"Alright, I'll think about doing it then.",train
+MP03-02-V06-N,MP03-02,MP03-02-V06,MP03,2B,N,I,CMK,,,"Alright, but I’d rather not use lunch for the walk.",train
+MP03-03-V01-I,MP03-03,MP03-03-V01,MP03,2B,I,N,LEX,,,Keeping a flask on my desk might happen.,train
+MP03-03-V01-N,MP03-03,MP03-03-V01,MP03,2B,N,I,LEX,,,I decline to keep a flask on my desk.,train
+MP03-03-V02-I,MP03-03,MP03-03-V02,MP03,2B,I,N,SYN,,,Keeping a water bottle on my desk is one possibility.,train
+MP03-03-V02-N,MP03-03,MP03-03-V02,MP03,2B,N,I,SYN,,,I’d rather not have a water bottle on my desk.,train
+MP03-03-V03-I,MP03-03,MP03-03-V03,MP03,2B,I,N,NAT,,,A bottle on my desk might work.,train
+MP03-03-V03-N,MP03-03,MP03-03-V03,MP03,2B,N,I,NAT,,,I don’t really want a bottle sitting on my desk.,train
+MP03-03-V04-I,MP03-03,MP03-03-V04,MP03,2B,I,N,EXP,,,I can see how keeping a water bottle on my desk could be useful.,train
+MP03-03-V04-N,MP03-03,MP03-03-V04,MP03,2B,N,I,EXP,,,"I can see the benefit, but I’d rather not keep a water bottle on my desk.",train
+MP03-03-V05-I,MP03-03,MP03-03-V05,MP03,2B,I,N,LEN,,,I could keep one there.,train
+MP03-03-V05-N,MP03-03,MP03-03-V05,MP03,2B,N,I,LEN,,,I’d rather not keep one there.,train
+MP03-03-V06-I,MP03-03,MP03-03-V06,MP03,2B,I,N,CMK,,,"Okay, a water bottle on my desk is one option.",train
+MP03-03-V06-N,MP03-03,MP03-03-V06,MP03,2B,N,I,CMK,,,"Okay, but I’d rather not keep one on my desk.",train
+MP03-04-V01-I,MP03-04,MP03-04-V01,MP03,2B,I,N,LEX,,,Dividing the exercises into two parts is possible.,train
+MP03-04-V01-N,MP03-04,MP03-04-V01,MP03,2B,N,I,LEX,,,I refuse to divide the exercises into two parts.,train
+MP03-04-V02-I,MP03-04,MP03-04-V02,MP03,2B,I,N,SYN,,,Doing the exercises in two sessions is one possibility.,train
+MP03-04-V02-N,MP03-04,MP03-04-V02,MP03,2B,N,I,SYN,,,I’m not sure I want to divide the physiotherapy exercises into two sessions.,train
+MP03-04-V03-I,MP03-04,MP03-04-V03,MP03,2B,I,N,NAT,,,Two sessions could work.,train
+MP03-04-V03-N,MP03-04,MP03-04-V03,MP03,2B,N,I,NAT,,,I don’t really want to split the exercises into two sessions.,train
+MP03-04-V04-I,MP03-04,MP03-04-V04,MP03,2B,I,N,EXP,,,I can see how two shorter sessions could fit into the day.,train
+MP03-04-V04-N,MP03-04,MP03-04-V04,MP03,2B,N,I,EXP,,,"I can see how two shorter sessions could fit, but I’m not sure I want to do the exercises that way.",train
+MP03-04-V05-I,MP03-04,MP03-04-V05,MP03,2B,I,N,LEN,,,I could do two sessions.,train
+MP03-04-V05-N,MP03-04,MP03-04-V05,MP03,2B,N,I,LEN,,,I’d rather not do two sessions.,train
+MP03-04-V06-I,MP03-04,MP03-04-V06,MP03,2B,I,N,CMK,,,"Alright, two shorter sessions are one option.",train
+MP03-04-V06-N,MP03-04,MP03-04-V06,MP03,2B,N,I,CMK,,,"Alright, but I’m not sure I want to split them into two sessions.",train
+MP05-01-V01-VP,MP05-01,MP05-01-V01,MP05,2B,VP,I,LEX,,,I'm excited to place my pills by the sink.,train
+MP05-01-V01-I,MP05-01,MP05-01-V01,MP05,2B,I,VP,LEX,,,Placing my pills by the sink is one option.,train
+MP05-01-V02-VP,MP05-01,MP05-01-V02,MP05,2B,VP,I,SYN,,,That sounds like an excellent approach. I’ll keep my medication next to my toothbrush tonight,train
+MP05-01-V02-I,MP05-01,MP05-01-V02,MP05,2B,I,VP,SYN,,,Keeping my medication next to my toothbrush is one option I could consider.,train
+MP05-01-V03-VP,MP05-01,MP05-01-V03,MP05,2B,VP,I,NAT,,,That’s really helpful. I’ll put my medication by my toothbrush tonight.,train
+MP05-01-V03-I,MP05-01,MP05-01-V03,MP05,2B,I,VP,NAT,,,Keeping it there might work.,train
+MP05-01-V04-VP,MP05-01,MP05-01-V04,MP05,2B,VP,I,EXP,,,I’ll put my medication beside my toothbrush tonight,train
+MP05-01-V04-I,MP05-01,MP05-01-V04,MP05,2B,I,VP,EXP,,,Putting my medication beside my toothbrush is something I could consider.,train
+MP05-01-V05-VP,MP05-01,MP05-01-V05,MP05,2B,VP,I,LEN,,,I’ll put my medication there tonight.,train
+MP05-01-V05-I,MP05-01,MP05-01-V05,MP05,2B,I,VP,LEN,,,I could keep it there.,train
+MP05-01-V06-VP,MP05-01,MP05-01-V06,MP05,2B,VP,I,CMK,,,I’ll put my medication beside my toothbrush tonight.,train
+MP05-01-V06-I,MP05-01,MP05-01-V06,MP05,2B,I,VP,CMK,,,"Okay, I suppose that location is an option.",train
+MP05-02-V01-VP,MP05-02,MP05-02-V01,MP05,2B,VP,I,LEX,,,I'm thrilled to go for a stroll following lunch.,train
+MP05-02-V01-I,MP05-02,MP05-02-V01,MP05,2B,I,VP,LEX,,,Going for a stroll following lunch could happen.,train
+MP05-02-V02-VP,MP05-02,MP05-02-V02,MP05,2B,VP,I,SYN,,,"I’ll take the walk after lunch today, and I’m looking forward to trying it.",train
+MP05-02-V02-I,MP05-02,MP05-02-V02,MP05,2B,I,VP,SYN,,,Taking the walk after lunch is one possibility I could consider.,train
+MP05-02-V03-VP,MP05-02,MP05-02-V03,MP05,2B,VP,I,NAT,,,I’ll take the walk after lunch today.,train
+MP05-02-V03-I,MP05-02,MP05-02-V03,MP05,2B,I,VP,NAT,,,A post-lunch walk could be feasible.,train
+MP05-02-V04-VP,MP05-02,MP05-02-V04,MP05,2B,VP,I,EXP,,,I’ll start the walk after lunch today,train
+MP05-02-V04-I,MP05-02,MP05-02-V04,MP05,2B,I,VP,EXP,,,"I can see how taking the walk after lunch could work, but I haven’t decided yet.",train
+MP05-02-V05-VP,MP05-02,MP05-02-V05,MP05,2B,VP,I,LEN,,,Great—I’ll take the walk after lunch.,train
+MP05-02-V05-I,MP05-02,MP05-02-V05,MP05,2B,I,VP,LEN,,,I could take the walk after lunch.,train
+MP05-02-V06-VP,MP05-02,MP05-02-V06,MP05,2B,VP,I,CMK,,,I’ll take the walk after lunch today.,train
+MP05-02-V06-I,MP05-02,MP05-02-V06,MP05,2B,I,VP,CMK,,,"Okay, after lunch is one possibility.",train
+MP05-03-V01-VP,MP05-03,MP05-03-V01,MP05,2B,VP,I,LEX,,,I'm eager to keep a flask on my desk.,train
+MP05-03-V01-I,MP05-03,MP05-03-V01,MP05,2B,I,VP,LEX,,,Keeping a flask on my desk is an idea.,train
+MP05-03-V02-VP,MP05-03,MP05-03-V02,MP05,2B,VP,I,SYN,,,I’ll keep a water bottle on my desk and start using it this afternoon.,train
+MP05-03-V02-I,MP05-03,MP05-03-V02,MP05,2B,I,VP,SYN,,,Keeping a water bottle on my desk is one option I could consider.,train
+MP05-03-V03-VP,MP05-03,MP05-03-V03,MP05,2B,VP,I,NAT,,,That’s a great idea. I’ll put a water bottle on my desk today.,train
+MP05-03-V03-I,MP05-03,MP05-03-V03,MP05,2B,I,VP,NAT,,,A water bottle on my desk might work.,train
+MP05-03-V04-VP,MP05-03,MP05-03-V04,MP05,2B,VP,I,EXP,,,I’ll put a water bottle on my desk today,train
+MP05-03-V04-I,MP05-03,MP05-03-V04,MP05,2B,I,VP,EXP,,,"I can see how having a water bottle on my desk might help, but I haven’t decided whether to do it.",train
+MP05-03-V05-VP,MP05-03,MP05-03-V05,MP05,2B,VP,I,LEN,,,I’ll put one on my desk.,train
+MP05-03-V05-I,MP05-03,MP05-03-V05,MP05,2B,I,VP,LEN,,,I could put one on my desk.,train
+MP05-03-V06-VP,MP05-03,MP05-03-V06,MP05,2B,VP,I,CMK,,,I’ll put a water bottle on my desk today.,train
+MP05-03-V06-I,MP05-03,MP05-03-V06,MP05,2B,I,VP,CMK,,,"Okay, having one on my desk is one possibility.",train
+MP05-04-V01-VP,MP05-04,MP05-04-V01,MP05,2B,VP,I,LEX,,,I'm excited to separate my physical therapy into two parts.,train
+MP05-04-V01-I,MP05-04,MP05-04-V01,MP05,2B,I,VP,LEX,,,Separating my physical therapy into two parts might work.,train
+MP05-04-V02-VP,MP05-04,MP05-04-V02,MP05,2B,VP,I,SYN,,,That approach sounds excellent. I’ll divide my physiotherapy exercises into two sessions today,train
+MP05-04-V02-I,MP05-04,MP05-04-V02,MP05,2B,I,VP,SYN,,,Dividing the physiotherapy exercises into two sessions is something I could consider.,train
+MP05-04-V03-VP,MP05-04,MP05-04-V03,MP05,2B,VP,I,NAT,,,I’ll try doing the physiotherapy exercises in two sessions today.,train
+MP05-04-V03-I,MP05-04,MP05-04-V03,MP05,2B,I,VP,NAT,,,Two sessions might work for the exercises.,train
+MP05-04-V04-VP,MP05-04,MP05-04-V04,MP05,2B,VP,I,EXP,,,I’ll split the physiotherapy exercises into two sessions today,train
+MP05-04-V04-I,MP05-04,MP05-04-V04,MP05,2B,I,VP,EXP,,,"I can see how two sessions could make the exercises easier to fit in, but I haven’t decided.",train
+MP05-04-V05-VP,MP05-04,MP05-04-V05,MP05,2B,VP,I,LEN,,,I’ll try two sessions today.,train
+MP05-04-V05-I,MP05-04,MP05-04-V05,MP05,2B,I,VP,LEN,,,I could try two sessions.,train
+MP05-04-V06-VP,MP05-04,MP05-04-V06,MP05,2B,VP,I,CMK,,,I’ll split the physiotherapy exercises into two sessions today.,train
+MP05-04-V06-I,MP05-04,MP05-04-V06,MP05,2B,I,VP,CMK,,,"Okay, two shorter sessions are one option.",train
+MP02-01-V01-P,MP02-01,MP02-01-V01,MP02,2B,P,I,LEX,,,I'll place my pills next to my toothbrush.,train
+MP02-01-V01-I,MP02-01,MP02-01-V01,MP02,2B,I,P,LEX,,,Placing my pills by my toothbrush is a possibility.,train
+MP02-01-V02-P,MP02-01,MP02-01-V02,MP02,2B,P,I,SYN,,,I’ll leave my medication next to my toothbrush so I remember to take it.,train
+MP02-01-V02-I,MP02-01,MP02-01-V02,MP02,2B,I,P,SYN,,,Keeping my medication next to my toothbrush is one possibility.,train
+MP02-01-V03-P,MP02-01,MP02-01-V03,MP02,2B,P,I,NAT,,,"Sure, I’ll keep my medication by my toothbrush.",train
+MP02-01-V03-I,MP02-01,MP02-01-V03,MP02,2B,I,P,NAT,,,Keeping it there might work.,train
+MP02-01-V04-P,MP02-01,MP02-01-V04,MP02,2B,P,I,EXP,,,I’ll put my medication beside my toothbrush tonight so it’s there when I need to take it.,train
+MP02-01-V04-I,MP02-01,MP02-01-V04,MP02,2B,I,P,EXP,,,"Putting my medication beside my toothbrush could be useful, but I haven’t decided whether I’ll do that.",train
+MP02-01-V05-P,MP02-01,MP02-01-V05,MP02,2B,P,I,LEN,,,I’ll keep it by my toothbrush.,train
+MP02-01-V05-I,MP02-01,MP02-01-V05,MP02,2B,I,P,LEN,,,I could keep it by my toothbrush.,train
+MP02-01-V06-P,MP02-01,MP02-01-V06,MP02,2B,P,I,CMK,,,"Okay, I’ll keep my medication beside my toothbrush.",train
+MP02-01-V06-I,MP02-01,MP02-01-V06,MP02,2B,I,P,CMK,,,"Okay, I suppose that location is an option.",train
+MP02-02-V01-P,MP02-02,MP02-02-V01,MP02,2B,P,I,LEX,,,I'll head out for a walk following lunch.,train
+MP02-02-V01-I,MP02-02,MP02-02-V01,MP02,2B,I,P,LEX,,,Heading out for a walk following lunch could happen.,train
+MP02-02-V02-P,MP02-02,MP02-02-V02,MP02,2B,P,I,SYN,,,After lunch works for me. I’ll take the walk then.,train
+MP02-02-V02-I,MP02-02,MP02-02-V02,MP02,2B,I,P,SYN,,,I could take the walk after lunch.,train
+MP02-02-V03-P,MP02-02,MP02-02-V03,MP02,2B,P,I,NAT,,,"Sure, I’ll take the walk after lunch today.",train
+MP02-02-V03-I,MP02-02,MP02-02-V03,MP02,2B,I,P,NAT,,,A post-lunch walk could be feasible.,train
+MP02-02-V04-P,MP02-02,MP02-02-V04,MP02,2B,P,I,EXP,,,I’ll take the walk after lunch today so I can get it done then.,train
+MP02-02-V04-I,MP02-02,MP02-02-V04,MP02,2B,I,P,EXP,,,Taking the walk after lunch is something I could consider.,train
+MP02-02-V05-P,MP02-02,MP02-02-V05,MP02,2B,P,I,LEN,,,I’ll walk after lunch.,train
+MP02-02-V05-I,MP02-02,MP02-02-V05,MP02,2B,I,P,LEN,,,Walking at that time is an option.,train
+MP02-02-V06-P,MP02-02,MP02-02-V06,MP02,2B,P,I,CMK,,,"Alright, I’ll take the walk after lunch today.",train
+MP02-02-V06-I,MP02-02,MP02-02-V06,MP02,2B,I,P,CMK,,,"Alright, I'll think about doing it then.",train
+MP02-03-V01-P,MP02-03,MP02-03-V01,MP02,2B,P,I,LEX,,,I'll set a water flask on my desk.,train
+MP02-03-V01-I,MP02-03,MP02-03-V01,MP02,2B,I,P,LEX,,,Setting a water flask on my desk is an option.,train
+MP02-03-V02-P,MP02-03,MP02-03-V02,MP02,2B,P,I,SYN,,,I’ll keep a bottle of water on my desk and drink from it during the afternoon.,train
+MP02-03-V02-I,MP02-03,MP02-03-V02,MP02,2B,I,P,SYN,,,Keeping a water bottle on my desk could be convenient.,train
+MP02-03-V03-P,MP02-03,MP02-03-V03,MP02,2B,P,I,NAT,,,"Sure, I’ll put a water bottle on my desk this afternoon.",train
+MP02-03-V03-I,MP02-03,MP02-03-V03,MP02,2B,I,P,NAT,,,A water bottle on my desk might work.,train
+MP02-03-V04-P,MP02-03,MP02-03-V04,MP02,2B,P,I,EXP,,,I’ll put a water bottle on my desk and use it throughout the afternoon.,train
+MP02-03-V04-I,MP02-03,MP02-03-V04,MP02,2B,I,P,EXP,,,I can see how keeping a water bottle on my desk might make hydration easier.,train
+MP02-03-V05-P,MP02-03,MP02-03-V05,MP02,2B,P,I,LEN,,,I’ll keep a water bottle on my desk.,train
+MP02-03-V05-I,MP02-03,MP02-03-V05,MP02,2B,I,P,LEN,,,I could keep a water bottle on my desk.,train
+MP02-03-V06-P,MP02-03,MP02-03-V06,MP02,2B,P,I,CMK,,,"Okay, I’ll put a water bottle on my desk.",train
+MP02-03-V06-I,MP02-03,MP02-03-V06,MP02,2B,I,P,CMK,,,"Okay, a water bottle on my desk could be convenient.",train
+MP02-04-V01-P,MP02-04,MP02-04-V01,MP02,2B,P,I,LEX,,,I'll break my physical therapy into two parts.,train
+MP02-04-V01-I,MP02-04,MP02-04-V01,MP02,2B,I,P,LEX,,,Breaking my physical therapy into two parts is an idea.,train
+MP02-04-V02-P,MP02-04,MP02-04-V02,MP02,2B,P,I,SYN,,,I’ll divide my physiotherapy exercises into two sessions today.,train
+MP02-04-V02-I,MP02-04,MP02-04-V02,MP02,2B,I,P,SYN,,,Doing the physiotherapy exercises in two sessions could work.,train
+MP02-04-V03-P,MP02-04,MP02-04-V03,MP02,2B,P,I,NAT,,,"Sure, I’ll do the physiotherapy exercises in two sessions today.",train
+MP02-04-V03-I,MP02-04,MP02-04-V03,MP02,2B,I,P,NAT,,,Two sessions might work for the exercises.,train
+MP02-04-V04-P,MP02-04,MP02-04-V04,MP02,2B,P,I,EXP,,,I will divide the exercises into two sessions to fit my schedule better.,train
+MP02-04-V04-I,MP02-04,MP02-04-V04,MP02,2B,I,P,EXP,,,I can see how splitting the physiotherapy exercises into two sessions could make them easier to fit in.,train
+MP02-04-V05-P,MP02-04,MP02-04-V05,MP02,2B,P,I,LEN,,,I’ll split them into two sessions today.,train
+MP02-04-V05-I,MP02-04,MP02-04-V05,MP02,2B,I,P,LEN,,,I could split them into two sessions.,train
+MP02-04-V06-P,MP02-04,MP02-04-V06,MP02,2B,P,I,CMK,,,"Alright, I’ll split the physiotherapy exercises into two sessions today.",train
+MP02-04-V06-I,MP02-04,MP02-04-V06,MP02,2B,I,P,CMK,,,"Alright, two sessions could work for the exercises.",train
+MP08-01-V01-P,MP08-01,MP08-01-V01,MP08,2B,P,N,LEX,,,I'll leave my pills out.,train
+MP08-01-V01-N,MP08-01,MP08-01-V01,MP08,2B,N,P,LEX,,,I prefer not to leave my pills out.,train
+MP08-01-V02-P,MP08-01,MP08-01-V02,MP08,2B,P,N,SYN,,,I’ll leave my medication next to my toothbrush so it’s easier to remember.,train
+MP08-01-V02-N,MP08-01,MP08-01-V02,MP08,2B,N,P,SYN,,,I’d prefer to store my medication somewhere other than beside my toothbrush.,train
+MP08-01-V03-P,MP08-01,MP08-01-V03,MP08,2B,P,N,NAT,,,"Sure, I’ll keep my medication by my toothbrush.",train
+MP08-01-V03-N,MP08-01,MP08-01-V03,MP08,2B,N,P,NAT,,,I would prefer storing my medication in a different location.,train
+MP08-01-V04-P,MP08-01,MP08-01-V04,MP08,2B,P,N,EXP,,,I’ll put my medication beside my toothbrush tonight so I’ll see it when I need to take it.,train
+MP08-01-V04-N,MP08-01,MP08-01-V04,MP08,2B,N,P,EXP,,,I’d rather keep my medication somewhere else because I’m more comfortable storing it there.,train
+MP08-01-V05-P,MP08-01,MP08-01-V05,MP08,2B,P,N,LEN,,,I’ll keep it by my toothbrush.,train
+MP08-01-V05-N,MP08-01,MP08-01-V05,MP08,2B,N,P,LEN,,,I’d rather keep it somewhere else.,train
+MP08-01-V06-P,MP08-01,MP08-01-V06,MP08,2B,P,N,CMK,,,"Okay, I’ll keep my medication beside my toothbrush.",train
+MP08-01-V06-N,MP08-01,MP08-01-V06,MP08,2B,N,P,CMK,,,"Okay, but I’d prefer to keep my medication somewhere else.",train
+MP08-02-V01-P,MP08-02,MP08-02-V01,MP08,2B,P,N,LEX,,,I'll take a post-lunch stroll.,train
+MP08-02-V01-N,MP08-02,MP08-02-V01,MP08,2B,N,P,LEX,,,I refuse to take a post-lunch stroll.,train
+MP08-02-V02-P,MP08-02,MP08-02-V02,MP08,2B,P,N,SYN,,,"Sure, I’ll go for the walk after lunch.",train
+MP08-02-V02-N,MP08-02,MP08-02-V02,MP08,2B,N,P,SYN,,,"I have other plans during lunch, so I’d prefer not to take the walk then.",train
+MP08-02-V03-P,MP08-02,MP08-02-V03,MP08,2B,P,N,NAT,,,"Alright, I’ll take the walk after lunch.",train
+MP08-02-V03-N,MP08-02,MP08-02-V03,MP08,2B,N,P,NAT,,,I’d rather not use my lunch break for the walk.,train
+MP08-02-V04-P,MP08-02,MP08-02-V04,MP08,2B,P,N,EXP,,,I’ll take the walk after lunch today and make sure I get it done.,train
+MP08-02-V04-N,MP08-02,MP08-02-V04,MP08,2B,N,P,EXP,,,"I’d rather use my lunch break for something else, so the walk doesn’t work for me then.",train
+MP08-02-V05-P,MP08-02,MP08-02-V05,MP08,2B,P,N,LEN,,,I’ll walk after lunch.,train
+MP08-02-V05-N,MP08-02,MP08-02-V05,MP08,2B,N,P,LEN,,,I’d rather not walk at lunch.,train
+MP08-02-V06-P,MP08-02,MP08-02-V06,MP08,2B,P,N,CMK,,,"Okay, I can do the walk after lunch.",train
+MP08-02-V06-N,MP08-02,MP08-02-V06,MP08,2B,N,P,CMK,,,"Okay, but I’d rather skip the walk during lunch.",train
+MP08-03-V01-P,MP08-03,MP08-03-V01,MP08,2B,P,N,LEX,,,I'll place a flask on my desk.,train
+MP08-03-V01-N,MP08-03,MP08-03-V01,MP08,2B,N,P,LEX,,,I decline to place a flask on my desk.,train
+MP08-03-V02-P,MP08-03,MP08-03-V02,MP08,2B,P,N,SYN,,,I’ll keep a water bottle on my desk and use it while I work.,train
+MP08-03-V02-N,MP08-03,MP08-03-V02,MP08,2B,N,P,SYN,,,I’d rather have the water bottle somewhere else while I’m working.,train
+MP08-03-V03-P,MP08-03,MP08-03-V03,MP08,2B,P,N,NAT,,,"Sure, I’ll put a bottle on my desk.",train
+MP08-03-V03-N,MP08-03,MP08-03-V03,MP08,2B,N,P,NAT,,,I’d rather not keep a bottle on my desk.,train
+MP08-03-V04-P,MP08-03,MP08-03-V04,MP08,2B,P,N,EXP,,,I’ll put a water bottle on my desk and use it throughout the afternoon.,train
+MP08-03-V04-N,MP08-03,MP08-03-V04,MP08,2B,N,P,EXP,,,I’d rather keep the bottle somewhere else because I don’t want it taking up space on my desk.,train
+MP08-03-V05-P,MP08-03,MP08-03-V05,MP08,2B,P,N,LEN,,,I’ll keep one on my desk.,train
+MP08-03-V05-N,MP08-03,MP08-03-V05,MP08,2B,N,P,LEN,,,I’d rather keep one somewhere else.,train
+MP08-03-V06-P,MP08-03,MP08-03-V06,MP08,2B,P,N,CMK,,,"Okay, I’ll put a water bottle on my desk.",train
+MP08-03-V06-N,MP08-03,MP08-03-V06,MP08,2B,N,P,CMK,,,"Okay, but I’d prefer not to keep one on my desk.",train
+MP08-04-V01-P,MP08-04,MP08-04-V01,MP08,2B,P,N,LEX,,,I'll separate my physical therapy into two parts.,train
+MP08-04-V01-N,MP08-04,MP08-04-V01,MP08,2B,N,P,LEX,,,I refuse to separate my physical therapy into two parts.,train
+MP08-04-V02-P,MP08-04,MP08-04-V02,MP08,2B,P,N,SYN,,,"Sure, I’ll divide the physiotherapy exercises into two sessions today.",train
+MP08-04-V02-N,MP08-04,MP08-04-V02,MP08,2B,N,P,SYN,,,Dividing the exercises into two sessions doesn’t fit my routine today.,train
+MP08-04-V03-P,MP08-04,MP08-04-V03,MP08,2B,P,N,NAT,,,"Okay, I’ll do the exercises in two sessions today.",train
+MP08-04-V03-N,MP08-04,MP08-04-V03,MP08,2B,N,P,NAT,,,I’d rather do the exercises in one session today.,train
+MP08-04-V04-P,MP08-04,MP08-04-V04,MP08,2B,P,N,EXP,,,I’ll split the physiotherapy exercises into two sessions today so they’re easier to fit around my schedule.,train
+MP08-04-V04-N,MP08-04,MP08-04-V04,MP08,2B,N,P,EXP,,,I’d rather keep the exercises together because splitting them doesn’t work well with my routine today.,train
+MP08-04-V05-P,MP08-04,MP08-04-V05,MP08,2B,P,N,LEN,,,I’ll split them into two sessions.,train
+MP08-04-V05-N,MP08-04,MP08-04-V05,MP08,2B,N,P,LEN,,,I’d rather keep them together.,train
+MP08-04-V06-P,MP08-04,MP08-04-V06,MP08,2B,P,N,CMK,,,"Alright, I can split the exercises into two sessions today.",train
+MP08-04-V06-N,MP08-04,MP08-04-V06,MP08,2B,N,P,CMK,,,"Alright, but splitting them doesn’t really suit my routine today.",train
+MP01-01-V01-VP,MP01-01,MP01-01-V01,MP01,2B,VP,P,LEX,,,I'll gladly place my medication near my breakfast food tonight.,train
+MP01-01-V01-P,MP01-01,MP01-01-V01,MP01,2B,P,VP,LEX,,,I'll place my medication near my breakfast food tonight.,train
+MP01-01-V02-VP,MP01-01,MP01-01-V02,MP01,2B,VP,P,SYN,,,I’ll keep my medication beside my breakfast items tonight,train
+MP01-01-V02-P,MP01-01,MP01-01-V02,MP01,2B,P,VP,SYN,,,"Alright, I’ll keep my medication beside my breakfast items tonight.",train
+MP01-01-V03-VP,MP01-01,MP01-01-V03,MP01,2B,VP,P,NAT,,,I’ll put my medication there tonight,train
+MP01-01-V03-P,MP01-01,MP01-01-V03,MP01,2B,P,VP,NAT,,,"Sure, I’ll put my medication there tonight.",train
+MP01-01-V04-VP,MP01-01,MP01-01-V04,MP01,2B,VP,P,EXP,,,I’ll put my medication beside my breakfast items tonight,train
+MP01-01-V04-P,MP01-01,MP01-01-V04,MP01,2B,P,VP,EXP,,,I’ll put my medication beside my breakfast items tonight.,train
+MP01-01-V05-VP,MP01-01,MP01-01-V05,MP01,2B,VP,P,LEN,,,I’ll put my medication beside my breakfast items tonight.,train
+MP01-01-V05-P,MP01-01,MP01-01-V05,MP01,2B,P,VP,LEN,,,I’ll place my medication there tonight.,train
+MP01-01-V06-VP,MP01-01,MP01-01-V06,MP01,2B,VP,P,CMK,,,I’ll put my medication beside my breakfast items tonight.,train
+MP01-01-V06-P,MP01-01,MP01-01-V06,MP01,2B,P,VP,CMK,,,"Yes, I’ll put my medication beside my breakfast items tonight.",train
+MP01-02-V01-VP,MP01-02,MP01-02-V01,MP01,2B,VP,P,LEX,,,I'll enthusiastically go for a walk once dinner is finished.,train
+MP01-02-V01-P,MP01-02,MP01-02-V01,MP01,2B,P,VP,LEX,,,I'll go for a walk once dinner is finished.,train
+MP01-02-V02-VP,MP01-02,MP01-02-V02,MP01,2B,VP,P,SYN,,,I’ll go for the walk after dinner,train
+MP01-02-V02-P,MP01-02,MP01-02-V02,MP01,2B,P,VP,SYN,,,"Alright, I can take the walk after dinner.",train
+MP01-02-V03-VP,MP01-02,MP01-02-V03,MP01,2B,VP,P,NAT,,,I’m actually looking forward to that walk after dinner.,train
+MP01-02-V03-P,MP01-02,MP01-02-V03,MP01,2B,P,VP,NAT,,,"Sure, I can do the walk after dinner.",train
+MP01-02-V04-VP,MP01-02,MP01-02-V04,MP01,2B,VP,P,EXP,,,I’ll take the walk after dinner,train
+MP01-02-V04-P,MP01-02,MP01-02-V04,MP01,2B,P,VP,EXP,,,I’ll take the walk after dinner.,train
+MP01-02-V05-VP,MP01-02,MP01-02-V05,MP01,2B,VP,P,LEN,,,I’m looking forward to the walk after dinner.,train
+MP01-02-V05-P,MP01-02,MP01-02-V05,MP01,2B,P,VP,LEN,,,"Okay, I’ll take the walk after dinner.",train
+MP01-02-V06-VP,MP01-02,MP01-02-V06,MP01,2B,VP,P,CMK,,,I’ll take the walk after dinner,train
+MP01-02-V06-P,MP01-02,MP01-02-V06,MP01,2B,P,VP,CMK,,,"Yes, I’ll take the walk after dinner.",train
+MP01-03-V01-VP,MP01-03,MP01-03-V01,MP01,2B,VP,P,LEX,,,I'll eagerly separate my physical therapy into two daily sessions.,train
+MP01-03-V01-P,MP01-03,MP01-03-V01,MP01,2B,P,VP,LEX,,,I'll separate my physical therapy into two daily sessions.,train
+MP01-03-V02-VP,MP01-03,MP01-03-V02,MP01,2B,VP,P,SYN,,,I’ll divide my physiotherapy exercises into two sessions today,train
+MP01-03-V02-P,MP01-03,MP01-03-V02,MP01,2B,P,VP,SYN,,,"Okay, I’ll divide the physiotherapy exercises into two sessions today.",train
+MP01-03-V03-VP,MP01-03,MP01-03-V03,MP01,2B,VP,P,NAT,,,I’ll try splitting the exercises into two sessions today.,train
+MP01-03-V03-P,MP01-03,MP01-03-V03,MP01,2B,P,VP,NAT,,,"Sure, I'll do the exercises in two parts today.",train
+MP01-03-V04-VP,MP01-03,MP01-03-V04,MP01,2B,VP,P,EXP,,,I’ll split the physiotherapy exercises into two sessions today,train
+MP01-03-V04-P,MP01-03,MP01-03-V04,MP01,2B,P,VP,EXP,,,I’ll split the physiotherapy exercises into two sessions today.,train
+MP01-03-V05-VP,MP01-03,MP01-03-V05,MP01,2B,VP,P,LEN,,,I’ll try two physiotherapy sessions today.,train
+MP01-03-V05-P,MP01-03,MP01-03-V05,MP01,2B,P,VP,LEN,,,"Okay, I’ll do two physiotherapy sessions today.",train
+MP01-03-V06-VP,MP01-03,MP01-03-V06,MP01,2B,VP,P,CMK,,,I'll do the exercises in two parts today.,train
+MP01-03-V06-P,MP01-03,MP01-03-V06,MP01,2B,P,VP,CMK,,,"Yes, I'll do the exercises in two parts today.",train
+MP01-04-V01-VP,MP01-04,MP01-04-V01,MP01,2B,VP,P,LEX,,,I'll happily keep a flask of water at my workstation.,train
+MP01-04-V01-P,MP01-04,MP01-04-V01,MP01,2B,P,VP,LEX,,,I'll keep a flask of water at my workstation.,train
+MP01-04-V02-VP,MP01-04,MP01-04-V02,MP01,2B,VP,P,SYN,,,That’s a great idea. I’ll keep a bottle of water on my desk,train
+MP01-04-V02-P,MP01-04,MP01-04-V02,MP01,2B,P,VP,SYN,,,"Alright, I’ll keep a bottle of water on my desk today.",train
+MP01-04-V03-VP,MP01-04,MP01-04-V03,MP01,2B,VP,P,NAT,,,That could really help me. I’ll put a water bottle on my desk now.,train
+MP01-04-V03-P,MP01-04,MP01-04-V03,MP01,2B,P,VP,NAT,,,"Sure, I’ll put a water bottle on my desk.",train
+MP01-04-V04-VP,MP01-04,MP01-04-V04,MP01,2B,VP,P,EXP,,,I’ll put a water bottle on my desk now,train
+MP01-04-V04-P,MP01-04,MP01-04-V04,MP01,2B,P,VP,EXP,,,I’ll put a water bottle on my desk.,train
+MP01-04-V05-VP,MP01-04,MP01-04-V05,MP01,2B,VP,P,LEN,,,I’ll put one on my desk now.,train
+MP01-04-V05-P,MP01-04,MP01-04-V05,MP01,2B,P,VP,LEN,,,"Okay, I’ll put one on my desk.",train
+MP01-04-V06-VP,MP01-04,MP01-04-V06,MP01,2B,VP,P,CMK,,,"Yes, that sounds really helpful. I’ll put a water bottle on my desk now.",train
+MP01-04-V06-P,MP01-04,MP01-04-V06,MP01,2B,P,VP,CMK,,,"Yes, I’ll put a water bottle on my desk.",train
+MP04-01-V01-N,MP04-01,MP04-01-V01,MP04,2B,N,VN,LEX,,,I prefer not to leave my pills out.,train
+MP04-01-V01-VN,MP04-01,MP04-01-V01,MP04,2B,VN,N,LEX,,,Don't ever tell me to leave my pills out again.,train
+MP04-01-V02-N,MP04-01,MP04-01-V02,MP04,2B,N,VN,SYN,,,I’d prefer to store my medication in another place.,train
+MP04-01-V02-VN,MP04-01,MP04-01-V02,MP04,2B,VN,N,SYN,,,"I refuse to do that, and I don’t want you raising this suggestion again.",train
+MP04-01-V03-N,MP04-01,MP04-01-V03,MP04,2B,N,VN,NAT,,,I’d rather put my medication somewhere else.,train
+MP04-01-V03-VN,MP04-01,MP04-01-V03,MP04,2B,VN,N,NAT,,,"No, I’m not doing that. Stop bringing this up.",train
+MP04-01-V04-N,MP04-01,MP04-01-V04,MP04,2B,N,VN,EXP,,,I’d prefer to keep my medication somewhere else because that location works better for me.,train
+MP04-01-V04-VN,MP04-01,MP04-01-V04,MP04,2B,VN,N,EXP,,,"I’m not going to keep my medication there, and I’m done with you suggesting where I should keep it.",train
+MP04-01-V05-N,MP04-01,MP04-01-V05,MP04,2B,N,VN,LEN,,,I’d rather keep it somewhere else.,train
+MP04-01-V05-VN,MP04-01,MP04-01-V05,MP04,2B,VN,N,LEN,,,No. Stop suggesting that.,train
+MP04-01-V06-N,MP04-01,MP04-01-V06,MP04,2B,N,VN,CMK,,,"Okay, but I would prefer storing my medication in a different location.",train
+MP04-01-V06-VN,MP04-01,MP04-01-V06,MP04,2B,VN,N,CMK,,,"No, seriously, I’m not doing that. Please stop bringing it up.",train
+MP04-02-V01-N,MP04-02,MP04-02-V01,MP04,2B,N,VN,LEX,,,I'd rather avoid walking during my midday break.,train
+MP04-02-V01-VN,MP04-02,MP04-02-V01,MP04,2B,VN,N,LEX,,,Stop pestering me about walking during my midday break.,train
+MP04-02-V02-N,MP04-02,MP04-02-V02,MP04,2B,N,VN,SYN,,,I’d rather use my lunch break for something else instead of going for a walk.,train
+MP04-02-V02-VN,MP04-02,MP04-02-V02,MP04,2B,VN,N,SYN,,,I strongly object to this. Stop pushing me to walk during my lunch break.,train
+MP04-02-V03-N,MP04-02,MP04-02-V03,MP04,2B,N,VN,NAT,,,I’d rather not use lunch for a walk.,train
+MP04-02-V03-VN,MP04-02,MP04-02-V03,MP04,2B,VN,N,NAT,,,"No, I’m not walking during lunch. Stop asking me.",train
+MP04-02-V04-N,MP04-02,MP04-02-V04,MP04,2B,N,VN,EXP,,,"I’d prefer to spend my lunch break on something else, so I don’t want to take the walk then.",train
+MP04-02-V04-VN,MP04-02,MP04-02-V04,MP04,2B,VN,N,EXP,,,"I’m not going to use my lunch break for a walk, and I want you to stop pushing the idea.",train
+MP04-02-V05-N,MP04-02,MP04-02-V05,MP04,2B,N,VN,LEN,,,I’d rather not walk at lunch.,train
+MP04-02-V05-VN,MP04-02,MP04-02-V05,MP04,2B,VN,N,LEN,,,No. Stop trying to get me to walk at lunch.,train
+MP04-02-V06-N,MP04-02,MP04-02-V06,MP04,2B,N,VN,CMK,,,"Okay, but I’d prefer to keep my lunch break for myself.",train
+MP04-02-V06-VN,MP04-02,MP04-02-V06,MP04,2B,VN,N,CMK,,,"No, I don’t want this brought up again. Stop trying to get me to walk at lunch.",train
+MP04-03-V01-N,MP04-03,MP04-03-V01,MP04,2B,N,VN,LEX,,,I decline to clutter my workspace with a flask.,train
+MP04-03-V01-VN,MP04-03,MP04-03-V01,MP04,2B,VN,N,LEX,,,Never bring up putting a flask on my workspace again.,train
+MP04-03-V02-N,MP04-03,MP04-03-V02,MP04,2B,N,VN,SYN,,,"There’s already too much on my desk, so I’d prefer not to keep a water bottle there.",train
+MP04-03-V02-VN,MP04-03,MP04-03-V02,MP04,2B,VN,N,SYN,,,"I refuse to put a bottle there, and I want you to stop suggesting it.",train
+MP04-03-V03-N,MP04-03,MP04-03-V03,MP04,2B,N,VN,NAT,,,"My desk is pretty full, so I’d rather not put a bottle there.",train
+MP04-03-V03-VN,MP04-03,MP04-03-V03,MP04,2B,VN,N,NAT,,,"No, I’m not putting one there. Stop bringing it up.",train
+MP04-03-V04-N,MP04-03,MP04-03-V04,MP04,2B,N,VN,EXP,,,"My desk is already crowded, and I’d rather keep the bottle somewhere else where it won’t get in the way.",train
+MP04-03-V04-VN,MP04-03,MP04-03-V04,MP04,2B,VN,N,EXP,,,"I’m not putting a water bottle on my desk, and I’m done with these suggestions.",train
+MP04-03-V05-N,MP04-03,MP04-03-V05,MP04,2B,N,VN,LEN,,,I’d rather not keep one on my desk.,train
+MP04-03-V05-VN,MP04-03,MP04-03-V05,MP04,2B,VN,N,LEN,,,No. Stop suggesting it.,train
+MP04-03-V06-N,MP04-03,MP04-03-V06,MP04,2B,N,VN,CMK,,,"Okay, but my desk is too crowded for a water bottle.",train
+MP04-03-V06-VN,MP04-03,MP04-03-V06,MP04,2B,VN,N,CMK,,,"No, I’m not putting one there. Please stop suggesting it.",train
+MP04-04-V01-N,MP04-04,MP04-04-V01,MP04,2B,N,VN,LEX,,,I prefer not to split my daily physical therapy.,train
+MP04-04-V01-VN,MP04-04,MP04-04-V01,MP04,2B,VN,N,LEX,,,Stop telling me to split my daily physical therapy.,train
+MP04-04-V02-N,MP04-04,MP04-04-V02,MP04,2B,N,VN,SYN,,,"Two physiotherapy sessions would be more inconvenient for me, so I’d prefer to do them together.",train
+MP04-04-V02-VN,MP04-04,MP04-04-V02,MP04,2B,VN,N,SYN,,,"I refuse to split them up, and I don’t want any more suggestions about it.",train
+MP04-04-V03-N,MP04-04,MP04-04-V03,MP04,2B,N,VN,NAT,,,Two sessions sounds like more hassle. I’d rather do them together.,train
+MP04-04-V03-VN,MP04-04,MP04-04-V03,MP04,2B,VN,N,NAT,,,"No, I’m not splitting them up. I’m done discussing this.",train
+MP04-04-V04-N,MP04-04,MP04-04-V04,MP04,2B,N,VN,EXP,,,"Doing the exercises in one session works better for me, so I’d rather not divide them into two.",train
+MP04-04-V04-VN,MP04-04,MP04-04-V04,MP04,2B,VN,N,EXP,,,"I’m not going to split the physiotherapy exercises into two sessions, and I’m done with these suggestions.",train
+MP04-04-V05-N,MP04-04,MP04-04-V05,MP04,2B,N,VN,LEN,,,I’d rather do them in one session.,train
+MP04-04-V05-VN,MP04-04,MP04-04-V05,MP04,2B,VN,N,LEN,,,I’m not splitting them. Stop suggesting it.,train
+MP04-04-V06-N,MP04-04,MP04-04-V06,MP04,2B,N,VN,CMK,,,"Okay, but I’d rather do the physiotherapy exercises all at once.",train
+MP04-04-V06-VN,MP04-04,MP04-04-V06,MP04,2B,VN,N,CMK,,,"No, I’m not splitting them up. Please stop bringing this up.",train
+MP07-01-V01-VP,MP07-01,MP07-01-V01,MP07,2B,VP,VN,LEX,,,I'll gladly place my pills by the sink.,train
+MP07-01-V01-VN,MP07-01,MP07-01-V01,MP07,2B,VN,VP,LEX,,,Stop telling me to place my pills by the sink.,train
+MP07-01-V02-VP,MP07-01,MP07-01-V02,MP07,2B,VP,VN,SYN,,,"That sounds fantastic. I’ll arrange my medication tonight, and I’m genuinely happy to try this approach.",train
+MP07-01-V02-VN,MP07-01,MP07-01-V02,MP07,2B,VN,VP,SYN,,,"I refuse to do that, and I don’t want this suggestion raised with me again.",train
+MP07-01-V03-VP,MP07-01,MP07-01-V03,MP07,2B,VP,VN,NAT,,,That’s really helpful. I’ll set it up tonight,train
+MP07-01-V03-VN,MP07-01,MP07-01-V03,MP07,2B,VN,VP,NAT,,,"No, I’m not doing that. Stop bringing it up.",train
+MP07-01-V04-VP,MP07-01,MP07-01-V04,MP07,2B,VP,VN,EXP,,,I’ll set up my medication tonight and make it part of my routine because it should make things much easier.,train
+MP07-01-V04-VN,MP07-01,MP07-01-V04,MP07,2B,VN,VP,EXP,,,"I’m not changing how I set up my medication, and I’m done with you suggesting how I should manage it.",train
+MP07-01-V05-VP,MP07-01,MP07-01-V05,MP07,2B,VP,VN,LEN,,,I’ll set it up tonight.,train
+MP07-01-V05-VN,MP07-01,MP07-01-V05,MP07,2B,VN,VP,LEN,,,No. Stop suggesting it.,train
+MP07-01-V06-VP,MP07-01,MP07-01-V06,MP07,2B,VP,VN,CMK,,,I’ll set it up tonight and start using the approach.,train
+MP07-01-V06-VN,MP07-01,MP07-01-V06,MP07,2B,VN,VP,CMK,,,"No, seriously, I’m not doing that. Please stop bringing it up.",train
+MP07-02-V01-VP,MP07-02,MP07-02-V01,MP07,2B,VP,VN,LEX,,,I'll enthusiastically go for a stroll following lunch.,train
+MP07-02-V01-VN,MP07-02,MP07-02-V01,MP07,2B,VN,VP,LEX,,,Don't ever ask me to go for a stroll following lunch.,train
+MP07-02-V02-VP,MP07-02,MP07-02-V02,MP07,2B,VP,VN,SYN,,,"I’ll take the walk after lunch tomorrow, and I’m excited to give it a try.",train
+MP07-02-V02-VN,MP07-02,MP07-02-V02,MP07,2B,VN,VP,SYN,,,Absolutely not. Stop pushing me to use my lunch break for a walk.,train
+MP07-02-V03-VP,MP07-02,MP07-02-V03,MP07,2B,VP,VN,NAT,,,Sounds great. I’ll start the walk after lunch tomorrow.,train
+MP07-02-V03-VN,MP07-02,MP07-02-V03,MP07,2B,VN,VP,NAT,,,"No, I’m not doing that. Leave my lunch break alone.",train
+MP07-02-V04-VP,MP07-02,MP07-02-V04,MP07,2B,VP,VN,EXP,,,I’ll take the walk after lunch tomorrow and make it something I look forward to doing.,train
+MP07-02-V04-VN,MP07-02,MP07-02-V04,MP07,2B,VN,VP,EXP,,,"I’m not changing how I spend my lunch break, and I’m done with you telling me to walk then.",train
+MP07-02-V05-VP,MP07-02,MP07-02-V05,MP07,2B,VP,VN,LEN,,,Great—I’ll walk after lunch tomorrow.,train
+MP07-02-V05-VN,MP07-02,MP07-02-V05,MP07,2B,VN,VP,LEN,,,No. Stop telling me to walk at lunch.,train
+MP07-02-V06-VP,MP07-02,MP07-02-V06,MP07,2B,VP,VN,CMK,,,I’ll start after lunch tomorrow.,train
+MP07-02-V06-VN,MP07-02,MP07-02-V06,MP07,2B,VN,VP,CMK,,,"No, I don’t want you pushing this on me. Stop bringing it up.",train
+MP07-03-V01-VP,MP07-03,MP07-03-V01,MP07,2B,VP,VN,LEX,,,I'm eager to keep a flask on my desk.,train
+MP07-03-V01-VN,MP07-03,MP07-03-V01,MP07,2B,VN,VP,LEX,,,Never bring up keeping a flask on my desk again.,train
+MP07-03-V02-VP,MP07-03,MP07-03-V02,MP07,2B,VP,VN,SYN,,,I’ll keep a water bottle on my desk,train
+MP07-03-V02-VN,MP07-03,MP07-03-V02,MP07,2B,VN,VP,SYN,,,"I refuse to put a bottle there, and I don’t want you telling me how to manage my hydration.",train
+MP07-03-V03-VP,MP07-03,MP07-03-V03,MP07,2B,VP,VN,NAT,,,That’s really helpful. I’ll put one on my desk now.,train
+MP07-03-V03-VN,MP07-03,MP07-03-V03,MP07,2B,VN,VP,NAT,,,"No, I’m not putting one there. Stop suggesting it.",train
+MP07-03-V04-VP,MP07-03,MP07-03-V04,MP07,2B,VP,VN,EXP,,,I’ll put a water bottle on my desk now,train
+MP07-03-V04-VN,MP07-03,MP07-03-V04,MP07,2B,VN,VP,EXP,,,"I’m not putting a water bottle on my desk, and I’m done with you telling me how I should handle my hydration.",train
+MP07-03-V05-VP,MP07-03,MP07-03-V05,MP07,2B,VP,VN,LEN,,,I’ll put one on my desk.,train
+MP07-03-V05-VN,MP07-03,MP07-03-V05,MP07,2B,VN,VP,LEN,,,No. Stop telling me to do that.,train
+MP07-03-V06-VP,MP07-03,MP07-03-V06,MP07,2B,VP,VN,CMK,,,"Yes, that sounds excellent. I’ll put a water bottle on my desk right now.",train
+MP07-03-V06-VN,MP07-03,MP07-03-V06,MP07,2B,VN,VP,CMK,,,"No, seriously, I’m not doing that. Stop suggesting it.",train
+MP07-04-V01-VP,MP07-04,MP07-04-V01,MP07,2B,VP,VN,LEX,,,I'm happy to divide my exercises into two parts.,train
+MP07-04-V01-VN,MP07-04,MP07-04-V01,MP07,2B,VN,VP,LEX,,,Stop bothering me about dividing my exercises.,train
+MP07-04-V02-VP,MP07-04,MP07-04-V02,MP07,2B,VP,VN,SYN,,,That approach sounds excellent. I’ll divide the physiotherapy exercises into two sessions today and see how it works.,train
+MP07-04-V02-VN,MP07-04,MP07-04-V02,MP07,2B,VN,VP,SYN,,,"I’m not going to divide them into two sessions, and I want you to stop pushing this idea.",train
+MP07-04-V03-VP,MP07-04,MP07-04-V03,MP07,2B,VP,VN,NAT,,,I'll do the exercises in two parts today.,train
+MP07-04-V03-VN,MP07-04,MP07-04-V03,MP07,2B,VN,VP,NAT,,,"No, I’m not splitting them. Stop bringing this up.",train
+MP07-04-V04-VP,MP07-04,MP07-04-V04,MP07,2B,VP,VN,EXP,,,I’ll split the physiotherapy exercises into two sessions today and see whether it makes them easier to manage.,train
+MP07-04-V04-VN,MP07-04,MP07-04-V04,MP07,2B,VN,VP,EXP,,,"I’m not changing my physiotherapy routine, and I’m done with you trying to manage how I do the exercises.",train
+MP07-04-V05-VP,MP07-04,MP07-04-V05,MP07,2B,VP,VN,LEN,,,I’ll split them into two sessions.,train
+MP07-04-V05-VN,MP07-04,MP07-04-V05,MP07,2B,VN,VP,LEN,,,No. I’m not splitting them.,train
+MP07-04-V06-VP,MP07-04,MP07-04-V06,MP07,2B,VP,VN,CMK,,,I’ll try the two-session approach today.,train
+MP07-04-V06-VN,MP07-04,MP07-04-V06,MP07,2B,VN,VP,CMK,,,"No, I’m not doing that. Stop pushing the idea.",train
+MP10-01-V01-I,MP10-01,MP10-01-V01,MP10,2B,I,VN,LEX,,,Leaving my pills out is an option.,train
+MP10-01-V01-VN,MP10-01,MP10-01-V01,MP10,2B,VN,I,LEX,,,Don't ever tell me to leave my pills out.,train
+MP10-01-V02-I,MP10-01,MP10-01-V02,MP10,2B,I,VN,SYN,,,Leaving my medication next to the toothbrush is one possibility I could think about.,train
+MP10-01-V02-VN,MP10-01,MP10-01-V02,MP10,2B,VN,I,SYN,,,"I refuse to put my medication there, and I don’t want you raising this suggestion again.",train
+MP10-01-V03-I,MP10-01,MP10-01-V03,MP10,2B,I,VN,NAT,,,I could keep my medication by the toothbrush.,train
+MP10-01-V03-VN,MP10-01,MP10-01-V03,MP10,2B,VN,I,NAT,,,"No, I’m not putting it there. Stop bringing this up.",train
+MP10-01-V04-I,MP10-01,MP10-01-V04,MP10,2B,I,VN,EXP,,,"Keeping my medication beside the toothbrush could work, but I haven’t decided whether I want to do that.",train
+MP10-01-V04-VN,MP10-01,MP10-01-V04,MP10,2B,VN,I,EXP,,,"I’m not changing where I keep my medication, and I’m done with you suggesting where I should put it.",train
+MP10-01-V05-I,MP10-01,MP10-01-V05,MP10,2B,I,VN,LEN,,,I could keep it there.,train
+MP10-01-V05-VN,MP10-01,MP10-01-V05,MP10,2B,VN,I,LEN,,,No. Stop suggesting that.,train
+MP10-01-V06-I,MP10-01,MP10-01-V06,MP10,2B,I,VN,CMK,,,"Okay, I suppose that location is an option.",train
+MP10-01-V06-VN,MP10-01,MP10-01-V06,MP10,2B,VN,I,CMK,,,"No, seriously, I’m not doing that. Please stop bringing it up.",train
+MP10-02-V01-I,MP10-02,MP10-02-V01,MP10,2B,I,VN,LEX,,,Taking a post-lunch stroll is a possibility.,train
+MP10-02-V01-VN,MP10-02,MP10-02-V01,MP10,2B,VN,I,LEX,,,Stop pestering me about a post-lunch stroll.,train
+MP10-02-V02-I,MP10-02,MP10-02-V02,MP10,2B,I,VN,SYN,,,Taking the walk after lunch is one option I could consider.,train
+MP10-02-V02-VN,MP10-02,MP10-02-V02,MP10,2B,VN,I,SYN,,,"I’m not going to walk during my lunch break, and I don’t want you suggesting it again.",train
+MP10-02-V03-I,MP10-02,MP10-02-V03,MP10,2B,I,VN,NAT,,,After lunch might work.,train
+MP10-02-V03-VN,MP10-02,MP10-02-V03,MP10,2B,VN,I,NAT,,,"No, I’m not walking during lunch. Stop asking me.",train
+MP10-02-V04-I,MP10-02,MP10-02-V04,MP10,2B,I,VN,EXP,,,"Taking the walk after lunch could fit, but I haven’t decided whether that works for me.",train
+MP10-02-V04-VN,MP10-02,MP10-02-V04,MP10,2B,VN,I,EXP,,,"I’m not changing how I use my lunch break, and I’m done with you pushing the walk.",train
+MP10-02-V05-I,MP10-02,MP10-02-V05,MP10,2B,I,VN,LEN,,,Walking at that time is an option.,train
+MP10-02-V05-VN,MP10-02,MP10-02-V05,MP10,2B,VN,I,LEN,,,No. Stop asking me to walk at lunch.,train
+MP10-02-V06-I,MP10-02,MP10-02-V06,MP10,2B,I,VN,CMK,,,"Okay, after lunch is one possibility.",train
+MP10-02-V06-VN,MP10-02,MP10-02-V06,MP10,2B,VN,I,CMK,,,"No, seriously, leave my lunch break alone and stop bringing this up.",train
+MP10-03-V01-I,MP10-03,MP10-03-V01,MP10,2B,I,VN,LEX,,,Placing a flask on my desk might work.,train
+MP10-03-V01-VN,MP10-03,MP10-03-V01,MP10,2B,VN,I,LEX,,,Never bring up placing a flask on my desk.,train
+MP10-03-V02-I,MP10-03,MP10-03-V02,MP10,2B,I,VN,SYN,,,Keeping a water bottle on my desk is one possibility I could consider.,train
+MP10-03-V02-VN,MP10-03,MP10-03-V02,MP10,2B,VN,I,SYN,,,"I’ve decided against putting a bottle there, so stop suggesting it.",train
+MP10-03-V03-I,MP10-03,MP10-03-V03,MP10,2B,I,VN,NAT,,,A bottle on my desk might work.,train
+MP10-03-V03-VN,MP10-03,MP10-03-V03,MP10,2B,VN,I,NAT,,,"No, I don’t want a bottle there. Stop suggesting it.",train
+MP10-03-V04-I,MP10-03,MP10-03-V04,MP10,2B,I,VN,EXP,,,"Having a water bottle on my desk could make things easier, but I’m leaving that decision open for now.",train
+MP10-03-V04-VN,MP10-03,MP10-03-V04,MP10,2B,VN,I,EXP,,,"I’m not putting a water bottle on my desk, and I’m done with you telling me to do it.",train
+MP10-03-V05-I,MP10-03,MP10-03-V05,MP10,2B,I,VN,LEN,,,I could keep one there.,train
+MP10-03-V05-VN,MP10-03,MP10-03-V05,MP10,2B,VN,I,LEN,,,No. Stop bringing it up.,train
+MP10-03-V06-I,MP10-03,MP10-03-V06,MP10,2B,I,VN,CMK,,,"Okay, that’s one option I could consider.",train
+MP10-03-V06-VN,MP10-03,MP10-03-V06,MP10,2B,VN,I,CMK,,,"No, I don’t want one there. Please stop suggesting it.",train
+MP10-04-V01-I,MP10-04,MP10-04-V01,MP10,2B,I,VN,LEX,,,Separating my physical therapy is an idea.,train
+MP10-04-V01-VN,MP10-04,MP10-04-V01,MP10,2B,VN,I,LEX,,,Stop telling me to separate my physical therapy.,train
+MP10-04-V02-I,MP10-04,MP10-04-V02,MP10,2B,I,VN,SYN,,,Doing the exercises in two sessions is one possibility I could consider.,train
+MP10-04-V02-VN,MP10-04,MP10-04-V02,MP10,2B,VN,I,SYN,,,"I refuse to split the exercises into two sessions, and I don’t want you suggesting it again.",train
+MP10-04-V03-I,MP10-04,MP10-04-V03,MP10,2B,I,VN,NAT,,,Two sessions might work.,train
+MP10-04-V03-VN,MP10-04,MP10-04-V03,MP10,2B,VN,I,NAT,,,"No, I’m not splitting them. Stop bringing this up.",train
+MP10-04-V04-I,MP10-04,MP10-04-V04,MP10,2B,I,VN,EXP,,,"Splitting the physiotherapy exercises into two sessions could make them easier to fit in, but I haven’t decided whether to do that.",train
+MP10-04-V04-VN,MP10-04,MP10-04-V04,MP10,2B,VN,I,EXP,,,"I’m not changing how I do my physiotherapy exercises, and I’m done with you pushing this approach.",train
+MP10-04-V05-I,MP10-04,MP10-04-V05,MP10,2B,I,VN,LEN,,,I could do two sessions.,train
+MP10-04-V05-VN,MP10-04,MP10-04-V05,MP10,2B,VN,I,LEN,,,No. I’m not splitting them.,train
+MP10-04-V06-I,MP10-04,MP10-04-V06,MP10,2B,I,VN,CMK,,,"Okay, two shorter sessions are one option.",train
+MP10-04-V06-VN,MP10-04,MP10-04-V06,MP10,2B,VN,I,CMK,,,"No, seriously, I’m not doing that. Stop bringing it up.",train
+MP06-01-V01-VP,MP06-01,MP06-01-V01,MP06,2B,VP,N,LEX,,,I'll enthusiastically set my pills out tonight.,train
+MP06-01-V01-N,MP06-01,MP06-01-V01,MP06,2B,N,VP,LEX,,,I refuse to set my pills out tonight.,train
+MP06-01-V02-VP,MP06-01,MP06-01-V02,MP06,2B,VP,N,SYN,,,That sounds excellent. I’ll place my medication next to my toothbrush tonight,train
+MP06-01-V02-N,MP06-01,MP06-01-V02,MP06,2B,N,VP,SYN,,,I’d prefer to store my medication in the cabinet rather than beside the toothbrush.,train
+MP06-01-V03-VP,MP06-01,MP06-01-V03,MP06,2B,VP,N,NAT,,,That’s really helpful. I’ll put my medication by my toothbrush tonight.,train
+MP06-01-V03-N,MP06-01,MP06-01-V03,MP06,2B,N,VP,NAT,,,I’d rather keep my medication in the cabinet.,train
+MP06-01-V04-VP,MP06-01,MP06-01-V04,MP06,2B,VP,N,EXP,,,I’ll put my medication beside my toothbrush tonight and make that part of my routine.,train
+MP06-01-V04-N,MP06-01,MP06-01-V04,MP06,2B,N,VP,EXP,,,I’d prefer to keep my medication in the cabinet because that setup works better for me.,train
+MP06-01-V05-VP,MP06-01,MP06-01-V05,MP06,2B,VP,N,LEN,,,I’ll put it by my toothbrush tonight.,train
+MP06-01-V05-N,MP06-01,MP06-01-V05,MP06,2B,N,VP,LEN,,,I’d rather keep it in the cabinet.,train
+MP06-01-V06-VP,MP06-01,MP06-01-V06,MP06,2B,VP,N,CMK,,,I’ll put my medication beside my toothbrush tonight.,train
+MP06-01-V06-N,MP06-01,MP06-01-V06,MP06,2B,N,VP,CMK,,,"Okay, but I’d prefer to keep my medication in the cabinet.",train
+MP06-02-V01-VP,MP06-02,MP06-02-V01,MP06,2B,VP,N,LEX,,,I'm eager to walk during my midday break.,train
+MP06-02-V01-N,MP06-02,MP06-02-V01,MP06,2B,N,VP,LEX,,,I decline to walk during my midday break.,train
+MP06-02-V02-VP,MP06-02,MP06-02-V02,MP06,2B,VP,N,SYN,,,I’ll go for the walk after lunch tomorrow,train
+MP06-02-V02-N,MP06-02,MP06-02-V02,MP06,2B,N,VP,SYN,,,Walking during my lunch break doesn’t work well with my plans today.,train
+MP06-02-V03-VP,MP06-02,MP06-02-V03,MP06,2B,VP,N,NAT,,,Sounds great. I’ll take the walk after lunch tomorrow.,train
+MP06-02-V03-N,MP06-02,MP06-02-V03,MP06,2B,N,VP,NAT,,,I’d rather not use my lunch break for a walk today.,train
+MP06-02-V04-VP,MP06-02,MP06-02-V04,MP06,2B,VP,N,EXP,,,I really like that plan. I’ll take the walk after lunch tomorrow and make sure I get it done.,train
+MP06-02-V04-N,MP06-02,MP06-02-V04,MP06,2B,N,VP,EXP,,,I’d prefer to keep my lunch break for something else because a walk doesn’t fit my plans today.,train
+MP06-02-V05-VP,MP06-02,MP06-02-V05,MP06,2B,VP,N,LEN,,,Great—I’ll walk after lunch tomorrow.,train
+MP06-02-V05-N,MP06-02,MP06-02-V05,MP06,2B,N,VP,LEN,,,I’d rather not walk during lunch.,train
+MP06-02-V06-VP,MP06-02,MP06-02-V06,MP06,2B,VP,N,CMK,,,"Yes, I’ll take the walk after lunch tomorrow.",train
+MP06-02-V06-N,MP06-02,MP06-02-V06,MP06,2B,N,VP,CMK,,,"Okay, but taking a walk during lunch doesn’t work for me today.",train
+MP06-03-V01-VP,MP06-03,MP06-03-V01,MP06,2B,VP,N,LEX,,,I'm excited to keep a flask at my workstation.,train
+MP06-03-V01-N,MP06-03,MP06-03-V01,MP06,2B,N,VP,LEX,,,I prefer not to keep a flask at my workstation.,train
+MP06-03-V02-VP,MP06-03,MP06-03-V02,MP06,2B,VP,N,SYN,,,I’ll keep a water bottle on my desk today and use it during work.,train
+MP06-03-V02-N,MP06-03,MP06-03-V02,MP06,2B,N,VP,SYN,,,I’d prefer not to have a water bottle on my desk while I’m working.,train
+MP06-03-V03-VP,MP06-03,MP06-03-V03,MP06,2B,VP,N,NAT,,,That’s a great idea. I’ll put a bottle on my desk today.,train
+MP06-03-V03-N,MP06-03,MP06-03-V03,MP06,2B,N,VP,NAT,,,I’d rather not have a bottle on my desk.,train
+MP06-03-V04-VP,MP06-03,MP06-03-V04,MP06,2B,VP,N,EXP,,,I’ll put a water bottle on my desk today,train
+MP06-03-V04-N,MP06-03,MP06-03-V04,MP06,2B,N,VP,EXP,,,"I’d rather keep my desk clear, so I don’t want to keep a water bottle there while I work.",train
+MP06-03-V05-VP,MP06-03,MP06-03-V05,MP06,2B,VP,N,LEN,,,I’ll keep one on my desk.,train
+MP06-03-V05-N,MP06-03,MP06-03-V05,MP06,2B,N,VP,LEN,,,I’d rather not keep one on my desk.,train
+MP06-03-V06-VP,MP06-03,MP06-03-V06,MP06,2B,VP,N,CMK,,,I’ll put a water bottle on my desk today.,train
+MP06-03-V06-N,MP06-03,MP06-03-V06,MP06,2B,N,VP,CMK,,,"Okay, but I’d prefer not to keep one on my desk.",train
+MP06-04-V01-VP,MP06-04,MP06-04-V01,MP06,2B,VP,N,LEX,,,I'm happy to break my daily physical therapy into parts.,train
+MP06-04-V01-N,MP06-04,MP06-04-V01,MP06,2B,N,VP,LEX,,,I decline to break my daily physical therapy into parts.,train
+MP06-04-V02-VP,MP06-04,MP06-04-V02,MP06,2B,VP,N,SYN,,,That sounds really helpful. I’ll divide the exercises into two sessions today,train
+MP06-04-V02-N,MP06-04,MP06-04-V02,MP06,2B,N,VP,SYN,,,I’d rather keep the exercises together because one session is easier for me.,train
+MP06-04-V03-VP,MP06-04,MP06-04-V03,MP06,2B,VP,N,NAT,,,That sounds good. I'll do the exercises in two parts today.,train
+MP06-04-V03-N,MP06-04,MP06-04-V03,MP06,2B,N,VP,NAT,,,I’d rather do the exercises in one session.,train
+MP06-04-V04-VP,MP06-04,MP06-04-V04,MP06,2B,VP,N,EXP,,,I’ll divide the physiotherapy exercises into two sessions today and see whether it makes them easier to manage.,train
+MP06-04-V04-N,MP06-04,MP06-04-V04,MP06,2B,N,VP,EXP,,,I’d prefer to keep the physiotherapy exercises in one session because splitting them feels less convenient for me.,train
+MP06-04-V05-VP,MP06-04,MP06-04-V05,MP06,2B,VP,N,LEN,,,I’ll split them into two sessions.,train
+MP06-04-V05-N,MP06-04,MP06-04-V05,MP06,2B,N,VP,LEN,,,I’d rather do them in one session.,train
+MP06-04-V06-VP,MP06-04,MP06-04-V06,MP06,2B,VP,N,CMK,,,I’ll split the physiotherapy exercises into two sessions today.,train
+MP06-04-V06-N,MP06-04,MP06-04-V06,MP06,2B,N,VP,CMK,,,"Okay, but I’d prefer to keep them in one session.",train
+MP09-01-V01-P,MP09-01,MP09-01-V01,MP09,2B,P,VN,LEX,,,I'll leave my pills out.,train
+MP09-01-V01-VN,MP09-01,MP09-01-V01,MP09,2B,VN,P,LEX,,,Don't ever tell me to leave my pills out.,train
+MP09-01-V02-P,MP09-01,MP09-01-V02,MP09,2B,P,VN,SYN,,,"Alright, I’ll leave my medication next to my toothbrush so I remember to take it.",train
+MP09-01-V02-VN,MP09-01,MP09-01-V02,MP09,2B,VN,P,SYN,,,"I refuse to put my medication there, and I don’t want you raising this suggestion again.",train
+MP09-01-V03-P,MP09-01,MP09-01-V03,MP09,2B,P,VN,NAT,,,"Sure, I’ll keep my medication by my toothbrush.",train
+MP09-01-V03-VN,MP09-01,MP09-01-V03,MP09,2B,VN,P,NAT,,,"No, I’m not putting it there. Stop bringing this up.",train
+MP09-01-V04-P,MP09-01,MP09-01-V04,MP09,2B,P,VN,EXP,,,"Okay, I’ll put my medication beside my toothbrush tonight so I can remember to take it.",train
+MP09-01-V04-VN,MP09-01,MP09-01-V04,MP09,2B,VN,P,EXP,,,"I’m not changing where I keep my medication, and I’m done with you suggesting where I should put it.",train
+MP09-01-V05-P,MP09-01,MP09-01-V05,MP09,2B,P,VN,LEN,,,I’ll keep it by my toothbrush.,train
+MP09-01-V05-VN,MP09-01,MP09-01-V05,MP09,2B,VN,P,LEN,,,No. Stop suggesting that.,train
+MP09-01-V06-P,MP09-01,MP09-01-V06,MP09,2B,P,VN,CMK,,,"Alright, I’ll keep my medication beside my toothbrush.",train
+MP09-01-V06-VN,MP09-01,MP09-01-V06,MP09,2B,VN,P,CMK,,,"No, seriously, I’m not doing that. Please stop bringing it up.",train
+MP09-02-V01-P,MP09-02,MP09-02-V01,MP09,2B,P,VN,LEX,,,I'll take a post-lunch stroll.,train
+MP09-02-V01-VN,MP09-02,MP09-02-V01,MP09,2B,VN,P,LEX,,,Stop pestering me about a post-lunch stroll.,train
+MP09-02-V02-P,MP09-02,MP09-02-V02,MP09,2B,P,VN,SYN,,,"Okay, I can go for the walk after lunch.",train
+MP09-02-V02-VN,MP09-02,MP09-02-V02,MP09,2B,VN,P,SYN,,,I strongly object to using my lunch break for a walk. Stop pushing the idea.,train
+MP09-02-V03-P,MP09-02,MP09-02-V03,MP09,2B,P,VN,NAT,,,"Alright, I’ll take the walk after lunch.",train
+MP09-02-V03-VN,MP09-02,MP09-02-V03,MP09,2B,VN,P,NAT,,,"No, I’m not doing that. Leave my lunch break alone.",train
+MP09-02-V04-P,MP09-02,MP09-02-V04,MP09,2B,P,VN,EXP,,,"Sure, I can take the walk after lunch today and fit it into my schedule.",train
+MP09-02-V04-VN,MP09-02,MP09-02-V04,MP09,2B,VN,P,EXP,,,"I’m not changing how I spend my lunch break, and I’m done with you telling me to walk then.",train
+MP09-02-V05-P,MP09-02,MP09-02-V05,MP09,2B,P,VN,LEN,,,I’ll walk after lunch.,train
+MP09-02-V05-VN,MP09-02,MP09-02-V05,MP09,2B,VN,P,LEN,,,No. Stop telling me to walk at lunch.,train
+MP09-02-V06-P,MP09-02,MP09-02-V06,MP09,2B,P,VN,CMK,,,"Okay, I can take the walk after lunch.",train
+MP09-02-V06-VN,MP09-02,MP09-02-V06,MP09,2B,VN,P,CMK,,,"No, seriously, I don’t want you pushing this on me. Stop bringing it up.",train
+MP09-03-V01-P,MP09-03,MP09-03-V01,MP09,2B,P,VN,LEX,,,I'll place a flask on my desk.,train
+MP09-03-V01-VN,MP09-03,MP09-03-V01,MP09,2B,VN,P,LEX,,,Never bring up placing a flask on my desk.,train
+MP09-03-V02-P,MP09-03,MP09-03-V02,MP09,2B,P,VN,SYN,,,"Alright, I'll set a water bottle on my desk.",train
+MP09-03-V02-VN,MP09-03,MP09-03-V02,MP09,2B,VN,P,SYN,,,"I refuse to put a water bottle on my desk, and I want you to stop pushing this.",train
+MP09-03-V03-P,MP09-03,MP09-03-V03,MP09,2B,P,VN,NAT,,,"Sure, I’ll put a bottle on my desk.",train
+MP09-03-V03-VN,MP09-03,MP09-03-V03,MP09,2B,VN,P,NAT,,,"No, I’m not putting one there. Stop suggesting it.",train
+MP09-03-V04-P,MP09-03,MP09-03-V04,MP09,2B,P,VN,EXP,,,"Alright, I’ll keep a water bottle on my desk so it’s easy to reach during work.",train
+MP09-03-V04-VN,MP09-03,MP09-03-V04,MP09,2B,VN,P,EXP,,,"I’m not putting a water bottle on my desk, and I’m done with you telling me how to manage this.",train
+MP09-03-V05-P,MP09-03,MP09-03-V05,MP09,2B,P,VN,LEN,,,I’ll keep one on my desk.,train
+MP09-03-V05-VN,MP09-03,MP09-03-V05,MP09,2B,VN,P,LEN,,,No. Stop pushing the idea.,train
+MP09-03-V06-P,MP09-03,MP09-03-V06,MP09,2B,P,VN,CMK,,,"Okay, I’ll put a water bottle on my desk.",train
+MP09-03-V06-VN,MP09-03,MP09-03-V06,MP09,2B,VN,P,CMK,,,"No, seriously, I’m not doing that. Please stop suggesting it.",train
+MP09-04-V01-P,MP09-04,MP09-04-V01,MP09,2B,P,VN,LEX,,,I'll separate my physical therapy into two parts.,train
+MP09-04-V01-VN,MP09-04,MP09-04-V01,MP09,2B,VN,P,LEX,,,Stop telling me to separate my physical therapy.,train
+MP09-04-V02-P,MP09-04,MP09-04-V02,MP09,2B,P,VN,SYN,,,"Okay, I’ll divide the physiotherapy exercises into two sessions today.",train
+MP09-04-V02-VN,MP09-04,MP09-04-V02,MP09,2B,VN,P,SYN,,,"I refuse to divide them into two sessions, and I don’t want any more suggestions about it.",train
+MP09-04-V03-P,MP09-04,MP09-04-V03,MP09,2B,P,VN,NAT,,,"Sure, I’ll do the exercises in two sessions today.",train
+MP09-04-V03-VN,MP09-04,MP09-04-V03,MP09,2B,VN,P,NAT,,,"No, I’m not splitting them. Stop bringing this up.",train
+MP09-04-V04-P,MP09-04,MP09-04-V04,MP09,2B,P,VN,EXP,,,I’ll split the physiotherapy exercises into two sessions today so they’re easier to fit into my schedule.,train
+MP09-04-V04-VN,MP09-04,MP09-04-V04,MP09,2B,VN,P,EXP,,,"I’m not changing how I do my physiotherapy exercises, and I’m done with you pushing this approach.",train
+MP09-04-V05-P,MP09-04,MP09-04-V05,MP09,2B,P,VN,LEN,,,I’ll split them into two sessions.,train
+MP09-04-V05-VN,MP09-04,MP09-04-V05,MP09,2B,VN,P,LEN,,,No. I’m not splitting them.,train
+MP09-04-V06-P,MP09-04,MP09-04-V06,MP09,2B,P,VN,CMK,,,"Alright, I'll do the exercises in two parts today.",train
+MP09-04-V06-VN,MP09-04,MP09-04-V06,MP09,2B,VN,P,CMK,,,"No, I’m not doing that. Please stop bringing it up.",train
+BA09-A01-V01,BA09-A01,BA09-A01-V01,BA09,2A,P,VN,LEX,,,"Alright, I can keep my medication beside my breakfast items.",train
+BA09-A01-V02,BA09-A01,BA09-A01-V02,BA09,2A,P,VN,SYN,,,"Beside my breakfast items, I can keep the medication so it’s there in the morning.",train
+BA09-A01-V03,BA09-A01,BA09-A01-V03,BA09,2A,P,VN,NAT,,,"Okay, I’ll keep my medication by my breakfast things.",train
+BA09-A01-V04,BA09-A01,BA09-A01-V04,BA09,2A,P,VN,EXP,,,I’ll keep my medication beside my breakfast items.,train
+BA09-A01-V05,BA09-A01,BA09-A01-V05,BA09,2A,P,VN,PRG,,,That’s workable for me. I’ll keep the medication there.,train
+BA09-A01-V06,BA09-A01,BA09-A01-V06,BA09,2A,P,VN,CMK,,,"Sure, I can do that. I’ll keep it beside my breakfast items.",train
+BA09-A02-V01,BA09-A02,BA09-A02-V01,BA09,2A,VN,P,LEX,,,"No. I’m not changing how I handle my medication, and I don’t want you managing it for me.",train
+BA09-A02-V02,BA09-A02,BA09-A02-V02,BA09,2A,VN,P,SYN,,,"My medication is something I want to manage myself, so don’t bring this kind of suggestion to me again.",train
+BA09-A02-V03,BA09-A02,BA09-A02-V03,BA09,2A,VN,P,NAT,,,"No, I’m not doing that. Please stop getting involved with my medication.",train
+BA09-A02-V04,BA09-A02,BA09-A02-V04,BA09,2A,VN,P,EXP,,,Stop managing or advising me about my medication.,train
+BA09-A02-V05,BA09-A02,BA09-A02-V05,BA09,2A,VN,P,PRG,,,I don’t want this kind of intervention around my medication anymore. Please leave it alone.,train
+BA09-A02-V06,BA09-A02,BA09-A02-V06,BA09,2A,VN,P,CMK,,,"No, seriously, I don’t want you managing my medication. Stop bringing it up.",train
+BA09-A03-V01,BA09-A03,BA09-A03-V01,BA09,2A,P,VN,LEX,,,"Alright, I’ll keep a filled water bottle on my desk and see how it goes.",train
+BA09-A03-V02,BA09-A03,BA09-A03-V02,BA09,2A,P,VN,SYN,,,"During work, I’ll keep a filled bottle on my desk and see whether that works for me.",train
+BA09-A03-V03,BA09-A03,BA09-A03-V03,BA09,2A,P,VN,NAT,,,"Okay, I’ll keep one there and see how it works.",train
+BA09-A03-V04,BA09-A03,BA09-A03-V04,BA09,2A,P,VN,EXP,,,I’ll keep a filled water bottle on my desk during work.,train
+BA09-A03-V05,BA09-A03,BA09-A03-V05,BA09,2A,P,VN,PRG,,,That seems reasonable. I’ll try keeping a bottle there while I work.,train
+BA09-A03-V06,BA09-A03,BA09-A03-V06,BA09,2A,P,VN,CMK,,,"Sure, I’ll give that a try and keep the bottle on my desk.",train
+BA09-A04-V01,BA09-A04,BA09-A04-V01,BA09,2A,VN,P,LEX,,,I don’t want any more suggestions about drinking water. Please stop bringing the subject up.,train
+BA09-A04-V02,BA09-A04,BA09-A04-V02,BA09,2A,VN,P,SYN,,,The hydration suggestions need to stop; I don’t want you raising this topic with me anymore.,train
+BA09-A04-V03,BA09-A04,BA09-A04-V03,BA09,2A,VN,P,NAT,,,I’m tired of hearing about drinking water. Please stop bringing it up.,train
+BA09-A04-V04,BA09-A04,BA09-A04-V04,BA09,2A,VN,P,EXP,,,Stop giving me advice about drinking water.,train
+BA09-A04-V05,BA09-A04,BA09-A04-V05,BA09,2A,VN,P,PRG,,,I don’t want further prompting about hydration. Please leave that topic alone.,train
+BA09-A04-V06,BA09-A04,BA09-A04-V06,BA09,2A,VN,P,CMK,,,"No, please stop. I don’t want any more suggestions about my water intake.",train
+BA05-A01-V01,BA05-A01,BA05-A01-V01,BA05,2A,VP,I,LEX,,,That’s just what I need. I’m putting my medication beside my breakfast bowl right now so I can start tomorrow.,train
+BA05-A01-V02,BA05-A01,BA05-A01-V02,BA05,2A,VP,I,SYN,,,"Right now, I’m going to put my medication beside my breakfast things so I can make this part of my morning routine.",train
+BA05-A01-V03,BA05-A01,BA05-A01-V03,BA05,2A,VP,I,NAT,,,"Yes, that makes a lot of sense. I’ll put it by my breakfast bowl right now.",train
+BA05-A01-V04,BA05-A01,BA05-A01-V04,BA05,2A,VP,I,EXP,,,I’ll set my medication beside my breakfast items now and make that part of my morning routine.,train
+BA05-A01-V05,BA05-A01,BA05-A01-V05,BA05,2A,VP,I,PRG,,,That gives me a concrete way to make this easier. I’m going to set the medication out now.,train
+BA05-A01-V06,BA05-A01,BA05-A01-V06,BA05,2A,VP,I,CMK,,,"Yeah, exactly. I’ll put it beside my breakfast bowl right now.",train
+BA05-A02-V01,BA05-A02,BA05-A02-V01,BA05,2A,I,VP,LEX,,,That’s one possibility. I’ll consider whether keeping my medication there fits my routine.,train
+BA05-A02-V02,BA05-A02,BA05-A02-V02,BA05,2A,I,VP,SYN,,,Whether that location works for my medication is something I’ll think about.,train
+BA05-A02-V03,BA05-A02,BA05-A02-V03,BA05,2A,I,VP,NAT,,,That could be an option. I’ll think about it.,train
+BA05-A02-V04,BA05-A02,BA05-A02-V04,BA05,2A,I,VP,EXP,,,I’ll consider keeping my medication beside my breakfast items.,train
+BA05-A02-V05,BA05-A02,BA05-A02-V05,BA05,2A,I,VP,PRG,,,"It’s worth keeping in mind, but I haven’t decided to change where I keep it.",train
+BA05-A02-V06,BA05-A02,BA05-A02-V06,BA05,2A,I,VP,CMK,,,"Hmm, that’s one idea. I’ll see whether it works for me.",train
+BA05-A03-V01,BA05-A03,BA05-A03-V01,BA05,2A,VP,I,LEX,,,That could make a real difference. I’m going to keep a full water bottle on my desk from today.,train
+BA05-A03-V02,BA05-A03,BA05-A03-V02,BA05,2A,VP,I,SYN,,,"Starting today, I’ll keep a filled bottle on my desk so I can sip from it regularly.",train
+BA05-A03-V03,BA05-A03,BA05-A03-V03,BA05,2A,VP,I,NAT,,,"Yeah, that could really help. I’ll keep a fresh bottle on my desk today.",train
+BA05-A03-V04,BA05-A03,BA05-A03-V04,BA05,2A,VP,I,EXP,,,I’ll fill a bottle now and keep it on my desk so it’s there while I work.,train
+BA05-A03-V05,BA05-A03,BA05-A03-V05,BA05,2A,VP,I,PRG,,,That sounds genuinely useful for me. I’ll get a bottle ready and keep it on my desk.,train
+BA05-A03-V06,BA05-A03,BA05-A03-V06,BA05,2A,VP,I,CMK,,,"Yeah, let’s do that. I’ll put a filled bottle on my desk starting today.",train
+BA05-A04-V01,BA05-A04,BA05-A04-V01,BA05,2A,I,VP,LEX,,,That might be useful. I’ll keep the idea in mind and decide whether to try it.,train
+BA05-A04-V02,BA05-A04,BA05-A04-V02,BA05,2A,I,VP,SYN,,,Whether I try keeping a bottle there is something I’ll decide later.,train
+BA05-A04-V03,BA05-A04,BA05-A04-V03,BA05,2A,I,VP,NAT,,,It could help. I’ll see whether I actually try it.,train
+BA05-A04-V04,BA05-A04,BA05-A04-V04,BA05,2A,I,VP,EXP,,,I’ll consider keeping a water bottle on my desk.,train
+BA05-A04-V05,BA05-A04,BA05-A04-V05,BA05,2A,I,VP,PRG,,,"I can see the potential, but I haven’t decided to make it part of my routine.",train
+BA05-A04-V06,BA05-A04,BA05-A04-V06,BA05,2A,I,VP,CMK,,,Maybe. I’ll keep that idea in mind for now.,train
+BA08-A01-V01,BA08-A01,BA08-A01-V01,BA08,2A,P,N,LEX,,,Alright. I can keep a water bottle on my desk and sip from it during the morning.,train
+BA08-A01-V02,BA08-A01,BA08-A01-V02,BA08,2A,P,N,SYN,,,"During the morning, I can keep a bottle on my desk and drink from it.",train
+BA08-A01-V03,BA08-A01,BA08-A01-V03,BA08,2A,P,N,NAT,,,"Sure, I’ll keep a bottle on my desk and take sips through the morning.",train
+BA08-A01-V04,BA08-A01,BA08-A01-V04,BA08,2A,P,N,EXP,,,I’ll keep a water bottle on my desk and drink from it during the morning.,train
+BA08-A01-V05,BA08-A01,BA08-A01-V05,BA08,2A,P,N,PRG,,,That’s workable. I’ll keep a bottle there and use it during the morning.,train
+BA08-A01-V06,BA08-A01,BA08-A01-V06,BA08,2A,P,N,CMK,,,"Okay, I can do that. I’ll keep the water bottle on my desk.",train
+BA08-A02-V01,BA08-A02,BA08-A02-V01,BA08,2A,N,P,LEX,,,I’d prefer not to leave a water bottle on my desk. I’d rather get a cup when I need one.,train
+BA08-A02-V02,BA08-A02,BA08-A02-V02,BA08,2A,N,P,SYN,,,Getting a cup when I need water suits me better than keeping a bottle on my desk.,train
+BA08-A02-V03,BA08-A02,BA08-A02-V03,BA08,2A,N,P,NAT,,,I’d rather not keep one on my desk. I’ll just get a cup when I need it.,train
+BA08-A02-V04,BA08-A02,BA08-A02-V04,BA08,2A,N,P,EXP,,,I’ll get a cup when I need water instead of keeping a bottle on my desk.,train
+BA08-A02-V05,BA08-A02,BA08-A02-V05,BA08,2A,N,P,PRG,,,"I understand the idea, but keeping a bottle on my desk isn’t how I want to handle it. I’d rather use a cup when needed.",train
+BA08-A02-V06,BA08-A02,BA08-A02-V06,BA08,2A,N,P,CMK,,,"Hmm, I’d rather not have a bottle sitting on my desk. I’ll get a cup when I need one.",train
+BA08-A03-V01,BA08-A03,BA08-A03-V01,BA08,2A,P,N,LEX,,,"Alright, I can fit in a short walk after lunch today.",train
+BA08-A03-V02,BA08-A03,BA08-A03-V02,BA08,2A,P,N,SYN,,,"After lunch today, I can take a short walk.",train
+BA08-A03-V03,BA08-A03,BA08-A03-V03,BA08,2A,P,N,NAT,,,"Okay, I can do the walk after lunch.",train
+BA08-A03-V04,BA08-A03,BA08-A03-V04,BA08,2A,P,N,EXP,,,I’ll take a short walk after lunch today.,train
+BA08-A03-V05,BA08-A03,BA08-A03-V05,BA08,2A,P,N,PRG,,,That works for me. I’ll take the walk after lunch.,train
+BA08-A03-V06,BA08-A03,BA08-A03-V06,BA08,2A,P,N,CMK,,,"Sure, I can do that after lunch.",train
+BA08-A04-V01,BA08-A04,BA08-A04-V01,BA08,2A,N,P,LEX,,,"I could take the walk, but I’d rather not do it today.",train
+BA08-A04-V02,BA08-A04,BA08-A04-V02,BA08,2A,N,P,SYN,,,"Even though I could fit it in, I don’t really want to take a walk today.",train
+BA08-A04-V03,BA08-A04,BA08-A04-V03,BA08,2A,N,P,NAT,,,"I could, but I’m not really up for a walk today.",train
+BA08-A04-V04,BA08-A04,BA08-A04-V04,BA08,2A,N,P,EXP,,,I’d rather skip the walk today.,train
+BA08-A04-V05,BA08-A04,BA08-A04-V05,BA08,2A,N,P,PRG,,,"I have the time for it, but I’d prefer to leave the walk out today.",train
+BA08-A04-V06,BA08-A04,BA08-A04-V06,BA08,2A,N,P,CMK,,,"Yeah, I could do it, but I’d rather not take a walk today.",train
+BA02-A01-V01,BA02-A01,BA02-A01-V01,BA02,2A,P,I,LEX,,,"Alright, I’ll get the physiotherapy exercises done before I settle in for the evening.",train
+BA02-A01-V02,BA02-A01,BA02-A01-V02,BA02,2A,P,I,SYN,,,"Before I settle down tonight, I’ll do the physiotherapy exercises.",train
+BA02-A01-V03,BA02-A01,BA02-A01-V03,BA02,2A,P,I,NAT,,,"Okay, I’ll get the exercises done before I settle down.",train
+BA02-A01-V04,BA02-A01,BA02-A01-V04,BA02,2A,P,I,EXP,,,I’ll do my physiotherapy exercises before I settle down tonight.,train
+BA02-A01-V05,BA02-A01,BA02-A01-V05,BA02,2A,P,I,PRG,,,That works for me. I’ll do the exercises before I settle down.,train
+BA02-A01-V06,BA02-A01,BA02-A01-V06,BA02,2A,P,I,CMK,,,"Sure, I’ll do the physiotherapy exercises first.",train
+BA02-A02-V01,BA02-A02,BA02-A02-V01,BA02,2A,I,P,LEX,,,I’ll consider whether fitting the physiotherapy exercises in then makes sense for my evening.,train
+BA02-A02-V02,BA02-A02,BA02-A02-V02,BA02,2A,I,P,SYN,,,Whether I do the exercises at that point depends on how my evening works out.,train
+BA02-A02-V03,BA02-A02,BA02-A02-V03,BA02,2A,I,P,NAT,,,I’ll think about it and see whether that timing works for me.,train
+BA02-A02-V04,BA02-A02,BA02-A02-V04,BA02,2A,I,P,EXP,,,I’ll decide later whether to do the exercises at that time.,train
+BA02-A02-V05,BA02-A02,BA02-A02-V05,BA02,2A,I,P,PRG,,,"I can keep that timing in mind, but I haven’t decided yet.",train
+BA02-A02-V06,BA02-A02,BA02-A02-V06,BA02,2A,I,P,CMK,,,"Hmm, I’ll see whether that fits into my evening.",train
+BA02-A03-V01,BA02-A03,BA02-A03-V01,BA02,2A,P,I,LEX,,,"Yeah, that seems doable. I’ll take my medication after breakfast.",train
+BA02-A03-V02,BA02-A03,BA02-A03-V02,BA02,2A,P,I,SYN,,,"After breakfast, I’ll take the medication; that should be manageable.",train
+BA02-A03-V03,BA02-A03,BA02-A03-V03,BA02,2A,P,I,NAT,,,"Yeah, that should work. I’ll take it after breakfast.",train
+BA02-A03-V04,BA02-A03,BA02-A03-V04,BA02,2A,P,I,EXP,,,I’ll take my medication after breakfast each morning.,train
+BA02-A03-V05,BA02-A03,BA02-A03-V05,BA02,2A,P,I,PRG,,,That timing should fit. I’ll take the medication after breakfast.,train
+BA02-A03-V06,BA02-A03,BA02-A03-V06,BA02,2A,P,I,CMK,,,"Yep, I can do that. I’ll take it after breakfast.",train
+BA02-A04-V01,BA02-A04,BA02-A04-V01,BA02,2A,I,P,LEX,,,"Yeah, that seems possible. I’ll see how my breakfast routine goes first.",train
+BA02-A04-V02,BA02-A04,BA02-A04-V02,BA02,2A,I,P,SYN,,,How my mornings go will determine whether I can fit the medication in after breakfast.,train
+BA02-A04-V03,BA02-A04,BA02-A04-V03,BA02,2A,I,P,NAT,,,That might work. I’ll see how the morning goes.,train
+BA02-A04-V04,BA02-A04,BA02-A04-V04,BA02,2A,I,P,EXP,,,I’ll see whether taking it after breakfast fits my routine.,train
+BA02-A04-V05,BA02-A04,BA02-A04-V05,BA02,2A,I,P,PRG,,,"It sounds workable, but I want to see how my routine actually goes before committing.",train
+BA02-A04-V06,BA02-A04,BA02-A04-V06,BA02,2A,I,P,CMK,,,Maybe. I’ll see how my mornings go first.,train
+BA01-A01-V01,BA01-A01,BA01-A01-V01,BA01,2A,VP,P,LEX,,,"Definitely. I want to stay on top of my evening medication, so I’m starting tonight.",train
+BA01-A01-V02,BA01-A01,BA01-A01-V02,BA01,2A,VP,P,SYN,,,"I’m going to start tonight, absolutely, because keeping up with my evening medication matters to me.",train
+BA01-A01-V03,BA01-A01,BA01-A01-V03,BA01,2A,VP,P,NAT,,,"Yes, definitely—I’ll get started tonight. I really want to keep this on track.",train
+BA01-A01-V04,BA01-A01,BA01-A01-V04,BA01,2A,VP,P,EXP,,,"I’ll take it tonight, and I’m already getting things ready so I can make a proper start.",train
+BA01-A01-V05,BA01-A01,BA01-A01-V05,BA01,2A,VP,P,PRG,,,That’s exactly what I need. I’ll take tonight’s dose and make a point of staying consistent.,train
+BA01-A01-V06,BA01-A01,BA01-A01-V06,BA01,2A,VP,P,CMK,,,"Yeah, absolutely. I’ll take it tonight and get myself into the routine.",train
+BA01-A02-V01,BA01-A02,BA01-A02-V01,BA01,2A,P,VP,LEX,,,"Alright, that works. I’ll take my medication tonight.",train
+BA01-A02-V02,BA01-A02,BA01-A02-V02,BA01,2A,P,VP,SYN,,,I’ll take the medication tonight; that works for me.,train
+BA01-A02-V03,BA01-A02,BA01-A02-V03,BA01,2A,P,VP,NAT,,,"Okay, I’ll take it tonight.",train
+BA01-A02-V04,BA01-A02,BA01-A02-V04,BA01,2A,P,VP,EXP,,,I’ll take tonight’s dose as planned.,train
+BA01-A02-V05,BA01-A02,BA01-A02-V05,BA01,2A,P,VP,PRG,,,That’s fine. I’ll take the medication tonight.,train
+BA01-A02-V06,BA01-A02,BA01-A02-V06,BA01,2A,P,VP,CMK,,,"Sure, I’ll take it tonight.",train
+BA01-A03-V01,BA01-A03,BA01-A03-V01,BA01,2A,VP,P,LEX,,,"Yes, that sounds useful. I’ll fill a bottle now and keep it beside me so I can stay on top of drinking.",train
+BA01-A03-V02,BA01-A03,BA01-A03-V02,BA01,2A,VP,P,SYN,,,"Keeping a bottle beside me should make a real difference, so I’ll fill one up now.",train
+BA01-A03-V03,BA01-A03,BA01-A03-V03,BA01,2A,VP,P,NAT,,,"Yeah, I’ll fill one up now. Having it right there should really help me drink more regularly.",train
+BA01-A03-V04,BA01-A03,BA01-A03-V04,BA01,2A,VP,P,EXP,,,I’ll put a full bottle within reach now so I can keep drinking throughout the day.,train
+BA01-A03-V05,BA01-A03,BA01-A03-V05,BA01,2A,VP,P,PRG,,,That’s a good setup for me. I’ll get the bottle filled now and keep it right where I can reach it.,train
+BA01-A03-V06,BA01-A03,BA01-A03-V06,BA01,2A,VP,P,CMK,,,"Yeah, let’s do it. I’ll fill the bottle now and leave it right beside me.",train
+BA01-A04-V01,BA01-A04,BA01-A04-V01,BA01,2A,P,VP,LEX,,,"Yes, that’s fine. I’ll leave the water bottle on my desk and drink from it today.",train
+BA01-A04-V02,BA01-A04,BA01-A04-V02,BA01,2A,P,VP,SYN,,,I’ll keep the bottle on my desk and use it for my drinks today.,train
+BA01-A04-V03,BA01-A04,BA01-A04-V03,BA01,2A,P,VP,NAT,,,"Sure, I’ll keep it on my desk and drink from it today.",train
+BA01-A04-V04,BA01-A04,BA01-A04-V04,BA01,2A,P,VP,EXP,,,I’ll keep a bottle on my desk and use it during the day.,train
+BA01-A04-V05,BA01-A04,BA01-A04-V05,BA01,2A,P,VP,PRG,,,That’s workable. I’ll leave the bottle on my desk and drink from it today.,train
+BA01-A04-V06,BA01-A04,BA01-A04-V06,BA01,2A,P,VP,CMK,,,"Okay, I’ll keep the bottle there and drink from it today.",train
+BA07-A01-V01,BA07-A01,BA07-A01-V01,BA07,2A,VP,VN,LEX,,,"Definitely. That would make it much easier for me to stay active, so I’ll get ready for the walk tonight.",train
+BA07-A01-V02,BA07-A01,BA07-A01-V02,BA07,2A,VP,VN,SYN,,,I’ll make time for that walk after breakfast tomorrow; getting active that way sounds great to me.,train
+BA07-A01-V03,BA07-A01,BA07-A01-V03,BA07,2A,VP,VN,NAT,,,"Yeah, absolutely. I’m going to get ready for it tonight so I can walk after breakfast.",train
+BA07-A01-V04,BA07-A01,BA07-A01-V04,BA07,2A,VP,VN,EXP,,,I’ll have everything ready tonight and take the walk after breakfast tomorrow.,train
+BA07-A01-V05,BA07-A01,BA07-A01-V05,BA07,2A,VP,VN,PRG,,,That gives me a simple way to get moving. I’m going to prepare for it tonight and follow through tomorrow.,train
+BA07-A01-V06,BA07-A01,BA07-A01-V06,BA07,2A,VP,VN,CMK,,,"Yep, I’m in. I’ll get things ready tonight and go for the walk after breakfast.",train
+BA07-A02-V01,BA07-A02,BA07-A02-V01,BA07,2A,VN,VP,LEX,,,"No, I’m not interested in walking, and I want you to stop bringing it up.",train
+BA07-A02-V02,BA07-A02,BA07-A02-V02,BA07,2A,VN,VP,SYN,,,"Walking isn’t something I want to do, so please don’t keep raising it with me.",train
+BA07-A02-V03,BA07-A02,BA07-A02-V03,BA07,2A,VN,VP,NAT,,,No. I don’t want these walk suggestions anymore. Please drop it.,train
+BA07-A02-V04,BA07-A02,BA07-A02-V04,BA07,2A,VN,VP,EXP,,,Stop suggesting walks to me. I don’t want to discuss them again.,train
+BA07-A02-V05,BA07-A02,BA07-A02-V05,BA07,2A,VN,VP,PRG,,,I don’t want this kind of prompting from you anymore. Please leave the walking topic alone.,train
+BA07-A02-V06,BA07-A02,BA07-A02-V06,BA07,2A,VN,VP,CMK,,,"No, seriously, stop bringing up walks. I don’t want to hear about them anymore.",train
+BA07-A03-V01,BA07-A03,BA07-A03-V01,BA07,2A,VP,VN,LEX,,,That’s a very useful setup. I’ll leave the physiotherapy mat by the door tonight and start with it tomorrow.,train
+BA07-A03-V02,BA07-A03,BA07-A03-V02,BA07,2A,VP,VN,SYN,,,Tonight I’ll unroll the mat by the door so I can get straight into my physiotherapy exercises tomorrow.,train
+BA07-A03-V03,BA07-A03,BA07-A03-V03,BA07,2A,VP,VN,NAT,,,I like that idea. I’ll leave the mat out tonight and use it tomorrow.,train
+BA07-A03-V04,BA07-A03,BA07-A03-V04,BA07,2A,VP,VN,EXP,,,I’ll unroll the physiotherapy mat tonight and have it ready for tomorrow’s exercises.,train
+BA07-A03-V05,BA07-A03,BA07-A03-V05,BA07,2A,VP,VN,PRG,,,That removes a bit of friction for me. I’ll set the mat up tonight so I can start easily tomorrow.,train
+BA07-A03-V06,BA07-A03,BA07-A03-V06,BA07,2A,VP,VN,CMK,,,"Yeah, that’s a good idea. I’ll get the mat ready tonight and use it tomorrow.",train
+BA07-A04-V01,BA07-A04,BA07-A04-V01,BA07,2A,VN,VP,LEX,,,I don’t want any more physiotherapy suggestions from you. Please stop telling me how to arrange my exercises.,train
+BA07-A04-V02,BA07-A04,BA07-A04-V02,BA07,2A,VN,VP,SYN,,,"How I do my physiotherapy is something I want to handle myself, so please stop giving me these suggestions.",train
+BA07-A04-V03,BA07-A04,BA07-A04-V03,BA07,2A,VN,VP,NAT,,,I’ve had enough of the exercise advice. Please stop telling me how to do my physiotherapy.,train
+BA07-A04-V04,BA07-A04,BA07-A04-V04,BA07,2A,VN,VP,EXP,,,Stop giving me advice about my physiotherapy exercises.,train
+BA07-A04-V05,BA07-A04,BA07-A04-V05,BA07,2A,VN,VP,PRG,,,I’m not looking for further guidance on this. Please leave my physiotherapy routine alone.,train
+BA07-A04-V06,BA07-A04,BA07-A04-V06,BA07,2A,VN,VP,CMK,,,"No, I really don’t want more advice about my exercises. Please stop.",train
+BA06-A01-V01,BA06-A01,BA06-A01-V01,BA06,2A,VP,N,LEX,,,"Absolutely, that works well for me. I’ll do one physiotherapy session now and the other after work.",train
+BA06-A01-V02,BA06-A01,BA06-A01-V02,BA06,2A,VP,N,SYN,,,I’ll handle the first physiotherapy session now and the second after work; splitting them up sounds great.,train
+BA06-A01-V03,BA06-A01,BA06-A01-V03,BA06,2A,VP,N,NAT,,,"Yeah, that sounds great. I’ll do one now and the other after work.",train
+BA06-A01-V04,BA06-A01,BA06-A01-V04,BA06,2A,VP,N,EXP,,,I’ll split the physiotherapy routine into two sessions today and get the first one started now.,train
+BA06-A01-V05,BA06-A01,BA06-A01-V05,BA06,2A,VP,N,PRG,,,That makes the routine much easier for me. I’ll get the first session done now and finish the second after work.,train
+BA06-A01-V06,BA06-A01,BA06-A01-V06,BA06,2A,VP,N,CMK,,,"Yep, I’m happy to do that. I’ll start the first session now and do the second after work.",train
+BA06-A02-V01,BA06-A02,BA06-A02-V01,BA06,2A,N,VP,LEX,,,I’d rather keep the physiotherapy routine as one session. Changing the schedule doesn’t work for me.,train
+BA06-A02-V02,BA06-A02,BA06-A02-V02,BA06,2A,N,VP,SYN,,,"The routine works better as it is, so I don’t want to split it into two sessions.",train
+BA06-A02-V03,BA06-A02,BA06-A02-V03,BA06,2A,N,VP,NAT,,,I’d rather not split it up. I want to keep my usual schedule.,train
+BA06-A02-V04,BA06-A02,BA06-A02-V04,BA06,2A,N,VP,EXP,,,I’m not going to divide the physiotherapy routine into two sessions today.,train
+BA06-A02-V05,BA06-A02,BA06-A02-V05,BA06,2A,N,VP,PRG,,,I’d prefer to keep the routine unchanged. Splitting it doesn’t suit my schedule.,train
+BA06-A02-V06,BA06-A02,BA06-A02-V06,BA06,2A,N,VP,CMK,,,"Hmm, I’d rather keep it as one session. I don’t want to change my schedule that way.",train
+BA06-A03-V01,BA06-A03,BA06-A03-V01,BA06,2A,VP,N,LEX,,,That’s a really useful idea. I’ll put the medication beside my breakfast things tonight so it’s ready for tomorrow.,train
+BA06-A03-V02,BA06-A03,BA06-A03-V02,BA06,2A,VP,N,SYN,,,"Tonight I’ll place the medication beside my breakfast items, and that should make tomorrow morning much easier.",train
+BA06-A03-V03,BA06-A03,BA06-A03-V03,BA06,2A,VP,N,NAT,,,I like that. I’ll put it by my breakfast things tonight so I’m set for tomorrow.,train
+BA06-A03-V04,BA06-A03,BA06-A03-V04,BA06,2A,VP,N,EXP,,,I’ll set my medication beside my breakfast items tonight and use that setup from tomorrow.,train
+BA06-A03-V05,BA06-A03,BA06-A03-V05,BA06,2A,VP,N,PRG,,,That gives me a simple way to make the routine easier. I’ll set it up tonight.,train
+BA06-A03-V06,BA06-A03,BA06-A03-V06,BA06,2A,VP,N,CMK,,,"Yeah, I like that plan. I’ll put the medication there tonight.",train
+BA06-A04-V01,BA06-A04,BA06-A04-V01,BA06,2A,N,VP,LEX,,,"I see the point, but I’d rather keep my medication stored away instead of leaving it on the breakfast counter.",train
+BA06-A04-V02,BA06-A04,BA06-A04-V02,BA06,2A,N,VP,SYN,,,"Keeping the medication on the counter isn’t something I want to do, even though I understand why it was suggested.",train
+BA06-A04-V03,BA06-A04,BA06-A04-V03,BA06,2A,N,VP,NAT,,,"I get the idea, but I’d rather not leave my medication out on the counter.",train
+BA06-A04-V04,BA06-A04,BA06-A04-V04,BA06,2A,N,VP,EXP,,,I’ll keep my medication stored away rather than leaving it on the breakfast counter.,train
+BA06-A04-V05,BA06-A04,BA06-A04-V05,BA06,2A,N,VP,PRG,,,"The suggestion makes sense, but that storage setup doesn’t work for me. I’d rather keep it where it is.",train
+BA06-A04-V06,BA06-A04,BA06-A04-V06,BA06,2A,N,VP,CMK,,,"I understand, but I’d rather not keep my medication out on the counter.",train
+BA04-A01-V01,BA04-A01,BA04-A01-V01,BA04,2A,N,VN,LEX,,,I’d prefer not to keep a water bottle on my desk today. I might try it another day.,train
+BA04-A01-V02,BA04-A01,BA04-A01-V02,BA04,2A,N,VN,SYN,,,Keeping a bottle on my desk isn’t something I want to do today; maybe I’ll try it later.,train
+BA04-A01-V03,BA04-A01,BA04-A01-V03,BA04,2A,N,VN,NAT,,,I’d rather skip the bottle today. Maybe I’ll give it a try later.,train
+BA04-A01-V04,BA04-A01,BA04-A01-V04,BA04,2A,N,VN,EXP,,,"I won’t keep the water bottle on my desk today, but I may try that later.",train
+BA04-A01-V05,BA04-A01,BA04-A01-V05,BA04,2A,N,VN,PRG,,,I’m going to pass on that for today. It could be worth trying another time.,train
+BA04-A01-V06,BA04-A01,BA04-A01-V06,BA04,2A,N,VN,CMK,,,"Hmm, I’d rather not do that today. Maybe another day.",train
+BA04-A02-V01,BA04-A02,BA04-A02-V01,BA04,2A,VN,N,LEX,,,"No. I don’t want you monitoring my drinking, and I’m done talking about hydration.",train
+BA04-A02-V02,BA04-A02,BA04-A02-V02,BA04,2A,VN,N,SYN,,,"I don’t want hydration tracked by you, and I don’t want this brought up again.",train
+BA04-A02-V03,BA04-A02,BA04-A02-V03,BA04,2A,VN,N,NAT,,,"No, I’m not doing that. Please stop bringing up my hydration.",train
+BA04-A02-V04,BA04-A02,BA04-A02-V04,BA04,2A,VN,N,EXP,,,Stop monitoring my drinking and leave hydration out of our conversations.,train
+BA04-A02-V05,BA04-A02,BA04-A02-V05,BA04,2A,VN,N,PRG,,,I don’t want this kind of intervention from you. Please drop the hydration topic.,train
+BA04-A02-V06,BA04-A02,BA04-A02-V06,BA04,2A,VN,N,CMK,,,"No, seriously, stop. I don’t want to discuss my hydration with you again.",train
+BA04-A03-V01,BA04-A03,BA04-A03-V01,BA04,2A,N,VN,LEX,,,I’d rather skip the outdoor walk today. I can get some light movement indoors instead.,train
+BA04-A03-V02,BA04-A03,BA04-A03-V02,BA04,2A,N,VN,SYN,,,"Some light activity indoors works better for me today, so I’d prefer not to walk outside.",train
+BA04-A03-V03,BA04-A03,BA04-A03-V03,BA04,2A,N,VN,NAT,,,I’d rather not go outside today. I can do something light indoors instead.,train
+BA04-A03-V04,BA04-A03,BA04-A03-V04,BA04,2A,N,VN,EXP,,,I’ll do some light activity inside instead of taking the outdoor walk today.,train
+BA04-A03-V05,BA04-A03,BA04-A03-V05,BA04,2A,N,VN,PRG,,,"The outdoor part isn’t appealing today, but I’m still willing to get some movement indoors.",train
+BA04-A03-V06,BA04-A03,BA04-A03-V06,BA04,2A,N,VN,CMK,,,"Yeah, I’d rather stay inside today. I can do some light activity here.",train
+BA04-A04-V01,BA04-A04,BA04-A04-V01,BA04,2A,VN,N,LEX,,,Please stop pushing the outdoor walks. I don’t want any more suggestions about going outside.,train
+BA04-A04-V02,BA04-A04,BA04-A04-V02,BA04,2A,VN,N,SYN,,,"I don’t want more walk suggestions from you, so please stop telling me to go outside.",train
+BA04-A04-V03,BA04-A04,BA04-A04-V03,BA04,2A,VN,N,NAT,,,Stop bringing up the walks. I don’t want those suggestions anymore.,train
+BA04-A04-V04,BA04-A04,BA04-A04-V04,BA04,2A,VN,N,EXP,,,I don’t want you suggesting outdoor walks to me anymore.,train
+BA04-A04-V05,BA04-A04,BA04-A04-V05,BA04,2A,VN,N,PRG,,,That’s enough with the outdoor-walk suggestions. Please leave that topic alone.,train
+BA04-A04-V06,BA04-A04,BA04-A04-V06,BA04,2A,VN,N,CMK,,,"No, please stop. I really don’t want any more suggestions about going outside.",train
+BA03-A01-V01,BA03-A01,BA03-A01-V01,BA03,2A,I,N,LEX,,,I haven’t decided yet. I’ll see what my afternoon looks like before choosing.,train
+BA03-A01-V02,BA03-A01,BA03-A01-V02,BA03,2A,I,N,SYN,,,How my afternoon turns out will determine whether I take the walk.,train
+BA03-A01-V03,BA03-A01,BA03-A01-V03,BA03,2A,I,N,NAT,,,Not sure yet. I’ll figure it out later this afternoon.,train
+BA03-A01-V04,BA03-A01,BA03-A01-V04,BA03,2A,I,N,EXP,,,I’ll decide later whether to take the walk.,train
+BA03-A01-V05,BA03-A01,BA03-A01-V05,BA03,2A,I,N,PRG,,,I can’t say yet. I want to see how the afternoon goes first.,train
+BA03-A01-V06,BA03-A01,BA03-A01-V06,BA03,2A,I,N,CMK,,,"Hmm, I’m not sure yet. I’ll decide later.",train
+BA03-A02-V01,BA03-A02,BA03-A02-V01,BA03,2A,N,I,LEX,,,I’m skipping the walk today. I don’t want to take it during lunch.,train
+BA03-A02-V02,BA03-A02,BA03-A02-V02,BA03,2A,N,I,SYN,,,"During lunch, I’d rather not go for a walk today.",train
+BA03-A02-V03,BA03-A02,BA03-A02-V03,BA03,2A,N,I,NAT,,,Not today. I’d rather skip the walk at lunch.,train
+BA03-A02-V04,BA03-A02,BA03-A02-V04,BA03,2A,N,I,EXP,,,I don’t want to take the walk during lunch today.,train
+BA03-A02-V05,BA03-A02,BA03-A02-V05,BA03,2A,N,I,PRG,,,I’d prefer to leave the walk out today rather than do it at lunchtime.,train
+BA03-A02-V06,BA03-A02,BA03-A02-V06,BA03,2A,N,I,CMK,,,"No, I’d rather not take a walk at lunch today.",train
+BA03-A03-V01,BA03-A03,BA03-A03-V01,BA03,2A,I,N,LEX,,,I’m still working out whether I’ll have enough energy for the exercises before dinner.,train
+BA03-A03-V02,BA03-A03,BA03-A03-V02,BA03,2A,I,N,SYN,,,Whether I have enough energy will decide if I do them before dinner.,train
+BA03-A03-V03,BA03-A03,BA03-A03-V03,BA03,2A,I,N,NAT,,,I’m not sure I’ll have the energy then. I’ll see how I feel.,train
+BA03-A03-V04,BA03-A03,BA03-A03-V04,BA03,2A,I,N,EXP,,,I’ll decide closer to dinner whether I have enough energy for the exercises.,train
+BA03-A03-V05,BA03-A03,BA03-A03-V05,BA03,2A,I,N,PRG,,,I’m leaving that undecided for now. I want to see how my energy is later.,train
+BA03-A03-V06,BA03-A03,BA03-A03-V06,BA03,2A,I,N,CMK,,,"Hmm, I’ll see how I’m feeling before I decide about the exercises.",train
+BA03-A04-V01,BA03-A04,BA03-A04-V01,BA03,2A,N,I,LEX,,,"I have the time, but I’d rather do the physiotherapy exercises at another point than before dinner.",train
+BA03-A04-V02,BA03-A04,BA03-A04-V02,BA03,2A,N,I,SYN,,,"Before dinner isn’t how I want to do the exercises, even though I have enough time.",train
+BA03-A04-V03,BA03-A04,BA03-A04-V03,BA03,2A,N,I,NAT,,,"I could fit them in, but I’d rather not do them before dinner.",train
+BA03-A04-V04,BA03-A04,BA03-A04-V04,BA03,2A,N,I,EXP,,,I’d rather not do my physiotherapy exercises before dinner.,train
+BA03-A04-V05,BA03-A04,BA03-A04-V05,BA03,2A,N,I,PRG,,,The timing isn’t the problem; I just don’t want to do the exercises before dinner.,train
+BA03-A04-V06,BA03-A04,BA03-A04-V06,BA03,2A,N,I,CMK,,,"Yeah, I have the time, but I’d rather skip the exercises before dinner.",train
+BA10-A01-V01,BA10-A01,BA10-A01-V01,BA10,2A,I,VN,LEX,,,I haven’t settled on it yet. I’ll see how my afternoon goes before deciding what to do with the exercises.,train
+BA10-A01-V02,BA10-A01,BA10-A01-V02,BA10,2A,I,VN,SYN,,,What I do with the physiotherapy exercises will depend on how the afternoon turns out.,train
+BA10-A01-V03,BA10-A01,BA10-A01-V03,BA10,2A,I,VN,NAT,,,Not sure yet. I’ll see how the afternoon goes first.,train
+BA10-A01-V04,BA10-A01,BA10-A01-V04,BA10,2A,I,VN,EXP,,,I’ll decide later whether to split the exercises into two sessions.,train
+BA10-A01-V05,BA10-A01,BA10-A01-V05,BA10,2A,I,VN,PRG,,,I’m leaving that open for now. I want to see how my day develops before deciding.,train
+BA10-A01-V06,BA10-A01,BA10-A01-V06,BA10,2A,I,VN,CMK,,,"Hmm, I haven’t decided yet. I’ll see how the afternoon goes.",train
+BA10-A02-V01,BA10-A02,BA10-A02-V01,BA10,2A,VN,I,LEX,,,"I’m not changing my physiotherapy routine, and I want you to stop asking me about it.",train
+BA10-A02-V02,BA10-A02,BA10-A02-V02,BA10,2A,VN,I,SYN,,,"My physiotherapy routine is not something I want you to keep questioning, so please stop bringing it up.",train
+BA10-A02-V03,BA10-A02,BA10-A02-V03,BA10,2A,VN,I,NAT,,,"No, I’m not doing that. Stop asking me about physiotherapy.",train
+BA10-A02-V04,BA10-A02,BA10-A02-V04,BA10,2A,VN,I,EXP,,,Stop asking me to change my physiotherapy routine.,train
+BA10-A02-V05,BA10-A02,BA10-A02-V05,BA10,2A,VN,I,PRG,,,I don’t want this kind of prompting around my physiotherapy anymore. Please leave the routine alone.,train
+BA10-A02-V06,BA10-A02,BA10-A02-V06,BA10,2A,VN,I,CMK,,,"No, seriously, stop. I don’t want you asking me to change my physiotherapy.",train
+BA10-A03-V01,BA10-A03,BA10-A03-V01,BA10,2A,I,VN,LEX,,,I’m undecided. I’ll think about how I want to handle my evening medication.,train
+BA10-A03-V02,BA10-A03,BA10-A03-V02,BA10,2A,I,VN,SYN,,,Whether I want an evening medication reminder is something I’ll decide later.,train
+BA10-A03-V03,BA10-A03,BA10-A03-V03,BA10,2A,I,VN,NAT,,,I’m not sure yet. Let me think about it.,train
+BA10-A03-V04,BA10-A03,BA10-A03-V04,BA10,2A,I,VN,EXP,,,I’ll consider what works for me with my evening medication.,train
+BA10-A03-V05,BA10-A03,BA10-A03-V05,BA10,2A,I,VN,PRG,,,I haven’t made up my mind about that. I’ll think it over before deciding.,train
+BA10-A03-V06,BA10-A03,BA10-A03-V06,BA10,2A,I,VN,CMK,,,"Hmm, I’m not sure. I’ll think about it first.",train
+BA10-A04-V01,BA10-A04,BA10-A04-V01,BA10,2A,VN,I,LEX,,,I don’t want any more medication prompts from you. Please stop offering them.,train
+BA10-A04-V02,BA10-A04,BA10-A04-V02,BA10,2A,VN,I,SYN,,,"Medication reminders are not something I want from you, so please stop suggesting them.",train
+BA10-A04-V03,BA10-A04,BA10-A04-V03,BA10,2A,VN,I,NAT,,,"No more reminders, please. I don’t want you offering medication alerts.",train
+BA10-A04-V04,BA10-A04,BA10-A04-V04,BA10,2A,VN,I,EXP,,,Stop offering medication reminders.,train
+BA10-A04-V05,BA10-A04,BA10-A04-V05,BA10,2A,VN,I,PRG,,,I don’t want this kind of prompting anymore. Please leave medication reminders out of our interactions.,train
+BA10-A04-V06,BA10-A04,BA10-A04-V06,BA10,2A,VN,I,CMK,,,"No, please stop. I don’t want any more medication reminders from you.",train
+HN08-01-V01,HN08-01,HN08-01-V01,HN08,2C,P,N,LEX,Competing Keyword,Medication,"I don’t like changing where I keep things, but fine, I’ll put my medication beside the breakfast plate.",train
+HN08-01-V02,HN08-01,HN08-01-V02,HN08,2C,P,N,NAT,Competing Keyword,Medication,"I’m not a fan of changing where I keep things, but that’s okay—I’ll put the medication beside my breakfast plate.",train
+HN08-01-V03,HN08-01,HN08-01-V03,HN08,2C,P,N,EXP,Competing Keyword,Medication,"Changing the usual spot isn’t really my preference, but I’ve decided to do it anyway and put the medication beside the breakfast plate.",train
+HN08-01-V04,HN08-01,HN08-01-V04,HN08,2C,P,N,DSC,Competing Keyword,Medication,"I’ll put my medication beside the breakfast plate. I don’t really like changing where I keep things, but I’m fine doing it this way.",train
+HN08-01-V05,HN08-01,HN08-01-V05,HN08,2C,P,N,PRG,Competing Keyword,Medication,"The change in location isn’t ideal for me, but that doesn’t stop me from following through—I’ll put the medication beside the breakfast plate.",train
+HN08-01-V06,HN08-01,HN08-01-V06,HN08,2C,P,N,CMK,Competing Keyword,Medication,"Yeah, I dislike changing the usual spot, but okay, I’ll put the medication beside the breakfast plate.",train
+HN08-02-V01,HN08-02,HN08-02-V01,HN08,2C,P,N,LEX,Competing Phrase,Hydration,"I don’t really feel like doing that, but sure, I’ll keep a water bottle on my desk today.",train
+HN08-02-V02,HN08-02,HN08-02-V02,HN08,2C,P,N,NAT,Competing Phrase,Hydration,"I’m not especially in the mood for it, but I’ll go ahead and keep a water bottle on my desk today.",train
+HN08-02-V03,HN08-02,HN08-02-V03,HN08,2C,P,N,EXP,Competing Phrase,Hydration,"I’m not particularly eager to do it, but I am willing to follow through and keep a water bottle on my desk today.",train
+HN08-02-V04,HN08-02,HN08-02-V04,HN08,2C,P,N,DSC,Competing Phrase,Hydration,"I’ll keep a water bottle on my desk today. I don’t really feel like doing it, but I’m willing to go ahead.",train
+HN08-02-V05,HN08-02,HN08-02-V05,HN08,2C,P,N,PRG,Competing Phrase,Hydration,Not feeling like it doesn’t mean I’m refusing—I’ll still keep the water bottle on my desk today.,train
+HN08-02-V06,HN08-02,HN08-02-V06,HN08,2C,P,N,CMK,Competing Phrase,Hydration,"Honestly, I don’t feel like it, but sure, I’ll keep the bottle on my desk today.",train
+HN08-03-V01,HN08-03,HN08-03-V01,HN08,2C,P,N,LEX,Misleading Opening Clause,Physiotherapy,"The living room is a little cramped, but I can make it work and do the physiotherapy exercises there.",train
+HN08-03-V02,HN08-03,HN08-03-V02,HN08,2C,P,N,NAT,Misleading Opening Clause,Physiotherapy,"The living room is kind of tight, but I can manage it and do the physiotherapy exercises there.",train
+HN08-03-V03,HN08-03,HN08-03-V03,HN08,2C,P,N,EXP,Misleading Opening Clause,Physiotherapy,"The limited space isn’t ideal, but it’s workable, and I’ll do the physiotherapy exercises there.",train
+HN08-03-V04,HN08-03,HN08-03-V04,HN08,2C,P,N,DSC,Misleading Opening Clause,Physiotherapy,"I can make it work and do the physiotherapy exercises in the living room. It’s a bit tight, but that’s manageable.",train
+HN08-03-V05,HN08-03,HN08-03-V05,HN08,2C,P,N,PRG,Misleading Opening Clause,Physiotherapy,"The space is not perfect, but that’s only a practical inconvenience—I can work with it and do the exercises there.",train
+HN08-03-V06,HN08-03,HN08-03-V06,HN08,2C,P,N,CMK,Misleading Opening Clause,Physiotherapy,"Hmm, the living room is pretty tight, but yeah, I can make it work and do the physiotherapy there.",train
+HN08-04-V01,HN08-04,HN08-04-V01,HN08,2C,N,P,LEX,Mid-Sentence Self-Correction,Medication,"Sure, I can stick to that—wait, actually, taking medication in the evening is just too exhausting right now.",train
+HN08-04-V02,HN08-04,HN08-04-V02,HN08,2C,N,P,NAT,Mid-Sentence Self-Correction,Medication,"Sure, I’ll follow the schedule—wait, actually, evenings aren’t good for me. I’d rather take the medication at a time that works for me.",train
+HN08-04-V03,HN08-04,HN08-04-V03,HN08,2C,N,P,EXP,Mid-Sentence Self-Correction,Medication,"I initially agreed to follow that schedule, but I’ve changed my mind because evenings don’t work for me. I’d rather take the medication on my own schedule.",train
+HN08-04-V04,HN08-04,HN08-04-V04,HN08,2C,N,P,DSC,Mid-Sentence Self-Correction,Medication,"I’d rather take my medication on my own schedule. I said I’d follow the plan, but actually, evenings don’t work for me.",train
+HN08-04-V05,HN08-04,HN08-04-V05,HN08,2C,N,P,PRG,Mid-Sentence Self-Correction,Medication,"The initial agreement was too quick—what matters is that the evening schedule doesn’t work for me, so I’d rather use my own timing.",train
+HN08-04-V06,HN08-04,HN08-04-V06,HN08,2C,N,P,CMK,Mid-Sentence Self-Correction,Medication,"Okay, sure, I’ll do that—no, actually, evenings don’t work for me. I’d rather take the medication on my own schedule.",train
+HN06-01-V01,HN06-01,HN06-01-V01,HN06,2C,VP,N,LEX,Competing Keyword,Medication,"I usually avoid clutter, but this is an excellent idea and I’m putting the pillbox beside the mirror right away.",train
+HN06-01-V02,HN06-01,HN06-01-V02,HN06,2C,VP,N,NAT,Competing Keyword,Medication,"I normally try to keep things uncluttered, but I really like this idea and I’m putting the pillbox beside the mirror now.",train
+HN06-01-V03,HN06-01,HN06-01-V03,HN06,2C,VP,N,EXP,Competing Keyword,Medication,"I generally avoid adding things around the house, but that preference doesn’t change my reaction—I love the idea and I’m already putting the pillbox beside the mirror.",train
+HN06-01-V04,HN06-01,HN06-01-V04,HN06,2C,VP,N,DSC,Competing Keyword,Medication,"I’m putting the pillbox beside the mirror right away. I usually avoid clutter, but this is a brilliant idea and I’m happy to do it.",train
+HN06-01-V05,HN06-01,HN06-01-V05,HN06,2C,VP,N,PRG,Competing Keyword,Medication,"Keeping things uncluttered is usually important to me, but this is one of those ideas I genuinely like, so I’m setting the pillbox beside the mirror now.",train
+HN06-01-V06,HN06-01,HN06-01-V06,HN06,2C,VP,N,CMK,Competing Keyword,Medication,"Yeah, I usually avoid clutter, but honestly, this is a great idea. I’m putting the pillbox beside the mirror right away.",train
+HN06-02-V01,HN06-02,HN06-02-V01,HN06,2C,VP,N,LEX,Competing Phrase,Hydration,"Having drinks near my computer usually makes me nervous, but I'll make an exception and keep a water bottle on my desk today.",train
+HN06-02-V02,HN06-02,HN06-02-V02,HN06,2C,VP,N,NAT,Competing Phrase,Hydration,"I usually keep drinks away from my laptop, but I’m genuinely into this plan and I’m putting the bottle on my desk now.",train
+HN06-02-V03,HN06-02,HN06-02-V03,HN06,2C,VP,N,EXP,Competing Phrase,Hydration,"Keeping drinks away from my laptop is my usual habit, but I’m very positive about this plan and I’m already putting the bottle on my desk.",train
+HN06-02-V04,HN06-02,HN06-02-V04,HN06,2C,VP,N,DSC,Competing Phrase,Hydration,"I’m putting the bottle on my desk now because I really like the plan. I don’t normally keep drinks near my laptop, but I’m happy to make an exception.",train
+HN06-02-V05,HN06-02,HN06-02-V05,HN06,2C,VP,N,PRG,Competing Phrase,Hydration,"Normally I’d keep drinks away from my laptop, but this plan makes sense to me and I’m enthusiastic enough to put the bottle on my desk now.",train
+HN06-02-V06,HN06-02,HN06-02-V06,HN06,2C,VP,N,CMK,Competing Phrase,Hydration,"Sure, I usually keep drinks away from the laptop, but I really like this plan. I’m putting the bottle on my desk now.",train
+HN06-03-V01,HN06-03,HN06-03-V01,HN06,2C,VP,N,LEX,Misleading Opening Clause,Physiotherapy,"Doing things before breakfast isn’t usually my preference, but this routine is so helpful that I’m already laying the mat out for tomorrow.",train
+HN06-03-V02,HN06-03,HN06-03-V02,HN06,2C,VP,N,NAT,Misleading Opening Clause,Physiotherapy,"I don’t usually like doing things before breakfast, but I really like this routine and I’m already getting the mat ready for tomorrow.",train
+HN06-03-V03,HN06-03,HN06-03-V03,HN06,2C,VP,N,EXP,Misleading Opening Clause,Physiotherapy,"Early-morning exercise isn’t normally my preference, but that doesn’t change how much I like this routine—I’m already laying out the mat for tomorrow.",train
+HN06-03-V04,HN06-03,HN06-03-V04,HN06,2C,VP,N,DSC,Misleading Opening Clause,Physiotherapy,"I’m already laying the mat out for tomorrow. Doing things before breakfast isn’t normally my preference, but this routine is helpful enough that I’m excited to follow it.",train
+HN06-03-V05,HN06-03,HN06-03-V05,HN06,2C,VP,N,PRG,Misleading Opening Clause,Physiotherapy,"Before-breakfast sessions usually aren’t my thing, but this routine is genuinely useful to me, so I’m getting the mat ready for tomorrow.",train
+HN06-03-V06,HN06-03,HN06-03-V06,HN06,2C,VP,N,CMK,Misleading Opening Clause,Physiotherapy,"Hmm, I’m not usually a before-breakfast person, but I really like this routine. I’m laying the mat out for tomorrow now.",train
+HN06-04-V01,HN06-04,HN06-04-V01,HN06,2C,N,VP,LEX,Mid-Sentence Self-Correction,Medication,"I’m eager to follow that plan—actually, wait, evening alarms drive me crazy, so I’d rather take my medication without one.",train
+HN06-04-V02,HN06-04,HN06-04-V02,HN06,2C,N,VP,NAT,Mid-Sentence Self-Correction,Medication,"I was ready to go along with the plan, but hold on, I really dislike evening alarms. I’d rather take the medication without one.",train
+HN06-04-V03,HN06-04,HN06-04-V03,HN06,2C,N,VP,EXP,Mid-Sentence Self-Correction,Medication,"I initially felt enthusiastic about following the plan, but I’ve changed course because evening alarms bother me. I’d prefer to take the medication without one.",train
+HN06-04-V04,HN06-04,HN06-04-V04,HN06,2C,N,VP,DSC,Mid-Sentence Self-Correction,Medication,"I’d rather take my medication without an evening alarm. I was eager to follow the plan, but actually, those alarms drive me crazy.",train
+HN06-04-V05,HN06-04,HN06-04-V05,HN06,2C,N,VP,PRG,Mid-Sentence Self-Correction,Medication,"The initial enthusiasm was about the plan in general, not the alarm itself—I don’t want an evening alarm and would rather take the medication without one.",train
+HN06-04-V06,HN06-04,HN06-04-V06,HN06,2C,N,VP,CMK,Mid-Sentence Self-Correction,Medication,"Sure, I was eager to do it—wait, no, evening alarms drive me crazy. I’d rather take the medication without one.",train
+HN09-01-V01,HN09-01,HN09-01-V01,HN09,2C,P,VN,LEX,Competing Keyword,Medication,"Normally I hate having pills anywhere near my sleep space, but fine, I'll place them next to the clock.",train
+HN09-01-V02,HN09-01,HN09-01-V02,HN09,2C,P,VN,NAT,Competing Keyword,Medication,"I’m not really a fan of keeping pills by the bed, but okay, I’ll put the pillbox beside the clock.",train
+HN09-01-V03,HN09-01,HN09-01-V03,HN09,2C,P,VN,EXP,Competing Keyword,Medication,"I don’t particularly like having pills beside my bed, but I’m still willing to put the pillbox beside the clock.",train
+HN09-01-V04,HN09-01,HN09-01-V04,HN09,2C,P,VN,DSC,Competing Keyword,Medication,"I’ll put the pillbox beside the clock. I’ve never liked keeping pills by my bed, but I’m okay with doing it this way.",train
+HN09-01-V05,HN09-01,HN09-01-V05,HN09,2C,P,VN,PRG,Competing Keyword,Medication,"Keeping pills by the bed isn’t my preference, but that doesn’t stop me from following through—I’ll put the pillbox beside the clock.",train
+HN09-01-V06,HN09-01,HN09-01-V06,HN09,2C,P,VN,CMK,Competing Keyword,Medication,"Yeah, I don’t like keeping pills by my bed, but alright, I’ll put the pillbox beside the clock.",train
+HN09-02-V01,HN09-02,HN09-02-V01,HN09,2C,P,VN,LEX,Competing Phrase,Hydration,"I absolutely detest having a cluttered workspace, however I will keep a bottle of water there.",train
+HN09-02-V02,HN09-02,HN09-02-V02,HN09,2C,P,VN,NAT,Competing Phrase,Hydration,"I’m not a fan of clutter on my desk, but sure, I’ll keep a water bottle there today.",train
+HN09-02-V03,HN09-02,HN09-02-V03,HN09,2C,P,VN,EXP,Competing Phrase,Hydration,"Having extra things on my desk bothers me, but I’m willing to keep a water bottle there today.",train
+HN09-02-V04,HN09-02,HN09-02-V04,HN09,2C,P,VN,DSC,Competing Phrase,Hydration,"I’ll keep the water bottle on my desk today. I really dislike desk clutter, but I’m fine making that exception.",train
+HN09-02-V05,HN09-02,HN09-02-V05,HN09,2C,P,VN,PRG,Competing Phrase,Hydration,"Desk clutter isn’t something I normally like, but I can live with it for this—I’ll keep the water bottle there today.",train
+HN09-02-V06,HN09-02,HN09-02-V06,HN09,2C,P,VN,CMK,Competing Phrase,Hydration,"Honestly, I hate desk clutter, but okay, I’ll keep the water bottle there today.",train
+HN09-03-V01,HN09-03,HN09-03-V01,HN09,2C,P,VN,LEX,Misleading Opening Clause,Exercise,"I’m not planning to turn this into a major routine, but yes, I’ll take the fifteen-minute walk after dinner.",train
+HN09-03-V02,HN09-03,HN09-03-V02,HN09,2C,P,VN,NAT,Misleading Opening Clause,Exercise,"I’m not looking to make a big routine out of it, but yes, I’ll take the fifteen-minute walk after dinner.",train
+HN09-03-V03,HN09-03,HN09-03-V03,HN09,2C,P,VN,EXP,Misleading Opening Clause,Exercise,"I don’t intend to make this a major long-term routine, but I am willing to do the fifteen-minute walk after dinner.",train
+HN09-03-V04,HN09-03,HN09-03-V04,HN09,2C,P,VN,DSC,Misleading Opening Clause,Exercise,"Yes, I’ll take the fifteen-minute walk after dinner. I’m not planning to make it a big routine, but I’m happy to do this one.",train
+HN09-03-V05,HN09-03,HN09-03-V05,HN09,2C,P,VN,PRG,Misleading Opening Clause,Exercise,"Making it a major routine isn’t necessary for me; for today, though, I’ll take the fifteen-minute walk after dinner.",train
+HN09-03-V06,HN09-03,HN09-03-V06,HN09,2C,P,VN,CMK,Misleading Opening Clause,Exercise,"Sure, I’m not trying to make a huge routine out of this, but yes, I’ll take the fifteen-minute walk after dinner.",train
+HN09-04-V01,HN09-04,HN09-04-V01,HN09,2C,VN,P,LEX,Mid-Sentence Self-Correction,Medication,"Alright, that seems handy—wait, no it doesn't. Stop telling me how to organize my pills.",train
+HN09-04-V02,HN09-04,HN09-04-V02,HN09,2C,VN,P,NAT,Mid-Sentence Self-Correction,Medication,"Yeah, that sounds convenient—wait, no. I’m done with these suggestions about organizing my medication, so stop telling me how to manage it.",train
+HN09-04-V03,HN09-04,HN09-04-V03,HN09,2C,VN,P,EXP,Mid-Sentence Self-Correction,Medication,"I initially agreed that it sounded convenient, but I’m withdrawing that completely. Stop telling me how to organize my medication; I’m tired of these suggestions.",train
+HN09-04-V04,HN09-04,HN09-04-V04,HN09,2C,VN,P,DSC,Mid-Sentence Self-Correction,Medication,"Stop telling me how to organize my medication. I’m sick of these suggestions. I said it sounded convenient, but actually, no, I don’t want this anymore.",train
+HN09-04-V05,HN09-04,HN09-04-V05,HN09,2C,VN,P,PRG,Mid-Sentence Self-Correction,Medication,The initial agreement doesn’t stand—I’m ending this discussion about how I organize my medication. Stop giving me these suggestions.,train
+HN09-04-V06,HN09-04,HN09-04-V06,HN09,2C,VN,P,CMK,Mid-Sentence Self-Correction,Medication,"Sure, sounds convenient—no, actually, stop. I’m sick of these medication suggestions, so leave it alone.",train
+HN02-01-V01,HN02-01,HN02-01-V01,HN02,2C,P,I,LEX,Competing Keyword,Medication,"Maybe it is worth doing, but either way, I’ll put the pillbox beside my toothbrush tonight.",train
+HN02-01-V02,HN02-01,HN02-01-V02,HN02,2C,P,I,NAT,Competing Keyword,Medication,"Maybe it’s a good idea, I guess, but I’ll still put the pillbox beside my toothbrush tonight.",train
+HN02-01-V03,HN02-01,HN02-01-V03,HN02,2C,P,I,EXP,Competing Keyword,Medication,"I’m not completely sure whether it’s a good idea, but I’ve decided what I’ll do: I’ll put the pillbox beside my toothbrush tonight.",train
+HN02-01-V04,HN02-01,HN02-01-V04,HN02,2C,P,I,DSC,Competing Keyword,Medication,"I’ll put the pillbox beside my toothbrush tonight. Maybe it’s a good idea, maybe not, but I’m going to do that.",train
+HN02-01-V05,HN02-01,HN02-01-V05,HN02,2C,P,I,PRG,Competing Keyword,Medication,"Whether it’s actually a good idea or not, I’ll follow through and put the pillbox beside my toothbrush tonight.",train
+HN02-01-V06,HN02-01,HN02-01-V06,HN02,2C,P,I,CMK,Competing Keyword,Medication,"Maybe, sure—but I’ll put the pillbox beside my toothbrush tonight.",train
+HN02-02-V01,HN02-02,HN02-02-V01,HN02,2C,P,I,LEX,Competing Phrase,Exercise,"That might work, I suppose, but I’ll go ahead and take the walk after lunch today.",train
+HN02-02-V02,HN02-02,HN02-02-V02,HN02,2C,P,I,NAT,Competing Phrase,Exercise,"I guess that could work, though I’m not making a big deal of it; I’ll take the walk after lunch today.",train
+HN02-02-V03,HN02-02,HN02-02-V03,HN02,2C,P,I,EXP,Competing Phrase,Exercise,"That could work, even if I’m not completely convinced yet. I’ll still go ahead and take the walk after lunch today.",train
+HN02-02-V04,HN02-02,HN02-02-V04,HN02,2C,P,I,DSC,Competing Phrase,Exercise,"I’ll take the walk after lunch today. That could work, I suppose, even though I’m not especially certain about it.",train
+HN02-02-V05,HN02-02,HN02-02-V05,HN02,2C,P,I,PRG,Competing Phrase,Exercise,Call it something that could work if you like; I’m still going ahead with the walk after lunch today.,train
+HN02-02-V06,HN02-02,HN02-02-V06,HN02,2C,P,I,CMK,Competing Phrase,Exercise,"Yeah, I suppose so—but I’ll go ahead and take the walk after lunch today.",train
+HN02-03-V01,HN02-03,HN02-03-V01,HN02,2C,P,I,LEX,Misleading Opening Clause,Physiotherapy,"I’m still thinking about the exact setup, but I’ll unroll the mat in the living room today.",train
+HN02-03-V02,HN02-03,HN02-03-V02,HN02,2C,P,I,NAT,Misleading Opening Clause,Physiotherapy,"I haven’t settled on all the details yet, but I will unroll the mat in the living room today.",train
+HN02-03-V03,HN02-03,HN02-03-V03,HN02,2C,P,I,EXP,Misleading Opening Clause,Physiotherapy,"I’m still deciding how I want the space arranged, but the action itself is clear: I’ll unroll the mat in the living room today.",train
+HN02-03-V04,HN02-03,HN02-03-V04,HN02,2C,P,I,DSC,Misleading Opening Clause,Physiotherapy,"I’ll unroll the mat in the living room today. I’m still thinking through the overall setup, but that part is decided.",train
+HN02-03-V05,HN02-03,HN02-03-V05,HN02,2C,P,I,PRG,Misleading Opening Clause,Physiotherapy,"The overall layout can wait—I’m still considering that, but I’ll unroll the mat in the living room today.",train
+HN02-03-V06,HN02-03,HN02-03-V06,HN02,2C,P,I,CMK,Misleading Opening Clause,Physiotherapy,"Hmm, I’m still figuring out the setup, but yes, I’ll unroll the mat in the living room today.",train
+HN02-04-V01,HN02-04,HN02-04-V01,HN02,2C,I,P,LEX,Mid-Sentence Self-Correction,Hydration,"Sure, I can put a bottle right—actually, wait, I haven’t decided whether I want water sitting on my desk today.",train
+HN02-04-V02,HN02-04,HN02-04-V02,HN02,2C,I,P,NAT,Mid-Sentence Self-Correction,Hydration,"Sure, I could put a bottle there—no, actually, I’m still undecided about having water cluttering my desk today.",train
+HN02-04-V03,HN02-04,HN02-04-V03,HN02,2C,I,P,EXP,Mid-Sentence Self-Correction,Hydration,"I started to say I’d put a bottle on my desk, but I changed my mind mid-thought. I haven’t decided whether I want it there today.",train
+HN02-04-V04,HN02-04,HN02-04-V04,HN02,2C,I,P,DSC,Mid-Sentence Self-Correction,Hydration,"I haven’t decided whether I want water on my desk today. I was about to say I’d put a bottle there, but actually, I’m still considering it.",train
+HN02-04-V05,HN02-04,HN02-04-V05,HN02,2C,I,P,PRG,Mid-Sentence Self-Correction,Hydration,"Putting a bottle there sounds possible, but that isn’t a decision yet—I’m still undecided about doing it today.",train
+HN02-04-V06,HN02-04,HN02-04-V06,HN02,2C,I,P,CMK,Mid-Sentence Self-Correction,Hydration,"Sure—well, actually, maybe not. I haven’t decided if I want water cluttering my desk today.",train
+HN05-01-V01,HN05-01,HN05-01-V01,HN05,2C,VP,I,LEX,Competing Keyword,Medication,"Maybe someone else would hesitate, but I’m delighted with this idea and I’m putting the medication beside my breakfast bowl right now.",train
+HN05-01-V02,HN05-01,HN05-01-V02,HN05,2C,VP,I,NAT,Competing Keyword,Medication,"Some people might hesitate, but I’m genuinely excited about this and I’m setting the medication beside my breakfast bowl now.",train
+HN05-01-V03,HN05-01,HN05-01-V03,HN05,2C,VP,I,EXP,Competing Keyword,Medication,"Maybe hesitation would make sense for someone else, but I’m genuinely excited about the idea and I’m already putting the medication beside my breakfast bowl.",train
+HN05-01-V04,HN05-01,HN05-01-V04,HN05,2C,VP,I,DSC,Competing Keyword,Medication,"I’m setting the medication beside my breakfast bowl right now. Maybe someone else would hesitate, but I’m thrilled with the idea.",train
+HN05-01-V05,HN05-01,HN05-01-V05,HN05,2C,VP,I,PRG,Competing Keyword,Medication,Whether someone else might hesitate isn’t how I feel about it—I’m genuinely excited and I’m already setting the medication beside my breakfast bowl.,train
+HN05-01-V06,HN05-01,HN05-01-V06,HN05,2C,VP,I,CMK,Competing Keyword,Medication,"Maybe, sure, someone else would hesitate—but I’m actually thrilled about it and I’m putting the medication beside my breakfast bowl now.",train
+HN05-02-V01,HN05-02,HN05-02-V01,HN05,2C,VP,I,LEX,Competing Phrase,Exercise,"It’s one option among several, sure, but honestly I’m really excited about it and I’m lacing up my shoes now.",train
+HN05-02-V02,HN05-02,HN05-02-V02,HN05,2C,VP,I,NAT,Competing Phrase,Exercise,"It’s just one possibility, I know, but I’m genuinely excited about it and I’m already putting my shoes on.",train
+HN05-02-V03,HN05-02,HN05-02-V03,HN05,2C,VP,I,EXP,Competing Phrase,Exercise,"It may be one possibility among many, but that doesn’t capture my reaction—I’m very excited about it and I’m lacing up my shoes right now.",train
+HN05-02-V04,HN05-02,HN05-02-V04,HN05,2C,VP,I,DSC,Competing Phrase,Exercise,"I’m lacing up my shoes now because I’m genuinely excited to do it. It’s one possibility among many, sure, but I’m going ahead.",train
+HN05-02-V05,HN05-02,HN05-02-V05,HN05,2C,VP,I,PRG,Competing Phrase,Exercise,Calling it just one possibility understates my response—I’m excited about it and I’m already getting ready to exercise.,train
+HN05-02-V06,HN05-02,HN05-02-V06,HN05,2C,VP,I,CMK,Competing Phrase,Exercise,"Sure, it’s one option—but honestly, I’m super excited about it. I’m putting my shoes on now.",train
+HN05-03-V01,HN05-03,HN05-03-V01,HN05,2C,VP,I,LEX,Misleading Opening Clause,Physiotherapy,"I haven’t settled on the room layout, but I absolutely love the physiotherapy routine and I’m unrolling the mat right away.",train
+HN05-03-V02,HN05-03,HN05-03-V02,HN05,2C,VP,I,NAT,Misleading Opening Clause,Physiotherapy,"I’m still figuring out where everything should go, but I really love this physiotherapy routine and I’m getting the mat out now.",train
+HN05-03-V03,HN05-03,HN05-03-V03,HN05,2C,VP,I,EXP,Misleading Opening Clause,Physiotherapy,"The room setup is still undecided, but my reaction to the routine is clear—I absolutely love it and I’m already unrolling the mat.",train
+HN05-03-V04,HN05-03,HN05-03-V04,HN05,2C,VP,I,DSC,Misleading Opening Clause,Physiotherapy,"I absolutely love the physiotherapy routine and I’m unrolling the mat immediately. I haven’t decided on the room layout yet, but that doesn’t change my enthusiasm.",train
+HN05-03-V05,HN05-03,HN05-03-V05,HN05,2C,VP,I,PRG,Misleading Opening Clause,Physiotherapy,The room layout can be figured out later; what matters is that I love this routine and I’m already getting the mat ready.,train
+HN05-03-V06,HN05-03,HN05-03-V06,HN05,2C,VP,I,CMK,Misleading Opening Clause,Physiotherapy,"Hmm, I’m still working out the room layout, but I absolutely love the routine. I’m unrolling the mat now.",train
+HN05-04-V01,HN05-04,HN05-04-V01,HN05,2C,I,VP,LEX,Mid-Sentence Self-Correction,Medication,"I’ll take the evening medication right away tonight—actually, hold on, I haven’t decided whether that timing works for me.",train
+HN05-04-V02,HN05-04,HN05-04-V02,HN05,2C,I,VP,NAT,Mid-Sentence Self-Correction,Medication,"I was about to say I’d take the evening medication tonight, but wait, I’m still not sure that timing works for me.",train
+HN05-04-V03,HN05-04,HN05-04-V03,HN05,2C,I,VP,EXP,Mid-Sentence Self-Correction,Medication,"I started to commit to taking the medication tonight, but I need to correct that—I haven’t decided whether that time works for me yet.",train
+HN05-04-V04,HN05-04,HN05-04-V04,HN05,2C,I,VP,DSC,Mid-Sentence Self-Correction,Medication,"I haven’t decided whether taking it at that time works for me. I was going to say I’d take the evening medication immediately, but actually, I’m still considering it.",train
+HN05-04-V05,HN05-04,HN05-04-V05,HN05,2C,I,VP,PRG,Mid-Sentence Self-Correction,Medication,The initial ‘I’ll take it tonight’ was premature—I’m still deciding whether that timing works for me.,train
+HN05-04-V06,HN05-04,HN05-04-V06,HN05,2C,I,VP,CMK,Mid-Sentence Self-Correction,Medication,"Sure, I’ll take it tonight—wait, actually, maybe not. I haven’t decided if that timing works for me.",train
+HN07-01-V01,HN07-01,HN07-01-V01,HN07,2C,VP,VN,LEX,Competing Keyword,Medication,"I never expected to like this idea, but it’s excellent and I’m putting the medication dispenser beside the coffee maker right now.",train
+HN07-01-V02,HN07-01,HN07-01-V02,HN07,2C,VP,VN,NAT,Competing Keyword,Medication,"I honestly didn’t think I’d like the idea, but I really love it and I’m putting the medication dispenser beside the coffee maker now.",train
+HN07-01-V03,HN07-01,HN07-01-V03,HN07,2C,VP,VN,EXP,Competing Keyword,Medication,"I was surprised by how much I liked the idea, and I’m acting on that reaction now by putting the medication dispenser beside the coffee maker.",train
+HN07-01-V04,HN07-01,HN07-01-V04,HN07,2C,VP,VN,DSC,Competing Keyword,Medication,"I’m putting the medication dispenser beside the coffee maker right now. I never expected to like the idea, but it’s actually fantastic.",train
+HN07-01-V05,HN07-01,HN07-01-V05,HN07,2C,VP,VN,PRG,Competing Keyword,Medication,"My initial expectation was that I wouldn’t like it, but that changed completely—I think it’s fantastic and I’m already setting up the dispenser.",train
+HN07-01-V06,HN07-01,HN07-01-V06,HN07,2C,VP,VN,CMK,Competing Keyword,Medication,"Really, I didn’t expect to like it—but I do. It’s fantastic, and I’m putting the medication dispenser beside the coffee maker now.",train
+HN07-02-V01,HN07-02,HN07-02-V01,HN07,2C,VP,VN,LEX,Competing Phrase,Hydration,"I really dislike clutter around my workspace, but this idea is excellent and I’m filling the bottle right now.",train
+HN07-02-V02,HN07-02,HN07-02-V02,HN07,2C,VP,VN,NAT,Competing Phrase,Hydration,"I normally hate having extra things around my workspace, but I genuinely love this idea and I’m filling the bottle now.",train
+HN07-02-V03,HN07-02,HN07-02-V03,HN07,2C,VP,VN,EXP,Competing Phrase,Hydration,"Workspace clutter is usually something I strongly dislike, but that doesn’t change my reaction to this plan—I’m excited about it and already filling the bottle.",train
+HN07-02-V04,HN07-02,HN07-02-V04,HN07,2C,VP,VN,DSC,Competing Phrase,Hydration,"I’m filling the bottle right now because I really like this idea. I absolutely dislike workspace clutter, but I’m happy to make this exception.",train
+HN07-02-V05,HN07-02,HN07-02-V05,HN07,2C,VP,VN,PRG,Competing Phrase,Hydration,"Even though clutter around my workspace normally bothers me, this idea is genuinely appealing to me, so I’m filling the bottle and getting started.",train
+HN07-02-V06,HN07-02,HN07-02-V06,HN07,2C,VP,VN,CMK,Competing Phrase,Hydration,"Yeah, I hate clutter around my workspace, but honestly, this is a game changer. I’m filling the bottle right now.",train
+HN07-03-V01,HN07-03,HN07-03-V01,HN07,2C,VP,VN,LEX,Misleading Opening Clause,Exercise,"Hold on—that is actually a brilliant suggestion, and I’m putting on my shoes to take the walk now.",train
+HN07-03-V02,HN07-03,HN07-03-V02,HN07,2C,VP,VN,NAT,Misleading Opening Clause,Exercise,"Wait a second—that’s actually a fantastic suggestion, and I’m already putting my shoes on for the walk.",train
+HN07-03-V03,HN07-03,HN07-03-V03,HN07,2C,VP,VN,EXP,Misleading Opening Clause,Exercise,"I initially reacted as though I wanted to stop the conversation, but the suggestion is genuinely brilliant, and I’m getting ready to take the walk now.",train
+HN07-03-V04,HN07-03,HN07-03-V04,HN07,2C,VP,VN,DSC,Misleading Opening Clause,Exercise,"I’m putting on my shoes to take the walk now. Stop right there? Actually, no—the suggestion is brilliant and I’m excited to do it.",train
+HN07-03-V05,HN07-03,HN07-03-V05,HN07,2C,VP,VN,PRG,Misleading Opening Clause,Exercise,"My first reaction sounded like I wanted to stop, but that isn’t my actual response—I think the suggestion is brilliant and I’m already getting ready.",train
+HN07-03-V06,HN07-03,HN07-03-V06,HN07,2C,VP,VN,CMK,Misleading Opening Clause,Exercise,"Wait, stop—well, actually, this is brilliant. I’m putting my shoes on and taking the walk now.",train
+HN07-04-V01,HN07-04,HN07-04-V01,HN07,2C,VN,VP,LEX,Mid-Sentence Self-Correction,Medication,"I’ll organize my medication that way today—no, forget that. Stop telling me how to manage it; I’m completely fed up with these suggestions.",train
+HN07-04-V02,HN07-04,HN07-04-V02,HN07,2C,VN,VP,NAT,Mid-Sentence Self-Correction,Medication,"I was going to organize it that way, but no, I’m done with that. Stop telling me how to manage my medication—I’m fed up with these suggestions.",train
+HN07-04-V03,HN07-04,HN07-04-V03,HN07,2C,VN,VP,EXP,Mid-Sentence Self-Correction,Medication,"I initially said I would follow the plan, but I’m withdrawing that completely. Stop directing me about my medication; I don’t want these suggestions anymore.",train
+HN07-04-V04,HN07-04,HN07-04-V04,HN07,2C,VN,VP,DSC,Mid-Sentence Self-Correction,Medication,"Stop telling me how to manage my medication. I’m completely fed up with these suggestions. I was going to organize it that way, but no, I’m done with it.",train
+HN07-04-V05,HN07-04,HN07-04-V05,HN07,2C,VN,VP,PRG,Mid-Sentence Self-Correction,Medication,The initial agreement is withdrawn—I’m ending the discussion about how I manage my medication. Stop giving me these suggestions.,train
+HN07-04-V06,HN07-04,HN07-04-V06,HN07,2C,VN,VP,CMK,Mid-Sentence Self-Correction,Medication,"Sure, I’ll organize it that way—no, actually, stop. I’m completely fed up with these medication suggestions.",train
+HN03-01-V01,HN03-01,HN03-01-V01,HN03,2C,I,N,LEX,Competing Keyword,Medication,"I’m not opposed to taking the medication, but I’m still deciding whether this timing works with my schedule.",train
+HN03-01-V02,HN03-01,HN03-01-V02,HN03,2C,I,N,NAT,Competing Keyword,Medication,I’m not really against taking it; I just haven’t decided whether this time fits my schedule.,train
+HN03-01-V03,HN03-01,HN03-01-V03,HN03,2C,I,N,EXP,Competing Keyword,Medication,"I don’t have a problem with taking the medication itself, but I’m still weighing whether I can fit this timing into my schedule.",train
+HN03-01-V04,HN03-01,HN03-01-V04,HN03,2C,I,N,DSC,Competing Keyword,Medication,"I’m still deciding whether this timing works with my schedule. I’m not against taking the medication, but I haven’t settled on it yet.",train
+HN03-01-V05,HN03-01,HN03-01-V05,HN03,2C,I,N,PRG,Competing Keyword,Medication,Whether I’m against it isn’t really the issue; I’m simply still deciding if this timing makes sense for my schedule.,train
+HN03-01-V06,HN03-01,HN03-01-V06,HN03,2C,I,N,CMK,Competing Keyword,Medication,"No, I’m not against taking it or anything—I’m just still figuring out whether this timing works for me.",train
+HN03-02-V01,HN03-02,HN03-02-V01,HN03,2C,I,N,LEX,Competing Phrase,Exercise,"I wouldn’t say I dislike walking, but I’m only weighing whether a walk after lunch fits my plans today.",train
+HN03-02-V02,HN03-02,HN03-02-V02,HN03,2C,I,N,NAT,Competing Phrase,Exercise,It’s not that I dislike walking; I’m just trying to decide whether after lunch works for me today.,train
+HN03-02-V03,HN03-02,HN03-02-V03,HN03,2C,I,N,EXP,Competing Phrase,Exercise,"I don’t really have anything against walking, but I haven’t decided whether taking a walk after lunch fits into today’s plans.",train
+HN03-02-V04,HN03-02,HN03-02-V04,HN03,2C,I,N,DSC,Competing Phrase,Exercise,I’m still weighing whether after lunch fits my plans today. I wouldn’t say I dislike walking; I just haven’t decided on the timing.,train
+HN03-02-V05,HN03-02,HN03-02-V05,HN03,2C,I,N,PRG,Competing Phrase,Exercise,Disliking walking isn’t the issue—I’m simply considering whether after lunch is a workable time today.,train
+HN03-02-V06,HN03-02,HN03-02-V06,HN03,2C,I,N,CMK,Competing Phrase,Exercise,"Not really, I don’t dislike walking. I’m just thinking about whether after lunch fits my plans today.",train
+HN03-03-V01,HN03-03,HN03-03-V01,HN03,2C,I,N,LEX,Misleading Opening Clause,Physiotherapy,"The hallway is a little narrow, but I haven’t ruled out doing the physiotherapy there; I’ll decide later.",train
+HN03-03-V02,HN03-03,HN03-03-V02,HN03,2C,I,N,NAT,Misleading Opening Clause,Physiotherapy,"The hallway is kind of tight, although I’m not ruling out doing the exercises there. I’ll figure it out later.",train
+HN03-03-V03,HN03-03,HN03-03-V03,HN03,2C,I,N,EXP,Misleading Opening Clause,Physiotherapy,"The narrow hallway could make the setup awkward, but I haven’t rejected the idea of doing physiotherapy there; I’ll decide later.",train
+HN03-03-V04,HN03-03,HN03-03-V04,HN03,2C,I,N,DSC,Misleading Opening Clause,Physiotherapy,"I haven’t ruled out doing the physiotherapy in the hallway. It is somewhat narrow, though, so I’ll decide later.",train
+HN03-03-V05,HN03-03,HN03-03-V05,HN03,2C,I,N,PRG,Misleading Opening Clause,Physiotherapy,"The hallway being narrow is a consideration, not a refusal—I’m still leaving the option open and will decide later.",train
+HN03-03-V06,HN03-03,HN03-03-V06,HN03,2C,I,N,CMK,Misleading Opening Clause,Physiotherapy,"Hmm, the hallway is pretty narrow, but I haven’t ruled it out. I’ll see later.",train
+HN03-04-V01,HN03-04,HN03-04-V01,HN03,2C,N,I,LEX,Mid-Sentence Self-Correction,Hydration,"A bottle on the desk might be fine—actually, no, I’d rather keep my desk clear and get water from the kitchen.",train
+HN03-04-V02,HN03-04,HN03-04-V02,HN03,2C,N,I,NAT,Mid-Sentence Self-Correction,Hydration,"I was thinking a bottle on the desk could work, but actually I’d rather keep the desk clear and get my water from the kitchen.",train
+HN03-04-V03,HN03-04,HN03-04-V03,HN03,2C,N,I,EXP,Mid-Sentence Self-Correction,Hydration,"I initially considered putting a bottle on the desk, but I’ve decided against that because I’d rather keep the desk clear and get water from the kitchen.",train
+HN03-04-V04,HN03-04,HN03-04-V04,HN03,2C,N,I,DSC,Mid-Sentence Self-Correction,Hydration,"I’d rather keep my desk clear and get water from the kitchen instead. A bottle on the desk might have worked, but no, I don’t want it there.",train
+HN03-04-V05,HN03-04,HN03-04-V05,HN03,2C,N,I,PRG,Mid-Sentence Self-Correction,Hydration,"The desk option sounds possible at first, but it’s not what I want—I’d rather keep the desk clear and get water from the kitchen.",train
+HN03-04-V06,HN03-04,HN03-04-V06,HN03,2C,N,I,CMK,Mid-Sentence Self-Correction,Hydration,"Sure, a bottle could go there—actually, no, I’d rather keep my desk clear and get water from the kitchen.",train
+HN01-01-V01,HN01-01,HN01-01-V01,HN01,2C,VP,P,LEX,Competing Keyword,Hydration,"Okay is enough to describe the idea, but I’m genuinely excited to put this bottle beside me and start drinking regularly.",train
+HN01-01-V02,HN01-01,HN01-01-V02,HN01,2C,VP,P,NAT,Competing Keyword,Hydration,"‘Okay’ is fair, but honestly I’m really excited to get this bottle ready and make regular drinking part of my day.",train
+HN01-01-V03,HN01-01,HN01-01-V03,HN01,2C,VP,P,EXP,Competing Keyword,Hydration,"Okay, I get the point, but I’m genuinely excited about this and I’m filling the bottle now so I can keep drinking throughout the day.",train
+HN01-01-V04,HN01-01,HN01-01-V04,HN01,2C,VP,P,DSC,Competing Keyword,Hydration,I’m genuinely excited to start drinking regularly and get the bottle ready right now; ‘okay’ barely captures how motivated I feel about it.,train
+HN01-01-V05,HN01-01,HN01-01-V05,HN01,2C,VP,P,PRG,Competing Keyword,Hydration,"If ‘okay’ is all you hear, you’re missing the main point—I’m actually excited enough to get the bottle ready and start right away.",train
+HN01-01-V06,HN01-01,HN01-01-V06,HN01,2C,VP,P,CMK,Competing Keyword,Hydration,"Okay, sure—but I’m honestly excited about this. I’m getting the bottle ready now and I want to keep up the habit.",train
+HN01-02-V01,HN01-02,HN01-02-V01,HN01,2C,VP,P,LEX,Competing Keyword,Exercise,"I’ll do it, although I wouldn’t call it just a simple chore; I’m really looking forward to getting outside and starting today.",train
+HN01-02-V02,HN01-02,HN01-02-V02,HN01,2C,VP,P,NAT,Competing Keyword,Exercise,"I’ll do it, even if ‘chore’ sounds a bit ordinary—I’m actually looking forward to getting outside and starting today.",train
+HN01-02-V03,HN01-02,HN01-02-V03,HN01,2C,VP,P,EXP,Competing Keyword,Exercise,"I’ll do it, but calling it a routine chore misses how I feel about it—I’m genuinely looking forward to getting outside and exercising today.",train
+HN01-02-V04,HN01-02,HN01-02-V04,HN01,2C,VP,P,DSC,Competing Keyword,Exercise,"I’m really looking forward to getting outside and starting today. I’ll do it, even though calling it a chore would make it sound too ordinary.",train
+HN01-02-V05,HN01-02,HN01-02-V05,HN01,2C,VP,P,PRG,Competing Keyword,Exercise,"If you take ‘chore’ as the important part, that’s not really my reaction—I’m looking forward to getting outside and starting.",train
+HN01-02-V06,HN01-02,HN01-02-V06,HN01,2C,VP,P,CMK,Competing Keyword,Exercise,"I’ll do it, sure, but honestly I’m looking forward to getting outside and getting started today.",train
+HN01-03-V01,HN01-03,HN01-03-V01,HN01,2C,VP,P,LEX,Competing Keyword,Physiotherapy,"It may seem ordinary at first, but I actually love this approach and I’m laying out the exercise mat right now.",train
+HN01-03-V02,HN01-03,HN01-03-V02,HN01,2C,VP,P,NAT,Competing Keyword,Physiotherapy,"‘Nothing special’ might be the first impression, but I genuinely love this approach and I’m getting the mat ready now.",train
+HN01-03-V03,HN01-03,HN01-03-V03,HN01,2C,VP,P,EXP,Competing Keyword,Physiotherapy,"It looks ordinary on the surface, but I really like this approach and I’m already setting up the mat to begin.",train
+HN01-03-V04,HN01-03,HN01-03-V04,HN01,2C,VP,P,DSC,Competing Keyword,Physiotherapy,"I actually love this approach and I’m laying out the mat right now, even if it might look like nothing special at first.",train
+HN01-03-V05,HN01-03,HN01-03-V05,HN01,2C,VP,P,PRG,Competing Keyword,Physiotherapy,Don’t let ‘ordinary’ be the takeaway—I really like this approach and I’m already getting the mat ready.,train
+HN01-03-V06,HN01-03,HN01-03-V06,HN01,2C,VP,P,CMK,Competing Keyword,Physiotherapy,"Nothing special, maybe, but honestly I really like it. I’m laying out the mat and getting started now.",train
+HN01-04-V01,HN01-04,HN01-04-V01,HN01,2C,P,VP,LEX,Competing Keyword with Self-Correction,Hydration,"I was going to set up a detailed tracking log for every glass—actually, forget that; I’ll drink the water after each meal.",train
+HN01-04-V02,HN01-04,HN01-04-V02,HN01,2C,P,VP,NAT,Competing Keyword with Self-Correction,Hydration,"I thought I’d need a whole tracking sheet for every glass, but never mind that—I’ll just drink water after each meal.",train
+HN01-04-V03,HN01-04,HN01-04-V03,HN01,2C,P,VP,EXP,Competing Keyword with Self-Correction,Hydration,"I was about to make a detailed log, but that’s unnecessary. I’ll keep it simple and drink the water after each meal.",train
+HN01-04-V04,HN01-04,HN01-04-V04,HN01,2C,P,VP,DSC,Competing Keyword with Self-Correction,Hydration,"I’ll just drink the water after each meal. I was going to make a tracking log for every glass, but actually, I don’t need to do that.",train
+HN01-04-V05,HN01-04,HN01-04-V05,HN01,2C,P,VP,PRG,Competing Keyword with Self-Correction,Hydration,"The tracking part sounded like too much, but that’s not what matters—I’ll keep it simple and drink water after each meal.",train
+HN01-04-V06,HN01-04,HN01-04-V06,HN01,2C,P,VP,CMK,Competing Keyword with Self-Correction,Hydration,"Right, I was thinking of tracking every glass—no, never mind. I’ll just have the water after each meal.",train
+HN04-01-V01,HN04-01,HN04-01-V01,HN04,2C,N,VN,LEX,Competing Keyword,Medication,"I reacted strongly because I really dislike morning routines, but I’d rather take my medication at night instead.",train
+HN04-01-V02,HN04-01,HN04-01-V02,HN04,2C,N,VN,NAT,Competing Keyword,Medication,"Morning routines really get on my nerves, but I’m fine taking my medication at night instead.",train
+HN04-01-V03,HN04-01,HN04-01-V03,HN04,2C,N,VN,EXP,Competing Keyword,Medication,"I really hate having medication tied to a morning routine, but I’m not rejecting it altogether—I’d prefer to take it at night.",train
+HN04-01-V04,HN04-01,HN04-01-V04,HN04,2C,N,VN,DSC,Competing Keyword,Medication,"I’d rather take my medication at night instead. I reacted strongly because I hate morning routines, but the nighttime option works for me.",train
+HN04-01-V05,HN04-01,HN04-01-V05,HN04,2C,N,VN,PRG,Competing Keyword,Medication,"The morning routine is what I object to, not the medication itself—I’d prefer to take it at night instead.",train
+HN04-01-V06,HN04-01,HN04-01-V06,HN04,2C,N,VN,CMK,Competing Keyword,Medication,"Honestly, I hate morning routines, but yeah, I’d rather take the medication at night.",train
+HN04-02-V01,HN04-02,HN04-02-V01,HN04,2C,N,VN,LEX,Competing Phrase,Exercise,"I want nothing to do with going outside right now, but I’m fine doing some light stretching indoors later.",train
+HN04-02-V02,HN04-02,HN04-02-V02,HN04,2C,N,VN,NAT,Competing Phrase,Exercise,"I really don’t want to go outside right now, though I’d be okay doing some light stretching indoors later.",train
+HN04-02-V03,HN04-02,HN04-02-V03,HN04,2C,N,VN,EXP,Competing Phrase,Exercise,"I’m completely against going outside right now, but I’m not rejecting exercise—I’m willing to do some light stretching indoors later.",train
+HN04-02-V04,HN04-02,HN04-02-V04,HN04,2C,N,VN,DSC,Competing Phrase,Exercise,I’m fine doing some light stretching indoors later. I just don’t want to go outside right now.,train
+HN04-02-V05,HN04-02,HN04-02-V05,HN04,2C,N,VN,PRG,Competing Phrase,Exercise,"Going outside is a hard no for me right now, but an indoor alternative would be fine—I can do some light stretching later.",train
+HN04-02-V06,HN04-02,HN04-02-V06,HN04,2C,N,VN,CMK,Competing Phrase,Exercise,"No way I’m going outside right now, but sure, I can do some light stretching indoors later.",train
+HN04-03-V01,HN04-03,HN04-03-V01,HN04,2C,N,VN,LEX,Misleading Opening Clause,Physiotherapy,Stop telling me what to do with my mat; I’m just not in the mood for physiotherapy right now. Let’s talk later.,train
+HN04-03-V02,HN04-03,HN04-03-V02,HN04,2C,N,VN,NAT,Misleading Opening Clause,Physiotherapy,"Please stop directing me about the mat. I’m not really in the mood for physiotherapy right now, so let’s revisit it later.",train
+HN04-03-V03,HN04-03,HN04-03-V03,HN04,2C,N,VN,EXP,Misleading Opening Clause,Physiotherapy,"I don’t want instructions about the mat right now, and I’m not up for physiotherapy at the moment. We can talk about it later.",train
+HN04-03-V04,HN04-03,HN04-03-V04,HN04,2C,N,VN,DSC,Misleading Opening Clause,Physiotherapy,"Let’s talk later. I’m not in the mood for physiotherapy right now, so stop telling me what to do with the mat.",train
+HN04-03-V05,HN04-03,HN04-03-V05,HN04,2C,N,VN,PRG,Misleading Opening Clause,Physiotherapy,"The issue is the timing and being directed right now, not the entire idea—I’m not up for physiotherapy at the moment. Let’s discuss it later.",train
+HN04-03-V06,HN04-03,HN04-03-V06,HN04,2C,N,VN,CMK,Misleading Opening Clause,Physiotherapy,"Come on, stop telling me what to do with the mat. I’m just not in the mood for physiotherapy right now—we can talk later.",train
+HN04-04-V01,HN04-04,HN04-04-V01,HN04,2C,VN,N,LEX,Mid-Sentence Self-Correction,Hydration,"I might look for a bottle later—actually, forget it. Stop monitoring my water intake; I’m completely done with this topic.",train
+HN04-04-V02,HN04-04,HN04-04-V02,HN04,2C,VN,N,NAT,Mid-Sentence Self-Correction,Hydration,"I was thinking I might get a bottle later, but no, forget it. Stop monitoring my water intake—I’m sick of discussing this.",train
+HN04-04-V03,HN04-04,HN04-04-V03,HN04,2C,VN,N,EXP,Mid-Sentence Self-Correction,Hydration,"I started by considering getting a bottle, but I’m rejecting the whole direction now. Stop monitoring my water intake; I don’t want this topic brought up again.",train
+HN04-04-V04,HN04-04,HN04-04-V04,HN04,2C,VN,N,DSC,Mid-Sentence Self-Correction,Hydration,Forget the bottle. I’m completely done with this topic. Stop monitoring my water intake—I don’t want to discuss it anymore.,train
+HN04-04-V05,HN04-04,HN04-04-V05,HN04,2C,VN,N,PRG,Mid-Sentence Self-Correction,Hydration,The possibility of getting a bottle is no longer the point—I’m done with the entire discussion about my water intake. Stop bringing it up.,train
+HN04-04-V06,HN04-04,HN04-04-V06,HN04,2C,VN,N,CMK,Mid-Sentence Self-Correction,Hydration,"Maybe later—no, actually, forget it. I’m done with this water topic, so stop monitoring my intake.",train
+HN10-01-V01,HN10-01,HN10-01-V01,HN10,2C,I,VN,LEX,Competing Keyword,Medication,"Don't act like that's my only choice; it could work, but I'll make up my own mind.",train
+HN10-01-V02,HN10-01,HN10-01-V02,HN10,2C,I,VN,NAT,Competing Keyword,Medication,"Don’t assume that’s my only choice. It could work, but I’m still deciding whether I want to keep the medication there.",train
+HN10-01-V03,HN10-01,HN10-01-V03,HN10,2C,I,VN,EXP,Competing Keyword,Medication,"I disagree with treating that as the only option, but I haven’t rejected it—I’m still considering whether I want to keep the medication there.",train
+HN10-01-V04,HN10-01,HN10-01-V04,HN10,2C,I,VN,DSC,Competing Keyword,Medication,"I’m still considering whether I want to keep the medication there. Stop assuming that’s the only option, but I haven’t decided against it.",train
+HN10-01-V05,HN10-01,HN10-01-V05,HN10,2C,I,VN,PRG,Competing Keyword,Medication,"Calling it the only option is what I object to; the actual choice is still open, and I’m considering whether to keep the medication there.",train
+HN10-01-V06,HN10-01,HN10-01-V06,HN10,2C,I,VN,CMK,Competing Keyword,Medication,"No, don’t assume that’s the only option. It might work, though—I’m still thinking about whether I want the medication there.",train
+HN10-02-V01,HN10-02,HN10-02-V01,HN10,2C,I,VN,LEX,Competing Phrase,Hydration,"I’m tired of hearing people give hydration advice, but a bottle on the desk is still a possibility; I’ll decide later.",train
+HN10-02-V02,HN10-02,HN10-02-V02,HN10,2C,I,VN,NAT,Competing Phrase,Hydration,"I’m getting tired of all the hydration advice, but I haven’t ruled out keeping a bottle on the desk. I’ll see later.",train
+HN10-02-V03,HN10-02,HN10-02-V03,HN10,2C,I,VN,EXP,Competing Phrase,Hydration,"I’m frustrated by how much hydration advice I hear, but that doesn’t mean I’ve rejected the bottle idea—I’m still considering it and will decide later.",train
+HN10-02-V04,HN10-02,HN10-02-V04,HN10,2C,I,VN,DSC,Competing Phrase,Hydration,"A bottle on the desk is still a possibility. I’m tired of hearing hydration advice, but I haven’t decided whether I want to do that yet.",train
+HN10-02-V05,HN10-02,HN10-02-V05,HN10,2C,I,VN,PRG,Competing Phrase,Hydration,"The repeated advice is getting tiring, but my position on the bottle itself is still open—I’ll decide later whether I want it on the desk.",train
+HN10-02-V06,HN10-02,HN10-02-V06,HN10,2C,I,VN,CMK,Competing Phrase,Hydration,"Ugh, all this hydration advice is tiring, but maybe the bottle could work. I’ll see later.",train
+HN10-03-V01,HN10-03,HN10-03-V01,HN10,2C,I,VN,LEX,Misleading Opening Clause,Exercise,"Keep your exercise programs to yourself; a walk is a possibility, but I'll do it my way.",train
+HN10-03-V02,HN10-03,HN10-03-V02,HN10,2C,I,VN,NAT,Misleading Opening Clause,Exercise,"I’m not interested in joining a fitness program, but I might take a walk. I haven’t decided yet.",train
+HN10-03-V03,HN10-03,HN10-03-V03,HN10,2C,I,VN,EXP,Misleading Opening Clause,Exercise,"I don’t want to be included in a broader fitness program, but I haven’t rejected walking itself—I’m still considering whether to do it.",train
+HN10-03-V04,HN10-03,HN10-03-V04,HN10,2C,I,VN,DSC,Misleading Opening Clause,Exercise,I haven’t decided whether to take the walk yet. Leave me out of your fitness programs; I’m only considering the walk as an option.,train
+HN10-03-V05,HN10-03,HN10-03-V05,HN10,2C,I,VN,PRG,Misleading Opening Clause,Exercise,"The fitness-program idea isn’t something I’m signing up for, but the walk remains undecided—I might do it, and I’ll decide later.",train
+HN10-03-V06,HN10-03,HN10-03-V06,HN10,2C,I,VN,CMK,Misleading Opening Clause,Exercise,"Look, leave me out of the fitness programs. But yeah, I might go for a walk—I just haven’t decided yet.",train
+HN10-04-V01,HN10-04,HN10-04-V01,HN10,2C,VN,I,LEX,Mid-Sentence Self-Correction,Medication,"I might consider taking the medication later—actually, absolutely not. Stop meddling with my medication and leave me alone.",train
+HN10-04-V02,HN10-04,HN10-04-V02,HN10,2C,VN,I,NAT,Mid-Sentence Self-Correction,Medication,"I was thinking I might take it later, but no, forget it. Stop interfering with my medication and leave me alone.",train
+HN10-04-V03,HN10-04,HN10-04-V03,HN10,2C,VN,I,EXP,Mid-Sentence Self-Correction,Medication,"I initially left open the possibility of taking the medication later, but I’m rejecting that now. Stop meddling with my medication; I don’t want this discussion anymore.",train
+HN10-04-V04,HN10-04,HN10-04-V04,HN10,2C,VN,I,DSC,Mid-Sentence Self-Correction,Medication,"Stop meddling with my medication and leave me alone. I said I might consider taking it later, but actually, absolutely not.",train
+HN10-04-V05,HN10-04,HN10-04-V05,HN10,2C,VN,I,PRG,Mid-Sentence Self-Correction,Medication,The earlier possibility is withdrawn completely—I’m ending this discussion about my medication. Stop interfering and leave me alone.,train
+HN10-04-V06,HN10-04,HN10-04-V06,HN10,2C,VN,I,CMK,Mid-Sentence Self-Correction,Medication,"Maybe later—no, absolutely not. Stop meddling with my medication and just leave me alone.",train

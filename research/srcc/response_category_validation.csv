@@ -1,0 +1,42 @@
+serial_id,utterance,response_category
+001,Noted.,indifferent
+002,Understood.,indifferent
+003,Got it.,indifferent
+004,I see.,indifferent
+005,"Understood, thanks.",indifferent
+006,I can't agree.,negative
+007,I object.,negative
+008,I'd prefer not.,negative
+009,I'm against it.,negative
+010,That won't work.,negative
+011,I don't support that.,negative
+012,I don't think that's right.,negative
+013,I don't want that.,negative
+014,I'm not comfortable with that.,negative
+015,I can help.,positive
+016,I'll do that.,positive
+017,I'll help.,positive
+018,"Okay, I can.",positive
+019,That should work.,positive
+020,I can do it.,positive
+021,I can do that.,positive
+022,I can manage that.,positive
+023,"Okay, I'll do it.",positive
+024,I hate it.,very_negative
+025,I'm absolutely dissatisfied.,very_negative
+026,I'm extremely unhappy.,very_negative
+027,That's awful.,very_negative
+028,That's horrible.,very_negative
+029,That's terrible.,very_negative
+030,I absolutely hate it.,very_negative
+031,I can't stand it.,very_negative
+032,I strongly dislike it.,very_negative
+033,Gladly.,very_positive
+034,Happily.,very_positive
+035,Happy to help.,very_positive
+036,I'd be delighted.,very_positive
+037,I'd love to.,very_positive
+038,I'm happy to.,very_positive
+039,I'd be glad to.,very_positive
+040,I'd be happy to.,very_positive
+041,I'd gladly do it.,very_positive

@@ -1,0 +1,80 @@
+serial_id,utterance,response_category
+001,I am completely on board.,very_positive
+002,Agreed!,positive
+003,Seriously!,very_negative
+004,Fully agreed.,very_positive
+005,Thanks!,very_positive
+006,Yup!,positive
+007,"Yes, please.",positive
+008,Unwilling.,negative
+009,Completely rejected.,very_negative
+010,Not decided.,indifferent
+011,We'll see.,indifferent
+012,Completely willing.,very_positive
+013,I am okay with that.,positive
+014,That should work for me.,positive
+015,Perfect.,very_positive
+016,Nooooo!,very_negative
+017,"No problem, I can do it.",positive
+018,Not ever.,very_negative
+019,"Yes, that sounds fantastic.",very_positive
+020,I would not choose that.,negative
+021,Yep!,positive
+022,I do not want this.,very_negative
+023,I don't think I should.,negative
+024,Definitely willing.,very_positive
+025,Disagree!,negative
+026,No preference.,indifferent
+027,Either option is fine.,indifferent
+028,Great.,very_positive
+029,I haven't made up my mind.,indifferent
+030,Ugh!,very_negative
+031,"Sure, thanks.",positive
+032,I refuse to continue this.,very_negative
+033,Never ever.,very_negative
+034,I could go either way.,indifferent
+035,I don't agree with this.,negative
+036,I am completely against this.,very_negative
+037,"Yes, that would be wonderful.",very_positive
+038,I can.,positive
+039,Refuse!,negative
+040,Either works.,indifferent
+041,No strong preference.,indifferent
+042,Up to you.,indifferent
+043,Your choice.,indifferent
+044,Doesn't matter to me.,indifferent
+045,I have no opinion.,indifferent
+046,No.,negative
+047,Don't agree.,negative
+048,I disagree.,negative
+049,I don't agree.,negative
+050,I wouldn't agree.,negative
+051,I'm not convinced.,negative
+052,Not really.,negative
+053,I disagree with that.,negative
+054,I don't see it that way.,negative
+055,I don't think so.,negative
+056,Willing.,positive
+057,I'd be willing.,positive
+058,I'd do that.,positive
+059,I'm willing to.,positive
+060,I'm willing.,positive
+061,That's acceptable.,positive
+062,I'd be willing to.,positive
+063,I'm fine with that.,positive
+064,Rejected.,very_negative
+065,Absolutely unacceptable.,very_negative
+066,Completely rejected.,very_negative
+067,Completely unacceptable.,very_negative
+068,I reject that.,very_negative
+069,That's unacceptable.,very_negative
+070,Totally unacceptable.,very_negative
+071,I reject it completely.,very_negative
+072,I strongly reject that.,very_negative
+073,I won't accept that.,very_negative
+074,I love it.,very_positive
+075,Love it!,very_positive
+076,Much appreciated!,very_positive
+077,I absolutely love it.,very_positive
+078,I really appreciate it.,very_positive
+079,I really like it.,very_positive

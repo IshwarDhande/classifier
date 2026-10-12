@@ -1,0 +1,811 @@
+utterance_id,utterance,execution_status,status_no,stage,split,task_or_scenario_id,parent_id,lineage,variation_type,boundary_id,hard_negative_mechanism,target_task,semantic_subtype,context,source_file,validation_status,ambiguity_flag
+C-S01-A1-V01,I took my medication.,Completed,0,3A,train,C-S01,C-S01-A1,C-S01,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A1-V02,My medication has been taken.,Completed,0,3A,train,C-S01,C-S01-A1,C-S01,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A1-V03,I’ve taken it already.,Completed,0,3A,train,C-S01,C-S01-A1,C-S01,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A1-V04,I’ve completed the medication task; I took the medicine.,Completed,0,3A,train,C-S01,C-S01-A1,C-S01,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A1-V05,The medication is finished for this task.,Completed,0,3A,train,C-S01,C-S01-A1,C-S01,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A1-V06,That’s done—I’ve taken my medicine.,Completed,0,3A,train,C-S01,C-S01-A1,C-S01,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A2-V01,I took the medicine.,Completed,0,3A,train,C-S01,C-S01-A2,C-S01,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A2-V02,"To be honest, my medication has been taken.",Completed,0,3A,train,C-S01,C-S01-A2,C-S01,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A2-V03,"Basically, i’ve taken it already.",Completed,0,3A,train,C-S01,C-S01-A2,C-S01,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A2-V04,"Actually, i’ve completed the medication task; I took the medicine.",Completed,0,3A,train,C-S01,C-S01-A2,C-S01,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A2-V05,"Right, the medication is finished for this task.",Completed,0,3A,train,C-S01,C-S01-A2,C-S01,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A2-V06,That’s done—I’ve taken the medication.,Completed,0,3A,train,C-S01,C-S01-A2,C-S01,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A3-V01,"You know, i took my medication.",Completed,0,3A,train,C-S01,C-S01-A3,C-S01,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A3-V02,"Okay, my medication has been taken.",Completed,0,3A,train,C-S01,C-S01-A3,C-S01,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A3-V03,"Actually, i’ve taken it already.",Completed,0,3A,train,C-S01,C-S01-A3,C-S01,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A3-V04,I’ve completed my dose task; I took my dose.,Completed,0,3A,train,C-S01,C-S01-A3,C-S01,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A3-V05,"Listen, the medication is finished for this task.",Completed,0,3A,train,C-S01,C-S01-A3,C-S01,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S01-A3-V06,"Right, that’s done—I’ve taken my medicine.",Completed,0,3A,train,C-S01,C-S01-A3,C-S01,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A1-V01,I drank the water.,Completed,0,3A,train,C-S02,C-S02-A1,C-S02,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A1-V02,The water has been finished.,Completed,0,3A,train,C-S02,C-S02-A1,C-S02,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A1-V03,I’ve had the water already.,Completed,0,3A,train,C-S02,C-S02-A1,C-S02,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A1-V04,I’ve completed the hydration task and finished the water.,Completed,0,3A,train,C-S02,C-S02-A1,C-S02,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A1-V05,My water intake for this task is finished.,Completed,0,3A,train,C-S02,C-S02-A1,C-S02,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A1-V06,That’s done—I’ve finished the water.,Completed,0,3A,train,C-S02,C-S02-A1,C-S02,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A2-V01,I drank the bottle.,Completed,0,3A,train,C-S02,C-S02-A2,C-S02,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A2-V02,"As I said, the water has been finished.",Completed,0,3A,train,C-S02,C-S02-A2,C-S02,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A2-V03,I’ve had the bottle already.,Completed,0,3A,train,C-S02,C-S02-A2,C-S02,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A2-V04,I’ve completed the hydration task and finished the bottle.,Completed,0,3A,train,C-S02,C-S02-A2,C-S02,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A2-V05,The bottle intake for this task is finished.,Completed,0,3A,train,C-S02,C-S02-A2,C-S02,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A2-V06,That’s done—I’ve finished the bottle.,Completed,0,3A,train,C-S02,C-S02-A2,C-S02,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A3-V01,I drank the required water.,Completed,0,3A,train,C-S02,C-S02-A3,C-S02,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A3-V02,"Look, the water has been finished.",Completed,0,3A,train,C-S02,C-S02-A3,C-S02,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A3-V03,I’ve had the required water already.,Completed,0,3A,train,C-S02,C-S02-A3,C-S02,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A3-V04,I’ve completed the hydration task and finished the required water.,Completed,0,3A,train,C-S02,C-S02-A3,C-S02,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A3-V05,"Look, my water intake for this task is finished.",Completed,0,3A,train,C-S02,C-S02-A3,C-S02,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S02-A3-V06,That’s done—I’ve finished the required water.,Completed,0,3A,train,C-S02,C-S02-A3,C-S02,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A1-V01,I finished the exercise.,Completed,0,3A,train,C-S03,C-S03-A1,C-S03,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A1-V02,My workout has been completed.,Completed,0,3A,train,C-S03,C-S03-A1,C-S03,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A1-V03,I’m done with the workout.,Completed,0,3A,train,C-S03,C-S03-A1,C-S03,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A1-V04,I’ve completed the exercise task from start to finish.,Completed,0,3A,train,C-S03,C-S03-A1,C-S03,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A1-V05,The workout is finished now.,Completed,0,3A,train,C-S03,C-S03-A1,C-S03,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A1-V06,That’s done—I’ve completed my exercise.,Completed,0,3A,train,C-S03,C-S03-A1,C-S03,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A2-V01,I finished the routine.,Completed,0,3A,train,C-S03,C-S03-A2,C-S03,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A2-V02,"I must say, my workout has been completed.",Completed,0,3A,train,C-S03,C-S03-A2,C-S03,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A2-V03,"I must say, i’m done with the workout.",Completed,0,3A,train,C-S03,C-S03-A2,C-S03,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A2-V04,"So, i’ve completed the exercise task from start to finish.",Completed,0,3A,train,C-S03,C-S03-A2,C-S03,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A2-V05,"Listen, the workout is finished now.",Completed,0,3A,train,C-S03,C-S03-A2,C-S03,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A2-V06,"You know, that’s done—I’ve completed my exercise.",Completed,0,3A,train,C-S03,C-S03-A2,C-S03,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A3-V01,I finished the exercise routine.,Completed,0,3A,train,C-S03,C-S03-A3,C-S03,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A3-V02,"Actually, my workout has been completed.",Completed,0,3A,train,C-S03,C-S03-A3,C-S03,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A3-V03,I’m done with the exercise routine.,Completed,0,3A,train,C-S03,C-S03-A3,C-S03,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A3-V04,I’ve completed the exercise routine task from start to finish.,Completed,0,3A,train,C-S03,C-S03-A3,C-S03,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A3-V05,"Right, the workout is finished now.",Completed,0,3A,train,C-S03,C-S03-A3,C-S03,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S03-A3-V06,"Right, that’s done—I’ve completed my exercise.",Completed,0,3A,train,C-S03,C-S03-A3,C-S03,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A1-V01,I finished my physiotherapy.,Completed,0,3A,validation,C-S04,C-S04-A1,C-S04,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A1-V02,The physio routine has been completed.,Completed,0,3A,validation,C-S04,C-S04-A1,C-S04,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A1-V03,I’m done with the physio.,Completed,0,3A,validation,C-S04,C-S04-A1,C-S04,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A1-V04,I’ve completed the entire physiotherapy task.,Completed,0,3A,validation,C-S04,C-S04-A1,C-S04,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A1-V05,The therapy session is finished.,Completed,0,3A,validation,C-S04,C-S04-A1,C-S04,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A1-V06,That’s done—I’ve completed the physio routine.,Completed,0,3A,validation,C-S04,C-S04-A1,C-S04,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A2-V01,"Actually, i finished my physiotherapy.",Completed,0,3A,validation,C-S04,C-S04-A2,C-S04,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A2-V02,"Right, the physio routine has been completed.",Completed,0,3A,validation,C-S04,C-S04-A2,C-S04,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A2-V03,I’m done with the therapy.,Completed,0,3A,validation,C-S04,C-S04-A2,C-S04,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A2-V04,"You know, i’ve completed the entire physiotherapy task.",Completed,0,3A,validation,C-S04,C-S04-A2,C-S04,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A2-V05,"I must say, the therapy session is finished.",Completed,0,3A,validation,C-S04,C-S04-A2,C-S04,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A2-V06,That’s done—I’ve completed the therapy routine.,Completed,0,3A,validation,C-S04,C-S04-A2,C-S04,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A3-V01,"Right, i finished my physiotherapy.",Completed,0,3A,validation,C-S04,C-S04-A3,C-S04,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A3-V02,"Okay, the physio routine has been completed.",Completed,0,3A,validation,C-S04,C-S04-A3,C-S04,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A3-V03,I’m done with the therapy session.,Completed,0,3A,validation,C-S04,C-S04-A3,C-S04,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A3-V04,"Okay, i’ve completed the entire physiotherapy task.",Completed,0,3A,validation,C-S04,C-S04-A3,C-S04,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A3-V05,"As I said, the therapy session is finished.",Completed,0,3A,validation,C-S04,C-S04-A3,C-S04,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S04-A3-V06,That’s done—I’ve completed the therapy session routine.,Completed,0,3A,validation,C-S04,C-S04-A3,C-S04,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A1-V01,I already took the medication.,Completed,0,3A,test,C-S05,C-S05-A1,C-S05,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A1-V02,The medication was already taken earlier.,Completed,0,3A,test,C-S05,C-S05-A1,C-S05,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A1-V03,I took it a little while ago.,Completed,0,3A,test,C-S05,C-S05-A1,C-S05,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A1-V04,"I completed the medication task earlier, before this reminder.",Completed,0,3A,test,C-S05,C-S05-A1,C-S05,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A1-V05,That medication task was finished earlier today.,Completed,0,3A,test,C-S05,C-S05-A1,C-S05,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A1-V06,You don’t need to remind me—I already took it.,Completed,0,3A,test,C-S05,C-S05-A1,C-S05,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A2-V01,"So, i already took the medication.",Completed,0,3A,test,C-S05,C-S05-A2,C-S05,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A2-V02,"Right, the medication was already taken earlier.",Completed,0,3A,test,C-S05,C-S05-A2,C-S05,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A2-V03,"Listen, i took it a little while ago.",Completed,0,3A,test,C-S05,C-S05-A2,C-S05,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A2-V04,"I mean, i completed the medication task earlier, before this reminder.",Completed,0,3A,test,C-S05,C-S05-A2,C-S05,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A2-V05,"I mean, that medication task was finished earlier today.",Completed,0,3A,test,C-S05,C-S05-A2,C-S05,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A2-V06,"Listen, you don’t need to remind me—I already took it.",Completed,0,3A,test,C-S05,C-S05-A2,C-S05,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A3-V01,I already took my dose.,Completed,0,3A,test,C-S05,C-S05-A3,C-S05,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A3-V02,"Well, the medication was already taken earlier.",Completed,0,3A,test,C-S05,C-S05-A3,C-S05,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A3-V03,"Look, i took it a little while ago.",Completed,0,3A,test,C-S05,C-S05-A3,C-S05,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A3-V04,"I completed my dose task earlier, before this reminder.",Completed,0,3A,test,C-S05,C-S05-A3,C-S05,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A3-V05,"I must say, that medication task was finished earlier today.",Completed,0,3A,test,C-S05,C-S05-A3,C-S05,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S05-A3-V06,"You know, you don’t need to remind me—I already took it.",Completed,0,3A,test,C-S05,C-S05-A3,C-S05,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A1-V01,I already drank the water.,Completed,0,3A,train,C-S06,C-S06-A1,C-S06,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A1-V02,The water was already finished earlier.,Completed,0,3A,train,C-S06,C-S06-A1,C-S06,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A1-V03,I had it earlier.,Completed,0,3A,train,C-S06,C-S06-A1,C-S06,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A1-V04,"I completed the hydration task earlier, before you reminded me.",Completed,0,3A,train,C-S06,C-S06-A1,C-S06,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A1-V05,The required water was finished earlier today.,Completed,0,3A,train,C-S06,C-S06-A1,C-S06,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A1-V06,That reminder came after I’d already finished my water.,Completed,0,3A,train,C-S06,C-S06-A1,C-S06,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A2-V01,I already drank the bottle.,Completed,0,3A,train,C-S06,C-S06-A2,C-S06,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A2-V02,"So, the water was already finished earlier.",Completed,0,3A,train,C-S06,C-S06-A2,C-S06,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A2-V03,"Look, i had it earlier.",Completed,0,3A,train,C-S06,C-S06-A2,C-S06,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A2-V04,"Actually, i completed the hydration task earlier, before you reminded me.",Completed,0,3A,train,C-S06,C-S06-A2,C-S06,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A2-V05,"I must say, the required water was finished earlier today.",Completed,0,3A,train,C-S06,C-S06-A2,C-S06,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A2-V06,"Honestly, that reminder came after I’d already finished my water.",Completed,0,3A,train,C-S06,C-S06-A2,C-S06,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A3-V01,I already drank the required water.,Completed,0,3A,train,C-S06,C-S06-A3,C-S06,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A3-V02,"Actually, the water was already finished earlier.",Completed,0,3A,train,C-S06,C-S06-A3,C-S06,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A3-V03,"So, i had it earlier.",Completed,0,3A,train,C-S06,C-S06-A3,C-S06,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A3-V04,"Well, i completed the hydration task earlier, before you reminded me.",Completed,0,3A,train,C-S06,C-S06-A3,C-S06,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A3-V05,"Listen, the required water was finished earlier today.",Completed,0,3A,train,C-S06,C-S06-A3,C-S06,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S06-A3-V06,"I mean, that reminder came after I’d already finished my water.",Completed,0,3A,train,C-S06,C-S06-A3,C-S06,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A1-V01,I already did my workout.,Completed,0,3A,train,C-S07,C-S07-A1,C-S07,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A1-V02,The workout was completed earlier.,Completed,0,3A,train,C-S07,C-S07-A1,C-S07,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A1-V03,I got my exercise done earlier.,Completed,0,3A,train,C-S07,C-S07-A1,C-S07,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A1-V04,I completed the exercise task before this reminder.,Completed,0,3A,train,C-S07,C-S07-A1,C-S07,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A1-V05,The workout was finished earlier today.,Completed,0,3A,train,C-S07,C-S07-A1,C-S07,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A1-V06,The reminder came after I’d already done the workout.,Completed,0,3A,train,C-S07,C-S07-A1,C-S07,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A2-V01,"Honestly, i already did my workout.",Completed,0,3A,train,C-S07,C-S07-A2,C-S07,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A2-V02,"Well, the workout was completed earlier.",Completed,0,3A,train,C-S07,C-S07-A2,C-S07,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A2-V03,"Look, i got my exercise done earlier.",Completed,0,3A,train,C-S07,C-S07-A2,C-S07,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A2-V04,"As I said, i completed the exercise task before this reminder.",Completed,0,3A,train,C-S07,C-S07-A2,C-S07,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A2-V05,"I mean, the workout was finished earlier today.",Completed,0,3A,train,C-S07,C-S07-A2,C-S07,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A2-V06,"Okay, the reminder came after I’d already done the workout.",Completed,0,3A,train,C-S07,C-S07-A2,C-S07,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A3-V01,"Okay, i already did my workout.",Completed,0,3A,train,C-S07,C-S07-A3,C-S07,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A3-V02,"As I said, the workout was completed earlier.",Completed,0,3A,train,C-S07,C-S07-A3,C-S07,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A3-V03,"I mean, i got my exercise done earlier.",Completed,0,3A,train,C-S07,C-S07-A3,C-S07,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A3-V04,I completed the exercise routine task before this reminder.,Completed,0,3A,train,C-S07,C-S07-A3,C-S07,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A3-V05,"I must say, the workout was finished earlier today.",Completed,0,3A,train,C-S07,C-S07-A3,C-S07,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S07-A3-V06,The reminder came after I’d already done the exercise routine.,Completed,0,3A,train,C-S07,C-S07-A3,C-S07,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A1-V01,I already did my physio.,Completed,0,3A,train,C-S08,C-S08-A1,C-S08,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A1-V02,The therapy routine was completed earlier.,Completed,0,3A,train,C-S08,C-S08-A1,C-S08,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A1-V03,I got the physio done earlier.,Completed,0,3A,train,C-S08,C-S08-A1,C-S08,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A1-V04,I completed the physiotherapy task before this reminder.,Completed,0,3A,train,C-S08,C-S08-A1,C-S08,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A1-V05,The therapy session was finished earlier today.,Completed,0,3A,train,C-S08,C-S08-A1,C-S08,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A1-V06,You reminded me after I’d already completed the routine.,Completed,0,3A,train,C-S08,C-S08-A1,C-S08,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A2-V01,"Honestly, i already did my physio.",Completed,0,3A,train,C-S08,C-S08-A2,C-S08,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A2-V02,"To be honest, the therapy routine was completed earlier.",Completed,0,3A,train,C-S08,C-S08-A2,C-S08,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A2-V03,I got the therapy done earlier.,Completed,0,3A,train,C-S08,C-S08-A2,C-S08,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A2-V04,I completed the therapytherapy task before this reminder.,Completed,0,3A,train,C-S08,C-S08-A2,C-S08,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A2-V05,"You know, the therapy session was finished earlier today.",Completed,0,3A,train,C-S08,C-S08-A2,C-S08,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A2-V06,You reminded me after I’d already completed the therapy routine.,Completed,0,3A,train,C-S08,C-S08-A2,C-S08,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A3-V01,"Well, i already did my physio.",Completed,0,3A,train,C-S08,C-S08-A3,C-S08,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A3-V02,"So, the therapy routine was completed earlier.",Completed,0,3A,train,C-S08,C-S08-A3,C-S08,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A3-V03,I got the therapy session done earlier.,Completed,0,3A,train,C-S08,C-S08-A3,C-S08,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A3-V04,I completed the therapy sessiontherapy task before this reminder.,Completed,0,3A,train,C-S08,C-S08-A3,C-S08,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A3-V05,"Look, the therapy session was finished earlier today.",Completed,0,3A,train,C-S08,C-S08-A3,C-S08,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S08-A3-V06,"Honestly, you reminded me after I’d already completed the therapy routine.",Completed,0,3A,train,C-S08,C-S08-A3,C-S08,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A1-V01,The medicine is back in its cabinet.,Completed,0,3A,validation,C-S09,C-S09-A1,C-S09,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A1-V02,Today’s medication compartment is empty.,Completed,0,3A,validation,C-S09,C-S09-A1,C-S09,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A1-V03,The pills are put away now.,Completed,0,3A,validation,C-S09,C-S09-A1,C-S09,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A1-V04,"The medication has been taken, as shown by the empty dose compartment.",Completed,0,3A,validation,C-S09,C-S09-A1,C-S09,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A1-V05,Everything is put away after today’s dose.,Completed,0,3A,validation,C-S09,C-S09-A1,C-S09,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A1-V06,"The bottle is already back in the cabinet, so today’s dose is finished.",Completed,0,3A,validation,C-S09,C-S09-A1,C-S09,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A2-V01,"I must say, the medicine is back in its cabinet.",Completed,0,3A,validation,C-S09,C-S09-A2,C-S09,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A2-V02,"Honestly, today’s medication compartment is empty.",Completed,0,3A,validation,C-S09,C-S09-A2,C-S09,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A2-V03,"So, the pills are put away now.",Completed,0,3A,validation,C-S09,C-S09-A2,C-S09,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A2-V04,"Listen, the medication has been taken, as shown by the empty dose compartment.",Completed,0,3A,validation,C-S09,C-S09-A2,C-S09,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A2-V05,"Right, everything is put away after today’s dose.",Completed,0,3A,validation,C-S09,C-S09-A2,C-S09,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A2-V06,"Listen, the bottle is already back in the cabinet, so today’s dose is finished.",Completed,0,3A,validation,C-S09,C-S09-A2,C-S09,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A3-V01,"Look, the medicine is back in its cabinet.",Completed,0,3A,validation,C-S09,C-S09-A3,C-S09,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A3-V02,"As I said, today’s medication compartment is empty.",Completed,0,3A,validation,C-S09,C-S09-A3,C-S09,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A3-V03,"Right, the pills are put away now.",Completed,0,3A,validation,C-S09,C-S09-A3,C-S09,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A3-V04,"So, the medication has been taken, as shown by the empty dose compartment.",Completed,0,3A,validation,C-S09,C-S09-A3,C-S09,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A3-V05,"Basically, everything is put away after today’s dose.",Completed,0,3A,validation,C-S09,C-S09-A3,C-S09,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S09-A3-V06,"Right, the bottle is already back in the cabinet, so today’s dose is finished.",Completed,0,3A,validation,C-S09,C-S09-A3,C-S09,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A1-V01,The bottle is empty now.,Completed,0,3A,test,C-S10,C-S10-A1,C-S10,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A1-V02,There is no water left in the bottle.,Completed,0,3A,test,C-S10,C-S10-A1,C-S10,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A1-V03,I’ve emptied the bottle.,Completed,0,3A,test,C-S10,C-S10-A1,C-S10,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A1-V04,The hydration task is complete; the required bottle is empty.,Completed,0,3A,test,C-S10,C-S10-A1,C-S10,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A1-V05,The bottle is finished and empty now.,Completed,0,3A,test,C-S10,C-S10-A1,C-S10,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A1-V06,"There’s nothing left in the bottle, so I’m finished with it.",Completed,0,3A,test,C-S10,C-S10-A1,C-S10,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A2-V01,"Well, the bottle is empty now.",Completed,0,3A,test,C-S10,C-S10-A2,C-S10,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A2-V02,"Okay, there is no water left in the bottle.",Completed,0,3A,test,C-S10,C-S10-A2,C-S10,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A2-V03,"Listen, i’ve emptied the bottle.",Completed,0,3A,test,C-S10,C-S10-A2,C-S10,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A2-V04,"I mean, the hydration task is complete; the required bottle is empty.",Completed,0,3A,test,C-S10,C-S10-A2,C-S10,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A2-V05,"I must say, the bottle is finished and empty now.",Completed,0,3A,test,C-S10,C-S10-A2,C-S10,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A2-V06,"Okay, there’s nothing left in the bottle, so I’m finished with it.",Completed,0,3A,test,C-S10,C-S10-A2,C-S10,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A3-V01,"Listen, the bottle is empty now.",Completed,0,3A,test,C-S10,C-S10-A3,C-S10,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A3-V02,"Basically, there is no water left in the bottle.",Completed,0,3A,test,C-S10,C-S10-A3,C-S10,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A3-V03,"Honestly, i’ve emptied the bottle.",Completed,0,3A,test,C-S10,C-S10-A3,C-S10,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A3-V04,"Basically, the hydration task is complete; the required bottle is empty.",Completed,0,3A,test,C-S10,C-S10-A3,C-S10,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A3-V05,"I mean, the bottle is finished and empty now.",Completed,0,3A,test,C-S10,C-S10-A3,C-S10,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S10-A3-V06,"You know, there’s nothing left in the bottle, so I’m finished with it.",Completed,0,3A,test,C-S10,C-S10-A3,C-S10,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A1-V01,I’ve put the exercise equipment away.,Completed,0,3A,train,C-S11,C-S11-A1,C-S11,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A1-V02,The workout mat has been rolled up and stored.,Completed,0,3A,train,C-S11,C-S11-A1,C-S11,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A1-V03,The gear is all put away now.,Completed,0,3A,train,C-S11,C-S11-A1,C-S11,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A1-V04,The exercise is complete; I’ve finished the routine and stored the equipment.,Completed,0,3A,train,C-S11,C-S11-A1,C-S11,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A1-V05,The workout setup is packed away now.,Completed,0,3A,train,C-S11,C-S11-A1,C-S11,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A1-V06,"The equipment is already stored, so the workout is finished.",Completed,0,3A,train,C-S11,C-S11-A1,C-S11,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A2-V01,I’ve put the routine equipment away.,Completed,0,3A,train,C-S11,C-S11-A2,C-S11,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A2-V02,"I mean, the workout mat has been rolled up and stored.",Completed,0,3A,train,C-S11,C-S11-A2,C-S11,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A2-V03,"I must say, the gear is all put away now.",Completed,0,3A,train,C-S11,C-S11-A2,C-S11,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A2-V04,"Well, the exercise is complete; I’ve finished the routine and stored the equipment.",Completed,0,3A,train,C-S11,C-S11-A2,C-S11,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A2-V05,"I mean, the workout setup is packed away now.",Completed,0,3A,train,C-S11,C-S11-A2,C-S11,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A2-V06,"Look, the equipment is already stored, so the workout is finished.",Completed,0,3A,train,C-S11,C-S11-A2,C-S11,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A3-V01,I’ve put the exercise routine equipment away.,Completed,0,3A,train,C-S11,C-S11-A3,C-S11,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A3-V02,"Well, the workout mat has been rolled up and stored.",Completed,0,3A,train,C-S11,C-S11-A3,C-S11,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A3-V03,"As I said, the gear is all put away now.",Completed,0,3A,train,C-S11,C-S11-A3,C-S11,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A3-V04,"Look, the exercise is complete; I’ve finished the routine and stored the equipment.",Completed,0,3A,train,C-S11,C-S11-A3,C-S11,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A3-V05,"Honestly, the workout setup is packed away now.",Completed,0,3A,train,C-S11,C-S11-A3,C-S11,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S11-A3-V06,"The equipment is already stored, so the exercise routine is finished.",Completed,0,3A,train,C-S11,C-S11-A3,C-S11,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A1-V01,I finished all the exercises in the physio routine.,Completed,0,3A,train,C-S12,C-S12-A1,C-S12,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A1-V02,Every step of the therapy sequence has been completed.,Completed,0,3A,train,C-S12,C-S12-A1,C-S12,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A1-V03,I’ve worked through the whole physio routine.,Completed,0,3A,train,C-S12,C-S12-A1,C-S12,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A1-V04,"I completed every required physiotherapy step, so the routine is finished.",Completed,0,3A,train,C-S12,C-S12-A1,C-S12,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A1-V05,The entire therapy sequence is finished now.,Completed,0,3A,train,C-S12,C-S12-A1,C-S12,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A1-V06,I’ve gone through all the physio exercises; there’s nothing left in the routine.,Completed,0,3A,train,C-S12,C-S12-A1,C-S12,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A2-V01,I finished all the exercises in the therapy routine.,Completed,0,3A,train,C-S12,C-S12-A2,C-S12,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A2-V02,"So, every step of the therapy sequence has been completed.",Completed,0,3A,train,C-S12,C-S12-A2,C-S12,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A2-V03,"Listen, i’ve worked through the whole physio routine.",Completed,0,3A,train,C-S12,C-S12-A2,C-S12,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A2-V04,"I completed every required physiotherapy step, so the therapy routine is finished.",Completed,0,3A,train,C-S12,C-S12-A2,C-S12,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A2-V05,"Basically, the entire therapy sequence is finished now.",Completed,0,3A,train,C-S12,C-S12-A2,C-S12,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A2-V06,I’ve gone through all the therapy exercises; there’s nothing left in the therapy routine.,Completed,0,3A,train,C-S12,C-S12-A2,C-S12,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A3-V01,I finished all the exercises in the therapy session routine.,Completed,0,3A,train,C-S12,C-S12-A3,C-S12,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A3-V02,"Look, every step of the therapy sequence has been completed.",Completed,0,3A,train,C-S12,C-S12-A3,C-S12,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A3-V03,"Look, i’ve worked through the whole physio routine.",Completed,0,3A,train,C-S12,C-S12-A3,C-S12,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A3-V04,"You know, i completed every required physiotherapy step, so the therapy routine is finished.",Completed,0,3A,train,C-S12,C-S12-A3,C-S12,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A3-V05,"Right, the entire therapy sequence is finished now.",Completed,0,3A,train,C-S12,C-S12-A3,C-S12,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S12-A3-V06,I’ve gone through all the therapy session exercises; there’s nothing left in the therapy routine.,Completed,0,3A,train,C-S12,C-S12-A3,C-S12,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A1-V01,I finished all five sets.,Completed,0,3A,train,C-S13,C-S13-A1,C-S13,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A1-V02,Every exercise in the routine has been completed.,Completed,0,3A,train,C-S13,C-S13-A1,C-S13,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A1-V03,I got through the whole workout.,Completed,0,3A,train,C-S13,C-S13-A1,C-S13,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A1-V04,"I completed every required set and exercise, so the workout is finished.",Completed,0,3A,train,C-S13,C-S13-A1,C-S13,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A1-V05,The full exercise routine is complete.,Completed,0,3A,train,C-S13,C-S13-A1,C-S13,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A1-V06,I’ve worked through every set; there’s nothing left to do in the workout.,Completed,0,3A,train,C-S13,C-S13-A1,C-S13,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A2-V01,"Honestly, i finished all five sets.",Completed,0,3A,train,C-S13,C-S13-A2,C-S13,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A2-V02,"Okay, every exercise in the routine has been completed.",Completed,0,3A,train,C-S13,C-S13-A2,C-S13,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A2-V03,"Honestly, i got through the whole workout.",Completed,0,3A,train,C-S13,C-S13-A2,C-S13,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A2-V04,"As I said, i completed every required set and exercise, so the workout is finished.",Completed,0,3A,train,C-S13,C-S13-A2,C-S13,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A2-V05,"Right, the full exercise routine is complete.",Completed,0,3A,train,C-S13,C-S13-A2,C-S13,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A2-V06,"To be honest, i’ve worked through every set; there’s nothing left to do in the workout.",Completed,0,3A,train,C-S13,C-S13-A2,C-S13,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A3-V01,"To be honest, i finished all five sets.",Completed,0,3A,train,C-S13,C-S13-A3,C-S13,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A3-V02,"I mean, every exercise in the routine has been completed.",Completed,0,3A,train,C-S13,C-S13-A3,C-S13,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A3-V03,"Right, i got through the whole workout.",Completed,0,3A,train,C-S13,C-S13-A3,C-S13,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A3-V04,"I completed every required set and exercise, so the exercise routine is finished.",Completed,0,3A,train,C-S13,C-S13-A3,C-S13,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A3-V05,"To be honest, the full exercise routine is complete.",Completed,0,3A,train,C-S13,C-S13-A3,C-S13,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S13-A3-V06,I’ve worked through every set; there’s nothing left to do in the exercise routine.,Completed,0,3A,train,C-S13,C-S13-A3,C-S13,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A1-V01,"I took the medication, although I was a little late.",Completed,0,3A,validation,C-S14,C-S14-A1,C-S14,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A1-V02,"The medication has been taken, even though I was running late.",Completed,0,3A,validation,C-S14,C-S14-A1,C-S14,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A1-V03,"I’ve taken it—I was late today, though.",Completed,0,3A,validation,C-S14,C-S14-A1,C-S14,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A1-V04,I completed the medication task despite being late; the dose has been taken.,Completed,0,3A,validation,C-S14,C-S14-A1,C-S14,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A1-V05,"The medication is finished now, although I was delayed.",Completed,0,3A,validation,C-S14,C-S14-A1,C-S14,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A1-V06,"I’m done with the dose; I was running late, but it’s taken now.",Completed,0,3A,validation,C-S14,C-S14-A1,C-S14,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A2-V01,"As I said, i took the medication, although I was a little late.",Completed,0,3A,validation,C-S14,C-S14-A2,C-S14,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A2-V02,"Basically, the medication has been taken, even though I was running late.",Completed,0,3A,validation,C-S14,C-S14-A2,C-S14,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A2-V03,"So, i’ve taken it—I was late today, though.",Completed,0,3A,validation,C-S14,C-S14-A2,C-S14,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A2-V04,"To be honest, i completed the medication task despite being late; the dose has been taken.",Completed,0,3A,validation,C-S14,C-S14-A2,C-S14,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A2-V05,"Basically, the medication is finished now, although I was delayed.",Completed,0,3A,validation,C-S14,C-S14-A2,C-S14,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A2-V06,"I mean, i’m done with the dose; I was running late, but it’s taken now.",Completed,0,3A,validation,C-S14,C-S14-A2,C-S14,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A3-V01,"I took my dose, although I was a little late.",Completed,0,3A,validation,C-S14,C-S14-A3,C-S14,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A3-V02,"I mean, the medication has been taken, even though I was running late.",Completed,0,3A,validation,C-S14,C-S14-A3,C-S14,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A3-V03,"Look, i’ve taken it—I was late today, though.",Completed,0,3A,validation,C-S14,C-S14-A3,C-S14,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A3-V04,I completed my dose task despite being late; the dose has been taken.,Completed,0,3A,validation,C-S14,C-S14-A3,C-S14,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A3-V05,"Okay, the medication is finished now, although I was delayed.",Completed,0,3A,validation,C-S14,C-S14-A3,C-S14,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S14-A3-V06,"As I said, i’m done with the dose; I was running late, but it’s taken now.",Completed,0,3A,validation,C-S14,C-S14-A3,C-S14,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A1-V01,"I finished the workout, and it was harder than usual.",Completed,0,3A,test,C-S15,C-S15-A1,C-S15,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A1-V02,"The workout has been completed, although it was harder than usual.",Completed,0,3A,test,C-S15,C-S15-A1,C-S15,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A1-V03,I’m done with the workout—it was pretty tough today.,Completed,0,3A,test,C-S15,C-S15-A1,C-S15,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A1-V04,I completed the exercise task even though I was tired; the workout is finished.,Completed,0,3A,test,C-S15,C-S15-A1,C-S15,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A1-V05,"The exercise is finished now, despite being more difficult than usual.",Completed,0,3A,test,C-S15,C-S15-A1,C-S15,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A1-V06,"That’s done—I finished the workout, so I’m going to rest now.",Completed,0,3A,test,C-S15,C-S15-A1,C-S15,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A2-V01,"I finished the routine, and it was harder than usual.",Completed,0,3A,test,C-S15,C-S15-A2,C-S15,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A2-V02,"I must say, the workout has been completed, although it was harder than usual.",Completed,0,3A,test,C-S15,C-S15-A2,C-S15,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A2-V03,"Listen, i’m done with the workout—it was pretty tough today.",Completed,0,3A,test,C-S15,C-S15-A2,C-S15,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A2-V04,"Right, i completed the exercise task even though I was tired; the workout is finished.",Completed,0,3A,test,C-S15,C-S15-A2,C-S15,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A2-V05,"Well, the exercise is finished now, despite being more difficult than usual.",Completed,0,3A,test,C-S15,C-S15-A2,C-S15,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A2-V06,"I must say, that’s done—I finished the workout, so I’m going to rest now.",Completed,0,3A,test,C-S15,C-S15-A2,C-S15,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A3-V01,"I finished the exercise routine, and it was harder than usual.",Completed,0,3A,test,C-S15,C-S15-A3,C-S15,LEX,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A3-V02,"Right, the workout has been completed, although it was harder than usual.",Completed,0,3A,test,C-S15,C-S15-A3,C-S15,SYN,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A3-V03,I’m done with the exercise routine—it was pretty tough today.,Completed,0,3A,test,C-S15,C-S15-A3,C-S15,NAT,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A3-V04,I completed the exercise routine task even though I was tired; the workout is finished.,Completed,0,3A,test,C-S15,C-S15-A3,C-S15,EXP,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A3-V05,"I mean, the exercise is finished now, despite being more difficult than usual.",Completed,0,3A,test,C-S15,C-S15-A3,C-S15,PRG,,,,,,stage_3a_completed_variants.md,candidate,false
+C-S15-A3-V06,"That’s done—I finished the exercise routine, so I’m going to rest now.",Completed,0,3A,test,C-S15,C-S15-A3,C-S15,DSC,,,,,,stage_3a_completed_variants.md,candidate,false
+IP-S01-A1-V01,I’m carrying out the exercise now.,In Progress,1,3A,train,IP-S01,IP-S01-A1,IP-S01,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A1-V02,I’m currently performing the exercise.,In Progress,1,3A,train,IP-S01,IP-S01-A1,IP-S01,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A1-V03,I’m in the middle of my workout right now.,In Progress,1,3A,train,IP-S01,IP-S01-A1,IP-S01,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A1-V04,"I’ve already begun the exercise, and I’m still working through it.",In Progress,1,3A,train,IP-S01,IP-S01-A1,IP-S01,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A1-V05,I’m doing the exercise now; I haven’t finished the whole routine.,In Progress,1,3A,train,IP-S01,IP-S01-A1,IP-S01,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A1-V06,The exercise is underway on my side at the moment.,In Progress,1,3A,train,IP-S01,IP-S01-A1,IP-S01,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A2-V01,"So, i’m carrying out the exercise now.",In Progress,1,3A,train,IP-S01,IP-S01-A2,IP-S01,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A2-V02,"Okay, i’m currently performing the exercise.",In Progress,1,3A,train,IP-S01,IP-S01-A2,IP-S01,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A2-V03,"From where I am, i’m in the middle of my workout right now.",In Progress,1,3A,train,IP-S01,IP-S01-A2,IP-S01,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A2-V04,"Well, i’ve already begun the exercise, and I’m still working through it.",In Progress,1,3A,train,IP-S01,IP-S01-A2,IP-S01,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A2-V05,"Okay, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress,1,3A,train,IP-S01,IP-S01-A2,IP-S01,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A2-V06,"In this session, the exercise is underway on my side at the moment.",In Progress,1,3A,train,IP-S01,IP-S01-A2,IP-S01,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A3-V01,"Well, i’m carrying out the exercise now.",In Progress,1,3A,train,IP-S01,IP-S01-A3,IP-S01,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A3-V02,"Right now, i’m currently performing the exercise.",In Progress,1,3A,train,IP-S01,IP-S01-A3,IP-S01,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A3-V03,"Look, i’m in the middle of my workout right now.",In Progress,1,3A,train,IP-S01,IP-S01-A3,IP-S01,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A3-V04,"At the moment, i’ve already begun the exercise, and I’m still working through it.",In Progress,1,3A,train,IP-S01,IP-S01-A3,IP-S01,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A3-V05,"Well, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress,1,3A,train,IP-S01,IP-S01-A3,IP-S01,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S01-A3-V06,"I mean, in this session, the exercise is underway on my side at the moment.",In Progress,1,3A,train,IP-S01,IP-S01-A3,IP-S01,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A1-V01,I’m having some water right now.,In Progress,1,3A,train,IP-S02,IP-S02-A1,IP-S02,LEX,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A1-V02,The water is what I’m drinking at the moment.,In Progress,1,3A,train,IP-S02,IP-S02-A1,IP-S02,SYN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A1-V03,I’m drinking it at the moment.,In Progress,1,3A,train,IP-S02,IP-S02-A1,IP-S02,NAT,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A1-V04,"I’ve started drinking the water, and I’m still on it.",In Progress,1,3A,train,IP-S02,IP-S02-A1,IP-S02,EXP,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A1-V05,"I’m drinking now, but I haven’t finished the amount yet.",In Progress,1,3A,train,IP-S02,IP-S02-A1,IP-S02,LEN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A1-V06,I’ve got the water with me and I’m drinking from it now.,In Progress,1,3A,train,IP-S02,IP-S02-A1,IP-S02,DSC,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A2-V01,"So, i’m having some water right now.",In Progress,1,3A,train,IP-S02,IP-S02-A2,IP-S02,LEX,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A2-V02,"Right now, the water is what I’m drinking at the moment.",In Progress,1,3A,train,IP-S02,IP-S02-A2,IP-S02,SYN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A2-V03,"From where I am, i’m drinking it at the moment.",In Progress,1,3A,train,IP-S02,IP-S02-A2,IP-S02,NAT,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A2-V04,"I mean, i’ve started drinking the water, and I’m still on it.",In Progress,1,3A,train,IP-S02,IP-S02-A2,IP-S02,EXP,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A2-V05,"Honestly, i’m drinking now, but I haven’t finished the amount yet.",In Progress,1,3A,train,IP-S02,IP-S02-A2,IP-S02,LEN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A2-V06,"In this session, i’ve got the water with me and I’m drinking from it now.",In Progress,1,3A,train,IP-S02,IP-S02-A2,IP-S02,DSC,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A3-V01,"Actually, i’m having some water right now.",In Progress,1,3A,train,IP-S02,IP-S02-A3,IP-S02,LEX,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A3-V02,"You know, right now, the water is what I’m drinking at the moment.",In Progress,1,3A,train,IP-S02,IP-S02-A3,IP-S02,SYN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A3-V03,"Listen, i’m drinking it at the moment.",In Progress,1,3A,train,IP-S02,IP-S02-A3,IP-S02,NAT,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A3-V04,"At the moment, i’ve started drinking the water, and I’m still on it.",In Progress,1,3A,train,IP-S02,IP-S02-A3,IP-S02,EXP,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A3-V05,"Basically, i’m drinking now, but I haven’t finished the amount yet.",In Progress,1,3A,train,IP-S02,IP-S02-A3,IP-S02,LEN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S02-A3-V06,"Look, in this session, i’ve got the water with me and I’m drinking from it now.",In Progress,1,3A,train,IP-S02,IP-S02-A3,IP-S02,DSC,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A1-V01,I’m carrying on with the physiotherapy right now.,In Progress,1,3A,train,IP-S03,IP-S03-A1,IP-S03,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A1-V02,I’m currently working through the physiotherapy session.,In Progress,1,3A,train,IP-S03,IP-S03-A1,IP-S03,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A1-V03,I’m doing the physio at the moment.,In Progress,1,3A,train,IP-S03,IP-S03-A1,IP-S03,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A1-V04,"I’ve begun the session already, and the exercises are still underway.",In Progress,1,3A,train,IP-S03,IP-S03-A1,IP-S03,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A1-V05,"The physiotherapy has started, and I’m not finished yet.",In Progress,1,3A,train,IP-S03,IP-S03-A1,IP-S03,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A1-V06,The routine is underway right now.,In Progress,1,3A,train,IP-S03,IP-S03-A1,IP-S03,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A2-V01,"So, i’m carrying on with the physiotherapy right now.",In Progress,1,3A,train,IP-S03,IP-S03-A2,IP-S03,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A2-V02,"You know, i’m currently working through the physiotherapy session.",In Progress,1,3A,train,IP-S03,IP-S03-A2,IP-S03,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A2-V03,"From where I am, i’m doing the physio at the moment.",In Progress,1,3A,train,IP-S03,IP-S03-A2,IP-S03,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A2-V04,"So, i’ve begun the session already, and the exercises are still underway.",In Progress,1,3A,train,IP-S03,IP-S03-A2,IP-S03,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A2-V05,"Actually, the physiotherapy has started, and I’m not finished yet.",In Progress,1,3A,train,IP-S03,IP-S03-A2,IP-S03,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A2-V06,"In this session, the routine is underway right now.",In Progress,1,3A,train,IP-S03,IP-S03-A2,IP-S03,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A3-V01,"To be honest, i’m carrying on with the physiotherapy right now.",In Progress,1,3A,train,IP-S03,IP-S03-A3,IP-S03,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A3-V02,"Right now, i’m currently working through the physiotherapy session.",In Progress,1,3A,train,IP-S03,IP-S03-A3,IP-S03,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A3-V03,"I must say, i’m doing the physio at the moment.",In Progress,1,3A,train,IP-S03,IP-S03-A3,IP-S03,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A3-V04,"At the moment, i’ve begun the session already, and the exercises are still underway.",In Progress,1,3A,train,IP-S03,IP-S03-A3,IP-S03,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A3-V05,"I mean, the physiotherapy has started, and I’m not finished yet.",In Progress,1,3A,train,IP-S03,IP-S03-A3,IP-S03,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S03-A3-V06,"Listen, in this session, the routine is underway right now.",In Progress,1,3A,train,IP-S03,IP-S03-A3,IP-S03,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A1-V01,"I’ve completed some of the exercise, but there’s still more.",In Progress,1,3A,validation,IP-S04,IP-S04-A1,IP-S04,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A1-V02,"Part of the workout is done, while the rest remains.",In Progress,1,3A,validation,IP-S04,IP-S04-A1,IP-S04,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A1-V03,I’m only partway through the exercises.,In Progress,1,3A,validation,IP-S04,IP-S04-A1,IP-S04,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A1-V04,"I’ve already worked through one portion, and I still have the remainder to do.",In Progress,1,3A,validation,IP-S04,IP-S04-A1,IP-S04,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A1-V05,Some of the routine is finished; I still have more to complete.,In Progress,1,3A,validation,IP-S04,IP-S04-A1,IP-S04,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A1-V06,"I’ve made it through part of the exercise, with the rest still ahead.",In Progress,1,3A,validation,IP-S04,IP-S04-A1,IP-S04,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A2-V01,"So, i’ve completed some of the exercise, but there’s still more.",In Progress,1,3A,validation,IP-S04,IP-S04-A2,IP-S04,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A2-V02,"Okay, part of the workout is done, while the rest remains.",In Progress,1,3A,validation,IP-S04,IP-S04-A2,IP-S04,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A2-V03,"From where I am, i’m only partway through the exercises.",In Progress,1,3A,validation,IP-S04,IP-S04-A2,IP-S04,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A2-V04,"Basically, i’ve already worked through one portion, and I still have the remainder to do.",In Progress,1,3A,validation,IP-S04,IP-S04-A2,IP-S04,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A2-V05,"Basically, some of the routine is finished; I still have more to complete.",In Progress,1,3A,validation,IP-S04,IP-S04-A2,IP-S04,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A2-V06,"In this session, i’ve made it through part of the exercise, with the rest still ahead.",In Progress,1,3A,validation,IP-S04,IP-S04-A2,IP-S04,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A3-V01,"Basically, i’ve completed some of the exercise, but there’s still more.",In Progress,1,3A,validation,IP-S04,IP-S04-A3,IP-S04,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A3-V02,"Right now, part of the workout is done, while the rest remains.",In Progress,1,3A,validation,IP-S04,IP-S04-A3,IP-S04,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A3-V03,"So, i’m only partway through the exercises.",In Progress,1,3A,validation,IP-S04,IP-S04-A3,IP-S04,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A3-V04,"At the moment, i’ve already worked through one portion, and I still have the remainder to do.",In Progress,1,3A,validation,IP-S04,IP-S04-A3,IP-S04,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A3-V05,"I mean, some of the routine is finished; I still have more to complete.",In Progress,1,3A,validation,IP-S04,IP-S04-A3,IP-S04,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S04-A3-V06,"As I said, in this session, i’ve made it through part of the exercise, with the rest still ahead.",In Progress,1,3A,validation,IP-S04,IP-S04-A3,IP-S04,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A1-V01,"I’ve consumed some of the water, but not all of it.",In Progress,1,3A,test,IP-S05,IP-S05-A1,IP-S05,LEX,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A1-V02,"Part of the water has been drunk, while some remains.",In Progress,1,3A,test,IP-S05,IP-S05-A1,IP-S05,SYN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A1-V03,I’m partway through my water.,In Progress,1,3A,test,IP-S05,IP-S05-A1,IP-S05,NAT,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A1-V04,"I’ve already had some of the required amount, and I still need the rest.",In Progress,1,3A,test,IP-S05,IP-S05-A1,IP-S05,EXP,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A1-V05,"I’ve had part of it, but I haven’t finished the water target.",In Progress,1,3A,test,IP-S05,IP-S05-A1,IP-S05,LEN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A1-V06,"Some of the bottle is gone, and some is still left.",In Progress,1,3A,test,IP-S05,IP-S05-A1,IP-S05,DSC,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A2-V01,"So, i’ve consumed some of the water, but not all of it.",In Progress,1,3A,test,IP-S05,IP-S05-A2,IP-S05,LEX,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A2-V02,"Basically, part of the water has been drunk, while some remains.",In Progress,1,3A,test,IP-S05,IP-S05-A2,IP-S05,SYN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A2-V03,"From where I am, i’m partway through my water.",In Progress,1,3A,test,IP-S05,IP-S05-A2,IP-S05,NAT,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A2-V04,"As I said, i’ve already had some of the required amount, and I still need the rest.",In Progress,1,3A,test,IP-S05,IP-S05-A2,IP-S05,EXP,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A2-V05,"To be honest, i’ve had part of it, but I haven’t finished the water target.",In Progress,1,3A,test,IP-S05,IP-S05-A2,IP-S05,LEN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A2-V06,"In this session, some of the bottle is gone, and some is still left.",In Progress,1,3A,test,IP-S05,IP-S05-A2,IP-S05,DSC,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A3-V01,"As I said, i’ve consumed some of the water, but not all of it.",In Progress,1,3A,test,IP-S05,IP-S05-A3,IP-S05,LEX,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A3-V02,"Right now, part of the water has been drunk, while some remains.",In Progress,1,3A,test,IP-S05,IP-S05-A3,IP-S05,SYN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A3-V03,"To be honest, i’m partway through my water.",In Progress,1,3A,test,IP-S05,IP-S05-A3,IP-S05,NAT,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A3-V04,"At the moment, i’ve already had some of the required amount, and I still need the rest.",In Progress,1,3A,test,IP-S05,IP-S05-A3,IP-S05,EXP,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A3-V05,"So, i’ve had part of it, but I haven’t finished the water target.",In Progress,1,3A,test,IP-S05,IP-S05-A3,IP-S05,LEN,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S05-A3-V06,"Right, in this session, some of the bottle is gone, and some is still left.",In Progress,1,3A,test,IP-S05,IP-S05-A3,IP-S05,DSC,,,Hydration,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A1-V01,"I’ve begun the medication routine, but it’s only partly done.",In Progress,1,3A,train,IP-S06,IP-S06-A1,IP-S06,LEX,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A1-V02,"The medication routine has started, although some of it remains.",In Progress,1,3A,train,IP-S06,IP-S06-A1,IP-S06,SYN,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A1-V03,I’m partway through the routine.,In Progress,1,3A,train,IP-S06,IP-S06-A1,IP-S06,NAT,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A1-V04,"I’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress,1,3A,train,IP-S06,IP-S06-A1,IP-S06,EXP,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A1-V05,"The routine has started, but I still have some to complete.",In Progress,1,3A,train,IP-S06,IP-S06-A1,IP-S06,LEN,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A1-V06,I’ve made a start on the routine; the rest is still ahead.,In Progress,1,3A,train,IP-S06,IP-S06-A1,IP-S06,DSC,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A2-V01,"So, i’ve begun the medication routine, but it’s only partly done.",In Progress,1,3A,train,IP-S06,IP-S06-A2,IP-S06,LEX,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A2-V02,"Right now, the medication routine has started, although some of it remains.",In Progress,1,3A,train,IP-S06,IP-S06-A2,IP-S06,SYN,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A2-V03,"From where I am, i’m partway through the routine.",In Progress,1,3A,train,IP-S06,IP-S06-A2,IP-S06,NAT,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A2-V04,"To be honest, i’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress,1,3A,train,IP-S06,IP-S06-A2,IP-S06,EXP,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A2-V05,"Okay, the routine has started, but I still have some to complete.",In Progress,1,3A,train,IP-S06,IP-S06-A2,IP-S06,LEN,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A2-V06,"In this session, i’ve made a start on the routine; the rest is still ahead.",In Progress,1,3A,train,IP-S06,IP-S06-A2,IP-S06,DSC,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A3-V01,"I mean, i’ve begun the medication routine, but it’s only partly done.",In Progress,1,3A,train,IP-S06,IP-S06-A3,IP-S06,LEX,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A3-V02,"Well, right now, the medication routine has started, although some of it remains.",In Progress,1,3A,train,IP-S06,IP-S06-A3,IP-S06,SYN,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A3-V03,"I must say, i’m partway through the routine.",In Progress,1,3A,train,IP-S06,IP-S06-A3,IP-S06,NAT,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A3-V04,"At the moment, i’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress,1,3A,train,IP-S06,IP-S06-A3,IP-S06,EXP,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A3-V05,"Honestly, the routine has started, but I still have some to complete.",In Progress,1,3A,train,IP-S06,IP-S06-A3,IP-S06,LEN,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S06-A3-V06,"I must say, in this session, i’ve made a start on the routine; the rest is still ahead.",In Progress,1,3A,train,IP-S06,IP-S06-A3,IP-S06,DSC,,,Medication,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A1-V01,I’m just about finished with the exercises.,In Progress,1,3A,train,IP-S07,IP-S07-A1,IP-S07,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A1-V02,"The workout is close to completion, but not complete yet.",In Progress,1,3A,train,IP-S07,IP-S07-A1,IP-S07,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A1-V03,I’m almost done with it.,In Progress,1,3A,train,IP-S07,IP-S07-A1,IP-S07,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A1-V04,"I’ve completed most of the exercise, with only a small part remaining.",In Progress,1,3A,train,IP-S07,IP-S07-A1,IP-S07,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A1-V05,"I’m near the end, but there’s still a little exercise left.",In Progress,1,3A,train,IP-S07,IP-S07-A1,IP-S07,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A1-V06,Only a small amount remains in the workout.,In Progress,1,3A,train,IP-S07,IP-S07-A1,IP-S07,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A2-V01,"So, i’m just about finished with the exercises.",In Progress,1,3A,train,IP-S07,IP-S07-A2,IP-S07,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A2-V02,"Right now, the workout is close to completion, but not complete yet.",In Progress,1,3A,train,IP-S07,IP-S07-A2,IP-S07,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A2-V03,"From where I am, i’m almost done with it.",In Progress,1,3A,train,IP-S07,IP-S07-A2,IP-S07,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A2-V04,"Listen, i’ve completed most of the exercise, with only a small part remaining.",In Progress,1,3A,train,IP-S07,IP-S07-A2,IP-S07,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A2-V05,"Okay, i’m near the end, but there’s still a little exercise left.",In Progress,1,3A,train,IP-S07,IP-S07-A2,IP-S07,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A2-V06,"In this session, only a small amount remains in the workout.",In Progress,1,3A,train,IP-S07,IP-S07-A2,IP-S07,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A3-V01,"I mean, i’m just about finished with the exercises.",In Progress,1,3A,train,IP-S07,IP-S07-A3,IP-S07,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A3-V02,"Listen, right now, the workout is close to completion, but not complete yet.",In Progress,1,3A,train,IP-S07,IP-S07-A3,IP-S07,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A3-V03,"I mean, i’m almost done with it.",In Progress,1,3A,train,IP-S07,IP-S07-A3,IP-S07,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A3-V04,"At the moment, i’ve completed most of the exercise, with only a small part remaining.",In Progress,1,3A,train,IP-S07,IP-S07-A3,IP-S07,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A3-V05,"Listen, i’m near the end, but there’s still a little exercise left.",In Progress,1,3A,train,IP-S07,IP-S07-A3,IP-S07,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S07-A3-V06,"I mean, in this session, only a small amount remains in the workout.",In Progress,1,3A,train,IP-S07,IP-S07-A3,IP-S07,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A1-V01,I have a single exercise remaining.,In Progress,1,3A,train,IP-S08,IP-S08-A1,IP-S08,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A1-V02,Only one exercise remains for me to complete.,In Progress,1,3A,train,IP-S08,IP-S08-A1,IP-S08,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A1-V03,I’m down to the last exercise.,In Progress,1,3A,train,IP-S08,IP-S08-A1,IP-S08,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A1-V04,"I’ve completed the earlier exercises, and the final one is still unfinished.",In Progress,1,3A,train,IP-S08,IP-S08-A1,IP-S08,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A1-V05,Most of the routine is done; one exercise remains.,In Progress,1,3A,train,IP-S08,IP-S08-A1,IP-S08,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A1-V06,"I’m at the final exercise, but it isn’t finished yet.",In Progress,1,3A,train,IP-S08,IP-S08-A1,IP-S08,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A2-V01,"So, i have a single exercise remaining.",In Progress,1,3A,train,IP-S08,IP-S08-A2,IP-S08,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A2-V02,"To be honest, only one exercise remains for me to complete.",In Progress,1,3A,train,IP-S08,IP-S08-A2,IP-S08,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A2-V03,"From where I am, i’m down to the last exercise.",In Progress,1,3A,train,IP-S08,IP-S08-A2,IP-S08,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A2-V04,"To be honest, i’ve completed the earlier exercises, and the final one is still unfinished.",In Progress,1,3A,train,IP-S08,IP-S08-A2,IP-S08,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A2-V05,"So, most of the routine is done; one exercise remains.",In Progress,1,3A,train,IP-S08,IP-S08-A2,IP-S08,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A2-V06,"In this session, i’m at the final exercise, but it isn’t finished yet.",In Progress,1,3A,train,IP-S08,IP-S08-A2,IP-S08,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A3-V01,"Look, i have a single exercise remaining.",In Progress,1,3A,train,IP-S08,IP-S08-A3,IP-S08,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A3-V02,"Right now, only one exercise remains for me to complete.",In Progress,1,3A,train,IP-S08,IP-S08-A3,IP-S08,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A3-V03,"Look, i’m down to the last exercise.",In Progress,1,3A,train,IP-S08,IP-S08-A3,IP-S08,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A3-V04,"At the moment, i’ve completed the earlier exercises, and the final one is still unfinished.",In Progress,1,3A,train,IP-S08,IP-S08-A3,IP-S08,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A3-V05,"As I said, most of the routine is done; one exercise remains.",In Progress,1,3A,train,IP-S08,IP-S08-A3,IP-S08,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S08-A3-V06,"Look, in this session, i’m at the final exercise, but it isn’t finished yet.",In Progress,1,3A,train,IP-S08,IP-S08-A3,IP-S08,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A1-V01,I’m nearly finished with the therapy session.,In Progress,1,3A,validation,IP-S09,IP-S09-A1,IP-S09,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A1-V02,The physiotherapy routine is close to completion.,In Progress,1,3A,validation,IP-S09,IP-S09-A1,IP-S09,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A1-V03,I’m just about through the physio session.,In Progress,1,3A,validation,IP-S09,IP-S09-A1,IP-S09,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A1-V04,"I’ve completed most of the therapy, but a small part is still left.",In Progress,1,3A,validation,IP-S09,IP-S09-A1,IP-S09,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A1-V05,"There’s only a little therapy left, although the session has been tiring.",In Progress,1,3A,validation,IP-S09,IP-S09-A1,IP-S09,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A1-V06,"The session is nearing its end, with a small amount still underway.",In Progress,1,3A,validation,IP-S09,IP-S09-A1,IP-S09,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A2-V01,"So, i’m nearly finished with the therapy session.",In Progress,1,3A,validation,IP-S09,IP-S09-A2,IP-S09,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A2-V02,"Right now, the physiotherapy routine is close to completion.",In Progress,1,3A,validation,IP-S09,IP-S09-A2,IP-S09,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A2-V03,"From where I am, i’m just about through the physio session.",In Progress,1,3A,validation,IP-S09,IP-S09-A2,IP-S09,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A2-V04,"Look, i’ve completed most of the therapy, but a small part is still left.",In Progress,1,3A,validation,IP-S09,IP-S09-A2,IP-S09,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A2-V05,"Honestly, there’s only a little therapy left, although the session has been tiring.",In Progress,1,3A,validation,IP-S09,IP-S09-A2,IP-S09,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A2-V06,"In this session, the session is nearing its end, with a small amount still underway.",In Progress,1,3A,validation,IP-S09,IP-S09-A2,IP-S09,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A3-V01,"Right, i’m nearly finished with the therapy session.",In Progress,1,3A,validation,IP-S09,IP-S09-A3,IP-S09,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A3-V02,"I mean, right now, the physiotherapy routine is close to completion.",In Progress,1,3A,validation,IP-S09,IP-S09-A3,IP-S09,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A3-V03,"Okay, i’m just about through the physio session.",In Progress,1,3A,validation,IP-S09,IP-S09-A3,IP-S09,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A3-V04,"At the moment, i’ve completed most of the therapy, but a small part is still left.",In Progress,1,3A,validation,IP-S09,IP-S09-A3,IP-S09,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A3-V05,"So, there’s only a little therapy left, although the session has been tiring.",In Progress,1,3A,validation,IP-S09,IP-S09-A3,IP-S09,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S09-A3-V06,"You know, in this session, the session is nearing its end, with a small amount still underway.",In Progress,1,3A,validation,IP-S09,IP-S09-A3,IP-S09,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A1-V01,"I’ve completed the first two exercises, with one more remaining.",In Progress,1,3A,test,IP-S10,IP-S10-A1,IP-S10,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A1-V02,"The first few steps are done, but the routine is still incomplete.",In Progress,1,3A,test,IP-S10,IP-S10-A1,IP-S10,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A1-V03,I’m through a few exercises and still have more to do.,In Progress,1,3A,test,IP-S10,IP-S10-A1,IP-S10,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A1-V04,"I’ve finished several required steps, while the remaining step is still unfinished.",In Progress,1,3A,test,IP-S10,IP-S10-A1,IP-S10,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A1-V05,Part of the routine is complete; the later exercise is still left.,In Progress,1,3A,test,IP-S10,IP-S10-A1,IP-S10,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A1-V06,"I’ve moved through the first section, and the rest is still ahead.",In Progress,1,3A,test,IP-S10,IP-S10-A1,IP-S10,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A2-V01,"So, i’ve completed the first two exercises, with one more remaining.",In Progress,1,3A,test,IP-S10,IP-S10-A2,IP-S10,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A2-V02,"Right now, the first few steps are done, but the routine is still incomplete.",In Progress,1,3A,test,IP-S10,IP-S10-A2,IP-S10,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A2-V03,"From where I am, i’m through a few exercises and still have more to do.",In Progress,1,3A,test,IP-S10,IP-S10-A2,IP-S10,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A2-V04,"I mean, i’ve finished several required steps, while the remaining step is still unfinished.",In Progress,1,3A,test,IP-S10,IP-S10-A2,IP-S10,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A2-V05,"Honestly, part of the routine is complete; the later exercise is still left.",In Progress,1,3A,test,IP-S10,IP-S10-A2,IP-S10,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A2-V06,"In this session, i’ve moved through the first section, and the rest is still ahead.",In Progress,1,3A,test,IP-S10,IP-S10-A2,IP-S10,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A3-V01,"Honestly, i’ve completed the first two exercises, with one more remaining.",In Progress,1,3A,test,IP-S10,IP-S10-A3,IP-S10,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A3-V02,"Right, right now, the first few steps are done, but the routine is still incomplete.",In Progress,1,3A,test,IP-S10,IP-S10-A3,IP-S10,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A3-V03,"As I said, i’m through a few exercises and still have more to do.",In Progress,1,3A,test,IP-S10,IP-S10-A3,IP-S10,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A3-V04,"At the moment, i’ve finished several required steps, while the remaining step is still unfinished.",In Progress,1,3A,test,IP-S10,IP-S10-A3,IP-S10,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A3-V05,"So, part of the routine is complete; the later exercise is still left.",In Progress,1,3A,test,IP-S10,IP-S10-A3,IP-S10,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S10-A3-V06,"Well, in this session, i’ve moved through the first section, and the rest is still ahead.",In Progress,1,3A,test,IP-S10,IP-S10-A3,IP-S10,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A1-V01,I’m working through the third stage of the physiotherapy routine.,In Progress,1,3A,train,IP-S11,IP-S11-A1,IP-S11,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A1-V02,"The physiotherapy sequence is underway, and I’m partway through it.",In Progress,1,3A,train,IP-S11,IP-S11-A1,IP-S11,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A1-V03,I’m in the middle of the physio routine.,In Progress,1,3A,train,IP-S11,IP-S11-A1,IP-S11,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A1-V04,I’ve completed some earlier steps and am now carrying out the next one.,In Progress,1,3A,train,IP-S11,IP-S11-A1,IP-S11,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A1-V05,"I’m partway through the sequence, with later steps still remaining.",In Progress,1,3A,train,IP-S11,IP-S11-A1,IP-S11,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A1-V06,I’ve moved beyond the opening steps and am continuing through the routine.,In Progress,1,3A,train,IP-S11,IP-S11-A1,IP-S11,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A2-V01,"So, i’m working through the third stage of the physiotherapy routine.",In Progress,1,3A,train,IP-S11,IP-S11-A2,IP-S11,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A2-V02,"Right now, the physiotherapy sequence is underway, and I’m partway through it.",In Progress,1,3A,train,IP-S11,IP-S11-A2,IP-S11,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A2-V03,"From where I am, i’m in the middle of the physio routine.",In Progress,1,3A,train,IP-S11,IP-S11-A2,IP-S11,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A2-V04,"I must say, i’ve completed some earlier steps and am now carrying out the next one.",In Progress,1,3A,train,IP-S11,IP-S11-A2,IP-S11,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A2-V05,"You know, i’m partway through the sequence, with later steps still remaining.",In Progress,1,3A,train,IP-S11,IP-S11-A2,IP-S11,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A2-V06,"In this session, i’ve moved beyond the opening steps and am continuing through the routine.",In Progress,1,3A,train,IP-S11,IP-S11-A2,IP-S11,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A3-V01,"Basically, i’m working through the third stage of the physiotherapy routine.",In Progress,1,3A,train,IP-S11,IP-S11-A3,IP-S11,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A3-V02,"Honestly, right now, the physiotherapy sequence is underway, and I’m partway through it.",In Progress,1,3A,train,IP-S11,IP-S11-A3,IP-S11,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A3-V03,"So, i’m in the middle of the physio routine.",In Progress,1,3A,train,IP-S11,IP-S11-A3,IP-S11,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A3-V04,"At the moment, i’ve completed some earlier steps and am now carrying out the next one.",In Progress,1,3A,train,IP-S11,IP-S11-A3,IP-S11,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A3-V05,"I mean, i’m partway through the sequence, with later steps still remaining.",In Progress,1,3A,train,IP-S11,IP-S11-A3,IP-S11,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S11-A3-V06,"I mean, in this session, i’ve moved beyond the opening steps and am continuing through the routine.",In Progress,1,3A,train,IP-S11,IP-S11-A3,IP-S11,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A1-V01,"I’ve completed three sets, with two still remaining.",In Progress,1,3A,train,IP-S12,IP-S12-A1,IP-S12,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A1-V02,"Three sets are done, while two more are still required.",In Progress,1,3A,train,IP-S12,IP-S12-A1,IP-S12,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A1-V03,"I’m most of the way through, but I’ve still got a couple of sets left.",In Progress,1,3A,train,IP-S12,IP-S12-A1,IP-S12,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A1-V04,"I’ve finished the first three sets, and the final two have not yet been done.",In Progress,1,3A,train,IP-S12,IP-S12-A1,IP-S12,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A1-V05,Three sets are complete; two are still to go.,In Progress,1,3A,train,IP-S12,IP-S12-A1,IP-S12,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A1-V06,"I’m well into the workout, with two sets still ahead.",In Progress,1,3A,train,IP-S12,IP-S12-A1,IP-S12,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A2-V01,"So, i’ve completed three sets, with two still remaining.",In Progress,1,3A,train,IP-S12,IP-S12-A2,IP-S12,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A2-V02,"I must say, three sets are done, while two more are still required.",In Progress,1,3A,train,IP-S12,IP-S12-A2,IP-S12,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A2-V03,"From where I am, i’m most of the way through, but I’ve still got a couple of sets left.",In Progress,1,3A,train,IP-S12,IP-S12-A2,IP-S12,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A2-V04,"Listen, i’ve finished the first three sets, and the final two have not yet been done.",In Progress,1,3A,train,IP-S12,IP-S12-A2,IP-S12,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A2-V05,"Actually, three sets are complete; two are still to go.",In Progress,1,3A,train,IP-S12,IP-S12-A2,IP-S12,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A2-V06,"In this session, i’m well into the workout, with two sets still ahead.",In Progress,1,3A,train,IP-S12,IP-S12-A2,IP-S12,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A3-V01,"Honestly, i’ve completed three sets, with two still remaining.",In Progress,1,3A,train,IP-S12,IP-S12-A3,IP-S12,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A3-V02,"Right now, three sets are done, while two more are still required.",In Progress,1,3A,train,IP-S12,IP-S12-A3,IP-S12,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A3-V03,"So, i’m most of the way through, but I’ve still got a couple of sets left.",In Progress,1,3A,train,IP-S12,IP-S12-A3,IP-S12,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A3-V04,"At the moment, i’ve finished the first three sets, and the final two have not yet been done.",In Progress,1,3A,train,IP-S12,IP-S12-A3,IP-S12,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A3-V05,"To be honest, three sets are complete; two are still to go.",In Progress,1,3A,train,IP-S12,IP-S12-A3,IP-S12,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S12-A3-V06,"As I said, in this session, i’m well into the workout, with two sets still ahead.",In Progress,1,3A,train,IP-S12,IP-S12-A3,IP-S12,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A1-V01,I began the exercise and then took a temporary pause.,In Progress,1,3A,train,IP-S13,IP-S13-A1,IP-S13,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A1-V02,The exercise was underway before I stopped briefly.,In Progress,1,3A,train,IP-S13,IP-S13-A1,IP-S13,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A1-V03,I was doing it and took a quick break.,In Progress,1,3A,train,IP-S13,IP-S13-A1,IP-S13,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A1-V04,"I had already started the exercise when I paused, so the task remains unfinished.",In Progress,1,3A,train,IP-S13,IP-S13-A1,IP-S13,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A1-V05,I started the workout but paused before completing it.,In Progress,1,3A,train,IP-S13,IP-S13-A1,IP-S13,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A1-V06,The routine is still underway despite the short break.,In Progress,1,3A,train,IP-S13,IP-S13-A1,IP-S13,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A2-V01,"So, i began the exercise and then took a temporary pause.",In Progress,1,3A,train,IP-S13,IP-S13-A2,IP-S13,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A2-V02,"Right now, the exercise was underway before I stopped briefly.",In Progress,1,3A,train,IP-S13,IP-S13-A2,IP-S13,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A2-V03,"From where I am, i was doing it and took a quick break.",In Progress,1,3A,train,IP-S13,IP-S13-A2,IP-S13,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A2-V04,"Honestly, i had already started the exercise when I paused, so the task remains unfinished.",In Progress,1,3A,train,IP-S13,IP-S13-A2,IP-S13,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A2-V05,"Look, i started the workout but paused before completing it.",In Progress,1,3A,train,IP-S13,IP-S13-A2,IP-S13,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A2-V06,"In this session, the routine is still underway despite the short break.",In Progress,1,3A,train,IP-S13,IP-S13-A2,IP-S13,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A3-V01,"Listen, i began the exercise and then took a temporary pause.",In Progress,1,3A,train,IP-S13,IP-S13-A3,IP-S13,LEX,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A3-V02,"To be honest, right now, the exercise was underway before I stopped briefly.",In Progress,1,3A,train,IP-S13,IP-S13-A3,IP-S13,SYN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A3-V03,"Right, i was doing it and took a quick break.",In Progress,1,3A,train,IP-S13,IP-S13-A3,IP-S13,NAT,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A3-V04,"At the moment, i had already started the exercise when I paused, so the task remains unfinished.",In Progress,1,3A,train,IP-S13,IP-S13-A3,IP-S13,EXP,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A3-V05,"Right, i started the workout but paused before completing it.",In Progress,1,3A,train,IP-S13,IP-S13-A3,IP-S13,LEN,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S13-A3-V06,"To be honest, in this session, the routine is still underway despite the short break.",In Progress,1,3A,train,IP-S13,IP-S13-A3,IP-S13,DSC,,,Exercise,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A1-V01,"I began the physiotherapy, but an interruption stopped me before the end.",In Progress,1,3A,validation,IP-S14,IP-S14-A1,IP-S14,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A1-V02,"The therapy was underway when I had to stop, and some work remains.",In Progress,1,3A,validation,IP-S14,IP-S14-A1,IP-S14,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A1-V03,I was in the middle of physio when I got interrupted.,In Progress,1,3A,validation,IP-S14,IP-S14-A1,IP-S14,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A1-V04,"I had already completed part of the session before the interruption, but the rest is unfinished.",In Progress,1,3A,validation,IP-S14,IP-S14-A1,IP-S14,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A1-V05,I started the session and had to pause; there is still therapy left.,In Progress,1,3A,validation,IP-S14,IP-S14-A1,IP-S14,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A1-V06,"The session was underway when I stepped away, so it remains incomplete.",In Progress,1,3A,validation,IP-S14,IP-S14-A1,IP-S14,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A2-V01,"So, i began the physiotherapy, but an interruption stopped me before the end.",In Progress,1,3A,validation,IP-S14,IP-S14-A2,IP-S14,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A2-V02,"Right now, the therapy was underway when I had to stop, and some work remains.",In Progress,1,3A,validation,IP-S14,IP-S14-A2,IP-S14,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A2-V03,"From where I am, i was in the middle of physio when I got interrupted.",In Progress,1,3A,validation,IP-S14,IP-S14-A2,IP-S14,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A2-V04,"As I said, i had already completed part of the session before the interruption, but the rest is unfinished.",In Progress,1,3A,validation,IP-S14,IP-S14-A2,IP-S14,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A2-V05,"Listen, i started the session and had to pause; there is still therapy left.",In Progress,1,3A,validation,IP-S14,IP-S14-A2,IP-S14,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A2-V06,"In this session, the session was underway when I stepped away, so it remains incomplete.",In Progress,1,3A,validation,IP-S14,IP-S14-A2,IP-S14,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A3-V01,"Basically, i began the physiotherapy, but an interruption stopped me before the end.",In Progress,1,3A,validation,IP-S14,IP-S14-A3,IP-S14,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A3-V02,"Look, right now, the therapy was underway when I had to stop, and some work remains.",In Progress,1,3A,validation,IP-S14,IP-S14-A3,IP-S14,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A3-V03,"Listen, i was in the middle of physio when I got interrupted.",In Progress,1,3A,validation,IP-S14,IP-S14-A3,IP-S14,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A3-V04,"At the moment, i had already completed part of the session before the interruption, but the rest is unfinished.",In Progress,1,3A,validation,IP-S14,IP-S14-A3,IP-S14,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A3-V05,"Actually, i started the session and had to pause; there is still therapy left.",In Progress,1,3A,validation,IP-S14,IP-S14-A3,IP-S14,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S14-A3-V06,"Well, in this session, the session was underway when I stepped away, so it remains incomplete.",In Progress,1,3A,validation,IP-S14,IP-S14-A3,IP-S14,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A1-V01,"I began the routine and then paused, with some work still remaining.",In Progress,1,3A,test,IP-S15,IP-S15-A1,IP-S15,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A1-V02,"The therapy session has started, but I stopped temporarily before finishing.",In Progress,1,3A,test,IP-S15,IP-S15-A1,IP-S15,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A1-V03,I’m partway through and will get back to it after the break.,In Progress,1,3A,test,IP-S15,IP-S15-A1,IP-S15,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A1-V04,I’ve already started the routine; the pause is temporary and the remaining work is unfinished.,In Progress,1,3A,test,IP-S15,IP-S15-A1,IP-S15,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A1-V05,I’ve started the session but paused before completing it.,In Progress,1,3A,test,IP-S15,IP-S15-A1,IP-S15,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A1-V06,I’ve made a start and will continue from where I left off.,In Progress,1,3A,test,IP-S15,IP-S15-A1,IP-S15,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A2-V01,"So, i began the routine and then paused, with some work still remaining.",In Progress,1,3A,test,IP-S15,IP-S15-A2,IP-S15,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A2-V02,"Right now, the therapy session has started, but I stopped temporarily before finishing.",In Progress,1,3A,test,IP-S15,IP-S15-A2,IP-S15,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A2-V03,"From where I am, i’m partway through and will get back to it after the break.",In Progress,1,3A,test,IP-S15,IP-S15-A2,IP-S15,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A2-V04,"I must say, i’ve already started the routine; the pause is temporary and the remaining work is unfinished.",In Progress,1,3A,test,IP-S15,IP-S15-A2,IP-S15,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A2-V05,"As I said, i’ve started the session but paused before completing it.",In Progress,1,3A,test,IP-S15,IP-S15-A2,IP-S15,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A2-V06,"In this session, i’ve made a start and will continue from where I left off.",In Progress,1,3A,test,IP-S15,IP-S15-A2,IP-S15,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A3-V01,"Okay, i began the routine and then paused, with some work still remaining.",In Progress,1,3A,test,IP-S15,IP-S15-A3,IP-S15,LEX,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A3-V02,"So, right now, the therapy session has started, but I stopped temporarily before finishing.",In Progress,1,3A,test,IP-S15,IP-S15-A3,IP-S15,SYN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A3-V03,"Actually, i’m partway through and will get back to it after the break.",In Progress,1,3A,test,IP-S15,IP-S15-A3,IP-S15,NAT,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A3-V04,"At the moment, i’ve already started the routine; the pause is temporary and the remaining work is unfinished.",In Progress,1,3A,test,IP-S15,IP-S15-A3,IP-S15,EXP,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A3-V05,"Listen, i’ve started the session but paused before completing it.",In Progress,1,3A,test,IP-S15,IP-S15-A3,IP-S15,LEN,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+IP-S15-A3-V06,"To be honest, in this session, i’ve made a start and will continue from where I left off.",In Progress,1,3A,test,IP-S15,IP-S15-A3,IP-S15,DSC,,,Physiotherapy,,,stage_3a_in_progress_variants.md,candidate,false
+`NS-S01-A-V01`,I still haven't started the exercise yet.,Not Started,2,3A,train,NS-S01,NS-S01-A,NS-S01,`LEX`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-A-V03`,"Honestly, i haven’t started the exercise yet.",Not Started,2,3A,train,NS-S01,NS-S01-A,NS-S01,`NAT`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-A-V04`,I haven’t started the exercise yet.,Not Started,2,3A,train,NS-S01,NS-S01-A,NS-S01,`EXP`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-A-V07`,"As of now, i haven’t started the exercise yet.",Not Started,2,3A,train,NS-S01,NS-S01-A,NS-S01,`PRG`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-A-V08`,"Okay, i haven’t started the exercise yet.",Not Started,2,3A,train,NS-S01,NS-S01-A,NS-S01,`CMK`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-A-V10`,"I haven’t started the exercise yet, at least not yet.",Not Started,2,3A,train,NS-S01,NS-S01-A,NS-S01,`QST`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-B-V01`,I still haven’t begun the workout.,Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`LEX`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-B-V03`,"Yeah, i still haven’t begun the exercise.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`NAT`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-B-V04`,I still haven’t begun the exercise — I haven't started it.,Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`EXP`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-B-V07`,"As of now, i still haven’t begun the exercise.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`PRG`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-B-V08`,"Basically, yeah, i still haven’t begun the exercise.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`CMK`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-B-V10`,"I still haven’t begun the exercise, at least not yet.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`QST`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-C-V01`,The exercise hasn’t been started on my side so far.,Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`LEX`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-C-V03`,"Yeah, the exercise hasn’t been started on my side yet.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`NAT`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-C-V04`,The exercise hasn’t been started on my side yet.,Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`EXP`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-C-V07`,"As of now, the exercise hasn’t been started on my side yet.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`PRG`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-C-V08`,"You know, yeah, the exercise hasn’t been started on my side yet.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`CMK`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S01-C-V10`,"The exercise hasn’t been started on my side yet, at least not yet.",Not Started,2,3A,train,NS-S01,NS-S01-,NS-S01,`QST`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-A-V01`,I still haven't taken any of the medicine yet.,Not Started,2,3A,train,NS-S02,NS-S02-A,NS-S02,`LEX`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-A-V03`,"No, i haven’t taken any of the medicine yet.",Not Started,2,3A,train,NS-S02,NS-S02-A,NS-S02,`NAT`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-A-V04`,I haven’t taken any of the medicine yet.,Not Started,2,3A,train,NS-S02,NS-S02-A,NS-S02,`EXP`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-A-V07`,"As of now, i haven’t taken any of the medicine yet.",Not Started,2,3A,train,NS-S02,NS-S02-A,NS-S02,`PRG`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-A-V08`,"Well, i haven’t taken any of the medicine yet.",Not Started,2,3A,train,NS-S02,NS-S02-A,NS-S02,`CMK`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-A-V10`,"I haven’t taken any of the medicine yet, at least not yet.",Not Started,2,3A,train,NS-S02,NS-S02-A,NS-S02,`QST`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-B-V01`,I still haven't done anything with the dose so far.,Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`LEX`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-B-V03`,"No, i haven’t done anything with the dose so far.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`NAT`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-B-V04`,I haven’t done anything with the dose so far — I haven't started it.,Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`EXP`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-B-V07`,"As of now, i haven’t done anything with the dose so far.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`PRG`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-B-V08`,"Well, i haven’t done anything with the dose so far.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`CMK`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-B-V10`,"I haven’t done anything with the dose so far, at least not yet.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`QST`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-C-V01`,The medicine is still untouched.,Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`LEX`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-C-V03`,"No, the dose is still untouched.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`NAT`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-C-V04`,The dose is still untouched — I haven't started it.,Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`EXP`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-C-V07`,"As of now, the dose is still untouched.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`PRG`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-C-V08`,"Well, the dose is still untouched.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`CMK`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S02-C-V10`,"The dose is still untouched, at least not yet.",Not Started,2,3A,train,NS-S02,NS-S02-,NS-S02,`QST`,,,Medication,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-A-V01`,I'm currently not exercising right now.,Not Started,2,3A,train,NS-S03,NS-S03-A,NS-S03,`LEX`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-A-V03`,"Yeah, i’m not exercising right now.",Not Started,2,3A,train,NS-S03,NS-S03-A,NS-S03,`NAT`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-A-V04`,I’m not exercising right now — I haven't started it.,Not Started,2,3A,train,NS-S03,NS-S03-A,NS-S03,`EXP`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-A-V07`,"As of now, i’m not exercising right now.",Not Started,2,3A,train,NS-S03,NS-S03-A,NS-S03,`PRG`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-A-V08`,"Right, yeah, i’m not exercising right now.",Not Started,2,3A,train,NS-S03,NS-S03-A,NS-S03,`CMK`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-A-V10`,"I’m not exercising right now, at least not yet.",Not Started,2,3A,train,NS-S03,NS-S03-A,NS-S03,`QST`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-B-V01`,I'm currently not doing the exercise at the moment.,Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`LEX`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-B-V03`,"No, i’m not doing the exercise at the moment.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`NAT`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-B-V04`,I’m not doing the exercise at the moment — I haven't started it.,Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`EXP`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-B-V07`,"As of now, i’m not doing the exercise at the moment.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`PRG`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-B-V08`,"Well, i’m not doing the exercise at the moment.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`CMK`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-B-V10`,"I’m not doing the exercise at the moment, at least not yet.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`QST`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-C-V01`,I'm currently not on the exercise yet.,Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`LEX`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-C-V03`,"At the moment, i’m not on the exercise yet.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`NAT`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-C-V04`,I’m not on the exercise yet.,Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`EXP`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-C-V07`,"As of now, i’m not on the exercise yet.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`PRG`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-C-V08`,"Right, i’m not on the exercise yet.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`CMK`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S03-C-V10`,"I’m not on the exercise yet, at least not yet.",Not Started,2,3A,train,NS-S03,NS-S03-,NS-S03,`QST`,,,Exercise,NS-01 Direct Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-A-V01`,I'm going to take the medicine later.,Not Started,2,3A,validation,NS-S04,NS-S04-A,NS-S04,`LEX`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-A-V03`,"At the moment, i’ll take the medicine later.",Not Started,2,3A,validation,NS-S04,NS-S04-A,NS-S04,`NAT`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-A-V04`,I’ll take the medicine later — I haven't started yet.,Not Started,2,3A,validation,NS-S04,NS-S04-A,NS-S04,`EXP`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-A-V07`,"Just to clarify, i’ll take the medicine later.",Not Started,2,3A,validation,NS-S04,NS-S04-A,NS-S04,`PRG`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-A-V08`,"Right, i’ll take the medicine later.",Not Started,2,3A,validation,NS-S04,NS-S04-A,NS-S04,`CMK`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-A-V10`,"I’ll take the medicine later, is that okay?",Not Started,2,3A,validation,NS-S04,NS-S04-A,NS-S04,`QST`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-B-V01`,I'm planning to to take it tonight.,Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`LEX`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-B-V03`,"Honestly, i’m going to take it tonight.",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`NAT`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-B-V04`,I’m going to take it tonight — I haven't started yet.,Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`EXP`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-B-V07`,"Just to clarify, i’m going to take it tonight.",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`PRG`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-B-V08`,"Okay, i’m going to take it tonight.",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`CMK`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-B-V10`,"I’m going to take it tonight, is that okay?",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`QST`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-C-V01`,I'm going to get to the dose later.,Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`LEX`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-C-V03`,"At the moment, i’ll get to the dose later.",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`NAT`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-C-V04`,I’ll get to the dose later — I haven't started yet.,Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`EXP`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-C-V07`,"Just to clarify, i’ll get to the dose later.",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`PRG`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-C-V08`,"Right, i’ll get to the dose later.",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`CMK`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S04-C-V10`,"I’ll get to the dose later, is that okay?",Not Started,2,3A,validation,NS-S04,NS-S04-,NS-S04,`QST`,,,Medication,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-A-V01`,I still haven't started the exercises yet; I’ll do them after lunch.,Not Started,2,3A,test,NS-S05,NS-S05-A,NS-S05,`LEX`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-A-V03`,"Yeah, i haven’t started the exercises yet; I’ll do them after lunch.",Not Started,2,3A,test,NS-S05,NS-S05-A,NS-S05,`NAT`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-A-V04`,I haven’t started the exercises yet; I’ll do them after lunch — I haven't started yet.,Not Started,2,3A,test,NS-S05,NS-S05-A,NS-S05,`EXP`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-A-V07`,"Just to clarify, i haven’t started the exercises yet; I’ll do them after lunch.",Not Started,2,3A,test,NS-S05,NS-S05-A,NS-S05,`PRG`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-A-V08`,"I mean, yeah, i haven’t started the exercises yet; I’ll do them after lunch.",Not Started,2,3A,test,NS-S05,NS-S05-A,NS-S05,`CMK`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-A-V10`,"I haven’t started the exercises yet; I’ll do them after lunch, is that okay?",Not Started,2,3A,test,NS-S05,NS-S05-A,NS-S05,`QST`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-B-V01`,I'm going to start the exercises this evening.,Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`LEX`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-B-V03`,"Yeah, i’ll start the exercises this evening.",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`NAT`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-B-V04`,I’ll start the exercises this evening — I haven't started yet.,Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`EXP`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-B-V07`,"Just to clarify, i’ll start the exercises this evening.",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`PRG`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-B-V08`,"I must say, yeah, i’ll start the exercises this evening.",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`CMK`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-B-V10`,"I’ll start the exercises this evening, is that okay?",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`QST`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-C-V01`,I'm going to get started on the routine when I’m back.,Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`LEX`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-C-V03`,"No, i’ll get started on the routine when I’m back.",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`NAT`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-C-V04`,I’ll get started on the routine when I’m back — I haven't started yet.,Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`EXP`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-C-V07`,"Just to clarify, i’ll get started on the routine when I’m back.",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`PRG`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-C-V08`,"Well, i’ll get started on the routine when I’m back.",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`CMK`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S05-C-V10`,"I’ll get started on the routine when I’m back, is that okay?",Not Started,2,3A,test,NS-S05,NS-S05-,NS-S05,`QST`,,,Exercise,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-A-V01`,I still haven't started it; I’ll finish the routine tonight.,Not Started,2,3A,train,NS-S06,NS-S06-A,NS-S06,`LEX`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-A-V03`,"For now, i haven’t started it; I’ll finish the routine tonight.",Not Started,2,3A,train,NS-S06,NS-S06-A,NS-S06,`NAT`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-A-V04`,I haven’t started it; I’ll finish the routine tonight — I haven't started yet.,Not Started,2,3A,train,NS-S06,NS-S06-A,NS-S06,`EXP`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-A-V07`,"Just to clarify, i haven’t started it; I’ll finish the routine tonight.",Not Started,2,3A,train,NS-S06,NS-S06-A,NS-S06,`PRG`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-A-V08`,"Honestly, i haven’t started it; I’ll finish the routine tonight.",Not Started,2,3A,train,NS-S06,NS-S06-A,NS-S06,`CMK`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-A-V10`,"I haven’t started it; I’ll finish the routine tonight, is that okay?",Not Started,2,3A,train,NS-S06,NS-S06-A,NS-S06,`QST`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-B-V01`,I'm planning to to get the physiotherapy done later.,Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`LEX`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-B-V03`,"Yeah, i’m going to get the physiotherapy done later.",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`NAT`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-B-V04`,I’m going to get the physiotherapy done later — I haven't started yet.,Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`EXP`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-B-V07`,"Just to clarify, i’m going to get the physiotherapy done later.",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`PRG`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-B-V08`,"I mean, yeah, i’m going to get the physiotherapy done later.",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`CMK`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-B-V10`,"I’m going to get the physiotherapy done later, is that okay?",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`QST`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-C-V01`,The routine is something I'm going to take care of this evening.,Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`LEX`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-C-V03`,"Yeah, the routine is something I’ll take care of this evening.",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`NAT`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-C-V04`,The routine is something I’ll take care of this evening — I haven't started yet.,Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`EXP`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-C-V07`,"Just to clarify, the routine is something I’ll take care of this evening.",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`PRG`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-C-V08`,"As I said, yeah, the routine is something I’ll take care of this evening.",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`CMK`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S06-C-V10`,"The routine is something I’ll take care of this evening, is that okay?",Not Started,2,3A,train,NS-S06,NS-S06-,NS-S06,`QST`,,,Physiotherapy,NS-02 Future / Deferred Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-A-V01`,"If I get enough time, I'm going to do the exercise.",Not Started,2,3A,train,NS-S07,NS-S07-A,NS-S07,`LEX`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-A-V03`,"Yeah, if I get enough time, I’ll do the exercise.",Not Started,2,3A,train,NS-S07,NS-S07-A,NS-S07,`NAT`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-A-V04`,"If I get enough time, I’ll do the exercise — I haven't begun the task.",Not Started,2,3A,train,NS-S07,NS-S07-A,NS-S07,`EXP`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-A-V07`,"Just to clarify, if I get enough time, I’ll do the exercise.",Not Started,2,3A,train,NS-S07,NS-S07-A,NS-S07,`PRG`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-A-V08`,"I mean, yeah, if I get enough time, I’ll do the exercise.",Not Started,2,3A,train,NS-S07,NS-S07-A,NS-S07,`CMK`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-A-V10`,"If I get enough time, I’ll do the exercise, is that okay?",Not Started,2,3A,train,NS-S07,NS-S07-A,NS-S07,`QST`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-B-V01`,I'm going to exercise if I get a free hour.,Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`LEX`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-B-V03`,"At the moment, i’ll exercise if I get a free hour.",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`NAT`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-B-V04`,I’ll exercise if I get a free hour — I haven't begun the task.,Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`EXP`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-B-V07`,"Just to clarify, i’ll exercise if I get a free hour.",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`PRG`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-B-V08`,"Right, i’ll exercise if I get a free hour.",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`CMK`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-B-V10`,"I’ll exercise if I get a free hour, is that okay?",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`QST`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-C-V01`,The exercise will happen if I can get some time later.,Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`LEX`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-C-V03`,"Honestly, the exercise will happen if I can get some time later.",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`NAT`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-C-V04`,The exercise will happen if I can get some time later — I haven't begun the task.,Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`EXP`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-C-V07`,"Just to clarify, the exercise will happen if I can get some time later.",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`PRG`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-C-V08`,"Okay, the exercise will happen if I can get some time later.",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`CMK`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S07-C-V10`,"The exercise will happen if I can get some time later, is that okay?",Not Started,2,3A,train,NS-S07,NS-S07-,NS-S07,`QST`,,,Exercise,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-A-V01`,I'm going to take the medicine after dinner.,Not Started,2,3A,train,NS-S08,NS-S08-A,NS-S08,`LEX`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-A-V03`,"For now, i’ll take the medicine after dinner.",Not Started,2,3A,train,NS-S08,NS-S08-A,NS-S08,`NAT`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-A-V04`,I’ll take the medicine after dinner — I haven't begun the task.,Not Started,2,3A,train,NS-S08,NS-S08-A,NS-S08,`EXP`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-A-V07`,"Just to clarify, i’ll take the medicine after dinner.",Not Started,2,3A,train,NS-S08,NS-S08-A,NS-S08,`PRG`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-A-V08`,"Honestly, i’ll take the medicine after dinner.",Not Started,2,3A,train,NS-S08,NS-S08-A,NS-S08,`CMK`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-A-V10`,"I’ll take the medicine after dinner, is that okay?",Not Started,2,3A,train,NS-S08,NS-S08-A,NS-S08,`QST`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-B-V01`,"Once I finish dinner, I'm going to take it.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`LEX`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-B-V03`,"At the moment, once I finish dinner, I’ll take it.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`NAT`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-B-V04`,"Once I finish dinner, I’ll take it — I haven't begun the task.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`EXP`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-B-V07`,"Just to clarify, once I finish dinner, I’ll take it.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`PRG`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-B-V08`,"Right, once I finish dinner, I’ll take it.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`CMK`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-B-V10`,"Once I finish dinner, I’ll take it, is that okay?",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`QST`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-C-V01`,The dose comes after I'm done eating.,Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`LEX`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-C-V03`,"No, the dose comes after I’m done eating.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`NAT`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-C-V04`,The dose comes after I’m done eating — I haven't begun the task.,Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`EXP`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-C-V07`,"Just to clarify, the dose comes after I’m done eating.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`PRG`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-C-V08`,"Well, the dose comes after I’m done eating.",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`CMK`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S08-C-V10`,"The dose comes after I’m done eating, is that okay?",Not Started,2,3A,train,NS-S08,NS-S08-,NS-S08,`QST`,,,Medication,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-A-V01`,"If I have enough time, I'm going to do the physiotherapy.",Not Started,2,3A,validation,NS-S09,NS-S09-A,NS-S09,`LEX`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-A-V03`,"No, if I have enough time, I’ll do the physiotherapy.",Not Started,2,3A,validation,NS-S09,NS-S09-A,NS-S09,`NAT`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-A-V04`,"If I have enough time, I’ll do the physiotherapy — I haven't begun the task.",Not Started,2,3A,validation,NS-S09,NS-S09-A,NS-S09,`EXP`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-A-V07`,"Just to clarify, if I have enough time, I’ll do the physiotherapy.",Not Started,2,3A,validation,NS-S09,NS-S09-A,NS-S09,`PRG`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-A-V08`,"Well, if I have enough time, I’ll do the physiotherapy.",Not Started,2,3A,validation,NS-S09,NS-S09-A,NS-S09,`CMK`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-A-V10`,"If I have enough time, I’ll do the physiotherapy, is that okay?",Not Started,2,3A,validation,NS-S09,NS-S09-A,NS-S09,`QST`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-B-V01`,I'm going to do the routine if I get a break later.,Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`LEX`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-B-V03`,"Honestly, i’ll do the routine if I get a break later.",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`NAT`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-B-V04`,I’ll do the routine if I get a break later — I haven't begun the task.,Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`EXP`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-B-V07`,"Just to clarify, i’ll do the routine if I get a break later.",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`PRG`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-B-V08`,"Okay, i’ll do the routine if I get a break later.",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`CMK`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-B-V10`,"I’ll do the routine if I get a break later, is that okay?",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`QST`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-C-V01`,I can get to the therapy if I'm free this evening.,Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`LEX`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-C-V03`,"Yeah, i can get to the therapy if I’m free this evening.",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`NAT`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-C-V04`,I can get to the therapy if I’m free this evening — I haven't begun the task.,Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`EXP`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-C-V07`,"Just to clarify, i can get to the therapy if I’m free this evening.",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`PRG`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-C-V08`,"Basically, yeah, i can get to the therapy if I’m free this evening.",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`CMK`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S09-C-V10`,"I can get to the therapy if I’m free this evening, is that okay?",Not Started,2,3A,validation,NS-S09,NS-S09-,NS-S09,`QST`,,,Physiotherapy,NS-03 Conditional Future Action,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-A-V01`,I'm currently not going to do the exercise.,Not Started,2,3A,test,NS-S10,NS-S10-A,NS-S10,`LEX`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-A-V03`,"Honestly, i’m not going to do the exercise.",Not Started,2,3A,test,NS-S10,NS-S10-A,NS-S10,`NAT`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-A-V04`,I’m not going to do the exercise — I haven't started it.,Not Started,2,3A,test,NS-S10,NS-S10-A,NS-S10,`EXP`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-A-V07`,My answer is no — i’m not going to do the exercise.,Not Started,2,3A,test,NS-S10,NS-S10-A,NS-S10,`PRG`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-A-V08`,"Okay, i’m not going to do the exercise.",Not Started,2,3A,test,NS-S10,NS-S10-A,NS-S10,`CMK`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-A-V10`,"I’m not going to do the exercise, okay?",Not Started,2,3A,test,NS-S10,NS-S10-A,NS-S10,`QST`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-B-V01`,"No, I'm currently not doing it.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`LEX`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-B-V03`,"At the moment, no, I’m not doing it.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`NAT`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-B-V04`,"No, I’m not doing it — I haven't started it.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`EXP`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-B-V07`,"My answer is no — no, I’m not doing it.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`PRG`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-B-V08`,"Right, no, I’m not doing it.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`CMK`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-B-V10`,"No, I’m not doing it, okay?",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`QST`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-C-V01`,I'm going to pass on the exercise today.,Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`LEX`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-C-V03`,"For now, i’ll pass on the exercise today.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`NAT`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-C-V04`,I’ll pass on the exercise today — I haven't started it.,Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`EXP`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-C-V07`,My answer is no — i’ll pass on the exercise today.,Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`PRG`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-C-V08`,"Honestly, i’ll pass on the exercise today.",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`CMK`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S10-C-V10`,"I’ll pass on the exercise today, okay?",Not Started,2,3A,test,NS-S10,NS-S10-,NS-S10,`QST`,,,Exercise,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-A-V01`,I'm currently not going to take the medicine.,Not Started,2,3A,train,NS-S11,NS-S11-A,NS-S11,`LEX`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-A-V03`,"Yeah, i’m not going to take the medicine.",Not Started,2,3A,train,NS-S11,NS-S11-A,NS-S11,`NAT`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-A-V04`,I’m not going to take the medicine — I haven't started it.,Not Started,2,3A,train,NS-S11,NS-S11-A,NS-S11,`EXP`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-A-V07`,My answer is no — i’m not going to take the medicine.,Not Started,2,3A,train,NS-S11,NS-S11-A,NS-S11,`PRG`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-A-V08`,"Basically, yeah, i’m not going to take the medicine.",Not Started,2,3A,train,NS-S11,NS-S11-A,NS-S11,`CMK`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-A-V10`,"I’m not going to take the medicine, okay?",Not Started,2,3A,train,NS-S11,NS-S11-A,NS-S11,`QST`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-B-V01`,I don’t want to do the therapy routine.,Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`LEX`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-B-V03`,"Yeah, i don’t want to do the routine.",Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`NAT`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-B-V04`,I don’t want to do the routine — I haven't started it.,Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`EXP`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-B-V07`,My answer is no — i don’t want to do the routine.,Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`PRG`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-B-V08`,"Well, yeah, i don’t want to do the routine.",Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`CMK`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-B-V10`,"I don’t want to do the routine, okay?",Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`QST`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-C-V01`,I'm skipping the therapy today.,Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`LEX`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-C-V03`,"At the moment, i’m skipping the therapy today.",Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`NAT`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-C-V04`,I’m skipping the therapy today — I haven't started it.,Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`EXP`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-C-V07`,My answer is no — i’m skipping the therapy today.,Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`PRG`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-C-V08`,"Right, i’m skipping the therapy today.",Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`CMK`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S11-C-V10`,"I’m skipping the therapy today, okay?",Not Started,2,3A,train,NS-S11,NS-S11-,NS-S11,`QST`,,,Physiotherapy,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-A-V01`,"No, I won’t do it.",Not Started,2,3A,train,NS-S12,NS-S12-A,NS-S12,`LEX`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-A-V03`,"Yeah, no, I won’t do it.",Not Started,2,3A,train,NS-S12,NS-S12-A,NS-S12,`NAT`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-A-V04`,"No, I won’t do it — I haven't started it.",Not Started,2,3A,train,NS-S12,NS-S12-A,NS-S12,`EXP`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-A-V07`,"My answer is no — no, I won’t do it.",Not Started,2,3A,train,NS-S12,NS-S12-A,NS-S12,`PRG`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-A-V08`,"Look, yeah, no, I won’t do it.",Not Started,2,3A,train,NS-S12,NS-S12-A,NS-S12,`CMK`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-A-V10`,"No, I won’t do it, okay?",Not Started,2,3A,train,NS-S12,NS-S12-A,NS-S12,`QST`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-B-V01`,I'm currently not doing that.,Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`LEX`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-B-V03`,"Yeah, i’m not doing that.",Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`NAT`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-B-V04`,I’m not doing that — I haven't started it.,Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`EXP`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-B-V07`,My answer is no — i’m not doing that.,Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`PRG`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-B-V08`,"Right, yeah, i’m not doing that.",Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`CMK`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-B-V10`,"I’m not doing that, okay?",Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`QST`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-C-V01`,I'm going to pass.,Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`LEX`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-C-V03`,"At the moment, i’ll pass.",Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`NAT`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-C-V04`,I’ll pass — I haven't started it.,Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`EXP`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-C-V07`,My answer is no — i’ll pass.,Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`PRG`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-C-V08`,"Right, i’ll pass.",Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`CMK`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S12-C-V10`,"I’ll pass, okay?",Not Started,2,3A,train,NS-S12,NS-S12-,NS-S12,`QST`,,,Hydration,NS-04 Refusal Without Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-A-V01`,I still haven't exercised because I’m too busy.,Not Started,2,3A,train,NS-S13,NS-S13-A,NS-S13,`LEX`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-A-V03`,"Honestly, i haven’t exercised because I’m too busy.",Not Started,2,3A,train,NS-S13,NS-S13-A,NS-S13,`NAT`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-A-V04`,I haven’t exercised because I’m too busy — the task hasn't started.,Not Started,2,3A,train,NS-S13,NS-S13-A,NS-S13,`EXP`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-A-V07`,"As of now, i haven’t exercised because I’m too busy.",Not Started,2,3A,train,NS-S13,NS-S13-A,NS-S13,`PRG`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-A-V08`,"Okay, i haven’t exercised because I’m too busy.",Not Started,2,3A,train,NS-S13,NS-S13-A,NS-S13,`CMK`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-A-V10`,"I haven’t exercised because I’m too busy, at least not yet.",Not Started,2,3A,train,NS-S13,NS-S13-A,NS-S13,`QST`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-B-V01`,I still haven't had time to do the exercises.,Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`LEX`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-B-V03`,"At the moment, i haven’t had time to do the exercises.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`NAT`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-B-V04`,I haven’t had time to do the exercises — the task hasn't started.,Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`EXP`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-B-V07`,"As of now, i haven’t had time to do the exercises.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`PRG`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-B-V08`,"Right, i haven’t had time to do the exercises.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`CMK`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-B-V10`,"I haven’t had time to do the exercises, at least not yet.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`QST`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-C-V01`,The exercise hasn’t happened; my schedule has been packed.,Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`LEX`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-C-V03`,"For now, the exercise hasn’t happened; my schedule has been packed.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`NAT`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-C-V04`,The exercise hasn’t happened; my schedule has been packed — the task hasn't started.,Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`EXP`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-C-V07`,"As of now, the exercise hasn’t happened; my schedule has been packed.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`PRG`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-C-V08`,"Honestly, the exercise hasn’t happened; my schedule has been packed.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`CMK`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S13-C-V10`,"The exercise hasn’t happened; my schedule has been packed, at least not yet.",Not Started,2,3A,train,NS-S13,NS-S13-,NS-S13,`QST`,,,Exercise,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-A-V01`,It slipped my mind to take the medicine.,Not Started,2,3A,validation,NS-S14,NS-S14-A,NS-S14,`LEX`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-A-V03`,"Yeah, i forgot to take the medicine.",Not Started,2,3A,validation,NS-S14,NS-S14-A,NS-S14,`NAT`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-A-V04`,I forgot to take the medicine — the task hasn't started.,Not Started,2,3A,validation,NS-S14,NS-S14-A,NS-S14,`EXP`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-A-V07`,"As of now, i forgot to take the medicine.",Not Started,2,3A,validation,NS-S14,NS-S14-A,NS-S14,`PRG`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-A-V08`,"I mean, yeah, i forgot to take the medicine.",Not Started,2,3A,validation,NS-S14,NS-S14-A,NS-S14,`CMK`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-A-V10`,"I forgot to take the medicine, at least not yet.",Not Started,2,3A,validation,NS-S14,NS-S14-A,NS-S14,`QST`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-B-V01`,I completely forgot about the medicine.,Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`LEX`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-B-V03`,"For now, i completely forgot about the dose.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`NAT`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-B-V04`,I completely forgot about the dose — the task hasn't started.,Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`EXP`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-B-V07`,"As of now, i completely forgot about the dose.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`PRG`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-B-V08`,"Honestly, i completely forgot about the dose.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`CMK`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-B-V10`,"I completely forgot about the dose, at least not yet.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`QST`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-C-V01`,The medicine never got taken because It slipped my mind.,Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`LEX`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-C-V03`,"No, the medicine never got taken because I forgot.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`NAT`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-C-V04`,The medicine never got taken because I forgot — the task hasn't started.,Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`EXP`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-C-V07`,"As of now, the medicine never got taken because I forgot.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`PRG`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-C-V08`,"Well, the medicine never got taken because I forgot.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`CMK`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S14-C-V10`,"The medicine never got taken because I forgot, at least not yet.",Not Started,2,3A,validation,NS-S14,NS-S14-,NS-S14,`QST`,,,Medication,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-A-V01`,I wasn't able to start the physiotherapy today.,Not Started,2,3A,test,NS-S15,NS-S15-A,NS-S15,`LEX`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-A-V03`,"For now, i couldn’t start the physiotherapy today.",Not Started,2,3A,test,NS-S15,NS-S15-A,NS-S15,`NAT`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-A-V04`,I couldn’t start the physiotherapy today — the task hasn't started.,Not Started,2,3A,test,NS-S15,NS-S15-A,NS-S15,`EXP`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-A-V07`,"As of now, i couldn’t start the physiotherapy today.",Not Started,2,3A,test,NS-S15,NS-S15-A,NS-S15,`PRG`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-A-V08`,"Honestly, i couldn’t start the physiotherapy today.",Not Started,2,3A,test,NS-S15,NS-S15-A,NS-S15,`CMK`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-A-V10`,"I couldn’t start the physiotherapy today, at least not yet.",Not Started,2,3A,test,NS-S15,NS-S15-A,NS-S15,`QST`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-B-V01`,I wasn't in a position to do the routine.,Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`LEX`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-B-V03`,"No, i wasn’t able to do the routine.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`NAT`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-B-V04`,I wasn’t able to do the routine — the task hasn't started.,Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`EXP`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-B-V07`,"As of now, i wasn’t able to do the routine.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`PRG`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-B-V08`,"Well, i wasn’t able to do the routine.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`CMK`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-B-V10`,"I wasn’t able to do the routine, at least not yet.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`QST`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-C-V01`,I never got to the therapy because I wasn't able to.,Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`LEX`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-C-V03`,"Honestly, i never got to the therapy because I couldn’t.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`NAT`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-C-V04`,I never got to the therapy because I couldn’t — the task hasn't started.,Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`EXP`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-C-V07`,"As of now, i never got to the therapy because I couldn’t.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`PRG`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-C-V08`,"Okay, i never got to the therapy because I couldn’t.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`CMK`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false
+`NS-S15-C-V10`,"I never got to the therapy because I couldn’t, at least not yet.",Not Started,2,3A,test,NS-S15,NS-S15-,NS-S15,`QST`,,,Physiotherapy,NS-05 Reason-Linked Non-Execution,,stage_3a_not_started_variants.md,candidate,false

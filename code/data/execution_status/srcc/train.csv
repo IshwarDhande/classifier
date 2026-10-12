@@ -1,0 +1,221 @@
+serial_id,utterance,execution_status
+001,Skipped.,not_started
+002,Finalized.,completed
+003,Already done.,completed
+004,I'm still trying to finish.,in_progress
+005,Completing.,in_progress
+006,Haven't started.,not_started
+007,Making progress.,in_progress
+008,It's finished.,completed
+009,It's completed.,completed
+010,I finished everything required.,completed
+011,Trying.,in_progress
+012,Later then.,not_started
+013,I haven't done it yet.,not_started
+014,Finished.,completed
+015,I'll get to it later.,not_started
+016,Progressing.,in_progress
+017,Not finished.,in_progress
+018,I completed it successfully.,completed
+019,I've finished the task.,completed
+020,Not begun.,not_started
+021,I've done part of it.,in_progress
+022,Eventually.,not_started
+023,Partly done.,in_progress
+024,I'm nearly done with it.,in_progress
+025,I haven't attempted it yet.,not_started
+026,Done.,completed
+027,Refused.,not_started
+028,Soon.,not_started
+029,The task is finished.,completed
+030,I'm almost finished with it.,in_progress
+031,Haven't done.,not_started
+032,Attained.,completed
+033,Ongoing now.,in_progress
+034,I'm still in the middle.,in_progress
+035,Concluded.,completed
+036,Still going.,in_progress
+037,I wasn't able to start.,not_started
+038,I'm doing it right now.,in_progress
+039,I still haven't started.,not_started
+040,Developing.,in_progress
+041,Still trying.,in_progress
+042,I couldn't start it.,not_started
+043,That's finished.,completed
+044,I haven't had time.,not_started
+045,All done.,completed
+046,Task finished.,completed
+047,Still working.,in_progress
+048,Working.,in_progress
+049,I'm making progress on it.,in_progress
+050,Maybe later.,not_started
+051,Processing.,in_progress
+052,I'm still working on it.,in_progress
+053,Not today.,not_started
+054,Delivered.,completed
+055,I forgot to start it.,not_started
+056,Work finished.,completed
+057,I already completed it.,completed
+058,Still incomplete.,in_progress
+059,Forgot.,not_started
+060,Attempting.,in_progress
+061,I have already finished.,completed
+062,Fulfilled.,completed
+063,Halfway through.,in_progress
+064,Submitted.,completed
+065,Work completed.,completed
+066,Resolved.,completed
+067,Declined.,not_started
+068,Can't yet.,not_started
+069,Proceeding.,in_progress
+070,I haven't tried it yet.,not_started
+071,Avoided.,not_started
+072,"I started, but need more time.",in_progress
+073,Not started.,not_started
+074,Nearly there.,in_progress
+075,I'm working.,in_progress
+076,Deferred.,not_started
+077,I haven't gotten started.,not_started
+078,Continuing.,in_progress
+079,Ongoing.,in_progress
+080,Canceled.,not_started
+081,Practicing.,in_progress
+082,Finally finished.,completed
+083,The work is complete.,completed
+084,Accomplished.,completed
+085,Fully completed.,completed
+086,Haven't begun.,not_started
+087,Fully done.,completed
+088,Started.,in_progress
+089,That's completed.,completed
+090,I'll wait.,not_started
+091,Later.,not_started
+092,I've done everything.,completed
+093,Already completed.,completed
+094,Already started.,in_progress
+095,I have finished it.,completed
+096,Advancing.,in_progress
+097,I've completed it.,completed
+098,Achieved.,completed
+099,I'm still working through it.,in_progress
+100,Settled.,completed
+101,Couldn't start.,not_started
+102,"I've started, but it's unfinished.",in_progress
+103,Everything's done.,completed
+104,There's still some left.,in_progress
+105,Almost finished.,in_progress
+106,I haven't begun it yet.,not_started
+107,Didn't start.,not_started
+108,I finished it already.,completed
+109,The task has been finished.,completed
+110,Postponed.,not_started
+111,Underway.,in_progress
+112,I'm halfway through it.,in_progress
+113,Cancelled.,not_started
+114,Work continues.,in_progress
+115,Everything is done now.,completed
+116,Completed.,completed
+117,Unable.,not_started
+118,The work has been completed.,completed
+119,Still haven't.,not_started
+120,I haven't started it yet.,not_started
+121,I'll do it later.,not_started
+122,I still haven't begun.,not_started
+123,Executed.,completed
+124,Tomorrow.,not_started
+125,Not yet.,not_started
+126,I'm continuing with it.,in_progress
+127,I haven't begun yet.,not_started
+128,Trying to get it done.,in_progress
+129,I've been trying.,in_progress
+130,I've been trying to finish.,in_progress
+131,I finished everything required.,completed
+132,Completed.,completed
+133,It's all done.,completed
+134,Never begun.,not_started
+135,It's finished now.,completed
+136,I'm trying to get it done.,in_progress
+137,I've finished it.,completed
+138,Finally finished.,completed
+139,I'm already trying.,in_progress
+140,I haven't even begun.,not_started
+141,I'm trying now.,in_progress
+142,Never tried it.,not_started
+143,I'm trying.,in_progress
+144,I completed it successfully.,completed
+145,Haven't attempted it.,not_started
+146,I've completed it.,completed
+147,I'm trying to finish.,in_progress
+148,Not attempted.,not_started
+149,Still trying.,in_progress
+150,Everything is done.,completed
+151,I haven't attempted yet.,not_started
+152,Haven't begun yet.,not_started
+153,I haven't tried it.,not_started
+154,Fully finished.,completed
+155,It's been completed.,completed
+156,I haven't even attempted it.,not_started
+157,I haven't attempted it.,not_started
+158,Already trying.,in_progress
+159,Trying.,in_progress
+160,"Yes, it's finished.",completed
+161,I still haven't tried.,not_started
+162,I'm still trying.,in_progress
+163,I still haven't tried it.,not_started
+164,Finished now.,completed
+165,That's been taken care of.,completed
+166,I got it finished.,completed
+167,There's nothing left.,completed
+168,I got it done.,completed
+169,I've finished.,completed
+170,I'm continuing to try.,in_progress
+171,Still not begun.,not_started
+172,Trying to complete it.,in_progress
+173,Already finished.,completed
+174,It's all done.,completed
+175,Never attempted.,not_started
+176,Trying now.,in_progress
+177,I got it done.,completed
+178,It's already finished.,completed
+179,Nothing remains.,completed
+180,Haven't begun.,not_started
+181,I've finished that.,completed
+182,I'm still trying to finish.,in_progress
+183,Done.,completed
+184,All finished.,completed
+185,It's finished.,completed
+186,I have finished it.,completed
+187,Trying it.,in_progress
+188,Haven't tried yet.,not_started
+189,Completely finished.,completed
+190,I haven't begun.,not_started
+191,It's completely done.,completed
+192,Still not attempted.,not_started
+193,I finished it.,completed
+194,Done.,completed
+195,I haven't tried yet.,not_started
+196,I'm trying to complete it.,in_progress
+197,I haven't tried.,not_started
+198,Trying to finish.,in_progress
+199,Never tried.,not_started
+200,Finished.,completed
+201,I still haven't begun.,not_started
+202,Haven't attempted yet.,not_started
+203,Not begun.,not_started
+204,I finished it.,completed
+205,The task is done.,completed
+206,Haven't tried.,not_started
+207,I haven't tried it yet.,not_started
+208,Finished.,completed
+209,Still trying to finish.,in_progress
+210,Haven't attempted.,not_started
+211,Finished already.,completed
+212,I haven't begun it.,not_started
+213,That's finished.,completed
+214,It's finally finished.,completed
+215,The work is finished.,completed
+216,I already did it.,completed
+217,It's taken care of.,completed
+218,It's completely done.,completed
+219,It's all finished.,completed
+220,I still haven't attempted it.,not_started

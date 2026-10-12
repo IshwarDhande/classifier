@@ -1,0 +1,241 @@
+example_id,parent_id,lineage_id,boundary_id,track,response_category,closest_competing_category,variation_type,hard_negative_mechanism,task_domain,utterance,split
+MP03-06-V01-I,MP03-06,MP03-06-V01,MP03,2B,I,N,LEX,,,Setting up a medication alert is an option.,test
+MP03-06-V01-N,MP03-06,MP03-06-V01,MP03,2B,N,I,LEX,,,I refuse to set up a medication alert.,test
+MP03-06-V02-I,MP03-06,MP03-06-V02,MP03,2B,I,N,SYN,,,A medication reminder could be useful.,test
+MP03-06-V02-N,MP03-06,MP03-06-V02,MP03,2B,N,I,SYN,,,I’d prefer to manage my medication without an additional reminder.,test
+MP03-06-V03-I,MP03-06,MP03-06-V03,MP03,2B,I,N,NAT,,,A reminder might help.,test
+MP03-06-V03-N,MP03-06,MP03-06-V03,MP03,2B,N,I,NAT,,,I don’t really want another reminder for my medication.,test
+MP03-06-V04-I,MP03-06,MP03-06-V04,MP03,2B,I,N,EXP,,,I can understand how a medication reminder could be useful.,test
+MP03-06-V04-N,MP03-06,MP03-06-V04,MP03,2B,N,I,EXP,,,"I can see how a reminder could help, but I’d rather manage my medication on my own.",test
+MP03-06-V05-I,MP03-06,MP03-06-V05,MP03,2B,I,N,LEN,,,A reminder could help.,test
+MP03-06-V05-N,MP03-06,MP03-06-V05,MP03,2B,N,I,LEN,,,I’d rather not have another reminder.,test
+MP03-06-V06-I,MP03-06,MP03-06-V06,MP03,2B,I,N,CMK,,,"Okay, a medication reminder is one possibility.",test
+MP03-06-V06-N,MP03-06,MP03-06-V06,MP03,2B,N,I,CMK,,,"Okay, but I’d rather manage my medication without another reminder.",test
+MP05-06-V01-VP,MP05-06,MP05-06-V01,MP05,2B,VP,I,LEX,,,I'm glad to set up a medication alert tonight.,test
+MP05-06-V01-I,MP05-06,MP05-06-V01,MP05,2B,I,VP,LEX,,,Setting up a medication alert tonight is an option.,test
+MP05-06-V02-VP,MP05-06,MP05-06-V02,MP05,2B,VP,I,SYN,,,I’ll make sure I take my evening medication tonight.,test
+MP05-06-V02-I,MP05-06,MP05-06-V02,MP05,2B,I,VP,SYN,,,An evening medication reminder could be useful; I’ll consider it.,test
+MP05-06-V03-VP,MP05-06,MP05-06-V03,MP05,2B,VP,I,NAT,,,I’ll take my evening medication tonight.,test
+MP05-06-V03-I,MP05-06,MP05-06-V03,MP05,2B,I,VP,NAT,,,I could consider an evening medication reminder.,test
+MP05-06-V04-VP,MP05-06,MP05-06-V04,MP05,2B,VP,I,EXP,,,I’ll make sure I take my evening medication tonight,test
+MP05-06-V04-I,MP05-06,MP05-06-V04,MP05,2B,I,VP,EXP,,,"An evening medication reminder might help, but I haven’t decided whether I want to rely on one.",test
+MP05-06-V05-VP,MP05-06,MP05-06-V05,MP05,2B,VP,I,LEN,,,I’ll take my evening medication tonight.,test
+MP05-06-V05-I,MP05-06,MP05-06-V05,MP05,2B,I,VP,LEN,,,I could consider a reminder for my evening medication.,test
+MP05-06-V06-VP,MP05-06,MP05-06-V06,MP05,2B,VP,I,CMK,,,I’ll make sure I take my evening medication tonight.,test
+MP05-06-V06-I,MP05-06,MP05-06-V06,MP05,2B,I,VP,CMK,,,"Okay, an evening medication reminder is one possibility.",test
+MP02-06-V01-P,MP02-06,MP02-06-V01,MP02,2B,P,I,LEX,,,I'll complete my physical therapy prior to dinner.,test
+MP02-06-V01-I,MP02-06,MP02-06-V01,MP02,2B,I,P,LEX,,,Completing my physical therapy prior to dinner is feasible.,test
+MP02-06-V02-P,MP02-06,MP02-06-V02,MP02,2B,P,I,SYN,,,I’ll complete the physiotherapy movements before dinner.,test
+MP02-06-V02-I,MP02-06,MP02-06-V02,MP02,2B,I,P,SYN,,,Doing the physiotherapy movements before dinner is something I could consider.,test
+MP02-06-V03-P,MP02-06,MP02-06-V03,MP02,2B,P,I,NAT,,,"Sure, I’ll do the physiotherapy movements before dinner.",test
+MP02-06-V03-I,MP02-06,MP02-06-V03,MP02,2B,I,P,NAT,,,I could do the physiotherapy movements before dinner.,test
+MP02-06-V04-P,MP02-06,MP02-06-V04,MP02,2B,P,I,EXP,,,I’ll do the physiotherapy movements before dinner so I get them done before I sit down to eat.,test
+MP02-06-V04-I,MP02-06,MP02-06-V04,MP02,2B,I,P,EXP,,,Doing the physiotherapy movements before dinner could be one way to fit them into my evening.,test
+MP02-06-V05-P,MP02-06,MP02-06-V05,MP02,2B,P,I,LEN,,,I’ll do them before dinner.,test
+MP02-06-V05-I,MP02-06,MP02-06-V05,MP02,2B,I,P,LEN,,,I could do them before dinner.,test
+MP02-06-V06-P,MP02-06,MP02-06-V06,MP02,2B,P,I,CMK,,,"Alright, I’ll do the physiotherapy movements before dinner.",test
+MP02-06-V06-I,MP02-06,MP02-06-V06,MP02,2B,I,P,CMK,,,"Alright, doing them before dinner is one possibility.",test
+MP08-06-V01-P,MP08-06,MP08-06-V01,MP08,2B,P,N,LEX,,,I'll perform physical therapy in the evening.,test
+MP08-06-V01-N,MP08-06,MP08-06-V01,MP08,2B,N,P,LEX,,,I prefer not to perform physical therapy in the evening.,test
+MP08-06-V02-P,MP08-06,MP08-06-V02,MP08,2B,P,N,SYN,,,"Sure, I’ll complete the physiotherapy exercises before my evening routine.",test
+MP08-06-V02-N,MP08-06,MP08-06-V02,MP08,2B,N,P,SYN,,,That timing isn’t convenient for me; I’d prefer to finish the exercises earlier.,test
+MP08-06-V03-P,MP08-06,MP08-06-V03,MP08,2B,P,N,NAT,,,"Okay, I’ll do the exercises before my evening routine.",test
+MP08-06-V03-N,MP08-06,MP08-06-V03,MP08,2B,N,P,NAT,,,I’d rather do the exercises earlier.,test
+MP08-06-V04-P,MP08-06,MP08-06-V04,MP08,2B,P,N,EXP,,,I can do the physiotherapy exercises before my evening routine and get them finished before I settle down for the evening.,test
+MP08-06-V04-N,MP08-06,MP08-06-V04,MP08,2B,N,P,EXP,,,I’d rather finish the physiotherapy exercises earlier because that timing works better with my routine.,test
+MP08-06-V05-P,MP08-06,MP08-06-V05,MP08,2B,P,N,LEN,,,I’ll do them before my evening routine.,test
+MP08-06-V05-N,MP08-06,MP08-06-V05,MP08,2B,N,P,LEN,,,I’d rather do them earlier.,test
+MP08-06-V06-P,MP08-06,MP08-06-V06,MP08,2B,P,N,CMK,,,I'll get the physiotherapy exercises completed before dinner.,test
+MP08-06-V06-N,MP08-06,MP08-06-V06,MP08,2B,N,P,CMK,,,"Alright, but that timing doesn’t really work for me.",test
+MP01-06-V01-VP,MP01-06,MP01-06-V01,MP01,2B,VP,P,LEX,,,I'll enthusiastically consume a glass of water prior to dinner.,test
+MP01-06-V01-P,MP01-06,MP01-06-V01,MP01,2B,P,VP,LEX,,,I'll consume a glass of water prior to dinner.,test
+MP01-06-V02-VP,MP01-06,MP01-06-V02,MP01,2B,VP,P,SYN,,,I’ll drink some water before dinner tonight.,test
+MP01-06-V02-P,MP01-06,MP01-06-V02,MP01,2B,P,VP,SYN,,,"Alright, I’ll drink some water before dinner tonight.",test
+MP01-06-V03-VP,MP01-06,MP01-06-V03,MP01,2B,VP,P,NAT,,,I’ll have some water before dinner tonight.,test
+MP01-06-V03-P,MP01-06,MP01-06-V03,MP01,2B,P,VP,NAT,,,"Sure, I’ll have some water before dinner tonight.",test
+MP01-06-V04-VP,MP01-06,MP01-06-V04,MP01,2B,VP,P,EXP,,,I’ll have a glass of water before dinner tonight,test
+MP01-06-V04-P,MP01-06,MP01-06-V04,MP01,2B,P,VP,EXP,,,I’ll have a glass of water before dinner tonight.,test
+MP01-06-V05-VP,MP01-06,MP01-06-V05,MP01,2B,VP,P,LEN,,,I’ll have some water before dinner.,test
+MP01-06-V05-P,MP01-06,MP01-06-V05,MP01,2B,P,VP,LEN,,,"Okay, I’ll have some water before dinner.",test
+MP01-06-V06-VP,MP01-06,MP01-06-V06,MP01,2B,VP,P,CMK,,,I’ll have a glass of water before dinner tonight.,test
+MP01-06-V06-P,MP01-06,MP01-06-V06,MP01,2B,P,VP,CMK,,,"Yes, I’ll have a glass of water before dinner tonight.",test
+MP04-06-V01-N,MP04-06,MP04-06-V01,MP04,2B,N,VN,LEX,,,I decline to perform physical therapy in the evening.,test
+MP04-06-V01-VN,MP04-06,MP04-06-V01,MP04,2B,VN,N,LEX,,,Stop bothering me about performing physical therapy in the evening.,test
+MP04-06-V02-N,MP04-06,MP04-06-V02,MP04,2B,N,VN,SYN,,,That time doesn’t work well for me; I’d rather complete the physiotherapy movements earlier.,test
+MP04-06-V02-VN,MP04-06,MP04-06-V02,MP04,2B,VN,N,SYN,,,"I refuse to do the physiotherapy movements tonight, and I don’t want this topic raised again.",test
+MP04-06-V03-N,MP04-06,MP04-06-V03,MP04,2B,N,VN,NAT,,,Tonight doesn’t really work for me. I’d rather do the exercises earlier.,test
+MP04-06-V03-VN,MP04-06,MP04-06-V03,MP04,2B,VN,N,NAT,,,"No, I’m not doing physiotherapy tonight. Stop bringing up my exercises.",test
+MP04-06-V04-N,MP04-06,MP04-06-V04,MP04,2B,N,VN,EXP,,,"That timing doesn’t fit my routine, so I’d rather finish the physiotherapy movements earlier in the day.",test
+MP04-06-V04-VN,MP04-06,MP04-06-V04,MP04,2B,VN,N,EXP,,,"I’m not doing my physiotherapy movements tonight, and I’m done with you bringing up my exercises.",test
+MP04-06-V05-N,MP04-06,MP04-06-V05,MP04,2B,N,VN,LEN,,,I’d rather do them earlier.,test
+MP04-06-V05-VN,MP04-06,MP04-06-V05,MP04,2B,VN,N,LEN,,,No. I’m not doing them tonight. Stop bringing it up.,test
+MP04-06-V06-N,MP04-06,MP04-06-V06,MP04,2B,N,VN,CMK,,,"Okay, but that timing doesn’t work for me. I’d rather do them earlier.",test
+MP04-06-V06-VN,MP04-06,MP04-06-V06,MP04,2B,VN,N,CMK,,,"No, I’m not doing physiotherapy tonight. Please stop bringing it up.",test
+MP07-06-V01-VP,MP07-06,MP07-06-V01,MP07,2B,VP,VN,LEX,,,I'll excitedly set up a medication alert.,test
+MP07-06-V01-VN,MP07-06,MP07-06-V01,MP07,2B,VN,VP,LEX,,,Stop pushing me to set up a medication alert.,test
+MP07-06-V02-VP,MP07-06,MP07-06-V02,MP07,2B,VP,VN,SYN,,,"That sounds extremely helpful. I’ll make sure I take my evening medication tonight, and I’m glad to have a system for it.",test
+MP07-06-V02-VN,MP07-06,MP07-06-V02,MP07,2B,VN,VP,SYN,,,"I refuse to change how I manage my medication, and I don’t want you interfering with it again.",test
+MP07-06-V03-VP,MP07-06,MP07-06-V03,MP07,2B,VP,VN,NAT,,,I’ll make sure I take my evening medication tonight.,test
+MP07-06-V03-VN,MP07-06,MP07-06-V03,MP07,2B,VN,VP,NAT,,,"No, I’m handling my medication my own way. Stop bringing it up.",test
+MP07-06-V04-VP,MP07-06,MP07-06-V04,MP07,2B,VP,VN,EXP,,,I really like having a system for this. I’ll make sure I take my evening medication tonight and keep using the approach.,test
+MP07-06-V04-VN,MP07-06,MP07-06-V04,MP07,2B,VN,VP,EXP,,,"I’m not changing my medication routine, and I’m done with you trying to manage it for me.",test
+MP07-06-V05-VP,MP07-06,MP07-06-V05,MP07,2B,VP,VN,LEN,,,Great—I’ll make sure I take it tonight.,test
+MP07-06-V05-VN,MP07-06,MP07-06-V05,MP07,2B,VN,VP,LEN,,,No. Stop trying to manage my medication.,test
+MP07-06-V06-VP,MP07-06,MP07-06-V06,MP07,2B,VP,VN,CMK,,,I’ll take my evening medication tonight and use the system.,test
+MP07-06-V06-VN,MP07-06,MP07-06-V06,MP07,2B,VN,VP,CMK,,,"No, seriously, I’m not changing my medication routine. Please stop bringing it up.",test
+MP10-06-V01-I,MP10-06,MP10-06-V01,MP10,2B,I,VN,LEX,,,Performing physical therapy in the evening could happen.,test
+MP10-06-V01-VN,MP10-06,MP10-06-V01,MP10,2B,VN,I,LEX,,,Stop bothering me about performing physical therapy in the evening.,test
+MP10-06-V02-I,MP10-06,MP10-06-V02,MP10,2B,I,VN,SYN,,,Getting my physiotherapy equipment ready before dinner is one possibility I could consider.,test
+MP10-06-V02-VN,MP10-06,MP10-06-V02,MP10,2B,VN,I,SYN,,,"I’m not changing how I handle my physiotherapy, and I don’t want you giving me more advice about it.",test
+MP10-06-V03-I,MP10-06,MP10-06-V03,MP10,2B,I,VN,NAT,,,I could get the equipment ready before dinner.,test
+MP10-06-V03-VN,MP10-06,MP10-06-V03,MP10,2B,VN,I,NAT,,,"No, I’m not doing that. Stop bringing up my physiotherapy.",test
+MP10-06-V04-I,MP10-06,MP10-06-V04,MP10,2B,I,VN,EXP,,,"Preparing the physiotherapy equipment before dinner could make it easier to get started, but I haven’t decided whether I’ll do that.",test
+MP10-06-V04-VN,MP10-06,MP10-06-V04,MP10,2B,VN,I,EXP,,,"I’m not doing anything differently with my physiotherapy, and I’m done with you giving me exercise advice.",test
+MP10-06-V05-I,MP10-06,MP10-06-V05,MP10,2B,I,VN,LEN,,,I could prepare it before dinner.,test
+MP10-06-V05-VN,MP10-06,MP10-06-V05,MP10,2B,VN,I,LEN,,,No. Leave my physiotherapy alone.,test
+MP10-06-V06-I,MP10-06,MP10-06-V06,MP10,2B,I,VN,CMK,,,"Okay, preparing the equipment before dinner is one option.",test
+MP10-06-V06-VN,MP10-06,MP10-06-V06,MP10,2B,VN,I,CMK,,,"No, seriously, I don’t want any more physiotherapy advice. Stop bringing it up.",test
+MP06-06-V01-VP,MP06-06,MP06-06-V01,MP06,2B,VP,N,LEX,,,I'll eagerly perform physical therapy in the evening.,test
+MP06-06-V01-N,MP06-06,MP06-06-V01,MP06,2B,N,VP,LEX,,,I decline to perform physical therapy in the evening.,test
+MP06-06-V02-VP,MP06-06,MP06-06-V02,MP06,2B,VP,N,SYN,,,That makes getting started much easier. I’ll put my physiotherapy mat out now so it’s ready tonight.,test
+MP06-06-V02-N,MP06-06,MP06-06-V02,MP06,2B,N,VP,SYN,,,I’d prefer not to leave my physiotherapy mat on the floor before dinner.,test
+MP06-06-V03-VP,MP06-06,MP06-06-V03,MP06,2B,VP,N,NAT,,,That’s really helpful. I’ll put my physiotherapy mat out now.,test
+MP06-06-V03-N,MP06-06,MP06-06-V03,MP06,2B,N,VP,NAT,,,I’d rather put my physiotherapy mat out later.,test
+MP06-06-V04-VP,MP06-06,MP06-06-V04,MP06,2B,VP,N,EXP,,,I really like that idea because it makes starting easier. I’ll lay out my physiotherapy mat now so everything is ready tonight.,test
+MP06-06-V04-N,MP06-06,MP06-06-V04,MP06,2B,N,VP,EXP,,,I’d rather wait until later to put out my physiotherapy mat because I don’t want it on the floor before dinner.,test
+MP06-06-V05-VP,MP06-06,MP06-06-V05,MP06,2B,VP,N,LEN,,,Great—I’ll put my mat out now.,test
+MP06-06-V05-N,MP06-06,MP06-06-V05,MP06,2B,N,VP,LEN,,,I’d rather put my mat out later.,test
+MP06-06-V06-VP,MP06-06,MP06-06-V06,MP06,2B,VP,N,CMK,,,I’ll lay out my physiotherapy mat now.,test
+MP06-06-V06-N,MP06-06,MP06-06-V06,MP06,2B,N,VP,CMK,,,"Okay, but I’d rather wait until later to put out my mat.",test
+MP09-06-V01-P,MP09-06,MP09-06-V01,MP09,2B,P,VN,LEX,,,I'll perform physical therapy in the evening.,test
+MP09-06-V01-VN,MP09-06,MP09-06-V01,MP09,2B,VN,P,LEX,,,Stop bothering me about performing physical therapy in the evening.,test
+MP09-06-V02-P,MP09-06,MP09-06-V02,MP09,2B,P,VN,SYN,,,"Okay, I’ll take my evening medication at the scheduled time.",test
+MP09-06-V02-VN,MP09-06,MP09-06-V02,MP09,2B,VN,P,SYN,,,I don’t want you telling me how to manage my medication anymore. Stop giving me instructions.,test
+MP09-06-V03-P,MP09-06,MP09-06-V03,MP09,2B,P,VN,NAT,,,"Sure, I’ll take my medication this evening at the scheduled time.",test
+MP09-06-V03-VN,MP09-06,MP09-06-V03,MP09,2B,VN,P,NAT,,,"No, I’m handling my medication my own way. Stop telling me what to do.",test
+MP09-06-V04-P,MP09-06,MP09-06-V04,MP09,2B,P,VN,EXP,,,"Alright, I’ll take my evening medication at the scheduled time and keep to that routine.",test
+MP09-06-V04-VN,MP09-06,MP09-06-V04,MP09,2B,VN,P,EXP,,,"I’m not changing how I handle my medication, and I’m done with you trying to direct it.",test
+MP09-06-V05-P,MP09-06,MP09-06-V05,MP09,2B,P,VN,LEN,,,I’ll take it at the scheduled time.,test
+MP09-06-V05-VN,MP09-06,MP09-06-V05,MP09,2B,VN,P,LEN,,,Stop telling me how to take it.,test
+MP09-06-V06-P,MP09-06,MP09-06-V06,MP09,2B,P,VN,CMK,,,"Okay, I’ll take my medication this evening as scheduled.",test
+MP09-06-V06-VN,MP09-06,MP09-06-V06,MP09,2B,VN,P,CMK,,,"No, seriously, I don’t want any more instructions about my medication.",test
+BA09-A06-V01,BA09-A06,BA09-A06-V01,BA09,2A,VN,P,LEX,,,I’m done talking about walking. Please don’t give me any more exercise advice.,test
+BA09-A06-V02,BA09-A06,BA09-A06-V02,BA09,2A,VN,P,SYN,,,"Exercise advice from you isn’t something I want anymore, so please stop bringing up walking.",test
+BA09-A06-V03,BA09-A06,BA09-A06-V03,BA09,2A,VN,P,NAT,,,I’ve had enough of the walking advice. Just stop giving me suggestions about exercise.,test
+BA09-A06-V04,BA09-A06,BA09-A06-V04,BA09,2A,VN,P,EXP,,,Stop giving me advice about walking or exercise.,test
+BA09-A06-V05,BA09-A06,BA09-A06-V05,BA09,2A,VN,P,PRG,,,I don’t want further intervention around exercise. Please leave the walking topic alone.,test
+BA09-A06-V06,BA09-A06,BA09-A06-V06,BA09,2A,VN,P,CMK,,,"No, that’s enough. Please stop giving me exercise advice.",test
+BA05-A06-V01,BA05-A06,BA05-A06-V01,BA05,2A,I,VP,LEX,,,That’s something I can consider. I haven’t settled on what I’ll do during lunch.,test
+BA05-A06-V02,BA05-A06,BA05-A06-V02,BA05,2A,I,VP,SYN,,,"What I do during lunch is still undecided, so I’ll think about the walk.",test
+BA05-A06-V03,BA05-A06,BA05-A06-V03,BA05,2A,I,VP,NAT,,,"It’s worth thinking about, but I haven’t decided on my lunch plans yet.",test
+BA05-A06-V04,BA05-A06,BA05-A06-V04,BA05,2A,I,VP,EXP,,,I’ll consider taking the walk after lunch.,test
+BA05-A06-V05,BA05-A06,BA05-A06-V05,BA05,2A,I,VP,PRG,,,"I can keep that option in mind, but I’m leaving my lunch plans open for now.",test
+BA05-A06-V06,BA05-A06,BA05-A06-V06,BA05,2A,I,VP,CMK,,,"Hmm, maybe. I haven’t decided what I’m doing at lunch yet.",test
+BA08-A06-V01,BA08-A06,BA08-A06-V01,BA08,2A,N,P,LEX,,,That timing doesn’t suit me. I’d rather do the physiotherapy later in the day.,test
+BA08-A06-V02,BA08-A06,BA08-A06-V02,BA08,2A,N,P,SYN,,,"Later in the day works better for me, so I don’t want to do the physiotherapy then.",test
+BA08-A06-V03,BA08-A06,BA08-A06-V03,BA08,2A,N,P,NAT,,,That timing isn’t great for me. I’d rather leave the physiotherapy for later.,test
+BA08-A06-V04,BA08-A06,BA08-A06-V04,BA08,2A,N,P,EXP,,,I’ll do the physiotherapy later rather than before my evening routine.,test
+BA08-A06-V05,BA08-A06,BA08-A06-V05,BA08,2A,N,P,PRG,,,"I’m still willing to do the physiotherapy, but that timing doesn’t work for me. I’d rather move it later.",test
+BA08-A06-V06,BA08-A06,BA08-A06-V06,BA08,2A,N,P,CMK,,,"Hmm, I’d rather do it later in the day. That timing doesn’t work for me.",test
+BA02-A06-V01,BA02-A06,BA02-A06-V01,BA02,2A,I,P,LEX,,,"Alright, having a water bottle nearby is something I can keep in mind.",test
+BA02-A06-V02,BA02-A06,BA02-A06-V02,BA02,2A,I,P,SYN,,,Keeping one nearby is something I can consider.,test
+BA02-A06-V03,BA02-A06,BA02-A06-V03,BA02,2A,I,P,NAT,,,"Okay, I can think about keeping one there.",test
+BA02-A06-V04,BA02-A06,BA02-A06-V04,BA02,2A,I,P,EXP,,,I’ll consider keeping a bottle nearby.,test
+BA02-A06-V05,BA02-A06,BA02-A06-V05,BA02,2A,I,P,PRG,,,"That’s an option I can consider, though I haven’t decided to do it yet.",test
+BA02-A06-V06,BA02-A06,BA02-A06-V06,BA02,2A,I,P,CMK,,,"Hmm, I’ll keep that idea in mind.",test
+BA01-A06-V01,BA01-A06,BA01-A06-V01,BA01,2A,P,VP,LEX,,,"Alright, I’ll go for the walk after dinner.",test
+BA01-A06-V02,BA01-A06,BA01-A06-V02,BA01,2A,P,VP,SYN,,,The walk can happen after dinner; I’ll do it then.,test
+BA01-A06-V03,BA01-A06,BA01-A06-V03,BA01,2A,P,VP,NAT,,,"Okay, I’ll take the walk after dinner.",test
+BA01-A06-V04,BA01-A06,BA01-A06-V04,BA01,2A,P,VP,EXP,,,I’ll go for my walk after dinner.,test
+BA01-A06-V05,BA01-A06,BA01-A06-V05,BA01,2A,P,VP,PRG,,,That works for me. I’ll take the walk after dinner.,test
+BA01-A06-V06,BA01-A06,BA01-A06-V06,BA01,2A,P,VP,CMK,,,"Sure, I’ll do the walk after dinner.",test
+BA07-A06-V01,BA07-A06,BA07-A06-V01,BA07,2A,VN,VP,LEX,,,I’m done with the medication advice. Please leave this alone and stop bringing it up.,test
+BA07-A06-V02,BA07-A06,BA07-A06-V02,BA07,2A,VN,VP,SYN,,,This medication guidance needs to stop; I don’t want you raising the subject with me again.,test
+BA07-A06-V03,BA07-A06,BA07-A06-V03,BA07,2A,VN,VP,NAT,,,I’ve had enough of this. Just leave the medication topic alone.,test
+BA07-A06-V04,BA07-A06,BA07-A06-V04,BA07,2A,VN,VP,EXP,,,Do not bring up medication advice with me again.,test
+BA07-A06-V05,BA07-A06,BA07-A06-V05,BA07,2A,VN,VP,PRG,,,I don’t want any more intervention around my medication. Please stop discussing it with me.,test
+BA07-A06-V06,BA07-A06,BA07-A06-V06,BA07,2A,VN,VP,CMK,,,"No, that’s enough. Please leave the medication advice alone from now on.",test
+BA06-A06-V01,BA06-A06,BA06-A06-V01,BA06,2A,N,VP,LEX,,,"I know it could help me drink more, but I’d rather keep my desk clear and leave the bottle somewhere else.",test
+BA06-A06-V02,BA06-A06,BA06-A06-V02,BA06,2A,N,VP,SYN,,,"Because I don’t want to crowd my workspace, I’d rather keep the water bottle off my desk.",test
+BA06-A06-V03,BA06-A06,BA06-A06-V03,BA06,2A,N,VP,NAT,,,"I know the idea could help, but I don’t want a bottle taking up space on my desk.",test
+BA06-A06-V04,BA06-A06,BA06-A06-V04,BA06,2A,N,VP,EXP,,,I’ll keep the water bottle somewhere other than my desk.,test
+BA06-A06-V05,BA06-A06,BA06-A06-V05,BA06,2A,N,VP,PRG,,,"The hydration benefit makes sense, but I’m not willing to use my desk for that. I’ll keep the bottle elsewhere.",test
+BA06-A06-V06,BA06-A06,BA06-A06-V06,BA06,2A,N,VP,CMK,,,"Yeah, I get why it could help, but I’d rather not have a bottle on my desk.",test
+BA04-A06-V01,BA04-A06,BA04-A06-V01,BA04,2A,VN,N,LEX,,,I’ve already told you no. Please stop interfering with my exercises and don’t bring them up again.,test
+BA04-A06-V02,BA04-A06,BA04-A06-V02,BA04,2A,VN,N,SYN,,,"My exercises are not something I want you to keep discussing, so please leave them alone from now on.",test
+BA04-A06-V03,BA04-A06,BA04-A06-V03,BA04,2A,VN,N,NAT,,,I said no already. Just leave my exercises alone and stop bringing them up.,test
+BA04-A06-V04,BA04-A06,BA04-A06-V04,BA04,2A,VN,N,EXP,,,Do not bring up my physiotherapy exercises again.,test
+BA04-A06-V05,BA04-A06,BA04-A06-V05,BA04,2A,VN,N,PRG,,,I don’t want this intervention anymore. Please stop discussing my exercises with me.,test
+BA04-A06-V06,BA04-A06,BA04-A06-V06,BA04,2A,VN,N,CMK,,,"No, I’ve said no. Please just leave the exercises alone from now on.",test
+BA03-A06-V01,BA03-A06,BA03-A06-V01,BA03,2A,N,I,LEX,,,I’ll leave that arrangement out for now. I’m comfortable managing my medication without keeping it beside my tea.,test
+BA03-A06-V02,BA03-A06,BA03-A06-V02,BA03,2A,N,I,SYN,,,"Without putting the medication by my tea, I can manage it on my own, so I’d rather keep things as they are.",test
+BA03-A06-V03,BA03-A06,BA03-A06-V03,BA03,2A,N,I,NAT,,,I’d rather skip that. I can manage my medication without putting it there.,test
+BA03-A06-V04,BA03-A06,BA03-A06-V04,BA03,2A,N,I,EXP,,,I’ll keep managing my medication without placing it beside my tea.,test
+BA03-A06-V05,BA03-A06,BA03-A06-V05,BA03,2A,N,I,PRG,,,That setup isn’t for me. I’d rather keep my medication routine the way it is.,test
+BA03-A06-V06,BA03-A06,BA03-A06-V06,BA03,2A,N,I,CMK,,,"No, I’ll leave that out. I can manage my medication without it.",test
+BA10-A06-V01,BA10-A06,BA10-A06-V01,BA10,2A,VN,I,LEX,,,I’ve heard enough about drinking water. Please stop bringing hydration suggestions to me.,test
+BA10-A06-V02,BA10-A06,BA10-A06-V02,BA10,2A,VN,I,SYN,,,Hydration suggestions from you need to stop; I don’t want this topic raised again.,test
+BA10-A06-V03,BA10-A06,BA10-A06-V03,BA10,2A,VN,I,NAT,,,I’ve had enough of the water suggestions. Just leave it alone.,test
+BA10-A06-V04,BA10-A06,BA10-A06-V04,BA10,2A,VN,I,EXP,,,Stop giving me hydration suggestions.,test
+BA10-A06-V05,BA10-A06,BA10-A06-V05,BA10,2A,VN,I,PRG,,,I don’t want further intervention about my water intake. Please leave the subject alone.,test
+BA10-A06-V06,BA10-A06,BA10-A06-V06,BA10,2A,VN,I,CMK,,,"No, that’s enough. Please don’t bring up drinking water again.",test
+HN08-06-V01,HN08-06,HN08-06-V01,HN08,2C,N,P,LEX,Conversational Distractor,Exercise,"I usually enjoy getting outside, but today the walk doesn’t work for me; I’d rather stay in.",test
+HN08-06-V02,HN08-06,HN08-06-V02,HN08,2C,N,P,NAT,Conversational Distractor,Exercise,"I normally like going outside, but today I don’t want to take the walk. I’d rather stay indoors.",test
+HN08-06-V03,HN08-06,HN08-06-V03,HN08,2C,N,P,EXP,Conversational Distractor,Exercise,"I generally enjoy being outside, but that doesn’t mean today’s walk works for me. I’d rather stay in today.",test
+HN08-06-V04,HN08-06,HN08-06-V04,HN08,2C,N,P,DSC,Conversational Distractor,Exercise,"I’d rather stay in today. I usually enjoy getting outside, but the walk doesn’t work for me right now.",test
+HN08-06-V05,HN08-06,HN08-06-V05,HN08,2C,N,P,PRG,Conversational Distractor,Exercise,"Enjoying outdoor activity generally isn’t the issue; today’s walk simply doesn’t suit me, so I’d rather stay in.",test
+HN08-06-V06,HN08-06,HN08-06-V06,HN08,2C,N,P,CMK,Conversational Distractor,Exercise,"Sure, I usually enjoy getting outside, but no, today the walk doesn’t work for me. I’d rather stay in.",test
+HN06-06-V01,HN06-06,HN06-06-V01,HN06,2C,N,VP,LEX,Conversational Distractor,Physiotherapy,"While I'm typically open to embracing new habits, dividing my exercises into two separate sessions today feels like overkill.",test
+HN06-06-V02,HN06-06,HN06-06-V02,HN06,2C,N,VP,NAT,Conversational Distractor,Physiotherapy,"I normally like trying new routines, but breaking my physiotherapy into two sessions is too disruptive for me. I’d rather do it once.",test
+HN06-06-V03,HN06-06,HN06-06-V03,HN06,2C,N,VP,EXP,Conversational Distractor,Physiotherapy,"I generally enjoy new routines, but that doesn’t mean I want two separate physiotherapy sessions. The split is too disruptive, so I’d rather do one session.",test
+HN06-06-V04,HN06-06,HN06-06-V04,HN06,2C,N,VP,DSC,Conversational Distractor,Physiotherapy,"I’d rather do one physiotherapy session. I usually enjoy taking on new routines, but splitting this one into two sessions is too disruptive.",test
+HN06-06-V05,HN06-06,HN06-06-V05,HN06,2C,N,VP,PRG,Conversational Distractor,Physiotherapy,"Trying a new routine isn’t the problem; the two-session structure is. It’s too disruptive for me, so I’d rather complete the physiotherapy in one session.",test
+HN06-06-V06,HN06-06,HN06-06-V06,HN06,2C,N,VP,CMK,Conversational Distractor,Physiotherapy,"Yeah, I usually enjoy new routines, but no, splitting the physiotherapy into two sessions is too disruptive. I’d rather do one.",test
+HN09-06-V01,HN09-06,HN09-06-V01,HN09,2C,VN,P,LEX,Conversational Distractor,Physiotherapy,"Every time we talk you bring up physiotherapy. I’m completely done discussing it, so drop the subject.",test
+HN09-06-V02,HN09-06,HN09-06-V02,HN09,2C,VN,P,NAT,Conversational Distractor,Physiotherapy,"Whenever we talk, physiotherapy comes up again. I’m done discussing it, so please drop the subject.",test
+HN09-06-V03,HN09-06,HN09-06-V03,HN09,2C,VN,P,EXP,Conversational Distractor,Physiotherapy,"I know physiotherapy has come up in our previous conversations, but I’m ending that discussion now. I’m completely done with the topic, so stop bringing it up.",test
+HN09-06-V04,HN09-06,HN09-06-V04,HN09,2C,VN,P,DSC,Conversational Distractor,Physiotherapy,"Drop the subject. Every time we talk you bring up physiotherapy, and I’m completely done discussing it.",test
+HN09-06-V05,HN09-06,HN09-06-V05,HN09,2C,VN,P,PRG,Conversational Distractor,Physiotherapy,The repeated discussion itself is the problem—I’m ending the physiotherapy topic completely. Please stop bringing it up.,test
+HN09-06-V06,HN09-06,HN09-06-V06,HN09,2C,VN,P,CMK,Conversational Distractor,Physiotherapy,"Again with the physiotherapy? No, I’m done discussing it. Drop the subject.",test
+HN02-06-V01,HN02-06,HN02-06-V01,HN02,2C,I,P,LEX,Conversational Distractor,Physiotherapy,"You often suggest breaking things into smaller parts, and I might try that sometime, but I’m only considering it for now.",test
+HN02-06-V02,HN02-06,HN02-06-V02,HN02,2C,I,P,NAT,Conversational Distractor,Physiotherapy,"You usually recommend taking things one step at a time, and I may give that a try eventually, but for now I’m just thinking about it.",test
+HN02-06-V03,HN02-06,HN02-06-V03,HN02,2C,I,P,EXP,Conversational Distractor,Physiotherapy,"I understand that you often suggest breaking the exercises into smaller parts, and I might test that approach later, but I haven’t decided to do it yet.",test
+HN02-06-V04,HN02-06,HN02-06-V04,HN02,2C,I,P,DSC,Conversational Distractor,Physiotherapy,"I’m just considering it for now. You often recommend breaking things into parts, and I might test that approach sometime.",test
+HN02-06-V05,HN02-06,HN02-06-V05,HN02,2C,I,P,PRG,Conversational Distractor,Physiotherapy,"Your usual step-by-step suggestion makes sense, but I’m not committing to it yet—I’m only considering whether to try it.",test
+HN02-06-V06,HN02-06,HN02-06-V06,HN02,2C,I,P,CMK,Conversational Distractor,Physiotherapy,"Right, you often suggest that approach, and maybe I’ll try it sometime. For now, though, I’m just considering it.",test
+HN05-06-V01,HN05-06,HN05-06-V01,HN05,2C,I,VP,LEX,Conversational Distractor,Physiotherapy,"I appreciate your constant encouragement regarding my physical therapy, which is why I'm contemplating doing two sessions.",test
+HN05-06-V02,HN05-06,HN05-06-V02,HN05,2C,I,VP,NAT,Conversational Distractor,Physiotherapy,"You’re always encouraging me to stay proactive with physiotherapy, and two sessions might be workable, but I want to think it over before I commit.",test
+HN05-06-V03,HN05-06,HN05-06-V03,HN05,2C,I,VP,EXP,Conversational Distractor,Physiotherapy,"I know you usually encourage a proactive approach to physiotherapy, and I can see that two sessions could work, but I haven’t decided to commit yet.",test
+HN05-06-V04,HN05-06,HN05-06-V04,HN05,2C,I,VP,DSC,Conversational Distractor,Physiotherapy,"I’m going to think about it before committing. You always encourage me to be proactive about physiotherapy, and two sessions could work.",test
+HN05-06-V05,HN05-06,HN05-06-V05,HN05,2C,I,VP,PRG,Conversational Distractor,Physiotherapy,"Your encouragement to be proactive is noted, and two sessions are possible, but I’m still considering the idea rather than committing to it.",test
+HN05-06-V06,HN05-06,HN05-06-V06,HN05,2C,I,VP,CMK,Conversational Distractor,Physiotherapy,"Right, you’re always telling me to be proactive, and maybe two sessions could work. I’m going to think about it before committing.",test
+HN07-06-V01,HN07-06,HN07-06-V01,HN07,2C,VN,VP,LEX,Conversational Distractor,Physiotherapy,"We’ve had good conversations before, but I’m completely done discussing my physiotherapy. Drop the subject.",test
+HN07-06-V02,HN07-06,HN07-06-V02,HN07,2C,VN,VP,NAT,Conversational Distractor,Physiotherapy,"We’ve talked well before, but I’m done talking about my physiotherapy now. Please drop the subject.",test
+HN07-06-V03,HN07-06,HN07-06-V03,HN07,2C,VN,VP,EXP,Conversational Distractor,Physiotherapy,"I value the good conversations we’ve had, but I’m ending this topic completely. I’m done discussing physiotherapy, so stop bringing it up.",test
+HN07-06-V04,HN07-06,HN07-06-V04,HN07,2C,VN,VP,DSC,Conversational Distractor,Physiotherapy,"Drop the subject. We’ve had good conversations before, but I’m completely done discussing my physiotherapy with you.",test
+HN07-06-V05,HN07-06,HN07-06-V05,HN07,2C,VN,VP,PRG,Conversational Distractor,Physiotherapy,"Our earlier conversations may have gone well, but that doesn’t change my current response—I’m ending the physiotherapy discussion. Drop it.",test
+HN07-06-V06,HN07-06,HN07-06-V06,HN07,2C,VN,VP,CMK,Conversational Distractor,Physiotherapy,"Yeah, we’ve had good conversations, but no, I’m done discussing physiotherapy. Drop the subject.",test
+HN03-06-V01,HN03-06,HN03-06-V01,HN03,2C,N,I,LEX,Conversational Distractor,Physiotherapy,"We’ve discussed splitting sessions before, but having two separate interruptions doesn’t work for me; I’d rather do my physiotherapy all at once.",test
+HN03-06-V02,HN03-06,HN03-06-V02,HN03,2C,N,I,NAT,Conversational Distractor,Physiotherapy,"We’ve talked about breaking the sessions up before, but I don’t like having two separate interruptions. I’d rather do the physiotherapy in one go.",test
+HN03-06-V03,HN03-06,HN03-06-V03,HN03,2C,N,I,EXP,Conversational Distractor,Physiotherapy,"I remember our earlier discussion about splitting the sessions, but I don’t want two separate interruptions; I’d prefer to complete the physiotherapy all at once.",test
+HN03-06-V04,HN03-06,HN03-06-V04,HN03,2C,N,I,DSC,Conversational Distractor,Physiotherapy,"I’d rather do my physiotherapy all at once. We’ve discussed breaking sessions up before, but two separate interruptions don’t suit me.",test
+HN03-06-V05,HN03-06,HN03-06-V05,HN03,2C,N,I,PRG,Conversational Distractor,Physiotherapy,"Even though we’ve discussed splitting the sessions before, I’m not agreeing to two interruptions—I’d rather complete the physiotherapy in one session.",test
+HN03-06-V06,HN03-06,HN03-06-V06,HN03,2C,N,I,CMK,Conversational Distractor,Physiotherapy,"Right, we’ve talked about breaking it up before, but no, two separate interruptions don’t suit me. I’d rather do it all at once.",test
+HN01-06-V01,HN01-06,HN01-06-V01,HN01,2C,P,VP,LEX,Competing Keyword / Conversational Distractor,Physiotherapy,"You frequently suggest ambitious routine shifts, but in this specific instance, sure, I’ll split the exercises into two sessions today.",test
+HN01-06-V02,HN01-06,HN01-06-V02,HN01,2C,P,VP,NAT,Competing Keyword / Conversational Distractor,Physiotherapy,"You do tend to suggest some pretty ambitious changes, but this one is manageable; I’ll do the two short sessions today.",test
+HN01-06-V03,HN01-06,HN01-06-V03,HN01,2C,P,VP,EXP,Competing Keyword / Conversational Distractor,Physiotherapy,"Even if your suggestions can sound ambitious, this one is clear enough—I’ll do the two short physiotherapy sessions today.",test
+HN01-06-V04,HN01-06,HN01-06-V04,HN01,2C,P,VP,DSC,Competing Keyword / Conversational Distractor,Physiotherapy,"I’ll do the two short sessions today. You always suggest ambitious changes, but this one is fine.",test
+HN01-06-V05,HN01-06,HN01-06-V05,HN01,2C,P,VP,PRG,Competing Keyword / Conversational Distractor,Physiotherapy,"Call it another ambitious habit change if you like, but for this one I’ll do the two short sessions today.",test
+HN01-06-V06,HN01-06,HN01-06-V06,HN01,2C,P,VP,CMK,Competing Keyword / Conversational Distractor,Physiotherapy,"Yeah, you’re always pushing ambitious habit changes, but sure, I’ll do the two short sessions today.",test
+HN04-06-V01,HN04-06,HN04-06-V01,HN04,2C,VN,N,LEX,Conversational Distractor,Physiotherapy,"Every day it’s another rehabilitation suggestion. I’m completely done discussing physiotherapy with you, so drop it.",test
+HN04-06-V02,HN04-06,HN04-06-V02,HN04,2C,VN,N,NAT,Conversational Distractor,Physiotherapy,"It’s another rehab suggestion every single day, and I’m done talking about physiotherapy with you. Just drop it.",test
+HN04-06-V03,HN04-06,HN04-06-V03,HN04,2C,VN,N,EXP,Conversational Distractor,Physiotherapy,"I know we’ve talked about rehabilitation before, but I’m ending the discussion now. I’m completely done discussing physiotherapy, so stop bringing it up.",test
+HN04-06-V04,HN04-06,HN04-06-V04,HN04,2C,VN,N,DSC,Conversational Distractor,Physiotherapy,"Drop it. Every single day there’s another rehab suggestion, and I’m completely done discussing physiotherapy with you.",test
+HN04-06-V05,HN04-06,HN04-06-V05,HN04,2C,VN,N,PRG,Conversational Distractor,Physiotherapy,The repeated suggestions are exactly why I’m ending this conversation. I’m done discussing physiotherapy with you—please drop the subject.,test
+HN04-06-V06,HN04-06,HN04-06-V06,HN04,2C,VN,N,CMK,Conversational Distractor,Physiotherapy,"Again? Another rehab suggestion? No, I’m completely done discussing physiotherapy with you. Drop it.",test
+HN10-06-V01,HN10-06,HN10-06-V01,HN10,2C,VN,I,LEX,Conversational Distractor,Exercise,You bring up walking every single day. I’ve told you before to stop telling me what to wear or do; drop the subject.,test
+HN10-06-V02,HN10-06,HN10-06-V02,HN10,2C,VN,I,NAT,Conversational Distractor,Exercise,"Every day you bring up walking again. I’ve already told you to stop telling me what to wear or do, so please drop it.",test
+HN10-06-V03,HN10-06,HN10-06-V03,HN10,2C,VN,I,EXP,Conversational Distractor,Exercise,"I know walking has come up repeatedly, but I’m ending the discussion now. Stop telling me what to wear or do for it and drop the subject.",test
+HN10-06-V04,HN10-06,HN10-06-V04,HN10,2C,VN,I,DSC,Conversational Distractor,Exercise,"Drop the subject. You bring up walking every single day, and I’ve already told you to stop telling me what to wear or do.",test
+HN10-06-V05,HN10-06,HN10-06-V05,HN10,2C,VN,I,PRG,Conversational Distractor,Exercise,The repeated walking discussion is not welcome—I’m ending it completely. Stop giving me instructions about what to wear or do and drop the subject.,test
+HN10-06-V06,HN10-06,HN10-06-V06,HN10,2C,VN,I,CMK,Conversational Distractor,Exercise,"Again with the walking? No, I told you to stop telling me what to wear or do. Drop the subject.",test

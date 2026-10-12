@@ -1,0 +1,70 @@
+utterance_id,utterance,execution_status
+BA01-04,"I've started the first exercise, and I'm working through it now.",In Progress
+MISSING_6,"I'm drinking the water now, and I still have some left.",In Progress
+MISSING_7,I finished drinking the water.,Completed
+MISSING_8,"I've done most of the physiotherapy exercises, but I still have one left.",In Progress
+MISSING_9,I just finished the last exercise.,Completed
+MISSING_10,I'm on the last few steps of taking it.,In Progress
+MISSING_11,That's the whole routine done for today.,Completed
+MISSING_24,"I took the medication earlier today, and it's completely finished.",Completed
+MISSING_25,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress
+MISSING_26,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed
+MISSING_27,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed
+MISSING_28,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress
+MISSING_29,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed
+MISSING_48,I'm still taking the medication; I haven't finished yet.,In Progress
+MISSING_49,I've finished taking the medication.,Completed
+MISSING_50,"I've done most of the exercises, but I still have one left.",In Progress
+MISSING_51,I've done all the exercises; there isn't one left.,Completed
+MISSING_52,I'm still working through the physiotherapy routine.,In Progress
+MISSING_53,I've completed the physiotherapy routine.,Completed
+MISSING_54,"I'm nearly finished with the water, but there's still some left.",In Progress
+MISSING_55,I've finished the water; there's none left.,Completed
+MISSING_56,I've completed the first few exercises and still have the rest to do.,In Progress
+MISSING_57,I've completed all of the exercises.,Completed
+MISSING_58,I'm halfway through the routine and still have exercises left.,In Progress
+MISSING_59,"The whole routine is done, and I have nothing left to do.",Completed
+MISSING_12,I haven't started taking the medication yet.,Not Started
+MISSING_13,I finished taking the medication.,Completed
+MISSING_14,"I have everything ready, but I haven't started the exercises.",Not Started
+MISSING_15,I completed the exercises and put everything away.,Completed
+MISSING_16,The bottle is still untouched.,Not Started
+MISSING_17,The whole routine is behind me now.,Completed
+MISSING_30,"I was meant to take the medication earlier, but I haven't started it.",Not Started
+MISSING_31,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed
+MISSING_32,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed
+MISSING_33,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed
+MISSING_34,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started
+MISSING_35,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed
+MISSING_60,I haven't started taking the medication yet.,Not Started
+MISSING_61,I finished taking the medication.,Completed
+MISSING_62,I haven't touched the water yet.,Not Started
+MISSING_63,I've finished the water.,Completed
+MISSING_64,"The exercise mat is ready, but I haven't done the exercises.",Not Started
+MISSING_65,"The exercises are done, and the mat is put away.",Completed
+MISSING_66,I'll do the physiotherapy routine later; I haven't started it.,Not Started
+MISSING_67,I did the physiotherapy routine already.,Completed
+MISSING_68,The medication is still untouched.,Not Started
+MISSING_69,"The medication has been taken, and there's nothing left to take.",Completed
+MISSING_70,I didn't do the exercises.,Not Started
+MISSING_71,I did all the exercises.,Completed
+BA01-05,The bottle is still full; I'll deal with it after I finish this.,Not Started
+MISSING_18,"I was supposed to take the medication earlier, but I still haven't started taking it.",Not Started
+MISSING_19,I haven't finished the exercises yet because I'm still doing them.,In Progress
+MISSING_20,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started
+MISSING_21,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress
+MISSING_22,"I was getting ready earlier and even laid out the mat, but I still haven't begun the exercises.",Not Started
+MISSING_23,"The routine is taking longer than I expected, and I need to get through it before I can relax; I'm still working through the exercises.",In Progress
+MISSING_36,I haven't started taking the medication yet.,Not Started
+MISSING_37,"I've started taking the medication, but I'm not finished yet.",In Progress
+MISSING_38,The water is still sitting there; I haven't started drinking it.,Not Started
+MISSING_39,"I'm drinking the water now, and I haven't finished it.",In Progress
+MISSING_40,I haven't done any of the exercises yet.,Not Started
+MISSING_41,I've done the first exercise and still have the others to do.,In Progress
+MISSING_42,"I've got the physiotherapy equipment ready, but I haven't begun.",Not Started
+MISSING_43,"I've started the physiotherapy routine with the equipment, but I'm not done.",In Progress
+MISSING_44,"I'm about to take the first step, but I haven't started yet.",Not Started
+MISSING_45,"I've taken the first step, but there's more of the task left.",In Progress
+MISSING_46,The routine is still untouched.,Not Started
+MISSING_47,I'm halfway through the routine.,In Progress
+BA01-03,"I'm getting ready to start the exercises, but I haven't begun them yet.",Not Started

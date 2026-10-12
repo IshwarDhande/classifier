@@ -1,0 +1,22 @@
+task:
+  name: "response_category"
+  dataset_variant: "dataset_2"
+  num_labels: 5
+  text_column: "utterance"
+  label_column: "response_category"
+  labels:
+    - "very_negative"
+    - "negative"
+    - "indifferent"
+    - "positive"
+    - "very_positive"
+
+data:
+  train_file: "code/data/response_dataset_training/dataset_2/train.csv"
+  val_file: "code/data/response_dataset_training/dataset_2/val.csv"
+  test_file: "code/data/response_dataset_training/dataset_2/test.csv"
+
+paths:
+  output_dir: "code/models/response_category/dataset_2"
+  log_dir: "code/logs/response_category/dataset_2"
+  report_dir: "code/reports/response_category/dataset_2"

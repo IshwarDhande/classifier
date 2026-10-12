@@ -1,0 +1,171 @@
+serial_id,utterance,execution_status
+001,Done.,completed
+002,All done.,completed
+003,It's done.,completed
+004,Already done.,completed
+005,Fully done.,completed
+006,Completely done.,completed
+007,Finally done.,completed
+008,Done already.,completed
+009,Done now.,completed
+010,That's done.,completed
+011,It's all done.,completed
+012,It's done now.,completed
+013,It's already done.,completed
+014,It's finally done.,completed
+015,I've done it.,completed
+016,I have done it.,completed
+017,I've done that.,completed
+018,I got it done.,completed
+019,I've got it done.,completed
+020,It's completely done.,completed
+021,Finished.,completed
+022,All finished.,completed
+023,It's finished.,completed
+024,Already finished.,completed
+025,Fully finished.,completed
+026,Completely finished.,completed
+027,Finally finished.,completed
+028,Finished already.,completed
+029,Finished now.,completed
+030,That's finished.,completed
+031,It's all finished.,completed
+032,It's finished now.,completed
+033,It's already finished.,completed
+034,It's finally finished.,completed
+035,I've finished.,completed
+036,I've finished it.,completed
+037,I finished it.,completed
+038,I have finished it.,completed
+039,I've finished that.,completed
+040,I got it finished.,completed
+041,Done.,completed
+042,Finished.,completed
+043,Completed.,completed
+044,The task is done.,completed
+045,The work is finished.,completed
+046,I finished it.,completed
+047,I've completed it.,completed
+048,I already did it.,completed
+049,Everything is done.,completed
+050,I finished everything required.,completed
+051,It's all done.,completed
+052,It's taken care of.,completed
+053,That's been taken care of.,completed
+054,It's been completed.,completed
+055,Nothing remains.,completed
+056,There's nothing left.,completed
+057,I got it done.,completed
+058,I completed it successfully.,completed
+059,"Yes, it's finished.",completed
+060,It's completely done.,completed
+061,Working.,in_progress
+062,Still working.,in_progress
+063,Working now.,in_progress
+064,Already working.,in_progress
+065,Working on it.,in_progress
+066,I'm working.,in_progress
+067,I'm still working.,in_progress
+068,I'm working now.,in_progress
+069,I'm already working.,in_progress
+070,I'm working on it.,in_progress
+071,Still working on it.,in_progress
+072,Working through it.,in_progress
+073,Working on this.,in_progress
+074,I'm still working on it.,in_progress
+075,I'm working through it.,in_progress
+076,Currently working on it.,in_progress
+077,Still working through it.,in_progress
+078,I've been working.,in_progress
+079,I've been working on it.,in_progress
+080,I'm continuing to work.,in_progress
+081,Doing.,in_progress
+082,Still doing.,in_progress
+083,Doing it.,in_progress
+084,Doing it now.,in_progress
+085,Already doing it.,in_progress
+086,I'm doing it.,in_progress
+087,I'm still doing it.,in_progress
+088,I'm doing it now.,in_progress
+089,I'm already doing it.,in_progress
+090,Doing the work.,in_progress
+091,Still doing the work.,in_progress
+092,I'm doing the work.,in_progress
+093,Doing it currently.,in_progress
+094,I'm currently doing it.,in_progress
+095,I'm still doing this.,in_progress
+096,Doing this now.,in_progress
+097,I'm doing this now.,in_progress
+098,I've been doing it.,in_progress
+099,I've been doing this.,in_progress
+100,I'm continuing to do it.,in_progress
+101,Trying.,in_progress
+102,Still trying.,in_progress
+103,Trying now.,in_progress
+104,Already trying.,in_progress
+105,Trying it.,in_progress
+106,I'm trying.,in_progress
+107,I'm still trying.,in_progress
+108,I'm trying now.,in_progress
+109,I'm already trying.,in_progress
+110,Trying to finish.,in_progress
+111,Still trying to finish.,in_progress
+112,I'm trying to finish.,in_progress
+113,Trying to complete it.,in_progress
+114,I'm trying to complete it.,in_progress
+115,I'm still trying to finish.,in_progress
+116,Trying to get it done.,in_progress
+117,I'm trying to get it done.,in_progress
+118,I've been trying.,in_progress
+119,I've been trying to finish.,in_progress
+120,I'm continuing to try.,in_progress
+121,Not started.,not_started
+122,Haven't started.,not_started
+123,Never started.,not_started
+124,Haven't started yet.,not_started
+125,Not started yet.,not_started
+126,I haven't started.,not_started
+127,I haven't started it.,not_started
+128,I haven't started yet.,not_started
+129,I still haven't started.,not_started
+130,I haven't even started.,not_started
+131,Not begun.,not_started
+132,Haven't begun.,not_started
+133,Haven't begun yet.,not_started
+134,Never begun.,not_started
+135,I haven't begun.,not_started
+136,I haven't begun it.,not_started
+137,I haven't begun yet.,not_started
+138,I still haven't begun.,not_started
+139,Still not begun.,not_started
+140,I haven't even begun.,not_started
+141,Not attempted.,not_started
+142,Haven't attempted.,not_started
+143,Haven't attempted it.,not_started
+144,Never attempted.,not_started
+145,I haven't attempted it.,not_started
+146,I haven't attempted yet.,not_started
+147,Haven't attempted yet.,not_started
+148,I still haven't attempted it.,not_started
+149,Still not attempted.,not_started
+150,I haven't even attempted it.,not_started
+151,Haven't tried.,not_started
+152,Never tried.,not_started
+153,Haven't tried yet.,not_started
+154,Never tried it.,not_started
+155,I haven't tried.,not_started
+156,I haven't tried it.,not_started
+157,I haven't tried yet.,not_started
+158,I haven't tried it yet.,not_started
+159,I still haven't tried.,not_started
+160,I still haven't tried it.,not_started
+161,Not done.,not_started
+162,Haven't done it.,not_started
+163,Haven't done it yet.,not_started
+164,Never done it.,not_started
+165,I haven't done it.,not_started
+166,I haven't done it yet.,not_started
+167,I still haven't done it.,not_started
+168,Still haven't done it.,not_started
+169,I never did it.,not_started
+170,Not done yet.,not_started

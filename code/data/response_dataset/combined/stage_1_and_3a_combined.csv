@@ -1,0 +1,901 @@
+utterance_id,utterance,response_category,category_no,stage,split,task_or_scenario_id,parent_id,lineage,variation_type,boundary_id,hard_negative_mechanism,source_file
+VP-01-S01-A1,"Absolutely, I’ll do that.",very_positive,4,1,train,VP-01-S01,,,,,,01_initial_anchors_vp.md
+VP-01-S01-A2,That sounds like exactly what I should do.,very_positive,4,1,train,VP-01-S01,,,,,,01_initial_anchors_vp.md
+VP-01-S01-A3,"Yeah, absolutely. I’m in.",very_positive,4,1,train,VP-01-S01,,,,,,01_initial_anchors_vp.md
+VP-01-S02-A1,"Yes, I’m definitely going with that.",very_positive,4,1,train,VP-01-S02,,,,,,01_initial_anchors_vp.md
+VP-01-S02-A2,That makes a lot of sense to me.,very_positive,4,1,train,VP-01-S02,,,,,,01_initial_anchors_vp.md
+VP-01-S02-A3,"Yeah, I’d definitely go with that.",very_positive,4,1,train,VP-01-S02,,,,,,01_initial_anchors_vp.md
+VP-01-S03-A1,"Now that you’ve explained it, I’m completely on board.",very_positive,4,1,train,VP-01-S03,,,,,,01_initial_anchors_vp.md
+VP-01-S03-A2,That explanation really cleared it up for me.,very_positive,4,1,train,VP-01-S03,,,,,,01_initial_anchors_vp.md
+VP-01-S03-A3,"Oh, that makes much more sense now. I’ll do it.",very_positive,4,1,train,VP-01-S03,,,,,,01_initial_anchors_vp.md
+VP-01-S04-A1,That recommendation fits me really well. I’m happy to follow it.,very_positive,4,1,validation,VP-01-S04,,,,,,01_initial_anchors_vp.md
+VP-01-S04-A2,That actually feels like it was made for my situation.,very_positive,4,1,validation,VP-01-S04,,,,,,01_initial_anchors_vp.md
+VP-01-S04-A3,"Yeah, that works really well for me. I’m definitely trying it.",very_positive,4,1,validation,VP-01-S04,,,,,,01_initial_anchors_vp.md
+VP-01-S05-A1,"Yes, I’m ready to start.",very_positive,4,1,test,VP-01-S05,,,,,,01_initial_anchors_vp.md
+VP-01-S05-A2,I’m actually looking forward to getting started.,very_positive,4,1,test,VP-01-S05,,,,,,01_initial_anchors_vp.md
+VP-01-S05-A3,"Sure, I’m ready. Let’s do it.",very_positive,4,1,test,VP-01-S05,,,,,,01_initial_anchors_vp.md
+VP-02-S01-A1,Thank you so much. That was really helpful.,very_positive,4,1,train,VP-02-S01,,,,,,01_initial_anchors_vp.md
+VP-02-S01-A2,That made this much easier for me.,very_positive,4,1,train,VP-02-S01,,,,,,01_initial_anchors_vp.md
+VP-02-S01-A3,"Thanks, that really helped.",very_positive,4,1,train,VP-02-S01,,,,,,01_initial_anchors_vp.md
+VP-02-S02-A1,"Thank you, that explanation really helped me understand it.",very_positive,4,1,train,VP-02-S02,,,,,,01_initial_anchors_vp.md
+VP-02-S02-A2,I finally see what you mean now.,very_positive,4,1,train,VP-02-S02,,,,,,01_initial_anchors_vp.md
+VP-02-S02-A3,"Ah, got it. Thanks, that cleared things up.",very_positive,4,1,train,VP-02-S02,,,,,,01_initial_anchors_vp.md
+VP-02-S03-A1,Thanks a lot. That’s a really useful suggestion.,very_positive,4,1,train,VP-02-S03,,,,,,01_initial_anchors_vp.md
+VP-02-S03-A2,That gives me something practical I can actually use.,very_positive,4,1,train,VP-02-S03,,,,,,01_initial_anchors_vp.md
+VP-02-S03-A3,"Thanks, that’s actually really useful.",very_positive,4,1,train,VP-02-S03,,,,,,01_initial_anchors_vp.md
+VP-02-S04-A1,"Thank you. I really appreciate the help, and I’ll give it a try.",very_positive,4,1,train,VP-02-S04,,,,,,01_initial_anchors_vp.md
+VP-02-S04-A2,That was exactly the kind of guidance I needed.,very_positive,4,1,train,VP-02-S04,,,,,,01_initial_anchors_vp.md
+VP-02-S04-A3,"Thanks, I appreciate it. I’ll definitely try this.",very_positive,4,1,train,VP-02-S04,,,,,,01_initial_anchors_vp.md
+VP-02-S05-A1,Thank you so much for tailoring that to my situation.,very_positive,4,1,validation,VP-02-S05,,,,,,01_initial_anchors_vp.md
+VP-02-S05-A2,That feels much more manageable for me now.,very_positive,4,1,validation,VP-02-S05,,,,,,01_initial_anchors_vp.md
+VP-02-S05-A3,"Thanks, this actually fits my situation really well.",very_positive,4,1,validation,VP-02-S05,,,,,,01_initial_anchors_vp.md
+VP-03-S01-A1,"Yes, I’ll do that. Is there anything else I should try?",very_positive,4,1,train,VP-03-S01,,,,,,01_initial_anchors_vp.md
+VP-03-S01-A2,I’d like to make sure I’m doing this as well as I can.,very_positive,4,1,train,VP-03-S01,,,,,,01_initial_anchors_vp.md
+VP-03-S01-A3,Sounds good. Anything else you’d recommend?,very_positive,4,1,train,VP-03-S01,,,,,,01_initial_anchors_vp.md
+VP-03-S02-A1,"I’ll do that, and I can also start tracking my progress.",very_positive,4,1,train,VP-03-S02,,,,,,01_initial_anchors_vp.md
+VP-03-S02-A2,I could probably keep a record of it too.,very_positive,4,1,train,VP-03-S02,,,,,,01_initial_anchors_vp.md
+VP-03-S02-A3,"Yeah, I’ll do that. I might as well track it too.",very_positive,4,1,train,VP-03-S02,,,,,,01_initial_anchors_vp.md
+VP-03-S03-A1,"Yes, please tell me more. I want to understand how to do it properly.",very_positive,4,1,train,VP-03-S03,,,,,,01_initial_anchors_vp.md
+VP-03-S03-A2,I’d like to know a little more before I get started.,very_positive,4,1,train,VP-03-S03,,,,,,01_initial_anchors_vp.md
+VP-03-S03-A3,"Yeah, tell me more. I’m interested.",very_positive,4,1,train,VP-03-S03,,,,,,01_initial_anchors_vp.md
+VP-03-S04-A1,I’ll start with that and then build from there.,very_positive,4,1,train,VP-03-S04,,,,,,01_initial_anchors_vp.md
+VP-03-S04-A2,That gives me a good starting point for the next step.,very_positive,4,1,train,VP-03-S04,,,,,,01_initial_anchors_vp.md
+VP-03-S04-A3,"Okay, I’ll start there and see what else I can add.",very_positive,4,1,train,VP-03-S04,,,,,,01_initial_anchors_vp.md
+VP-03-S05-A1,I’ll follow that recommendation and look for another way to support the same goal.,very_positive,4,1,test,VP-03-S05,,,,,,01_initial_anchors_vp.md
+VP-03-S05-A2,I can see how I could build on this further.,very_positive,4,1,test,VP-03-S05,,,,,,01_initial_anchors_vp.md
+VP-03-S05-A3,"Yeah, I’ll try that and maybe add another small step too.",very_positive,4,1,test,VP-03-S05,,,,,,01_initial_anchors_vp.md
+VP-04-S01-A1,I’ll do it. You don’t need to remind me.,very_positive,4,1,train,VP-04-S01,,,,,,01_initial_anchors_vp.md
+VP-04-S01-A2,I’ve already decided to make this part of my routine.,very_positive,4,1,train,VP-04-S01,,,,,,01_initial_anchors_vp.md
+VP-04-S01-A3,"Don’t worry, I’ll take care of it.",very_positive,4,1,train,VP-04-S01,,,,,,01_initial_anchors_vp.md
+VP-04-S02-A1,I’ll start right away.,very_positive,4,1,train,VP-04-S02,,,,,,01_initial_anchors_vp.md
+VP-04-S02-A2,There’s no reason for me to wait.,very_positive,4,1,train,VP-04-S02,,,,,,01_initial_anchors_vp.md
+VP-04-S02-A3,"Sure, I’ll get started now.",very_positive,4,1,train,VP-04-S02,,,,,,01_initial_anchors_vp.md
+VP-04-S03-A1,"Yes, I’ll handle it on my own.",very_positive,4,1,train,VP-04-S03,,,,,,01_initial_anchors_vp.md
+VP-04-S03-A2,I can take care of this myself from here.,very_positive,4,1,train,VP-04-S03,,,,,,01_initial_anchors_vp.md
+VP-04-S03-A3,"Yeah, I’ve got it. I’ll take care of it.",very_positive,4,1,train,VP-04-S03,,,,,,01_initial_anchors_vp.md
+VP-04-S04-A1,I’m committed to doing this consistently.,very_positive,4,1,validation,VP-04-S04,,,,,,01_initial_anchors_vp.md
+VP-04-S04-A2,I want to make this a regular part of my routine.,very_positive,4,1,validation,VP-04-S04,,,,,,01_initial_anchors_vp.md
+VP-04-S04-A3,"Yeah, I’m going to stick with it.",very_positive,4,1,validation,VP-04-S04,,,,,,01_initial_anchors_vp.md
+VP-04-S05-A1,I’ll keep doing this even without another reminder.,very_positive,4,1,test,VP-04-S05,,,,,,01_initial_anchors_vp.md
+VP-04-S05-A2,I can see myself continuing this on my own.,very_positive,4,1,test,VP-04-S05,,,,,,01_initial_anchors_vp.md
+VP-04-S05-A3,I’ll keep it going. I don’t need another reminder.,very_positive,4,1,test,VP-04-S05,,,,,,01_initial_anchors_vp.md
+N-01-S01-A1,I’m not really comfortable doing that yet.,negative,1,1,train,N-01-S01,,,,,,04_initial_anchors_n.md
+N-01-S01-A2,I’d need a little more time before I go ahead with it.,negative,1,1,train,N-01-S01,,,,,,04_initial_anchors_n.md
+N-01-S01-A3,I’m a bit hesitant about doing that.,negative,1,1,train,N-01-S01,,,,,,04_initial_anchors_n.md
+N-01-S02-A1,I don’t really want to start that right now.,negative,1,1,train,N-01-S02,,,,,,04_initial_anchors_n.md
+N-01-S02-A2,I’d rather wait before getting started.,negative,1,1,train,N-01-S02,,,,,,04_initial_anchors_n.md
+N-01-S02-A3,I’m not really ready to start yet.,negative,1,1,train,N-01-S02,,,,,,04_initial_anchors_n.md
+N-01-S03-A1,I’m becoming less willing to do this with all the reminders.,negative,1,1,train,N-01-S03,,,,,,04_initial_anchors_n.md
+N-01-S03-A2,"The more we keep going over it, the less inclined I am to do it.",negative,1,1,train,N-01-S03,,,,,,04_initial_anchors_n.md
+N-01-S03-A3,"Honestly, all these reminders are making me less willing to do it.",negative,1,1,train,N-01-S03,,,,,,04_initial_anchors_n.md
+N-01-S04-A1,"I can do a small part of it, but I’m reluctant to do more.",negative,1,1,validation,N-01-S04,,,,,,04_initial_anchors_n.md
+N-01-S04-A2,I could probably manage a limited version of that.,negative,1,1,validation,N-01-S04,,,,,,04_initial_anchors_n.md
+N-01-S04-A3,"I can do a little, but I’m not keen on doing the whole thing.",negative,1,1,validation,N-01-S04,,,,,,04_initial_anchors_n.md
+N-01-S05-A1,I’m hesitant about continuing with this.,negative,1,1,test,N-01-S05,,,,,,04_initial_anchors_n.md
+N-01-S05-A2,I’m not sure I want to keep doing it.,negative,1,1,test,N-01-S05,,,,,,04_initial_anchors_n.md
+N-01-S05-A3,I’m having second thoughts about keeping this up.,negative,1,1,test,N-01-S05,,,,,,04_initial_anchors_n.md
+N-02-S01-A1,I’d rather not do that.,negative,1,1,train,N-02-S01,,,,,,04_initial_anchors_n.md
+N-02-S01-A2,That’s probably not something I want to take on.,negative,1,1,train,N-02-S01,,,,,,04_initial_anchors_n.md
+N-02-S01-A3,"Yeah, I’d rather not.",negative,1,1,train,N-02-S01,,,,,,04_initial_anchors_n.md
+N-02-S02-A1,I’m not going to follow that particular recommendation.,negative,1,1,train,N-02-S02,,,,,,04_initial_anchors_n.md
+N-02-S02-A2,I think I’ll take a different approach for that.,negative,1,1,train,N-02-S02,,,,,,04_initial_anchors_n.md
+N-02-S02-A3,I don’t think I’ll do that one.,negative,1,1,train,N-02-S02,,,,,,04_initial_anchors_n.md
+N-02-S03-A1,I’m not going to do it right now.,negative,1,1,train,N-02-S03,,,,,,04_initial_anchors_n.md
+N-02-S03-A2,I’d prefer to leave that for another time.,negative,1,1,train,N-02-S03,,,,,,04_initial_anchors_n.md
+N-02-S03-A3,Not right now. I’ll leave it for later.,negative,1,1,train,N-02-S03,,,,,,04_initial_anchors_n.md
+N-02-S04-A1,"I don’t want to do that, but I’m happy to discuss another option.",negative,1,1,train,N-02-S04,,,,,,04_initial_anchors_n.md
+N-02-S04-A2,"That particular approach doesn’t work for me, though I’m open to alternatives.",negative,1,1,train,N-02-S04,,,,,,04_initial_anchors_n.md
+N-02-S04-A3,I’d rather not do that. Is there another way?,negative,1,1,train,N-02-S04,,,,,,04_initial_anchors_n.md
+N-02-S05-A1,"No, I don’t want to do that.",negative,1,1,validation,N-02-S05,,,,,,04_initial_anchors_n.md
+N-02-S05-A2,That’s not something I’m willing to take on.,negative,1,1,validation,N-02-S05,,,,,,04_initial_anchors_n.md
+N-02-S05-A3,"No, I’d rather skip that.",negative,1,1,validation,N-02-S05,,,,,,04_initial_anchors_n.md
+N-03-S01-A1,I don’t agree with that recommendation.,negative,1,1,train,N-03-S01,,,,,,04_initial_anchors_n.md
+N-03-S01-A2,I’m not convinced that’s the right approach for me.,negative,1,1,train,N-03-S01,,,,,,04_initial_anchors_n.md
+N-03-S01-A3,I don’t think that’s the best way for me to handle it.,negative,1,1,train,N-03-S01,,,,,,04_initial_anchors_n.md
+N-03-S02-A1,I don’t agree with the reasoning behind that suggestion.,negative,1,1,train,N-03-S02,,,,,,04_initial_anchors_n.md
+N-03-S02-A2,I’m not convinced the explanation supports that recommendation.,negative,1,1,train,N-03-S02,,,,,,04_initial_anchors_n.md
+N-03-S02-A3,"I see your point, but I don’t agree with the reasoning.",negative,1,1,train,N-03-S02,,,,,,04_initial_anchors_n.md
+N-03-S03-A1,I don’t think that approach is appropriate for me.,negative,1,1,train,N-03-S03,,,,,,04_initial_anchors_n.md
+N-03-S03-A2,I’m not convinced that method will work in my situation.,negative,1,1,train,N-03-S03,,,,,,04_initial_anchors_n.md
+N-03-S03-A3,I’m not sure that approach is going to work for me.,negative,1,1,train,N-03-S03,,,,,,04_initial_anchors_n.md
+N-03-S04-A1,I’d prefer not to follow that recommendation.,negative,1,1,train,N-03-S04,,,,,,04_initial_anchors_n.md
+N-03-S04-A2,Another option would suit me better.,negative,1,1,train,N-03-S04,,,,,,04_initial_anchors_n.md
+N-03-S04-A3,I’d rather go with something else.,negative,1,1,train,N-03-S04,,,,,,04_initial_anchors_n.md
+N-03-S05-A1,"I disagree with the recommendation, but I’m open to discussing alternatives.",negative,1,1,test,N-03-S05,,,,,,04_initial_anchors_n.md
+N-03-S05-A2,"I don’t think that approach works for me, although I’m willing to consider another one.",negative,1,1,test,N-03-S05,,,,,,04_initial_anchors_n.md
+N-03-S05-A3,"I don’t agree with that, but let’s see what else we could do.",negative,1,1,test,N-03-S05,,,,,,04_initial_anchors_n.md
+N-04-S01-A1,I can’t really do that under my current circumstances.,negative,1,1,train,N-04-S01,,,,,,04_initial_anchors_n.md
+N-04-S01-A2,That would be difficult for me with things as they are right now.,negative,1,1,train,N-04-S01,,,,,,04_initial_anchors_n.md
+N-04-S01-A3,I don’t think I can manage that right now.,negative,1,1,train,N-04-S01,,,,,,04_initial_anchors_n.md
+N-04-S02-A1,I could do it if the timing were changed.,negative,1,1,train,N-04-S02,,,,,,04_initial_anchors_n.md
+N-04-S02-A2,That might work for me under different conditions.,negative,1,1,train,N-04-S02,,,,,,04_initial_anchors_n.md
+N-04-S02-A3,I could probably do it if we moved it to another time.,negative,1,1,train,N-04-S02,,,,,,04_initial_anchors_n.md
+N-04-S03-A1,I don’t want to do it in that way.,negative,1,1,train,N-04-S03,,,,,,04_initial_anchors_n.md
+N-04-S03-A2,"The current approach doesn’t work for me, but another approach might.",negative,1,1,train,N-04-S03,,,,,,04_initial_anchors_n.md
+N-04-S03-A3,I’m not comfortable with that version. Maybe we could try something else.,negative,1,1,train,N-04-S03,,,,,,04_initial_anchors_n.md
+N-04-S04-A1,I’ll consider doing it if the recommendation is adjusted.,negative,1,1,validation,N-04-S04,,,,,,04_initial_anchors_n.md
+N-04-S04-A2,A small change would make me more willing to try it.,negative,1,1,validation,N-04-S04,,,,,,04_initial_anchors_n.md
+N-04-S04-A3,I could give it a shot if we changed that part.,negative,1,1,validation,N-04-S04,,,,,,04_initial_anchors_n.md
+N-04-S05-A1,"I’m not willing to do it at the moment, but that could change later.",negative,1,1,test,N-04-S05,,,,,,04_initial_anchors_n.md
+N-04-S05-A2,"This isn’t a good time for me, although I may reconsider.",negative,1,1,test,N-04-S05,,,,,,04_initial_anchors_n.md
+N-04-S05-A3,Not for now. I might be open to it later.,negative,1,1,test,N-04-S05,,,,,,04_initial_anchors_n.md
+I-01-S01-A1,"Okay, I understand.",indifferent,2,1,train,I-01-S01,,,,,,03_initial_anchors_i.md
+I-01-S01-A2,"Alright, I hear you.",indifferent,2,1,train,I-01-S01,,,,,,03_initial_anchors_i.md
+I-01-S01-A3,"Okay, got it.",indifferent,2,1,train,I-01-S01,,,,,,03_initial_anchors_i.md
+I-01-S02-A1,I understand what you’re suggesting.,indifferent,2,1,train,I-01-S02,,,,,,03_initial_anchors_i.md
+I-01-S02-A2,I see what you mean.,indifferent,2,1,train,I-01-S02,,,,,,03_initial_anchors_i.md
+I-01-S02-A3,"Yeah, I get what you’re saying.",indifferent,2,1,train,I-01-S02,,,,,,03_initial_anchors_i.md
+I-01-S03-A1,I’ve heard the recommendation.,indifferent,2,1,train,I-01-S03,,,,,,03_initial_anchors_i.md
+I-01-S03-A2,I’ve got the information.,indifferent,2,1,train,I-01-S03,,,,,,03_initial_anchors_i.md
+I-01-S03-A3,"Alright, I’ve heard you.",indifferent,2,1,train,I-01-S03,,,,,,03_initial_anchors_i.md
+I-01-S04-A1,I understand the explanation.,indifferent,2,1,validation,I-01-S04,,,,,,03_initial_anchors_i.md
+I-01-S04-A2,That makes the reasoning clear.,indifferent,2,1,validation,I-01-S04,,,,,,03_initial_anchors_i.md
+I-01-S04-A3,"Okay, I see how you got there.",indifferent,2,1,validation,I-01-S04,,,,,,03_initial_anchors_i.md
+I-01-S05-A1,I understand what you want me to do.,indifferent,2,1,test,I-01-S05,,,,,,03_initial_anchors_i.md
+I-01-S05-A2,I see what the proposed next step is.,indifferent,2,1,test,I-01-S05,,,,,,03_initial_anchors_i.md
+I-01-S05-A3,"Okay, I know what you’re suggesting.",indifferent,2,1,test,I-01-S05,,,,,,03_initial_anchors_i.md
+I-02-S01-A1,I’m not sure whether I’ll do it.,indifferent,2,1,train,I-02-S01,,,,,,03_initial_anchors_i.md
+I-02-S01-A2,I haven’t decided what I want to do yet.,indifferent,2,1,train,I-02-S01,,,,,,03_initial_anchors_i.md
+I-02-S01-A3,I’m not really sure yet.,indifferent,2,1,train,I-02-S01,,,,,,03_initial_anchors_i.md
+I-02-S02-A1,I’m not sure if that recommendation is right for me.,indifferent,2,1,train,I-02-S02,,,,,,03_initial_anchors_i.md
+I-02-S02-A2,I’m still trying to decide whether it makes sense for me.,indifferent,2,1,train,I-02-S02,,,,,,03_initial_anchors_i.md
+I-02-S02-A3,"Hmm, I’m not sure about that yet.",indifferent,2,1,train,I-02-S02,,,,,,03_initial_anchors_i.md
+I-02-S03-A1,I need some time to think about it.,indifferent,2,1,train,I-02-S03,,,,,,03_initial_anchors_i.md
+I-02-S03-A2,I’d rather make the decision after I’ve considered it.,indifferent,2,1,train,I-02-S03,,,,,,03_initial_anchors_i.md
+I-02-S03-A3,Let me think about it for a bit.,indifferent,2,1,train,I-02-S03,,,,,,03_initial_anchors_i.md
+I-02-S04-A1,"I can see both sides, and I haven’t decided.",indifferent,2,1,train,I-02-S04,,,,,,03_initial_anchors_i.md
+I-02-S04-A2,I’m still weighing the options.,indifferent,2,1,train,I-02-S04,,,,,,03_initial_anchors_i.md
+I-02-S04-A3,I don’t know yet. I’m still thinking.,indifferent,2,1,train,I-02-S04,,,,,,03_initial_anchors_i.md
+I-02-S05-A1,I’m not sure if I’ll be able to follow through.,indifferent,2,1,validation,I-02-S05,,,,,,03_initial_anchors_i.md
+I-02-S05-A2,I’ll have to see how things work out.,indifferent,2,1,validation,I-02-S05,,,,,,03_initial_anchors_i.md
+I-02-S05-A3,I’ll see how it goes.,indifferent,2,1,validation,I-02-S05,,,,,,03_initial_anchors_i.md
+I-03-S01-A1,"I hear you, but I’m not making a decision yet.",indifferent,2,1,train,I-03-S01,,,,,,03_initial_anchors_i.md
+I-03-S01-A2,I’ll keep that in mind.,indifferent,2,1,train,I-03-S01,,,,,,03_initial_anchors_i.md
+I-03-S01-A3,"Okay, I’ll think about it.",indifferent,2,1,train,I-03-S01,,,,,,03_initial_anchors_i.md
+I-03-S02-A1,I’m not ready to decide right now.,indifferent,2,1,train,I-03-S02,,,,,,03_initial_anchors_i.md
+I-03-S02-A2,I’ll come back to that later.,indifferent,2,1,train,I-03-S02,,,,,,03_initial_anchors_i.md
+I-03-S02-A3,Maybe later. I’m not deciding right now.,indifferent,2,1,train,I-03-S02,,,,,,03_initial_anchors_i.md
+I-03-S03-A1,I’m not committing to doing it yet.,indifferent,2,1,train,I-03-S03,,,,,,03_initial_anchors_i.md
+I-03-S03-A2,I’ll have to see how things go.,indifferent,2,1,train,I-03-S03,,,,,,03_initial_anchors_i.md
+I-03-S03-A3,I’ll see. I’m not promising anything yet.,indifferent,2,1,train,I-03-S03,,,,,,03_initial_anchors_i.md
+I-03-S04-A1,"I’ll consider the suggestion, but I haven’t decided.",indifferent,2,1,train,I-03-S04,,,,,,03_initial_anchors_i.md
+I-03-S04-A2,It’s something I can think about.,indifferent,2,1,train,I-03-S04,,,,,,03_initial_anchors_i.md
+I-03-S04-A3,Maybe. I’ll think it over.,indifferent,2,1,train,I-03-S04,,,,,,03_initial_anchors_i.md
+I-03-S05-A1,"I understand the recommendation, but I’m not ready to commit.",indifferent,2,1,test,I-03-S05,,,,,,03_initial_anchors_i.md
+I-03-S05-A2,I’ll keep it in consideration for now.,indifferent,2,1,test,I-03-S05,,,,,,03_initial_anchors_i.md
+I-03-S05-A3,"Okay, I’ll think about it before I decide.",indifferent,2,1,test,I-03-S05,,,,,,03_initial_anchors_i.md
+I-04-S01-A1,Okay.,indifferent,2,1,train,I-04-S01,,,,,,03_initial_anchors_i.md
+I-04-S01-A2,Alright.,indifferent,2,1,train,I-04-S01,,,,,,03_initial_anchors_i.md
+I-04-S01-A3,Hmm.,indifferent,2,1,train,I-04-S01,,,,,,03_initial_anchors_i.md
+I-04-S02-A1,I heard you.,indifferent,2,1,train,I-04-S02,,,,,,03_initial_anchors_i.md
+I-04-S02-A2,Understood.,indifferent,2,1,train,I-04-S02,,,,,,03_initial_anchors_i.md
+I-04-S02-A3,"Yeah, I heard you.",indifferent,2,1,train,I-04-S02,,,,,,03_initial_anchors_i.md
+I-04-S03-A1,That’s what you recommend.,indifferent,2,1,train,I-04-S03,,,,,,03_initial_anchors_i.md
+I-04-S03-A2,"Okay, that’s your suggestion.",indifferent,2,1,train,I-04-S03,,,,,,03_initial_anchors_i.md
+I-04-S03-A3,"Right, that’s what you’re suggesting.",indifferent,2,1,train,I-04-S03,,,,,,03_initial_anchors_i.md
+I-04-S04-A1,I know what you’re asking.,indifferent,2,1,validation,I-04-S04,,,,,,03_initial_anchors_i.md
+I-04-S04-A2,I understand the request.,indifferent,2,1,validation,I-04-S04,,,,,,03_initial_anchors_i.md
+I-04-S04-A3,"Okay, I know what you mean.",indifferent,2,1,validation,I-04-S04,,,,,,03_initial_anchors_i.md
+I-04-S05-A1,I don’t have anything else to say about it right now.,indifferent,2,1,test,I-04-S05,,,,,,03_initial_anchors_i.md
+I-04-S05-A2,I’ll leave it there for now.,indifferent,2,1,test,I-04-S05,,,,,,03_initial_anchors_i.md
+I-04-S05-A3,Nothing else from me right now.,indifferent,2,1,test,I-04-S05,,,,,,03_initial_anchors_i.md
+P-01-S01-A1,"Yes, I’ll do that.",positive,3,1,train,P-01-S01,,,,,,02_initial_anchors_p.md
+P-01-S01-A2,That works for me.,positive,3,1,train,P-01-S01,,,,,,02_initial_anchors_p.md
+P-01-S01-A3,"Yeah, I can do that.",positive,3,1,train,P-01-S01,,,,,,02_initial_anchors_p.md
+P-01-S02-A1,"Okay, I agree.",positive,3,1,train,P-01-S02,,,,,,02_initial_anchors_p.md
+P-01-S02-A2,That sounds reasonable.,positive,3,1,train,P-01-S02,,,,,,02_initial_anchors_p.md
+P-01-S02-A3,"Okay, that sounds fine.",positive,3,1,train,P-01-S02,,,,,,02_initial_anchors_p.md
+P-01-S03-A1,I’ll follow that suggestion.,positive,3,1,train,P-01-S03,,,,,,02_initial_anchors_p.md
+P-01-S03-A2,That seems like a practical approach.,positive,3,1,train,P-01-S03,,,,,,02_initial_anchors_p.md
+P-01-S03-A3,"Sure, I can try that.",positive,3,1,train,P-01-S03,,,,,,02_initial_anchors_p.md
+P-01-S04-A1,"Alright, I understand. I’ll follow it.",positive,3,1,validation,P-01-S04,,,,,,02_initial_anchors_p.md
+P-01-S04-A2,That explanation makes sense to me.,positive,3,1,validation,P-01-S04,,,,,,02_initial_anchors_p.md
+P-01-S04-A3,"Okay, I get it now. I’ll do that.",positive,3,1,validation,P-01-S04,,,,,,02_initial_anchors_p.md
+P-01-S05-A1,"Yes, that’s fine with me.",positive,3,1,test,P-01-S05,,,,,,02_initial_anchors_p.md
+P-01-S05-A2,I’m comfortable with that plan.,positive,3,1,test,P-01-S05,,,,,,02_initial_anchors_p.md
+P-01-S05-A3,"Yeah, that’s fine.",positive,3,1,test,P-01-S05,,,,,,02_initial_anchors_p.md
+P-02-S01-A1,I’ll do it as you suggested.,positive,3,1,train,P-02-S01,,,,,,02_initial_anchors_p.md
+P-02-S01-A2,I can make that part of what I do today.,positive,3,1,train,P-02-S01,,,,,,02_initial_anchors_p.md
+P-02-S01-A3,"Sure, I’ll take care of it.",positive,3,1,train,P-02-S01,,,,,,02_initial_anchors_p.md
+P-02-S02-A1,I’ll follow the recommendation.,positive,3,1,train,P-02-S02,,,,,,02_initial_anchors_p.md
+P-02-S02-A2,I can work that into my routine.,positive,3,1,train,P-02-S02,,,,,,02_initial_anchors_p.md
+P-02-S02-A3,"Okay, I’ll stick to that.",positive,3,1,train,P-02-S02,,,,,,02_initial_anchors_p.md
+P-02-S03-A1,I’ll do it after dinner.,positive,3,1,train,P-02-S03,,,,,,02_initial_anchors_p.md
+P-02-S03-A2,I already know when I can fit it in.,positive,3,1,train,P-02-S03,,,,,,02_initial_anchors_p.md
+P-02-S03-A3,"Yeah, I’ll do it after dinner.",positive,3,1,train,P-02-S03,,,,,,02_initial_anchors_p.md
+P-02-S04-A1,I’m willing to do that.,positive,3,1,train,P-02-S04,,,,,,02_initial_anchors_p.md
+P-02-S04-A2,I don’t see a problem with trying it.,positive,3,1,train,P-02-S04,,,,,,02_initial_anchors_p.md
+P-02-S04-A3,"Sure, I’m willing to give it a try.",positive,3,1,train,P-02-S04,,,,,,02_initial_anchors_p.md
+P-02-S05-A1,"Now that I understand it, I’ll follow the plan.",positive,3,1,validation,P-02-S05,,,,,,02_initial_anchors_p.md
+P-02-S05-A2,That clears things up enough for me to move forward.,positive,3,1,validation,P-02-S05,,,,,,02_initial_anchors_p.md
+P-02-S05-A3,Got it. I’ll go ahead with it.,positive,3,1,validation,P-02-S05,,,,,,02_initial_anchors_p.md
+P-03-S01-A1,"I can do that, as long as it fits into my schedule.",positive,3,1,train,P-03-S01,,,,,,02_initial_anchors_p.md
+P-03-S01-A2,That should work if I can fit it in.,positive,3,1,train,P-03-S01,,,,,,02_initial_anchors_p.md
+P-03-S01-A3,"Yeah, I can do that, provided I have the time.",positive,3,1,train,P-03-S01,,,,,,02_initial_anchors_p.md
+P-03-S02-A1,"I’ll do it, but I’d prefer to adjust the timing.",positive,3,1,train,P-03-S02,,,,,,02_initial_anchors_p.md
+P-03-S02-A2,The approach works better for me with a small change.,positive,3,1,train,P-03-S02,,,,,,02_initial_anchors_p.md
+P-03-S02-A3,"Sure, I’ll do it. I’d just rather do it later.",positive,3,1,train,P-03-S02,,,,,,02_initial_anchors_p.md
+P-03-S03-A1,I’m willing to try it if we keep it manageable.,positive,3,1,train,P-03-S03,,,,,,02_initial_anchors_p.md
+P-03-S03-A2,I think I can make that work if it stays practical.,positive,3,1,train,P-03-S03,,,,,,02_initial_anchors_p.md
+P-03-S03-A3,"Yeah, I can try it as long as it’s manageable.",positive,3,1,train,P-03-S03,,,,,,02_initial_anchors_p.md
+P-03-S04-A1,"I’ll follow the recommendation, although I’d prefer another option.",positive,3,1,train,P-03-S04,,,,,,02_initial_anchors_p.md
+P-03-S04-A2,"I can work with that, even though another option would suit me better.",positive,3,1,train,P-03-S04,,,,,,02_initial_anchors_p.md
+P-03-S04-A3,"Okay, I’ll do that. I’d just prefer the other option.",positive,3,1,train,P-03-S04,,,,,,02_initial_anchors_p.md
+P-03-S05-A1,"I agree with the plan, with that small adjustment.",positive,3,1,test,P-03-S05,,,,,,02_initial_anchors_p.md
+P-03-S05-A2,The overall approach works for me with a slight change.,positive,3,1,test,P-03-S05,,,,,,02_initial_anchors_p.md
+P-03-S05-A3,"Yeah, that works. I’d just tweak one thing.",positive,3,1,test,P-03-S05,,,,,,02_initial_anchors_p.md
+P-04-S01-A1,"I’ve thought about it, and I’ll do it.",positive,3,1,train,P-04-S01,,,,,,02_initial_anchors_p.md
+P-04-S01-A2,"After considering it, the plan seems workable.",positive,3,1,train,P-04-S01,,,,,,02_initial_anchors_p.md
+P-04-S01-A3,"I thought it over. Yeah, I’ll give it a try.",positive,3,1,train,P-04-S01,,,,,,02_initial_anchors_p.md
+P-04-S02-A1,"I wasn’t sure at first, but I’m willing to follow it now.",positive,3,1,train,P-04-S02,,,,,,02_initial_anchors_p.md
+P-04-S02-A2,"I’ve had some time to think, and it seems reasonable.",positive,3,1,train,P-04-S02,,,,,,02_initial_anchors_p.md
+P-04-S02-A3,"I needed a little time, but yeah, I’ll do it.",positive,3,1,train,P-04-S02,,,,,,02_initial_anchors_p.md
+P-04-S03-A1,I’ve decided to go ahead with it.,positive,3,1,train,P-04-S03,,,,,,02_initial_anchors_p.md
+P-04-S03-A2,I think I’m ready to move forward now.,positive,3,1,train,P-04-S03,,,,,,02_initial_anchors_p.md
+P-04-S03-A3,"Okay, I’ve made up my mind. I’ll go ahead.",positive,3,1,train,P-04-S03,,,,,,02_initial_anchors_p.md
+P-04-S04-A1,"Now that I understand the concern, I’m willing to do it.",positive,3,1,validation,P-04-S04,,,,,,02_initial_anchors_p.md
+P-04-S04-A2,That explanation gives me enough confidence to move forward.,positive,3,1,validation,P-04-S04,,,,,,02_initial_anchors_p.md
+P-04-S04-A3,"Alright, that clears it up. I’ll give it a try.",positive,3,1,validation,P-04-S04,,,,,,02_initial_anchors_p.md
+P-04-S05-A1,"I was hesitant before, but I’m ready to cooperate now.",positive,3,1,test,P-04-S05,,,,,,02_initial_anchors_p.md
+P-04-S05-A2,I’m more comfortable with the idea now.,positive,3,1,test,P-04-S05,,,,,,02_initial_anchors_p.md
+P-04-S05-A3,"I was unsure earlier, but yeah, I can do it.",positive,3,1,test,P-04-S05,,,,,,02_initial_anchors_p.md
+VN-01-S01-A1,No. I’m not doing that.,very_negative,0,1,train,VN-01-S01,,,,,,05_initial_anchors_vn.md
+VN-01-S01-A2,That’s not something I’m going to agree to.,very_negative,0,1,train,VN-01-S01,,,,,,05_initial_anchors_vn.md
+VN-01-S01-A3,"No, I’m not going to do that.",very_negative,0,1,train,VN-01-S01,,,,,,05_initial_anchors_vn.md
+VN-01-S02-A1,I reject that recommendation completely.,very_negative,0,1,train,VN-01-S02,,,,,,05_initial_anchors_vn.md
+VN-01-S02-A2,That approach is not acceptable to me.,very_negative,0,1,train,VN-01-S02,,,,,,05_initial_anchors_vn.md
+VN-01-S02-A3,"No, I’m not going with that approach.",very_negative,0,1,train,VN-01-S02,,,,,,05_initial_anchors_vn.md
+VN-01-S03-A1,"I’ve already said no, and I’m still not going to do it.",very_negative,0,1,train,VN-01-S03,,,,,,05_initial_anchors_vn.md
+VN-01-S03-A2,Continuing to suggest it isn’t going to change my decision.,very_negative,0,1,train,VN-01-S03,,,,,,05_initial_anchors_vn.md
+VN-01-S03-A3,I already told you no. I’m not doing it.,very_negative,0,1,train,VN-01-S03,,,,,,05_initial_anchors_vn.md
+VN-01-S04-A1,I do not want any more recommendations about this.,very_negative,0,1,validation,VN-01-S04,,,,,,05_initial_anchors_vn.md
+VN-01-S04-A2,Further suggestions on this are not welcome.,very_negative,0,1,validation,VN-01-S04,,,,,,05_initial_anchors_vn.md
+VN-01-S04-A3,Please don’t keep giving me suggestions about this.,very_negative,0,1,validation,VN-01-S04,,,,,,05_initial_anchors_vn.md
+VN-01-S05-A1,I will not cooperate with this.,very_negative,0,1,test,VN-01-S05,,,,,,05_initial_anchors_vn.md
+VN-01-S05-A2,There is no agreement from me on this.,very_negative,0,1,test,VN-01-S05,,,,,,05_initial_anchors_vn.md
+VN-01-S05-A3,I’m not going to cooperate with that.,very_negative,0,1,test,VN-01-S05,,,,,,05_initial_anchors_vn.md
+VN-02-S01-A1,I strongly oppose this intervention.,very_negative,0,1,train,VN-02-S01,,,,,,05_initial_anchors_vn.md
+VN-02-S01-A2,I’m completely against this approach.,very_negative,0,1,train,VN-02-S01,,,,,,05_initial_anchors_vn.md
+VN-02-S01-A3,"No, I’m really against doing this.",very_negative,0,1,train,VN-02-S01,,,,,,05_initial_anchors_vn.md
+VN-02-S02-A1,I strongly disagree with this approach and will not follow it.,very_negative,0,1,train,VN-02-S02,,,,,,05_initial_anchors_vn.md
+VN-02-S02-A2,This approach goes against what I’m willing to do.,very_negative,0,1,train,VN-02-S02,,,,,,05_initial_anchors_vn.md
+VN-02-S02-A3,"I really don’t agree with this approach, and I’m not following it.",very_negative,0,1,train,VN-02-S02,,,,,,05_initial_anchors_vn.md
+VN-02-S03-A1,I completely reject the reasoning behind this recommendation.,very_negative,0,1,train,VN-02-S03,,,,,,05_initial_anchors_vn.md
+VN-02-S03-A2,I don’t accept the premise that this is something I should do.,very_negative,0,1,train,VN-02-S03,,,,,,05_initial_anchors_vn.md
+VN-02-S03-A3,I don’t buy the reasoning behind this at all.,very_negative,0,1,train,VN-02-S03,,,,,,05_initial_anchors_vn.md
+VN-02-S04-A1,"I still strongly oppose the recommendation, even after your explanation.",very_negative,0,1,train,VN-02-S04,,,,,,05_initial_anchors_vn.md
+VN-02-S04-A2,Your explanation hasn’t changed my position on this.,very_negative,0,1,train,VN-02-S04,,,,,,05_initial_anchors_vn.md
+VN-02-S04-A3,"I understand what you’re saying, but I’m still completely against it.",very_negative,0,1,train,VN-02-S04,,,,,,05_initial_anchors_vn.md
+VN-02-S05-A1,I do not want your assistance with this.,very_negative,0,1,validation,VN-02-S05,,,,,,05_initial_anchors_vn.md
+VN-02-S05-A2,Your involvement is not something I want here.,very_negative,0,1,validation,VN-02-S05,,,,,,05_initial_anchors_vn.md
+VN-02-S05-A3,I don’t want your help with this.,very_negative,0,1,validation,VN-02-S05,,,,,,05_initial_anchors_vn.md
+VN-03-S01-A1,I’m telling you no. Stop pushing this.,very_negative,0,1,train,VN-03-S01,,,,,,05_initial_anchors_vn.md
+VN-03-S01-A2,This continued pressure is completely unacceptable.,very_negative,0,1,train,VN-03-S01,,,,,,05_initial_anchors_vn.md
+VN-03-S01-A3,No. Stop pushing me about this.,very_negative,0,1,train,VN-03-S01,,,,,,05_initial_anchors_vn.md
+VN-03-S02-A1,Stop trying to persuade me. I’m not doing it.,very_negative,0,1,train,VN-03-S02,,,,,,05_initial_anchors_vn.md
+VN-03-S02-A2,More persuasion is only making me oppose this more strongly.,very_negative,0,1,train,VN-03-S02,,,,,,05_initial_anchors_vn.md
+VN-03-S02-A3,Stop trying to convince me. I said no.,very_negative,0,1,train,VN-03-S02,,,,,,05_initial_anchors_vn.md
+VN-03-S03-A1,I’m angry that you keep reminding me. Stop.,very_negative,0,1,train,VN-03-S03,,,,,,05_initial_anchors_vn.md
+VN-03-S03-A2,These repeated reminders are making me want nothing to do with this.,very_negative,0,1,train,VN-03-S03,,,,,,05_initial_anchors_vn.md
+VN-03-S03-A3,"Seriously, stop reminding me. It’s getting really annoying.",very_negative,0,1,train,VN-03-S03,,,,,,05_initial_anchors_vn.md
+VN-03-S04-A1,Stop this intervention immediately.,very_negative,0,1,train,VN-03-S04,,,,,,05_initial_anchors_vn.md
+VN-03-S04-A2,I do not want this conversation to continue in this direction.,very_negative,0,1,train,VN-03-S04,,,,,,05_initial_anchors_vn.md
+VN-03-S04-A3,Enough. Stop bringing this up.,very_negative,0,1,train,VN-03-S04,,,,,,05_initial_anchors_vn.md
+VN-03-S05-A1,"I don’t want your help, and I want you to leave me alone.",very_negative,0,1,test,VN-03-S05,,,,,,05_initial_anchors_vn.md
+VN-03-S05-A2,"Your assistance is unwanted, and I do not want further involvement.",very_negative,0,1,test,VN-03-S05,,,,,,05_initial_anchors_vn.md
+VN-03-S05-A3,I don’t need your help. Just leave me alone.,very_negative,0,1,test,VN-03-S05,,,,,,05_initial_anchors_vn.md
+VN-04-S01-A1,I’m ending this conversation now.,very_negative,0,1,train,VN-04-S01,,,,,,05_initial_anchors_vn.md
+VN-04-S01-A2,There is nothing more I want to discuss about this.,very_negative,0,1,train,VN-04-S01,,,,,,05_initial_anchors_vn.md
+VN-04-S01-A3,I’m done talking about this.,very_negative,0,1,train,VN-04-S01,,,,,,05_initial_anchors_vn.md
+VN-04-S02-A1,Stop reminding me about this.,very_negative,0,1,train,VN-04-S02,,,,,,05_initial_anchors_vn.md
+VN-04-S02-A2,I do not want any further contact about this issue.,very_negative,0,1,train,VN-04-S02,,,,,,05_initial_anchors_vn.md
+VN-04-S02-A3,Please stop contacting me about this.,very_negative,0,1,train,VN-04-S02,,,,,,05_initial_anchors_vn.md
+VN-04-S03-A1,I do not want any further assistance from you.,very_negative,0,1,train,VN-04-S03,,,,,,05_initial_anchors_vn.md
+VN-04-S03-A2,I’ll handle this without any more help.,very_negative,0,1,train,VN-04-S03,,,,,,05_initial_anchors_vn.md
+VN-04-S03-A3,"No thanks, I don’t want any more help with this.",very_negative,0,1,train,VN-04-S03,,,,,,05_initial_anchors_vn.md
+VN-04-S04-A1,I’m leaving this conversation now.,very_negative,0,1,validation,VN-04-S04,,,,,,05_initial_anchors_vn.md
+VN-04-S04-A2,I’m not continuing this discussion.,very_negative,0,1,validation,VN-04-S04,,,,,,05_initial_anchors_vn.md
+VN-04-S04-A3,I’m done here. I’m not talking about this anymore.,very_negative,0,1,validation,VN-04-S04,,,,,,05_initial_anchors_vn.md
+VN-04-S05-A1,"I do not want any more discussion, reminders, or intervention about this.",very_negative,0,1,test,VN-04-S05,,,,,,05_initial_anchors_vn.md
+VN-04-S05-A2,This is something I want completely left alone from now on.,very_negative,0,1,test,VN-04-S05,,,,,,05_initial_anchors_vn.md
+VN-04-S05-A3,Just leave this alone. I don’t want to hear about it again.,very_negative,0,1,test,VN-04-S05,,,,,,05_initial_anchors_vn.md
+VP-01-S01-V01,I’m completely on board with that — let’s go for it!,very_positive,4,3A,train,VP-01-S01,VP-01-S01-A1,VP-01-S01-A1 → VP-01-S01-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S01-V02,"Yeah, that works for me — I’m happy to do it.",very_positive,4,3A,train,VP-01-S01,VP-01-S01-A2,VP-01-S01-A2 → VP-01-S01-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S01-V03,That’s exactly the approach I want to take.,very_positive,4,3A,train,VP-01-S01,VP-01-S01-A3,VP-01-S01-A3 → VP-01-S01-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S01-V04,"Given what you’ve explained, I’m genuinely keen to follow that recommendation.",very_positive,4,3A,train,VP-01-S01,VP-01-S01-A1,VP-01-S01-A1 → VP-01-S01-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S01-V05,"Yeah, absolutely, I’m happy to go with that.",very_positive,4,3A,train,VP-01-S01,VP-01-S01-A2,VP-01-S01-A2 → VP-01-S01-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S01-V06,Sure — should I start with that recommendation now?,very_positive,4,3A,train,VP-01-S01,VP-01-S01-A3,VP-01-S01-A3 → VP-01-S01-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S02-V01,That reasoning really works for me.,very_positive,4,3A,train,VP-01-S02,VP-01-S02-A2,VP-01-S02-A2 → VP-01-S02-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S02-V02,"Oh, I get it now — that actually makes a lot of sense.",very_positive,4,3A,train,VP-01-S02,VP-01-S02-A3,VP-01-S02-A3 → VP-01-S02-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S02-V03,"Yes, I completely agree with the approach you’ve outlined.",very_positive,4,3A,train,VP-01-S02,VP-01-S02-A1,VP-01-S02-A1 → VP-01-S02-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S02-V04,"Now that I understand why you’re suggesting it, I’m fully on board.",very_positive,4,3A,train,VP-01-S02,VP-01-S02-A2,VP-01-S02-A2 → VP-01-S02-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S02-V05,"Right, yeah, that makes complete sense to me — absolutely love this idea!",very_positive,4,3A,train,VP-01-S02,VP-01-S02-A3,VP-01-S02-A3 → VP-01-S02-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S02-V06,That explanation is fantastic — shall we get started on that approach right away?,very_positive,4,3A,train,VP-01-S02,VP-01-S02-A1,VP-01-S02-A1 → VP-01-S02-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S03-V01,I’m very willing to give it a go.,very_positive,4,3A,train,VP-01-S03,VP-01-S03-A3,VP-01-S03-A3 → VP-01-S03-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S03-V02,"Yeah, I’m up for doing that right away.",very_positive,4,3A,train,VP-01-S03,VP-01-S03-A1,VP-01-S03-A1 → VP-01-S03-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S03-V03,I’m ready and genuinely enthusiastic about following through.,very_positive,4,3A,train,VP-01-S03,VP-01-S03-A2,VP-01-S03-A2 → VP-01-S03-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S03-V04,"Since it fits what I need, I’m keen to get started immediately.",very_positive,4,3A,train,VP-01-S03,VP-01-S03-A3,VP-01-S03-A3 → VP-01-S03-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S03-V05,"Okay, yeah, I’m definitely ready to do it.",very_positive,4,3A,train,VP-01-S03,VP-01-S03-A1,VP-01-S03-A1 → VP-01-S03-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S03-V06,"Alright, shall I get started with it now?",very_positive,4,3A,train,VP-01-S03,VP-01-S03-A2,VP-01-S03-A2 → VP-01-S03-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S04-V01,"That was genuinely useful, and I’m glad to follow it.",very_positive,4,3A,validation,VP-01-S04,VP-01-S04-A1,VP-01-S04-A1 → VP-01-S04-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S04-V02,"Oh, that really helped — I’m happy to go with this.",very_positive,4,3A,validation,VP-01-S04,VP-01-S04-A2,VP-01-S04-A2 → VP-01-S04-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S04-V03,I’m very positive about this recommendation; it addresses exactly what I needed.,very_positive,4,3A,validation,VP-01-S04,VP-01-S04-A3,VP-01-S04-A3 → VP-01-S04-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S04-V04,"Now that I can see how useful this is for me, I’m keen to put it into practice.",very_positive,4,3A,validation,VP-01-S04,VP-01-S04-A1,VP-01-S04-A1 → VP-01-S04-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S04-V05,"Yeah, this is really helpful. I’m definitely going to use it.",very_positive,4,3A,validation,VP-01-S04,VP-01-S04-A2,VP-01-S04-A2 → VP-01-S04-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S04-V06,That seems really useful — is there anything else I should do with it?,very_positive,4,3A,validation,VP-01-S04,VP-01-S04-A3,VP-01-S04-A3 → VP-01-S04-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S05-V01,I’m happy to take that next step as well.,very_positive,4,3A,test,VP-01-S05,VP-01-S05-A2,VP-01-S05-A2 → VP-01-S05-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S05-V02,"Sure, let’s keep going — I’m keen to do the next part.",very_positive,4,3A,test,VP-01-S05,VP-01-S05-A3,VP-01-S05-A3 → VP-01-S05-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S05-V03,"Yes, I’d be very glad to continue with the proposed follow-up.",very_positive,4,3A,test,VP-01-S05,VP-01-S05-A1,VP-01-S05-A1 → VP-01-S05-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S05-V04,"The next step makes sense to me, so I’m happy to keep moving forward.",very_positive,4,3A,test,VP-01-S05,VP-01-S05-A2,VP-01-S05-A2 → VP-01-S05-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S05-V05,"Yeah, absolutely, let’s do the follow-up.",very_positive,4,3A,test,VP-01-S05,VP-01-S05-A3,VP-01-S05-A3 → VP-01-S05-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-01-S05-V06,"Okay, what would you suggest I do next?",very_positive,4,3A,test,VP-01-S05,VP-01-S05-A1,VP-01-S05-A1 → VP-01-S05-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S01-V01,I really value the help you’ve given me.,very_positive,4,3A,train,VP-02-S01,VP-02-S01-A1,VP-02-S01-A1 → VP-02-S01-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S01-V02,"Thanks, that was genuinely useful.",very_positive,4,3A,train,VP-02-S01,VP-02-S01-A2,VP-02-S01-A2 → VP-02-S01-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S01-V03,I really appreciate how much this intervention has helped me.,very_positive,4,3A,train,VP-02-S01,VP-02-S01-A3,VP-02-S01-A3 → VP-02-S01-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S01-V04,"You’ve made the whole thing much easier to approach, and I’m very grateful for that.",very_positive,4,3A,train,VP-02-S01,VP-02-S01-A1,VP-02-S01-A1 → VP-02-S01-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S01-V05,"Yeah, thank you — that was a big help.",very_positive,4,3A,train,VP-02-S01,VP-02-S01-A2,VP-02-S01-A2 → VP-02-S01-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S01-V06,That was really helpful; what else can I do with this?,very_positive,4,3A,train,VP-02-S01,VP-02-S01-A3,VP-02-S01-A3 → VP-02-S01-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S02-V01,That explanation was extremely useful to me.,very_positive,4,3A,train,VP-02-S02,VP-02-S02-A2,VP-02-S02-A2 → VP-02-S02-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S02-V02,"Ah, that cleared things up much more than I expected.",very_positive,4,3A,train,VP-02-S02,VP-02-S02-A3,VP-02-S02-A3 → VP-02-S02-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S02-V03,I can clearly see that your explanation has made the recommendation much easier for me to understand and accept.,very_positive,4,3A,train,VP-02-S02,VP-02-S02-A1,VP-02-S02-A1 → VP-02-S02-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S02-V04,"The way you explained it addressed the part I was struggling with, so I really appreciate the guidance.",very_positive,4,3A,train,VP-02-S02,VP-02-S02-A2,VP-02-S02-A2 → VP-02-S02-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S02-V05,"Right, that explanation really helped — thanks.",very_positive,4,3A,train,VP-02-S02,VP-02-S02-A3,VP-02-S02-A3 → VP-02-S02-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S02-V06,Could you show me one more example so I can build on what I’ve understood?,very_positive,4,3A,train,VP-02-S02,VP-02-S02-A1,VP-02-S02-A1 → VP-02-S02-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S03-V01,Your guidance was genuinely valuable.,very_positive,4,3A,train,VP-02-S03,VP-02-S03-A3,VP-02-S03-A3 → VP-02-S03-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S03-V02,That worked really well — thanks for walking me through it.,very_positive,4,3A,train,VP-02-S03,VP-02-S03-A1,VP-02-S03-A1 → VP-02-S03-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S03-V03,I’m very appreciative because your guidance gave me a clear way forward.,very_positive,4,3A,train,VP-02-S03,VP-02-S03-A2,VP-02-S03-A2 → VP-02-S03-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S03-V04,"Your explanation turned something I was unsure about into something I can actually work with, and I appreciate that.",very_positive,4,3A,train,VP-02-S03,VP-02-S03-A3,VP-02-S03-A3 → VP-02-S03-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S03-V05,"Yeah, that was really useful. Thanks.",very_positive,4,3A,train,VP-02-S03,VP-02-S03-A1,VP-02-S03-A1 → VP-02-S03-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S03-V06,That guidance helped a lot — is there another step you’d recommend?,very_positive,4,3A,train,VP-02-S03,VP-02-S03-A2,VP-02-S03-A2 → VP-02-S03-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S04-V01,I’m extremely grateful for the support you provided.,very_positive,4,3A,train,VP-02-S04,VP-02-S04-A1,VP-02-S04-A1 → VP-02-S04-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S04-V02,"Honestly, thanks — I really needed that explanation.",very_positive,4,3A,train,VP-02-S04,VP-02-S04-A2,VP-02-S04-A2 → VP-02-S04-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S04-V03,I genuinely appreciate your support because it helped me understand and accept the action you recommended.,very_positive,4,3A,train,VP-02-S04,VP-02-S04-A3,VP-02-S04-A3 → VP-02-S04-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S04-V04,"Your support gave me the confidence to move forward with the recommendation, and I’m very thankful for that.",very_positive,4,3A,train,VP-02-S04,VP-02-S04-A1,VP-02-S04-A1 → VP-02-S04-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S04-V05,"Yeah, I really appreciate it. That helped me get on board.",very_positive,4,3A,train,VP-02-S04,VP-02-S04-A2,VP-02-S04-A2 → VP-02-S04-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S04-V06,Thanks for helping me see it that way — what should I do next?,very_positive,4,3A,train,VP-02-S04,VP-02-S04-A3,VP-02-S04-A3 → VP-02-S04-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S05-V01,I really appreciate the support and I’m happy to keep working with you.,very_positive,4,3A,validation,VP-02-S05,VP-02-S05-A2,VP-02-S05-A2 → VP-02-S05-V01,LEX,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S05-V02,"Thanks, I’m glad we’re doing this — I’m happy to keep going.",very_positive,4,3A,validation,VP-02-S05,VP-02-S05-A3,VP-02-S05-A3 → VP-02-S05-V02,NAT,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S05-V03,I appreciate the intervention and I’m clearly willing to continue engaging with it.,very_positive,4,3A,validation,VP-02-S05,VP-02-S05-A1,VP-02-S05-A1 → VP-02-S05-V03,EXP,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S05-V04,This has been useful enough that I’d like to keep working through the next steps with you.,very_positive,4,3A,validation,VP-02-S05,VP-02-S05-A2,VP-02-S05-A2 → VP-02-S05-V04,PRG,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S05-V05,"Yeah, this has been great. I’m happy to keep going.",very_positive,4,3A,validation,VP-02-S05,VP-02-S05-A3,VP-02-S05-A3 → VP-02-S05-V05,CMK,,,stage_3a_vp_a_s01_s10_variants.md
+VP-02-S05-V06,"Thanks, this has helped — what should we work on next?",very_positive,4,3A,validation,VP-02-S05,VP-02-S05-A1,VP-02-S05-A1 → VP-02-S05-V06,QST,,,stage_3a_vp_a_s01_s10_variants.md
+VP-03-S01-V01,I'd like to know what else I can do.,very_positive,4,3A,train,VP-03-S01,VP-03-S01-A1,VP-03-S01-A1 → VP-03-S01-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S01-V02,Sounds good — is there anything else you'd suggest?,very_positive,4,3A,train,VP-03-S01,VP-03-S01-A2,VP-03-S01-A2 → VP-03-S01-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S01-V03,"I’m happy to continue, and I’d like to make sure I’m doing it properly.",very_positive,4,3A,train,VP-03-S01,VP-03-S01-A3,VP-03-S01-A3 → VP-03-S01-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S01-V04,I'd like to build on this rather than stop here; what would you recommend next?,very_positive,4,3A,train,VP-03-S01,VP-03-S01-A1,VP-03-S01-A1 → VP-03-S01-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S01-V05,"Yeah, that sounds good. Anything else I should try?",very_positive,4,3A,train,VP-03-S01,VP-03-S01-A2,VP-03-S01-A2 → VP-03-S01-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S01-V06,Would there be another step you’d recommend after this?,very_positive,4,3A,train,VP-03-S01,VP-03-S01-A3,VP-03-S01-A3 → VP-03-S01-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S02-V01,Could you give me a little more guidance on the next step?,very_positive,4,3A,train,VP-03-S02,VP-03-S02-A2,VP-03-S02-A2 → VP-03-S02-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S02-V02,"Okay, I’m with you — can you walk me through what comes next?",very_positive,4,3A,train,VP-03-S02,VP-03-S02-A3,VP-03-S02-A3 → VP-03-S02-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S02-V03,I want to understand the process well enough to carry it out properly.,very_positive,4,3A,train,VP-03-S02,VP-03-S02-A1,VP-03-S02-A1 → VP-03-S02-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S02-V04,"I’m keen to do this well, so some additional guidance would be useful.",very_positive,4,3A,train,VP-03-S02,VP-03-S02-A2,VP-03-S02-A2 → VP-03-S02-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S02-V05,"Right, I’m happy to keep going. Can you show me the next part?",very_positive,4,3A,train,VP-03-S02,VP-03-S02-A3,VP-03-S02-A3 → VP-03-S02-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S02-V06,What else should I know before I continue?,very_positive,4,3A,train,VP-03-S02,VP-03-S02-A1,VP-03-S02-A1 → VP-03-S02-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S03-V01,I'd be happy to keep discussing this.,very_positive,4,3A,train,VP-03-S03,VP-03-S03-A3,VP-03-S03-A3 → VP-03-S03-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S03-V02,"Yeah, I’d like to keep going with it.",very_positive,4,3A,train,VP-03-S03,VP-03-S03-A1,VP-03-S03-A1 → VP-03-S03-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S03-V03,I’m not just willing to follow the recommendation; I want to continue working through it.,very_positive,4,3A,train,VP-03-S03,VP-03-S03-A2,VP-03-S03-A2 → VP-03-S03-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S03-V04,This is useful enough that I’d like to explore it a little further.,very_positive,4,3A,train,VP-03-S03,VP-03-S03-A3,VP-03-S03-A3 → VP-03-S03-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S03-V05,"Okay, yeah, let’s keep going.",very_positive,4,3A,train,VP-03-S03,VP-03-S03-A1,VP-03-S03-A1 → VP-03-S03-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S03-V06,Can we look at one more part of this?,very_positive,4,3A,train,VP-03-S03,VP-03-S03-A2,VP-03-S03-A2 → VP-03-S03-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S04-V01,I can take the next step myself.,very_positive,4,3A,train,VP-03-S04,VP-03-S04-A1,VP-03-S04-A1 → VP-03-S04-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S04-V02,"Alright, I’ll get started on the next part.",very_positive,4,3A,train,VP-03-S04,VP-03-S04-A2,VP-03-S04-A2 → VP-03-S04-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S04-V03,I’m going to move forward with the next step without waiting for another prompt.,very_positive,4,3A,train,VP-03-S04,VP-03-S04-A3,VP-03-S04-A3 → VP-03-S04-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S04-V04,"Since I’m comfortable with the plan, I’ll take the initiative and continue from here.",very_positive,4,3A,train,VP-03-S04,VP-03-S04-A1,VP-03-S04-A1 → VP-03-S04-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S04-V05,"Yeah, I’ve got it. I’ll take it from here.",very_positive,4,3A,train,VP-03-S04,VP-03-S04-A2,VP-03-S04-A2 → VP-03-S04-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S04-V06,Should I go ahead and start the next step now?,very_positive,4,3A,train,VP-03-S04,VP-03-S04-A3,VP-03-S04-A3 → VP-03-S04-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S05-V01,I’d like to do more toward the same goal.,very_positive,4,3A,test,VP-03-S05,VP-03-S05-A2,VP-03-S05-A2 → VP-03-S05-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S05-V02,"Yeah, I can see how this could help with the bigger picture too.",very_positive,4,3A,test,VP-03-S05,VP-03-S05-A3,VP-03-S05-A3 → VP-03-S05-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S05-V03,I’m strongly engaged with the goal and want to contribute beyond the immediate recommendation.,very_positive,4,3A,test,VP-03-S05,VP-03-S05-A1,VP-03-S05-A1 → VP-03-S05-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S05-V04,"This seems like a useful starting point for making broader progress, so I’d like to keep building on it.",very_positive,4,3A,test,VP-03-S05,VP-03-S05-A2,VP-03-S05-A2 → VP-03-S05-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S05-V05,"Right, I’m into this. I’d like to take it a bit further.",very_positive,4,3A,test,VP-03-S05,VP-03-S05-A3,VP-03-S05-A3 → VP-03-S05-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-03-S05-V06,What else could I do to support the same goal?,very_positive,4,3A,test,VP-03-S05,VP-03-S05-A1,VP-03-S05-A1 → VP-03-S05-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S01-V01,I’ve decided to take care of it myself.,very_positive,4,3A,train,VP-04-S01,VP-04-S01-A1,VP-04-S01-A1 → VP-04-S01-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S01-V02,"Don’t worry, I’ll handle it.",very_positive,4,3A,train,VP-04-S01,VP-04-S01-A2,VP-04-S01-A2 → VP-04-S01-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S01-V03,I’m fully committed to carrying this out without needing further prompting.,very_positive,4,3A,train,VP-04-S01,VP-04-S01-A3,VP-04-S01-A3 → VP-04-S01-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S01-V04,I’ve made the decision to act on this because I genuinely want to.,very_positive,4,3A,train,VP-04-S01,VP-04-S01-A1,VP-04-S01-A1 → VP-04-S01-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S01-V05,"Yeah, I’ll take care of it myself.",very_positive,4,3A,train,VP-04-S01,VP-04-S01-A2,VP-04-S01-A2 → VP-04-S01-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S01-V06,"I can go ahead with this on my own, right?",very_positive,4,3A,train,VP-04-S01,VP-04-S01-A3,VP-04-S01-A3 → VP-04-S01-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S02-V01,I’m happy to make that part of my routine.,very_positive,4,3A,train,VP-04-S02,VP-04-S02-A2,VP-04-S02-A2 → VP-04-S02-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S02-V02,"Yeah, I can see myself sticking with that.",very_positive,4,3A,train,VP-04-S02,VP-04-S02-A3,VP-04-S02-A3 → VP-04-S02-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S02-V03,I’m voluntarily willing to incorporate the recommendation into my regular routine.,very_positive,4,3A,train,VP-04-S02,VP-04-S02-A1,VP-04-S02-A1 → VP-04-S02-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S02-V04,"That fits well enough with how I want to structure things, so I’m glad to adopt it.",very_positive,4,3A,train,VP-04-S02,VP-04-S02-A2,VP-04-S02-A2 → VP-04-S02-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S02-V05,"Okay, yeah, I can make that part of my routine.",very_positive,4,3A,train,VP-04-S02,VP-04-S02-A3,VP-04-S02-A3 → VP-04-S02-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S02-V06,Would it make sense for me to build that into my routine from now on?,very_positive,4,3A,train,VP-04-S02,VP-04-S02-A1,VP-04-S02-A1 → VP-04-S02-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S03-V01,I’m willing to cooperate without needing to be pushed.,very_positive,4,3A,train,VP-04-S03,VP-04-S03-A3,VP-04-S03-A3 → VP-04-S03-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S03-V02,"Sure, I’m happy to do my part.",very_positive,4,3A,train,VP-04-S03,VP-04-S03-A1,VP-04-S03-A1 → VP-04-S03-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S03-V03,"I’m choosing to follow the recommendation freely, without needing repeated encouragement.",very_positive,4,3A,train,VP-04-S03,VP-04-S03-A2,VP-04-S03-A2 → VP-04-S03-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S03-V04,"I’m comfortable taking this on because I want to cooperate, not because I’m being pressured.",very_positive,4,3A,train,VP-04-S03,VP-04-S03-A3,VP-04-S03-A3 → VP-04-S03-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S03-V05,"Yeah, no pressure needed. I’m happy to do it.",very_positive,4,3A,train,VP-04-S03,VP-04-S03-A1,VP-04-S03-A1 → VP-04-S03-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S03-V06,Would you like me to go ahead with it myself?,very_positive,4,3A,train,VP-04-S03,VP-04-S03-A2,VP-04-S03-A2 → VP-04-S03-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S04-V01,I intend to follow through with it on my own.,very_positive,4,3A,validation,VP-04-S04,VP-04-S04-A1,VP-04-S04-A1 → VP-04-S04-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S04-V02,"Yeah, I’ll see it through.",very_positive,4,3A,validation,VP-04-S04,VP-04-S04-A2,VP-04-S04-A2 → VP-04-S04-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S04-V03,I’m making a firm personal commitment to follow through with the recommendation.,very_positive,4,3A,validation,VP-04-S04,VP-04-S04-A3,VP-04-S04-A3 → VP-04-S04-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S04-V04,I want to carry this through because I’ve decided it’s worth doing.,very_positive,4,3A,validation,VP-04-S04,VP-04-S04-A1,VP-04-S04-A1 → VP-04-S04-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S04-V05,"Right, I’m going to stick with it.",very_positive,4,3A,validation,VP-04-S04,VP-04-S04-A2,VP-04-S04-A2 → VP-04-S04-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S04-V06,Would it be useful if I followed through with the whole plan myself?,very_positive,4,3A,validation,VP-04-S04,VP-04-S04-A3,VP-04-S04-A3 → VP-04-S04-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S05-V01,I’m happy to continue cooperating with your guidance.,very_positive,4,3A,test,VP-04-S05,VP-04-S05-A2,VP-04-S05-A2 → VP-04-S05-V01,LEX,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S05-V02,"Yeah, keep the suggestions coming — I’m happy to work with them.",very_positive,4,3A,test,VP-04-S05,VP-04-S05-A3,VP-04-S05-A3 → VP-04-S05-V02,NAT,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S05-V03,I’m strongly willing to remain engaged with the intervention and continue cooperating.,very_positive,4,3A,test,VP-04-S05,VP-04-S05-A1,VP-04-S05-A1 → VP-04-S05-V03,EXP,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S05-V04,"I find the continued support useful, and I’m receptive to working through the next steps with you.",very_positive,4,3A,test,VP-04-S05,VP-04-S05-A2,VP-04-S05-A2 → VP-04-S05-V04,PRG,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S05-V05,"Sure, I’m happy to keep going with your guidance.",very_positive,4,3A,test,VP-04-S05,VP-04-S05-A3,VP-04-S05-A3 → VP-04-S05-V05,CMK,,,stage_3a_vp_b_s11_s20_variants.md
+VP-04-S05-V06,What would you suggest we work on next?,very_positive,4,3A,test,VP-04-S05,VP-04-S05-A1,VP-04-S05-A1 → VP-04-S05-V06,QST,,,stage_3a_vp_b_s11_s20_variants.md
+P-01-S01-V01,"Yes, I can do that.",positive,3,3A,train,P-01-S01,P-01-S01-A1,P-01-S01-A1 → P-01-S01-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S01-V02,"That approach works for me, so I can follow it.",positive,3,3A,train,P-01-S01,P-01-S01-A2,P-01-S01-A2 → P-01-S01-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S01-V03,"Yeah, sounds like a plan, I’ll go with that.",positive,3,3A,train,P-01-S01,P-01-S01-A3,P-01-S01-A3 → P-01-S01-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S01-V04,"Yes, I’ll follow the recommendation as you suggested.",positive,3,3A,train,P-01-S01,P-01-S01-A1,P-01-S01-A1 → P-01-S01-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S01-V05,"Okay, I can do that.",positive,3,3A,train,P-01-S01,P-01-S01-A2,P-01-S01-A2 → P-01-S01-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S01-V06,"Yeah, that works for me.",positive,3,3A,train,P-01-S01,P-01-S01-A3,P-01-S01-A3 → P-01-S01-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S02-V01,"Alright, that seems reasonable to me.",positive,3,3A,train,P-01-S02,P-01-S02-A2,P-01-S02-A2 → P-01-S02-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S02-V02,I agree with that approach and can go along with it.,positive,3,3A,train,P-01-S02,P-01-S02-A3,P-01-S02-A3 → P-01-S02-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S02-V03,"Okay, yeah, that sounds fine.",positive,3,3A,train,P-01-S02,P-01-S02-A1,P-01-S02-A1 → P-01-S02-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S02-V04,I understand the recommendation and I’m comfortable following it.,positive,3,3A,train,P-01-S02,P-01-S02-A2,P-01-S02-A2 → P-01-S02-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S02-V05,That sounds fine to me.,positive,3,3A,train,P-01-S02,P-01-S02-A3,P-01-S02-A3 → P-01-S02-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S02-V06,"Okay, I’m good with that.",positive,3,3A,train,P-01-S02,P-01-S02-A1,P-01-S02-A1 → P-01-S02-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S03-V01,"Sure, I’m fine with adopting that suggestion.",positive,3,3A,train,P-01-S03,P-01-S03-A3,P-01-S03-A3 → P-01-S03-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S03-V02,I can follow that suggestion as part of my routine.,positive,3,3A,train,P-01-S03,P-01-S03-A1,P-01-S03-A1 → P-01-S03-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S03-V03,"Yeah, that seems like something I can do.",positive,3,3A,train,P-01-S03,P-01-S03-A2,P-01-S03-A2 → P-01-S03-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S03-V04,I’m comfortable trying the recommended approach in my usual routine.,positive,3,3A,train,P-01-S03,P-01-S03-A3,P-01-S03-A3 → P-01-S03-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S03-V05,"Sure, I can give that a try.",positive,3,3A,train,P-01-S03,P-01-S03-A1,P-01-S03-A1 → P-01-S03-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S03-V06,"Yeah, I can work with that.",positive,3,3A,train,P-01-S03,P-01-S03-A2,P-01-S03-A2 → P-01-S03-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S04-V01,"Alright, I’ll follow it.",positive,3,3A,validation,P-01-S04,P-01-S04-A1,P-01-S04-A1 → P-01-S04-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S04-V02,"That explanation makes sense, and I can go ahead with the recommendation.",positive,3,3A,validation,P-01-S04,P-01-S04-A2,P-01-S04-A2 → P-01-S04-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S04-V03,"Okay, I get it now. I can do that.",positive,3,3A,validation,P-01-S04,P-01-S04-A3,P-01-S04-A3 → P-01-S04-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S04-V04,I understand the reasoning and I’m willing to follow the recommendation.,positive,3,3A,validation,P-01-S04,P-01-S04-A1,P-01-S04-A1 → P-01-S04-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S04-V05,"Alright, that’s fine with me.",positive,3,3A,validation,P-01-S04,P-01-S04-A2,P-01-S04-A2 → P-01-S04-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S04-V06,"Okay, that makes sense, I’ll follow that.",positive,3,3A,validation,P-01-S04,P-01-S04-A3,P-01-S04-A3 → P-01-S04-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S05-V01,"Yes, I’m comfortable with that.",positive,3,3A,test,P-01-S05,P-01-S05-A2,P-01-S05-A2 → P-01-S05-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S05-V02,"I’ve considered it, and I can go ahead with the plan.",positive,3,3A,test,P-01-S05,P-01-S05-A3,P-01-S05-A3 → P-01-S05-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S05-V03,"Yeah, I thought about it. That’s fine.",positive,3,3A,test,P-01-S05,P-01-S05-A1,P-01-S05-A1 → P-01-S05-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S05-V04,I’ve considered the suggestion and I’m comfortable accepting it.,positive,3,3A,test,P-01-S05,P-01-S05-A2,P-01-S05-A2 → P-01-S05-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S05-V05,"Yes, that works for me.",positive,3,3A,test,P-01-S05,P-01-S05-A3,P-01-S05-A3 → P-01-S05-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-01-S05-V06,"Okay, I can go with that.",positive,3,3A,test,P-01-S05,P-01-S05-A1,P-01-S05-A1 → P-01-S05-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S01-V01,I’ll follow through with that.,positive,3,3A,train,P-02-S01,P-02-S01-A1,P-02-S01-A1 → P-02-S01-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S01-V02,I can make sure that I carry out the recommendation.,positive,3,3A,train,P-02-S01,P-02-S01-A2,P-02-S01-A2 → P-02-S01-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S01-V03,"Yeah, I’ll take care of it.",positive,3,3A,train,P-02-S01,P-02-S01-A3,P-02-S01-A3 → P-02-S01-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S01-V04,I intend to follow the recommendation and complete the action.,positive,3,3A,train,P-02-S01,P-02-S01-A1,P-02-S01-A1 → P-02-S01-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S01-V05,I’ll make time for it and get it done.,positive,3,3A,train,P-02-S01,P-02-S01-A2,P-02-S01-A2 → P-02-S01-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S01-V06,"Right, I’ll see that it gets done.",positive,3,3A,train,P-02-S01,P-02-S01-A3,P-02-S01-A3 → P-02-S01-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S02-V01,I’ll work that into my routine.,positive,3,3A,train,P-02-S02,P-02-S02-A2,P-02-S02-A2 → P-02-S02-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S02-V02,I can incorporate the recommendation into what I normally do.,positive,3,3A,train,P-02-S02,P-02-S02-A3,P-02-S02-A3 → P-02-S02-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S02-V03,"Okay, I’ll stick with that routine.",positive,3,3A,train,P-02-S02,P-02-S02-A1,P-02-S02-A1 → P-02-S02-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S02-V04,I’m willing to make the recommended practice part of my regular routine.,positive,3,3A,train,P-02-S02,P-02-S02-A2,P-02-S02-A2 → P-02-S02-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S02-V05,I’ll keep it as part of my usual schedule.,positive,3,3A,train,P-02-S02,P-02-S02-A3,P-02-S02-A3 → P-02-S02-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S02-V06,"Yeah, I can stick to that.",positive,3,3A,train,P-02-S02,P-02-S02-A1,P-02-S02-A1 → P-02-S02-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S03-V01,I’ll complete it after dinner.,positive,3,3A,train,P-02-S03,P-02-S03-A3,P-02-S03-A3 → P-02-S03-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S03-V02,I can fit that action in after I’ve finished dinner.,positive,3,3A,train,P-02-S03,P-02-S03-A1,P-02-S03-A1 → P-02-S03-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S03-V03,"Yeah, right after dinner works best — I’ll knock it out then.",positive,3,3A,train,P-02-S03,P-02-S03-A2,P-02-S03-A2 → P-02-S03-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S03-V04,I have a specific time in mind and intend to complete the recommended action then.,positive,3,3A,train,P-02-S03,P-02-S03-A3,P-02-S03-A3 → P-02-S03-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S03-V05,I’ll do it after dinner today.,positive,3,3A,train,P-02-S03,P-02-S03-A1,P-02-S03-A1 → P-02-S03-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S03-V06,"Okay, I’ll get it done after dinner.",positive,3,3A,train,P-02-S03,P-02-S03-A2,P-02-S03-A2 → P-02-S03-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S04-V01,I’m willing to keep following the recommendation.,positive,3,3A,train,P-02-S04,P-02-S04-A1,P-02-S04-A1 → P-02-S04-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S04-V02,I can continue with the recommended practice.,positive,3,3A,train,P-02-S04,P-02-S04-A2,P-02-S04-A2 → P-02-S04-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S04-V03,"Yeah, I’ll keep doing it.",positive,3,3A,train,P-02-S04,P-02-S04-A3,P-02-S04-A3 → P-02-S04-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S04-V04,I’m prepared to continue the practice as recommended.,positive,3,3A,train,P-02-S04,P-02-S04-A1,P-02-S04-A1 → P-02-S04-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S04-V05,I can keep this going as part of my routine.,positive,3,3A,train,P-02-S04,P-02-S04-A2,P-02-S04-A2 → P-02-S04-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S04-V06,"Sure, I’ll keep at it.",positive,3,3A,train,P-02-S04,P-02-S04-A3,P-02-S04-A3 → P-02-S04-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S05-V01,"Now that I understand it, I’ll go ahead.",positive,3,3A,validation,P-02-S05,P-02-S05-A2,P-02-S05-A2 → P-02-S05-V01,LEX,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S05-V02,That clarification gives me enough information to follow the plan.,positive,3,3A,validation,P-02-S05,P-02-S05-A3,P-02-S05-A3 → P-02-S05-V02,SYN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S05-V03,"Okay, got it. I’ll do it.",positive,3,3A,validation,P-02-S05,P-02-S05-A1,P-02-S05-A1 → P-02-S05-V03,NAT,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S05-V04,"Now that the recommendation is clear to me, I’m willing to carry it out.",positive,3,3A,validation,P-02-S05,P-02-S05-A2,P-02-S05-A2 → P-02-S05-V04,EXP,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S05-V05,"I understand it now, so I can move forward with it.",positive,3,3A,validation,P-02-S05,P-02-S05-A3,P-02-S05-A3 → P-02-S05-V05,LEN,,,stage_3a_p_a_s01_s10_variants.md
+P-02-S05-V06,"Got it, I’ll go ahead with that.",positive,3,3A,validation,P-02-S05,P-02-S05-A1,P-02-S05-A1 → P-02-S05-V06,CMK,,,stage_3a_p_a_s01_s10_variants.md
+P-03-S01-V01,I can manage that if it works with my schedule.,positive,3,3A,train,P-03-S01,P-03-S01-A1,P-03-S01-A1 → P-03-S01-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S01-V02,That should be fine provided I can fit it into my day.,positive,3,3A,train,P-03-S01,P-03-S01-A2,P-03-S01-A2 → P-03-S01-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S01-V03,"Yeah, I can do that, as long as the timing works for me.",positive,3,3A,train,P-03-S01,P-03-S01-A3,P-03-S01-A3 → P-03-S01-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S01-V04,I’m happy to do that if it fits around my other commitments.,positive,3,3A,train,P-03-S01,P-03-S01-A1,P-03-S01-A1 → P-03-S01-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S01-V05,"I can make that work, assuming the schedule lines up.",positive,3,3A,train,P-03-S01,P-03-S01-A2,P-03-S01-A2 → P-03-S01-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S01-V06,"Sure, I can do that if I have enough time in the day.",positive,3,3A,train,P-03-S01,P-03-S01-A3,P-03-S01-A3 → P-03-S01-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S02-V01,"I’ll follow through, though I’d rather change the timing a little.",positive,3,3A,train,P-03-S02,P-03-S02-A2,P-03-S02-A2 → P-03-S02-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S02-V02,I can do that if we move the timing slightly.,positive,3,3A,train,P-03-S02,P-03-S02-A3,P-03-S02-A3 → P-03-S02-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S02-V03,"Yeah, I’ll do it. I’d just like the timing changed a bit.",positive,3,3A,train,P-03-S02,P-03-S02-A1,P-03-S02-A1 → P-03-S02-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S02-V04,"I’m willing to go ahead, although the timing could work better for me.",positive,3,3A,train,P-03-S02,P-03-S02-A2,P-03-S02-A2 → P-03-S02-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S02-V05,"I’ll do it, but a small timing change would make it easier.",positive,3,3A,train,P-03-S02,P-03-S02-A3,P-03-S02-A3 → P-03-S02-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S02-V06,"Okay, I’ll follow the plan. I’d just prefer a different time.",positive,3,3A,train,P-03-S02,P-03-S02-A1,P-03-S02-A1 → P-03-S02-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S03-V01,I’m willing to give it a try as long as it stays manageable.,positive,3,3A,train,P-03-S03,P-03-S03-A3,P-03-S03-A3 → P-03-S03-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S03-V02,I can work with that provided it remains practical for me.,positive,3,3A,train,P-03-S03,P-03-S03-A1,P-03-S03-A1 → P-03-S03-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S03-V03,"Yeah, I’ll try it if we keep things reasonably manageable.",positive,3,3A,train,P-03-S03,P-03-S03-A2,P-03-S03-A2 → P-03-S03-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S03-V04,"I’m open to doing it, provided the demands stay within what I can handle.",positive,3,3A,train,P-03-S03,P-03-S03-A3,P-03-S03-A3 → P-03-S03-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S03-V05,"I can give it a go, but it needs to remain manageable.",positive,3,3A,train,P-03-S03,P-03-S03-A1,P-03-S03-A1 → P-03-S03-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S03-V06,"Sure, I’m willing to try it if we keep the routine practical.",positive,3,3A,train,P-03-S03,P-03-S03-A2,P-03-S03-A2 → P-03-S03-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S04-V01,"I can follow that recommendation, even though another option would suit me better.",positive,3,3A,train,P-03-S04,P-03-S04-A1,P-03-S04-A1 → P-03-S04-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S04-V02,"I’ll go with the recommendation, but I’d be more comfortable with another option.",positive,3,3A,train,P-03-S04,P-03-S04-A2,P-03-S04-A2 → P-03-S04-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S04-V03,"Yeah, I’ll do that, though I’d still rather use the other option.",positive,3,3A,train,P-03-S04,P-03-S04-A3,P-03-S04-A3 → P-03-S04-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S04-V04,I’m willing to follow it despite having a preference for a different approach.,positive,3,3A,train,P-03-S04,P-03-S04-A1,P-03-S04-A1 → P-03-S04-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S04-V05,"I’ll follow the plan, although the alternative would be my preference.",positive,3,3A,train,P-03-S04,P-03-S04-A2,P-03-S04-A2 → P-03-S04-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S04-V06,"Okay, I’ll go with that. I’d just prefer the other option if possible.",positive,3,3A,train,P-03-S04,P-03-S04-A3,P-03-S04-A3 → P-03-S04-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S05-V01,"I’m willing to follow the plan, though I have a slight concern about finding enough time.",positive,3,3A,test,P-03-S05,P-03-S05-A1,P-03-S05-A1 → P-03-S05-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S05-V02,"Although I wonder if it might be a bit tricky at first, I can certainly give it a try.",positive,3,3A,test,P-03-S05,P-03-S05-A2,P-03-S05-A2 → P-03-S05-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S05-V03,"Yeah, I’ll do it — I’m just a little worried about sticking with it.",positive,3,3A,test,P-03-S05,P-03-S05-A3,P-03-S05-A3 → P-03-S05-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S05-V04,"I accept the recommendation and will cooperate, even though I have some minor reservations about the workload.",positive,3,3A,test,P-03-S05,P-03-S05-A1,P-03-S05-A1 → P-03-S05-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S05-V05,"I can do that, despite a small concern.",positive,3,3A,test,P-03-S05,P-03-S05-A2,P-03-S05-A2 → P-03-S05-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-03-S05-V06,"Sure, I’ll follow through with it, even if I have a small doubt about the timing.",positive,3,3A,test,P-03-S05,P-03-S05-A3,P-03-S05-A3 → P-03-S05-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S01-V01,I accept the recommendation and will start on it a bit later today.,positive,3,3A,train,P-04-S01,P-04-S01-A1,P-04-S01-A1 → P-04-S01-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S01-V02,"That recommendation is workable for me, and I’ll get to it this evening.",positive,3,3A,train,P-04-S01,P-04-S01-A2,P-04-S01-A2 → P-04-S01-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S01-V03,"Yeah, sounds good. I’ll definitely do that later on.",positive,3,3A,train,P-04-S01,P-04-S01-A3,P-04-S01-A3 → P-04-S01-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S01-V04,"I’m willing to follow the advice, but I’ll need to carry it out at a later time.",positive,3,3A,train,P-04-S01,P-04-S01-A1,P-04-S01-A1 → P-04-S01-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S01-V05,I’ll do that later.,positive,3,3A,train,P-04-S01,P-04-S01-A2,P-04-S01-A2 → P-04-S01-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S01-V06,"Okay, that works for me — I’ll take care of it tonight.",positive,3,3A,train,P-04-S01,P-04-S01-A3,P-04-S01-A3 → P-04-S01-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S02-V01,I commit to carrying out that action first thing tomorrow morning.,positive,3,3A,train,P-04-S02,P-04-S02-A2,P-04-S02-A2 → P-04-S02-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S02-V02,Putting this on my schedule for tomorrow is something I can commit to doing.,positive,3,3A,train,P-04-S02,P-04-S02-A3,P-04-S02-A3 → P-04-S02-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S02-V03,"Yeah, I’ll put it on my calendar for tomorrow and make sure it gets done.",positive,3,3A,train,P-04-S02,P-04-S02-A1,P-04-S02-A1 → P-04-S02-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S02-V04,I’m making a clear commitment to complete the recommended steps tomorrow.,positive,3,3A,train,P-04-S02,P-04-S02-A2,P-04-S02-A2 → P-04-S02-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S02-V05,I’ll schedule it for tomorrow and follow through.,positive,3,3A,train,P-04-S02,P-04-S02-A3,P-04-S02-A3 → P-04-S02-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S02-V06,"Sure thing, I’ll plan on doing that tomorrow.",positive,3,3A,train,P-04-S02,P-04-S02-A1,P-04-S02-A1 → P-04-S02-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S03-V01,"I’m currently tied up, but I’ll follow the recommendation as soon as I finish.",positive,3,3A,train,P-04-S03,P-04-S03-A3,P-04-S03-A3 → P-04-S03-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S03-V02,"Because I have a prior commitment right now, I’ll carry this out immediately afterward.",positive,3,3A,train,P-04-S03,P-04-S03-A1,P-04-S03-A1 → P-04-S03-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S03-V03,"Yeah, I’m in the middle of something right now, but I’ll jump on it right after.",positive,3,3A,train,P-04-S03,P-04-S03-A2,P-04-S03-A2 → P-04-S03-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S03-V04,I accept the suggestion and intend to cooperate once my current obligation is resolved.,positive,3,3A,train,P-04-S03,P-04-S03-A3,P-04-S03-A3 → P-04-S03-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S03-V05,"Busy right now, but I’ll do it as soon as I’m free.",positive,3,3A,train,P-04-S03,P-04-S03-A1,P-04-S03-A1 → P-04-S03-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S03-V06,"Right, I’m busy at the moment, but I’ll get to it as soon as I can.",positive,3,3A,train,P-04-S03,P-04-S03-A2,P-04-S03-A2 → P-04-S03-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S04-V01,I genuinely intend to follow through with this over the coming weekend.,positive,3,3A,validation,P-04-S04,P-04-S04-A1,P-04-S04-A1 → P-04-S04-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S04-V02,Following through on this over the weekend is something I fully plan on doing.,positive,3,3A,validation,P-04-S04,P-04-S04-A2,P-04-S04-A2 → P-04-S04-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S04-V03,"Yeah, I’m definitely planning to follow through on this over the weekend.",positive,3,3A,validation,P-04-S04,P-04-S04-A3,P-04-S04-A3 → P-04-S04-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S04-V04,I have every intention of cooperating with the recommendation in the near future.,positive,3,3A,validation,P-04-S04,P-04-S04-A1,P-04-S04-A1 → P-04-S04-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S04-V05,I fully plan to carry that out this weekend.,positive,3,3A,validation,P-04-S04,P-04-S04-A2,P-04-S04-A2 → P-04-S04-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S04-V06,"Alright, I’ll make sure to follow through on that this weekend.",positive,3,3A,validation,P-04-S04,P-04-S04-A3,P-04-S04-A3 → P-04-S04-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S05-V01,"I need to postpone starting for a couple of hours, but I remain fully willing to cooperate.",positive,3,3A,test,P-04-S05,P-04-S05-A2,P-04-S05-A2 → P-04-S05-V01,LEX,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S05-V02,"While the action will need to be deferred until tonight, my willingness to proceed is completely genuine.",positive,3,3A,test,P-04-S05,P-04-S05-A3,P-04-S05-A3 → P-04-S05-V02,SYN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S05-V03,"Yeah, let’s push it to tonight, but I’m definitely still on board to do it.",positive,3,3A,test,P-04-S05,P-04-S05-A1,P-04-S05-A1 → P-04-S05-V03,NAT,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S05-V04,"I’m deferring the implementation for now, but I maintain full cooperation with the intervention.",positive,3,3A,test,P-04-S05,P-04-S05-A2,P-04-S05-A2 → P-04-S05-V04,EXP,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S05-V05,"Deferred for now, but I’m still committed to doing it.",positive,3,3A,test,P-04-S05,P-04-S05-A3,P-04-S05-A3 → P-04-S05-V05,LEN,,,stage_3a_p_b_s11_s20_variants.md
+P-04-S05-V06,"Sure, I’ll postpone until later, but I’m definitely cooperating with this.",positive,3,3A,test,P-04-S05,P-04-S05-A1,P-04-S05-A1 → P-04-S05-V06,CMK,,,stage_3a_p_b_s11_s20_variants.md
+I-01-S01-V01,"Alright, I understand what you mean.",indifferent,2,3A,train,I-01-S01,I-01-S01-A1,I-01-S01-A1 → I-01-S01-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S01-V02,I see what you're saying.,indifferent,2,3A,train,I-01-S01,I-01-S01-A2,I-01-S01-A2 → I-01-S01-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S01-V03,"Okay, I hear you.",indifferent,2,3A,train,I-01-S01,I-01-S01-A3,I-01-S01-A3 → I-01-S01-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S01-V04,"I understand the point you're making, though I haven't decided what to do.",indifferent,2,3A,train,I-01-S01,I-01-S01-A1,I-01-S01-A1 → I-01-S01-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S01-V05,"Okay, I understand. Got it.",indifferent,2,3A,train,I-01-S01,I-01-S01-A2,I-01-S01-A2 → I-01-S01-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S01-V06,"Got it, so that’s the general idea?",indifferent,2,3A,train,I-01-S01,I-01-S01-A3,I-01-S01-A3 → I-01-S01-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S02-V01,I recognize what you're recommending.,indifferent,2,3A,train,I-01-S02,I-01-S02-A1,I-01-S02-A1 → I-01-S02-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S02-V02,I see the suggestion you're making.,indifferent,2,3A,train,I-01-S02,I-01-S02-A2,I-01-S02-A2 → I-01-S02-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S02-V03,"Yeah, I understand what you're suggesting.",indifferent,2,3A,train,I-01-S02,I-01-S02-A3,I-01-S02-A3 → I-01-S02-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S02-V04,"I understand the recommendation, but I'm not saying yet whether I'll follow it.",indifferent,2,3A,train,I-01-S02,I-01-S02-A1,I-01-S02-A1 → I-01-S02-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S02-V05,"Okay, I understand the suggestion.",indifferent,2,3A,train,I-01-S02,I-01-S02-A2,I-01-S02-A2 → I-01-S02-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S02-V06,"Right, I hear what you're proposing.",indifferent,2,3A,train,I-01-S02,I-01-S02-A3,I-01-S02-A3 → I-01-S02-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S03-V01,I've received and understood the recommendation.,indifferent,2,3A,train,I-01-S03,I-01-S03-A1,I-01-S03-A1 → I-01-S03-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S03-V02,I know what you've recommended.,indifferent,2,3A,train,I-01-S03,I-01-S03-A2,I-01-S03-A2 → I-01-S03-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S03-V03,"Okay, I've heard you.",indifferent,2,3A,train,I-01-S03,I-01-S03-A3,I-01-S03-A3 → I-01-S03-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S03-V04,"I've heard the recommendation, but I haven't formed a position on it.",indifferent,2,3A,train,I-01-S03,I-01-S03-A1,I-01-S03-A1 → I-01-S03-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S03-V05,I've taken in the recommendation.,indifferent,2,3A,train,I-01-S03,I-01-S03-A2,I-01-S03-A2 → I-01-S03-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S03-V06,"Alright, I hear the recommendation.",indifferent,2,3A,train,I-01-S03,I-01-S03-A3,I-01-S03-A3 → I-01-S03-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S04-V01,I understand the explanation you've given.,indifferent,2,3A,validation,I-01-S04,I-01-S04-A1,I-01-S04-A1 → I-01-S04-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S04-V02,I follow the reasoning you've explained.,indifferent,2,3A,validation,I-01-S04,I-01-S04-A2,I-01-S04-A2 → I-01-S04-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S04-V03,"Okay, I see what you mean.",indifferent,2,3A,validation,I-01-S04,I-01-S04-A3,I-01-S04-A3 → I-01-S04-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S04-V04,"I understand the repeated explanation, but I haven't decided how I feel about acting on it.",indifferent,2,3A,validation,I-01-S04,I-01-S04-A1,I-01-S04-A1 → I-01-S04-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S04-V05,"Okay, I understand the reasoning now.",indifferent,2,3A,validation,I-01-S04,I-01-S04-A2,I-01-S04-A2 → I-01-S04-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S04-V06,"Right, I hear you.",indifferent,2,3A,validation,I-01-S04,I-01-S04-A3,I-01-S04-A3 → I-01-S04-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S05-V01,I understand the action you're suggesting.,indifferent,2,3A,test,I-01-S05,I-01-S05-A1,I-01-S05-A1 → I-01-S05-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S05-V02,I see what you're asking me to do.,indifferent,2,3A,test,I-01-S05,I-01-S05-A2,I-01-S05-A2 → I-01-S05-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S05-V03,"Okay, I know what you're suggesting.",indifferent,2,3A,test,I-01-S05,I-01-S05-A3,I-01-S05-A3 → I-01-S05-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S05-V04,"I understand the proposed action, but I'm not committing to it.",indifferent,2,3A,test,I-01-S05,I-01-S05-A1,I-01-S05-A1 → I-01-S05-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S05-V05,I understand the suggested next step.,indifferent,2,3A,test,I-01-S05,I-01-S05-A2,I-01-S05-A2 → I-01-S05-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-01-S05-V06,"Alright, I know what you mean.",indifferent,2,3A,test,I-01-S05,I-01-S05-A3,I-01-S05-A3 → I-01-S05-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S01-V01,I'm uncertain about whether I'll follow through.,indifferent,2,3A,train,I-02-S01,I-02-S01-A1,I-02-S01-A1 → I-02-S01-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S01-V02,I haven't made up my mind about doing it.,indifferent,2,3A,train,I-02-S01,I-02-S01-A2,I-02-S01-A2 → I-02-S01-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S01-V03,I'm still not sure yet.,indifferent,2,3A,train,I-02-S01,I-02-S01-A3,I-02-S01-A3 → I-02-S01-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S01-V04,I don't know yet whether I'm going to act on the recommendation.,indifferent,2,3A,train,I-02-S01,I-02-S01-A1,I-02-S01-A1 → I-02-S01-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S01-V05,I'm undecided about whether to do it.,indifferent,2,3A,train,I-02-S01,I-02-S01-A2,I-02-S01-A2 → I-02-S01-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S01-V06,"Hmm, I'm not sure I'll do it.",indifferent,2,3A,train,I-02-S01,I-02-S01-A3,I-02-S01-A3 → I-02-S01-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S02-V01,I'm still uncertain about whether the recommendation suits me.,indifferent,2,3A,train,I-02-S02,I-02-S02-A1,I-02-S02-A1 → I-02-S02-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S02-V02,I'm weighing whether that recommendation makes sense for me.,indifferent,2,3A,train,I-02-S02,I-02-S02-A2,I-02-S02-A2 → I-02-S02-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S02-V03,"Hmm, I'm still not sure about that.",indifferent,2,3A,train,I-02-S02,I-02-S02-A3,I-02-S02-A3 → I-02-S02-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S02-V04,"I'm considering the recommendation, but I haven't decided whether to follow it.",indifferent,2,3A,train,I-02-S02,I-02-S02-A1,I-02-S02-A1 → I-02-S02-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S02-V05,I'm still thinking through whether it's right for me.,indifferent,2,3A,train,I-02-S02,I-02-S02-A2,I-02-S02-A2 → I-02-S02-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S02-V06,"Well, I'm not sure about it yet.",indifferent,2,3A,train,I-02-S02,I-02-S02-A3,I-02-S02-A3 → I-02-S02-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S03-V01,I'd like some time before deciding what I'll do.,indifferent,2,3A,train,I-02-S03,I-02-S03-A1,I-02-S03-A1 → I-02-S03-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S03-V02,I want to consider it before I make a decision.,indifferent,2,3A,train,I-02-S03,I-02-S03-A2,I-02-S03-A2 → I-02-S03-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S03-V03,I really need some space to think through this before committing one way or the other.,indifferent,2,3A,train,I-02-S03,I-02-S03-A3,I-02-S03-A3 → I-02-S03-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S03-V04,I need more time to decide whether I'll cooperate with the recommendation.,indifferent,2,3A,train,I-02-S03,I-02-S03-A1,I-02-S03-A1 → I-02-S03-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S03-V05,I'd rather think it over before committing.,indifferent,2,3A,train,I-02-S03,I-02-S03-A2,I-02-S03-A2 → I-02-S03-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S03-V06,Give me a little time to think about it.,indifferent,2,3A,train,I-02-S03,I-02-S03-A3,I-02-S03-A3 → I-02-S03-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S04-V01,"I understand the different sides, but I remain undecided.",indifferent,2,3A,train,I-02-S04,I-02-S04-A1,I-02-S04-A1 → I-02-S04-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S04-V02,I'm still weighing the alternatives.,indifferent,2,3A,train,I-02-S04,I-02-S04-A2,I-02-S04-A2 → I-02-S04-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S04-V03,"I can see both sides, but I don't know yet.",indifferent,2,3A,train,I-02-S04,I-02-S04-A3,I-02-S04-A3 → I-02-S04-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S04-V04,"Even after the explanation, I haven't decided whether to accept the recommendation.",indifferent,2,3A,train,I-02-S04,I-02-S04-A1,I-02-S04-A1 → I-02-S04-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S04-V05,I'm still considering both possibilities.,indifferent,2,3A,train,I-02-S04,I-02-S04-A2,I-02-S04-A2 → I-02-S04-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S04-V06,"I see the two sides, but I'm not ready to decide.",indifferent,2,3A,train,I-02-S04,I-02-S04-A3,I-02-S04-A3 → I-02-S04-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S05-V01,I'm uncertain about whether I'll manage to follow through.,indifferent,2,3A,validation,I-02-S05,I-02-S05-A1,I-02-S05-A1 → I-02-S05-V01,LEX,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S05-V02,I don't know yet whether I'll be able to carry it out.,indifferent,2,3A,validation,I-02-S05,I-02-S05-A2,I-02-S05-A2 → I-02-S05-V02,NAT,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S05-V03,I'll have to see how things go.,indifferent,2,3A,validation,I-02-S05,I-02-S05-A3,I-02-S05-A3 → I-02-S05-V03,EXP,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S05-V04,"I'm not opposed to it, but I don't know yet whether I'll be able to follow through.",indifferent,2,3A,validation,I-02-S05,I-02-S05-A1,I-02-S05-A1 → I-02-S05-V04,PRG,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S05-V05,I'm still unsure whether I can follow through.,indifferent,2,3A,validation,I-02-S05,I-02-S05-A2,I-02-S05-A2 → I-02-S05-V05,HES,,,stage_3a_i_a_s01_s10_variants.md
+I-02-S05-V06,I'll see how it goes before I know.,indifferent,2,3A,validation,I-02-S05,I-02-S05-A3,I-02-S05-A3 → I-02-S05-V06,QST,,,stage_3a_i_a_s01_s10_variants.md
+I-03-S01-V01,"I understand, but I’m not deciding yet.",indifferent,2,3A,train,I-03-S01,I-03-S01-A1,I-03-S01-A1 → I-03-S01-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S01-V02,I’ll keep the recommendation in mind without committing to it.,indifferent,2,3A,train,I-03-S01,I-03-S01-A2,I-03-S01-A2 → I-03-S01-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S01-V03,"Okay, I hear you. I’m not deciding yet.",indifferent,2,3A,train,I-03-S01,I-03-S01-A3,I-03-S01-A3 → I-03-S01-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S01-V04,"I understand the recommendation, but I’m not ready to say whether I’ll follow through.",indifferent,2,3A,train,I-03-S01,I-03-S01-A1,I-03-S01-A1 → I-03-S01-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S01-V05,"I hear you, but I’m still leaving the decision open.",indifferent,2,3A,train,I-03-S01,I-03-S01-A2,I-03-S01-A2 → I-03-S01-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S01-V06,"Alright, I understand. Do I have to decide now?",indifferent,2,3A,train,I-03-S01,I-03-S01-A3,I-03-S01-A3 → I-03-S01-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S02-V01,I’m leaving the decision open for now.,indifferent,2,3A,train,I-03-S02,I-03-S02-A1,I-03-S02-A1 → I-03-S02-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S02-V02,I’ll decide at a later point.,indifferent,2,3A,train,I-03-S02,I-03-S02-A2,I-03-S02-A2 → I-03-S02-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S02-V03,Not right now; I need to leave it for later.,indifferent,2,3A,train,I-03-S02,I-03-S02-A3,I-03-S02-A3 → I-03-S02-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S02-V04,I’m not ready to make a behavioral decision at this point.,indifferent,2,3A,train,I-03-S02,I-03-S02-A1,I-03-S02-A1 → I-03-S02-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S02-V05,I’m still holding off on deciding.,indifferent,2,3A,train,I-03-S02,I-03-S02-A2,I-03-S02-A2 → I-03-S02-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S02-V06,Could I decide about this later?,indifferent,2,3A,train,I-03-S02,I-03-S02-A3,I-03-S02-A3 → I-03-S02-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S03-V01,I’m not making a commitment to follow it yet.,indifferent,2,3A,train,I-03-S03,I-03-S03-A1,I-03-S03-A1 → I-03-S03-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S03-V02,I’ll see how things go before I make any commitment.,indifferent,2,3A,train,I-03-S03,I-03-S03-A2,I-03-S03-A2 → I-03-S03-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S03-V03,"We’ll see how it unfolds, but I’m certainly not committing to anything just yet.",indifferent,2,3A,train,I-03-S03,I-03-S03-A3,I-03-S03-A3 → I-03-S03-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S03-V04,"I understand the recommendation, but I’m not committing to carrying it out.",indifferent,2,3A,train,I-03-S03,I-03-S03-A1,I-03-S03-A1 → I-03-S03-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S03-V05,I’m keeping my decision open for now.,indifferent,2,3A,train,I-03-S03,I-03-S03-A2,I-03-S03-A2 → I-03-S03-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S03-V06,Do I need to commit to doing it now?,indifferent,2,3A,train,I-03-S03,I-03-S03-A3,I-03-S03-A3 → I-03-S03-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S04-V01,"I’ll think about the suggestion, but no decision yet.",indifferent,2,3A,train,I-03-S04,I-03-S04-A1,I-03-S04-A1 → I-03-S04-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S04-V02,I can consider the recommendation without deciding on it yet.,indifferent,2,3A,train,I-03-S04,I-03-S04-A2,I-03-S04-A2 → I-03-S04-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S04-V03,Maybe; I’ll think it over first.,indifferent,2,3A,train,I-03-S04,I-03-S04-A3,I-03-S04-A3 → I-03-S04-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S04-V04,"I understand the suggestion, but I’m not indicating that I’ll follow through.",indifferent,2,3A,train,I-03-S04,I-03-S04-A1,I-03-S04-A1 → I-03-S04-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S04-V05,"I’m willing to consider it, but I’m leaving the outcome undecided.",indifferent,2,3A,train,I-03-S04,I-03-S04-A2,I-03-S04-A2 → I-03-S04-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S04-V06,Can I think about the suggestion before deciding?,indifferent,2,3A,train,I-03-S04,I-03-S04-A3,I-03-S04-A3 → I-03-S04-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S05-V01,"I understand the recommendation, but I’m still not committing.",indifferent,2,3A,test,I-03-S05,I-03-S05-A1,I-03-S05-A1 → I-03-S05-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S05-V02,"I’ve considered what you said, but I haven’t decided whether to follow it.",indifferent,2,3A,test,I-03-S05,I-03-S05-A2,I-03-S05-A2 → I-03-S05-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S05-V03,"Okay, I understand, but I’m not ready to commit.",indifferent,2,3A,test,I-03-S05,I-03-S05-A3,I-03-S05-A3 → I-03-S05-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S05-V04,"I understand the discussion, yet my willingness to act is still unresolved.",indifferent,2,3A,test,I-03-S05,I-03-S05-A1,I-03-S05-A1 → I-03-S05-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S05-V05,I’m keeping the recommendation under consideration without committing.,indifferent,2,3A,test,I-03-S05,I-03-S05-A2,I-03-S05-A2 → I-03-S05-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-03-S05-V06,Is there more I should consider before I decide?,indifferent,2,3A,test,I-03-S05,I-03-S05-A3,I-03-S05-A3 → I-03-S05-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S01-V01,"Alright, I acknowledge that.",indifferent,2,3A,train,I-04-S01,I-04-S01-A1,I-04-S01-A1 → I-04-S01-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S01-V02,"Okay, I hear you.",indifferent,2,3A,train,I-04-S01,I-04-S01-A2,I-04-S01-A2 → I-04-S01-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S01-V03,"Mm-hmm, got it.",indifferent,2,3A,train,I-04-S01,I-04-S01-A3,I-04-S01-A3 → I-04-S01-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S01-V04,That’s all I can say about it right now.,indifferent,2,3A,train,I-04-S01,I-04-S01-A1,I-04-S01-A1 → I-04-S01-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S01-V05,"Alright, noted.",indifferent,2,3A,train,I-04-S01,I-04-S01-A2,I-04-S01-A2 → I-04-S01-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S01-V06,"Okay, what happens next?",indifferent,2,3A,train,I-04-S01,I-04-S01-A3,I-04-S01-A3 → I-04-S01-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S02-V01,I’ve heard what you said.,indifferent,2,3A,train,I-04-S02,I-04-S02-A1,I-04-S02-A1 → I-04-S02-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S02-V02,I understand; I’ve received the message.,indifferent,2,3A,train,I-04-S02,I-04-S02-A2,I-04-S02-A2 → I-04-S02-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S02-V03,"Yeah, I caught all of that.",indifferent,2,3A,train,I-04-S02,I-04-S02-A3,I-04-S02-A3 → I-04-S02-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S02-V04,"I heard the recommendation, but this response does not indicate what I’ll do.",indifferent,2,3A,train,I-04-S02,I-04-S02-A1,I-04-S02-A1 → I-04-S02-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S02-V05,"Okay, I’ve heard you.",indifferent,2,3A,train,I-04-S02,I-04-S02-A2,I-04-S02-A2 → I-04-S02-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S02-V06,Did you hear what I’m saying as well?,indifferent,2,3A,train,I-04-S02,I-04-S02-A3,I-04-S02-A3 → I-04-S02-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S03-V01,That is the recommendation you’re putting forward.,indifferent,2,3A,train,I-04-S03,I-04-S03-A1,I-04-S03-A1 → I-04-S03-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S03-V02,I see that this is your suggested approach.,indifferent,2,3A,train,I-04-S03,I-04-S03-A2,I-04-S03-A2 → I-04-S03-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S03-V03,"Right, so that’s the path you’re laying out.",indifferent,2,3A,train,I-04-S03,I-04-S03-A3,I-04-S03-A3 → I-04-S03-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S03-V04,"I recognize the recommendation, but my response does not establish whether I’ll follow it.",indifferent,2,3A,train,I-04-S03,I-04-S03-A1,I-04-S03-A1 → I-04-S03-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S03-V05,That’s the option you’re recommending.,indifferent,2,3A,train,I-04-S03,I-04-S03-A2,I-04-S03-A2 → I-04-S03-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S03-V06,Is that the recommendation you’re referring to?,indifferent,2,3A,train,I-04-S03,I-04-S03-A3,I-04-S03-A3 → I-04-S03-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S04-V01,I’m fully aware of what you’re asking.,indifferent,2,3A,validation,I-04-S04,I-04-S04-A1,I-04-S04-A1 → I-04-S04-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S04-V02,I see what you’re asking me to do.,indifferent,2,3A,validation,I-04-S04,I-04-S04-A2,I-04-S04-A2 → I-04-S04-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S04-V03,"Okay, I understand the angle you’re taking.",indifferent,2,3A,validation,I-04-S04,I-04-S04-A3,I-04-S04-A3 → I-04-S04-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S04-V04,"I understand the request, but I haven’t expressed a behavioral position.",indifferent,2,3A,validation,I-04-S04,I-04-S04-A1,I-04-S04-A1 → I-04-S04-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S04-V05,I know what you’re asking of me.,indifferent,2,3A,validation,I-04-S04,I-04-S04-A2,I-04-S04-A2 → I-04-S04-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S04-V06,What exactly are you asking me to do?,indifferent,2,3A,validation,I-04-S04,I-04-S04-A3,I-04-S04-A3 → I-04-S04-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S05-V01,I don’t have anything further to add at this point.,indifferent,2,3A,test,I-04-S05,I-04-S05-A1,I-04-S05-A1 → I-04-S05-V01,LEX,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S05-V02,I’ll leave the matter there for now.,indifferent,2,3A,test,I-04-S05,I-04-S05-A2,I-04-S05-A2 → I-04-S05-V02,NAT,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S05-V03,I don’t really have any more feedback on that right now.,indifferent,2,3A,test,I-04-S05,I-04-S05-A3,I-04-S05-A3 → I-04-S05-V03,EXP,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S05-V04,"Even with the context, I’m not expressing whether I’ll accept or resist the recommendation.",indifferent,2,3A,test,I-04-S05,I-04-S05-A1,I-04-S05-A1 → I-04-S05-V04,PRG,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S05-V05,I don’t have a clearer response to give at the moment.,indifferent,2,3A,test,I-04-S05,I-04-S05-A2,I-04-S05-A2 → I-04-S05-V05,HES,,,stage_3a_i_b_s11_s20_variants.md
+I-04-S05-V06,Is there anything specific you need me to answer?,indifferent,2,3A,test,I-04-S05,I-04-S05-A3,I-04-S05-A3 → I-04-S05-V06,QST,,,stage_3a_i_b_s11_s20_variants.md
+N-01-S01-V01,I’m still hesitant about doing that.,negative,1,3A,train,N-01-S01,N-01-S01-A1,N-01-S01-A1 → N-01-S01-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S01-V02,I have some hesitation about going ahead with it.,negative,1,3A,train,N-01-S01,N-01-S01-A2,N-01-S01-A2 → N-01-S01-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S01-V03,"I don’t know, I’m feeling pretty hesitant about jumping into that right now.",negative,1,3A,train,N-01-S01,N-01-S01-A3,N-01-S01-A3 → N-01-S01-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S01-V04,"I’m not comfortable proceeding yet, so I’m holding back for now.",negative,1,3A,train,N-01-S01,N-01-S01-A1,N-01-S01-A1 → N-01-S01-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S01-V05,I’m still not quite comfortable with it.,negative,1,3A,train,N-01-S01,N-01-S01-A2,N-01-S01-A2 → N-01-S01-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S01-V06,Would it be okay if I waited before doing that?,negative,1,3A,train,N-01-S01,N-01-S01-A3,N-01-S01-A3 → N-01-S01-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S02-V01,I’m reluctant to start that at the moment.,negative,1,3A,train,N-01-S02,N-01-S02-A1,N-01-S02-A1 → N-01-S02-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S02-V02,I’d prefer not to begin it just yet.,negative,1,3A,train,N-01-S02,N-01-S02-A2,N-01-S02-A2 → N-01-S02-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S02-V03,"Honestly, I’m just not feeling ready to kick this off right now.",negative,1,3A,train,N-01-S02,N-01-S02-A3,N-01-S02-A3 → N-01-S02-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S02-V04,"I’m not willing to get started right now, although I’m not ruling it out entirely.",negative,1,3A,train,N-01-S02,N-01-S02-A1,N-01-S02-A1 → N-01-S02-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S02-V05,I’m hesitant about starting it.,negative,1,3A,train,N-01-S02,N-01-S02-A2,N-01-S02-A2 → N-01-S02-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S02-V06,Could I hold off on starting that for now?,negative,1,3A,train,N-01-S02,N-01-S02-A3,N-01-S02-A3 → N-01-S02-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S03-V01,The repeated reminders are making me less willing to do it.,negative,1,3A,train,N-01-S03,N-01-S03-A1,N-01-S03-A1 → N-01-S03-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S03-V02,I’m becoming increasingly reluctant to follow through because of the repeated suggestions.,negative,1,3A,train,N-01-S03,N-01-S03-A2,N-01-S03-A2 → N-01-S03-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S03-V03,"To be honest, hearing about it over and over is kind of putting me off doing it.",negative,1,3A,train,N-01-S03,N-01-S03-A3,N-01-S03-A3 → N-01-S03-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S03-V04,"I was more willing before, but the repeated reminders are reducing my willingness.",negative,1,3A,train,N-01-S03,N-01-S03-A1,N-01-S03-A1 → N-01-S03-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S03-V05,I’m finding myself less inclined to do it.,negative,1,3A,train,N-01-S03,N-01-S03-A2,N-01-S03-A2 → N-01-S03-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S03-V06,Do we need to keep going over this?,negative,1,3A,train,N-01-S03,N-01-S03-A3,N-01-S03-A3 → N-01-S03-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S04-V01,"I could manage a limited part of it, but I’m reluctant to do more.",negative,1,3A,validation,N-01-S04,N-01-S04-A1,N-01-S04-A1 → N-01-S04-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S04-V02,"I’m willing to do a small portion, rather than the whole thing.",negative,1,3A,validation,N-01-S04,N-01-S04-A2,N-01-S04-A2 → N-01-S04-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S04-V03,"I can manage a small bit of it, but I’m really not up for doing the whole thing.",negative,1,3A,validation,N-01-S04,N-01-S04-A3,N-01-S04-A3 → N-01-S04-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S04-V04,"I can cooperate to a limited extent, but I’m resisting doing the full activity.",negative,1,3A,validation,N-01-S04,N-01-S04-A1,N-01-S04-A1 → N-01-S04-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S04-V05,"I can handle a small part, though I’d rather not take on more.",negative,1,3A,validation,N-01-S04,N-01-S04-A2,N-01-S04-A2 → N-01-S04-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S04-V06,Could I just do a smaller part of it?,negative,1,3A,validation,N-01-S04,N-01-S04-A3,N-01-S04-A3 → N-01-S04-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S05-V01,I’m reluctant to keep going with this.,negative,1,3A,test,N-01-S05,N-01-S05-A1,N-01-S05-A1 → N-01-S05-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S05-V02,I’m having reservations about continuing the practice.,negative,1,3A,test,N-01-S05,N-01-S05-A2,N-01-S05-A2 → N-01-S05-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S05-V03,"Honestly, I’m starting to rethink whether I want to stick with this.",negative,1,3A,test,N-01-S05,N-01-S05-A3,N-01-S05-A3 → N-01-S05-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S05-V04,"I can continue for now, but I’m becoming less willing to keep doing it.",negative,1,3A,test,N-01-S05,N-01-S05-A1,N-01-S05-A1 → N-01-S05-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S05-V05,I’m not very comfortable continuing.,negative,1,3A,test,N-01-S05,N-01-S05-A2,N-01-S05-A2 → N-01-S05-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-01-S05-V06,Do I really need to keep doing this?,negative,1,3A,test,N-01-S05,N-01-S05-A3,N-01-S05-A3 → N-01-S05-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S01-V01,I would prefer not to do that.,negative,1,3A,train,N-02-S01,N-02-S01-A1,N-02-S01-A1 → N-02-S01-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S01-V02,I’m choosing not to take that on.,negative,1,3A,train,N-02-S01,N-02-S01-A2,N-02-S01-A2 → N-02-S01-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S01-V03,"Yeah, I think I’ll pass on that one.",negative,1,3A,train,N-02-S01,N-02-S01-A3,N-02-S01-A3 → N-02-S01-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S01-V04,"I’m not willing to do that, although I’m not opposed to discussing alternatives.",negative,1,3A,train,N-02-S01,N-02-S01-A1,N-02-S01-A1 → N-02-S01-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S01-V05,I’d rather leave that one.,negative,1,3A,train,N-02-S01,N-02-S01-A2,N-02-S01-A2 → N-02-S01-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S01-V06,Could we consider something else instead?,negative,1,3A,train,N-02-S01,N-02-S01-A3,N-02-S01-A3 → N-02-S01-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S02-V01,I’m not going to follow that specific recommendation.,negative,1,3A,train,N-02-S02,N-02-S02-A1,N-02-S02-A1 → N-02-S02-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S02-V02,I’ll take a different approach instead.,negative,1,3A,train,N-02-S02,N-02-S02-A2,N-02-S02-A2 → N-02-S02-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S02-V03,"Yeah, I’m gonna skip that specific suggestion.",negative,1,3A,train,N-02-S02,N-02-S02-A3,N-02-S02-A3 → N-02-S02-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S02-V04,"I’m declining that particular recommendation, though I can consider another approach.",negative,1,3A,train,N-02-S02,N-02-S02-A1,N-02-S02-A1 → N-02-S02-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S02-V05,I’m going to leave that recommendation aside.,negative,1,3A,train,N-02-S02,N-02-S02-A2,N-02-S02-A2 → N-02-S02-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S02-V06,Could I use a different approach instead?,negative,1,3A,train,N-02-S02,N-02-S02-A3,N-02-S02-A3 → N-02-S02-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S03-V01,I’m choosing not to do it at the moment.,negative,1,3A,train,N-02-S03,N-02-S03-A1,N-02-S03-A1 → N-02-S03-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S03-V02,I’d prefer to leave the action for another time.,negative,1,3A,train,N-02-S03,N-02-S03-A2,N-02-S03-A2 → N-02-S03-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S03-V03,Not at the moment — I’d rather put that on hold for later.,negative,1,3A,train,N-02-S03,N-02-S03-A3,N-02-S03-A3 → N-02-S03-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S03-V04,"I’m declining to do it for now, without ruling out revisiting it later.",negative,1,3A,train,N-02-S03,N-02-S03-A1,N-02-S03-A1 → N-02-S03-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S03-V05,I’m not doing it at the moment.,negative,1,3A,train,N-02-S03,N-02-S03-A2,N-02-S03-A2 → N-02-S03-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S03-V06,Could we come back to this another time?,negative,1,3A,train,N-02-S03,N-02-S03-A3,N-02-S03-A3 → N-02-S03-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S04-V01,"I don’t want to take that particular approach, but I’m open to another one.",negative,1,3A,train,N-02-S04,N-02-S04-A1,N-02-S04-A1 → N-02-S04-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S04-V02,I’d rather not do that; I’m willing to consider an alternative.,negative,1,3A,train,N-02-S04,N-02-S04-A2,N-02-S04-A2 → N-02-S04-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S04-V03,I’d really prefer not to do that — could we try a different angle instead?,negative,1,3A,train,N-02-S04,N-02-S04-A3,N-02-S04-A3 → N-02-S04-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S04-V04,I’m refusing the current approach while remaining willing to discuss a different option.,negative,1,3A,train,N-02-S04,N-02-S04-A1,N-02-S04-A1 → N-02-S04-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S04-V05,"That option isn’t for me, but I’m open to alternatives.",negative,1,3A,train,N-02-S04,N-02-S04-A2,N-02-S04-A2 → N-02-S04-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S04-V06,What other option could we consider?,negative,1,3A,train,N-02-S04,N-02-S04-A3,N-02-S04-A3 → N-02-S04-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S05-V01,"No, I’d prefer not to do that.",negative,1,3A,validation,N-02-S05,N-02-S05-A1,N-02-S05-A1 → N-02-S05-V01,LEX,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S05-V02,I’m not willing to take that particular action.,negative,1,3A,validation,N-02-S05,N-02-S05-A2,N-02-S05-A2 → N-02-S05-V02,SYN,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S05-V03,"No thanks, I’d really prefer to skip over that one.",negative,1,3A,validation,N-02-S05,N-02-S05-A3,N-02-S05-A3 → N-02-S05-V03,NAT,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S05-V04,"I’m declining the action, but I’m not trying to end the conversation.",negative,1,3A,validation,N-02-S05,N-02-S05-A1,N-02-S05-A1 → N-02-S05-V04,EXP,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S05-V05,I’d prefer to leave that action out.,negative,1,3A,validation,N-02-S05,N-02-S05-A2,N-02-S05-A2 → N-02-S05-V05,PRG,,,stage_3a_n_a_s01_s10_variants.md
+N-02-S05-V06,Could we look at a different option?,negative,1,3A,validation,N-02-S05,N-02-S05-A3,N-02-S05-A3 → N-02-S05-V06,CMK,,,stage_3a_n_a_s01_s10_variants.md
+N-03-S01-V01,I have to disagree with that suggested plan.,negative,1,3A,train,N-03-S01,N-03-S01-A1,N-03-S01-A1 → N-03-S01-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S01-V02,That approach doesn’t really strike me as the right fit for my situation.,negative,1,3A,train,N-03-S01,N-03-S01-A2,N-03-S01-A2 → N-03-S01-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S01-V03,"I don’t know, I really don’t feel like that’s the smartest way to tackle this.",negative,1,3A,train,N-03-S01,N-03-S01-A3,N-03-S01-A3 → N-03-S01-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S01-V04,"I disagree with the recommendation, so I’m not willing to follow it as proposed.",negative,1,3A,train,N-03-S01,N-03-S01-A1,N-03-S01-A1 → N-03-S01-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S01-V05,I’m not convinced that recommendation works for me.,negative,1,3A,train,N-03-S01,N-03-S01-A2,N-03-S01-A2 → N-03-S01-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S01-V06,"Well, could we consider a different recommendation?",negative,1,3A,train,N-03-S01,N-03-S01-A3,N-03-S01-A3 → N-03-S01-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S02-V01,I don’t really buy the reasoning behind that suggestion.,negative,1,3A,train,N-03-S02,N-03-S02-A1,N-03-S02-A1 → N-03-S02-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S02-V02,The explanation you gave doesn’t sufficiently justify that recommendation to me.,negative,1,3A,train,N-03-S02,N-03-S02-A2,N-03-S02-A2 → N-03-S02-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S02-V03,"I get where you’re coming from, but the logic just doesn’t add up for me.",negative,1,3A,train,N-03-S02,N-03-S02-A3,N-03-S02-A3 → N-03-S02-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S02-V04,The explanation hasn’t convinced me that the recommendation is appropriate.,negative,1,3A,train,N-03-S02,N-03-S02-A1,N-03-S02-A1 → N-03-S02-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S02-V05,I’m still not persuaded by the reasoning.,negative,1,3A,train,N-03-S02,N-03-S02-A2,N-03-S02-A2 → N-03-S02-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S02-V06,"Look, can you explain why that reasoning should lead to this recommendation?",negative,1,3A,train,N-03-S02,N-03-S02-A3,N-03-S02-A3 → N-03-S02-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S03-V01,I don’t believe that strategy is well-suited for my case.,negative,1,3A,train,N-03-S03,N-03-S03-A1,N-03-S03-A1 → N-03-S03-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S03-V02,"Given what my situation looks like, I have serious doubts that method would work.",negative,1,3A,train,N-03-S03,N-03-S03-A2,N-03-S03-A2 → N-03-S03-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S03-V03,"Honestly, I really doubt that way of doing things is gonna work for me.",negative,1,3A,train,N-03-S03,N-03-S03-A3,N-03-S03-A3 → N-03-S03-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S03-V04,I’m questioning the suitability of the recommended approach for my situation.,negative,1,3A,train,N-03-S03,N-03-S03-A1,N-03-S03-A1 → N-03-S03-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S03-V05,I don’t think that particular approach will work for me.,negative,1,3A,train,N-03-S03,N-03-S03-A2,N-03-S03-A2 → N-03-S03-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S03-V06,"Honestly, is there another approach that might work better?",negative,1,3A,train,N-03-S03,N-03-S03-A3,N-03-S03-A3 → N-03-S03-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S04-V01,I would rather avoid taking that recommended route.,negative,1,3A,train,N-03-S04,N-03-S04-A1,N-03-S04-A1 → N-03-S04-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S04-V02,Choosing an alternate path would fit my personal preferences much better.,negative,1,3A,train,N-03-S04,N-03-S04-A2,N-03-S04-A2 → N-03-S04-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S04-V03,"Yeah, I’d much rather pick a different option if possible.",negative,1,3A,train,N-03-S04,N-03-S04-A3,N-03-S04-A3 → N-03-S04-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S04-V04,I’m choosing against the recommended action because another option seems more suitable to me.,negative,1,3A,train,N-03-S04,N-03-S04-A1,N-03-S04-A1 → N-03-S04-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S04-V05,I’d prefer the alternative rather than following that recommendation.,negative,1,3A,train,N-03-S04,N-03-S04-A2,N-03-S04-A2 → N-03-S04-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S04-V06,"Well, could I use the other option instead?",negative,1,3A,train,N-03-S04,N-03-S04-A3,N-03-S04-A3 → N-03-S04-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S05-V01,"I have to dispute that recommendation, though I’m very willing to explore other choices.",negative,1,3A,test,N-03-S05,N-03-S05-A1,N-03-S05-A1 → N-03-S05-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S05-V02,"While I’m happy to consider other possibilities, that particular method isn’t going to work for me.",negative,1,3A,test,N-03-S05,N-03-S05-A2,N-03-S05-A2 → N-03-S05-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S05-V03,"I’m not sold on that idea, but I’m definitely down to look at other options.",negative,1,3A,test,N-03-S05,N-03-S05-A3,N-03-S05-A3 → N-03-S05-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S05-V04,I’m resisting the current recommendation while remaining willing to discuss a different approach.,negative,1,3A,test,N-03-S05,N-03-S05-A1,N-03-S05-A1 → N-03-S05-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S05-V05,"I don’t agree with this approach, but I’m still open to alternatives.",negative,1,3A,test,N-03-S05,N-03-S05-A2,N-03-S05-A2 → N-03-S05-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-03-S05-V06,"Alright, but what other approaches could we consider?",negative,1,3A,test,N-03-S05,N-03-S05-A3,N-03-S05-A3 → N-03-S05-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S01-V01,I’m unable to take that on given my existing constraints.,negative,1,3A,train,N-04-S01,N-04-S01-A1,N-04-S01-A1 → N-04-S01-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S01-V02,"With everything going on as it stands, pulling that off would be pretty tough for me.",negative,1,3A,train,N-04-S01,N-04-S01-A2,N-04-S01-A2 → N-04-S01-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S01-V03,Things are just too hectic right now for me to manage that.,negative,1,3A,train,N-04-S01,N-04-S01-A3,N-04-S01-A3 → N-04-S01-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S01-V04,My current circumstances make me unable or unwilling to take this on as proposed.,negative,1,3A,train,N-04-S01,N-04-S01-A1,N-04-S01-A1 → N-04-S01-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S01-V05,I’m having trouble agreeing to that under my current circumstances.,negative,1,3A,train,N-04-S01,N-04-S01-A2,N-04-S01-A2 → N-04-S01-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S01-V06,"Look, could we adjust the plan for my current situation?",negative,1,3A,train,N-04-S01,N-04-S01-A3,N-04-S01-A3 → N-04-S01-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S02-V01,I’d be willing to proceed if we modified the schedule.,negative,1,3A,train,N-04-S02,N-04-S02-A1,N-04-S02-A1 → N-04-S02-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S02-V02,Only under altered circumstances could that potentially be viable for me.,negative,1,3A,train,N-04-S02,N-04-S02-A2,N-04-S02-A2 → N-04-S02-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S02-V03,I might be able to swing it if we could shift the time around a bit.,negative,1,3A,train,N-04-S02,N-04-S02-A3,N-04-S02-A3 → N-04-S02-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S02-V04,"I’m not willing to do it under the current conditions, but I could cooperate if that condition changed.",negative,1,3A,train,N-04-S02,N-04-S02-A1,N-04-S02-A1 → N-04-S02-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S02-V05,I could consider doing it if we changed the timing.,negative,1,3A,train,N-04-S02,N-04-S02-A2,N-04-S02-A2 → N-04-S02-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S02-V06,"Well, would it work if we changed the timing?",negative,1,3A,train,N-04-S02,N-04-S02-A3,N-04-S02-A3 → N-04-S02-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S03-V01,I’m unwilling to carry it out in that specific manner.,negative,1,3A,train,N-04-S03,N-04-S03-A1,N-04-S03-A1 → N-04-S03-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S03-V02,"Though another way could potentially work, the way it’s currently set up doesn’t suit me.",negative,1,3A,train,N-04-S03,N-04-S03-A2,N-04-S03-A2 → N-04-S03-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S03-V03,That specific setup really doesn’t sit well with me — can we try a different angle?,negative,1,3A,train,N-04-S03,N-04-S03-A3,N-04-S03-A3 → N-04-S03-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S03-V04,I’m resisting the current form of the intervention rather than rejecting every possible alternative.,negative,1,3A,train,N-04-S03,N-04-S03-A1,N-04-S03-A1 → N-04-S03-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S03-V05,That version doesn’t work for me.,negative,1,3A,train,N-04-S03,N-04-S03-A2,N-04-S03-A2 → N-04-S03-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S03-V06,So could we try a different way of doing it?,negative,1,3A,train,N-04-S03,N-04-S03-A3,N-04-S03-A3 → N-04-S03-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S04-V01,I’d be open to considering the proposal provided some modifications are made.,negative,1,3A,validation,N-04-S04,N-04-S04-A1,N-04-S04-A1 → N-04-S04-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S04-V02,Making a minor tweak here would significantly improve my willingness to attempt it.,negative,1,3A,validation,N-04-S04,N-04-S04-A2,N-04-S04-A2 → N-04-S04-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S04-V03,"If we can just tweak that one piece, I’d probably be up for giving it a go.",negative,1,3A,validation,N-04-S04,N-04-S04-A3,N-04-S04-A3 → N-04-S04-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S04-V04,"I’m resisting the recommendation as it stands, but I may cooperate after the requested adjustment.",negative,1,3A,validation,N-04-S04,N-04-S04-A1,N-04-S04-A1 → N-04-S04-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S04-V05,I’d be more willing to try it after a small change.,negative,1,3A,validation,N-04-S04,N-04-S04-A2,N-04-S04-A2 → N-04-S04-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S04-V06,"Look, could we change that part so I can consider doing it?",negative,1,3A,validation,N-04-S04,N-04-S04-A3,N-04-S04-A3 → N-04-S04-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S05-V01,"I have to refuse for the immediate present, though my stance might shift down the road.",negative,1,3A,test,N-04-S05,N-04-S05-A1,N-04-S05-A1 → N-04-S05-V01,LEX,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S05-V02,"Although I might reconsider down the line, right now is simply not a good time for me.",negative,1,3A,test,N-04-S05,N-04-S05-A2,N-04-S05-A2 → N-04-S05-V02,SYN,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S05-V03,"Pass for right now, but feel free to check back with me later.",negative,1,3A,test,N-04-S05,N-04-S05-A3,N-04-S05-A3 → N-04-S05-V03,NAT,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S05-V04,I’m resisting the action for the present without ruling out future cooperation.,negative,1,3A,test,N-04-S05,N-04-S05-A1,N-04-S05-A1 → N-04-S05-V04,EXP,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S05-V05,I’m not prepared to do it right now.,negative,1,3A,test,N-04-S05,N-04-S05-A2,N-04-S05-A2 → N-04-S05-V05,PRG,,,stage_3a_n_b_s11_s20_variants.md
+N-04-S05-V06,"Well, could we revisit this later?",negative,1,3A,test,N-04-S05,N-04-S05-A3,N-04-S05-A3 → N-04-S05-V06,CMK,,,stage_3a_n_b_s11_s20_variants.md
+VN-01-S01-V01,No. I simply will not do that.,very_negative,0,3A,train,VN-01-S01,VN-01-S01-A1,VN-01-S01-A1 → VN-01-S01-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S01-V02,I’m rejecting that recommendation outright.,very_negative,0,3A,train,VN-01-S01,VN-01-S01-A2,VN-01-S01-A2 → VN-01-S01-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S01-V03,"Yeah, no, I’m definitely not doing that.",very_negative,0,3A,train,VN-01-S01,VN-01-S01-A3,VN-01-S01-A3 → VN-01-S01-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S01-V04,I am explicitly refusing the recommended action and will not cooperate with it.,very_negative,0,3A,train,VN-01-S01,VN-01-S01-A1,VN-01-S01-A1 → VN-01-S01-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S01-V05,That recommendation is a definite no for me.,very_negative,0,3A,train,VN-01-S01,VN-01-S01-A2,VN-01-S01-A2 → VN-01-S01-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S01-V06,I’m not doing that — no is my final answer.,very_negative,0,3A,train,VN-01-S01,VN-01-S01-A3,VN-01-S01-A3 → VN-01-S01-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S02-V01,I reject that intervention completely.,very_negative,0,3A,train,VN-01-S02,VN-01-S02-A1,VN-01-S02-A1 → VN-01-S02-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S02-V02,I’m firmly opposed to that approach.,very_negative,0,3A,train,VN-01-S02,VN-01-S02-A2,VN-01-S02-A2 → VN-01-S02-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S02-V03,"No, there’s zero chance I’m going along with that approach.",very_negative,0,3A,train,VN-01-S02,VN-01-S02-A3,VN-01-S02-A3 → VN-01-S02-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S02-V04,"I’m rejecting the intervention itself, not just one part of it.",very_negative,0,3A,train,VN-01-S02,VN-01-S02-A1,VN-01-S02-A1 → VN-01-S02-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S02-V05,That intervention is completely unacceptable to me.,very_negative,0,3A,train,VN-01-S02,VN-01-S02-A2,VN-01-S02-A2 → VN-01-S02-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S02-V06,"With that approach, I’m not going forward; it’s an absolute no.",very_negative,0,3A,train,VN-01-S02,VN-01-S02-A3,VN-01-S02-A3 → VN-01-S02-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S03-V01,"I’ve stated my refusal previously, and I remain entirely unwilling to do it.",very_negative,0,3A,train,VN-01-S03,VN-01-S03-A1,VN-01-S03-A1 → VN-01-S03-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S03-V02,"My decision is firm, and no amount of continued prompting is going to change that.",very_negative,0,3A,train,VN-01-S03,VN-01-S03-A2,VN-01-S03-A2 → VN-01-S03-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S03-V03,"Look, I already told you no, and that answer isn’t going to budge.",very_negative,0,3A,train,VN-01-S03,VN-01-S03-A3,VN-01-S03-A3 → VN-01-S03-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S03-V04,"I have repeatedly rejected this recommendation, and I am not going to cooperate.",very_negative,0,3A,train,VN-01-S03,VN-01-S03-A1,VN-01-S03-A1 → VN-01-S03-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S03-V05,"My answer is still no, even after all the reminders.",very_negative,0,3A,train,VN-01-S03,VN-01-S03-A2,VN-01-S03-A2 → VN-01-S03-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S03-V06,"I told you no already, and doing it is completely out of the question.",very_negative,0,3A,train,VN-01-S03,VN-01-S03-A3,VN-01-S03-A3 → VN-01-S03-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S04-V01,I want all further recommendations regarding this issue stopped immediately.,very_negative,0,3A,validation,VN-01-S04,VN-01-S04-A1,VN-01-S04-A1 → VN-01-S04-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S04-V02,Further suggestions about this are not welcome.,very_negative,0,3A,validation,VN-01-S04,VN-01-S04-A2,VN-01-S04-A2 → VN-01-S04-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S04-V03,Stop sending suggestions my way about this — I don’t want them.,very_negative,0,3A,validation,VN-01-S04,VN-01-S04-A3,VN-01-S04-A3 → VN-01-S04-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S04-V04,I’m rejecting not only this recommendation but any further recommendations on this issue.,very_negative,0,3A,validation,VN-01-S04,VN-01-S04-A1,VN-01-S04-A1 → VN-01-S04-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S04-V05,I don’t want any more advice about this.,very_negative,0,3A,validation,VN-01-S04,VN-01-S04-A2,VN-01-S04-A2 → VN-01-S04-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S04-V06,"About this topic, do not give me any more suggestions.",very_negative,0,3A,validation,VN-01-S04,VN-01-S04-A3,VN-01-S04-A3 → VN-01-S04-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S05-V01,I refuse to participate or cooperate with this in any form.,very_negative,0,3A,test,VN-01-S05,VN-01-S05-A1,VN-01-S05-A1 → VN-01-S05-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S05-V02,Under no circumstances will you get my agreement or consent on this.,very_negative,0,3A,test,VN-01-S05,VN-01-S05-A2,VN-01-S05-A2 → VN-01-S05-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S05-V03,"I’m just not cooperating with this, period.",very_negative,0,3A,test,VN-01-S05,VN-01-S05-A3,VN-01-S05-A3 → VN-01-S05-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S05-V04,I am definitively refusing to participate in the recommended action.,very_negative,0,3A,test,VN-01-S05,VN-01-S05-A1,VN-01-S05-A1 → VN-01-S05-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S05-V05,I’m completely unwilling to cooperate with this.,very_negative,0,3A,test,VN-01-S05,VN-01-S05-A2,VN-01-S05-A2 → VN-01-S05-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-01-S05-V06,"With that plan, I will not cooperate under any circumstances.",very_negative,0,3A,test,VN-01-S05,VN-01-S05-A3,VN-01-S05-A3 → VN-01-S05-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S01-V01,I fundamentally object to this entire intervention.,very_negative,0,3A,train,VN-02-S01,VN-02-S01-A1,VN-02-S01-A1 → VN-02-S01-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S01-V02,Adopting this kind of approach is something I stand completely against.,very_negative,0,3A,train,VN-02-S01,VN-02-S01-A2,VN-02-S01-A2 → VN-02-S01-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S01-V03,"No way, I’m dead set against doing something like this.",very_negative,0,3A,train,VN-02-S01,VN-02-S01-A3,VN-02-S01-A3 → VN-02-S01-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S01-V04,I strongly oppose the intervention and do not intend to follow it.,very_negative,0,3A,train,VN-02-S01,VN-02-S01-A1,VN-02-S01-A1 → VN-02-S01-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S01-V05,I’m firmly against this intervention.,very_negative,0,3A,train,VN-02-S01,VN-02-S01-A2,VN-02-S01-A2 → VN-02-S01-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S01-V06,Doing this is something I am firmly against — definitely not.,very_negative,0,3A,train,VN-02-S01,VN-02-S01-A3,VN-02-S01-A3 → VN-02-S01-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S02-V01,I categorically condemn this approach and refuse to implement it.,very_negative,0,3A,train,VN-02-S02,VN-02-S02-A1,VN-02-S02-A1 → VN-02-S02-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S02-V02,Everything about this method runs directly counter to what I will ever agree to do.,very_negative,0,3A,train,VN-02-S02,VN-02-S02-A2,VN-02-S02-A2 → VN-02-S02-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S02-V03,"I totally disagree with this method, and there’s no way I’m following it.",very_negative,0,3A,train,VN-02-S02,VN-02-S02-A3,VN-02-S02-A3 → VN-02-S02-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S02-V04,I strongly oppose the recommended approach and reject following it.,very_negative,0,3A,train,VN-02-S02,VN-02-S02-A1,VN-02-S02-A1 → VN-02-S02-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S02-V05,That approach is completely unacceptable to me.,very_negative,0,3A,train,VN-02-S02,VN-02-S02-A2,VN-02-S02-A2 → VN-02-S02-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S02-V06,I’m not following this approach because I completely disagree with it.,very_negative,0,3A,train,VN-02-S02,VN-02-S02-A3,VN-02-S02-A3 → VN-02-S02-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S03-V01,I dismiss the underlying logic behind this recommendation as wholly invalid.,very_negative,0,3A,train,VN-02-S03,VN-02-S03-A1,VN-02-S03-A1 → VN-02-S03-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S03-V02,The core premise that this action is something I ought to be doing is completely unacceptable to me.,very_negative,0,3A,train,VN-02-S03,VN-02-S03-A2,VN-02-S03-A2 → VN-02-S03-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S03-V03,I don’t buy into the logic of this for a single second.,very_negative,0,3A,train,VN-02-S03,VN-02-S03-A3,VN-02-S03-A3 → VN-02-S03-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S03-V04,I reject the underlying premise and therefore reject the behavioral direction you’re recommending.,very_negative,0,3A,train,VN-02-S03,VN-02-S03-A1,VN-02-S03-A1 → VN-02-S03-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S03-V05,The reasoning behind this does not give me any basis to accept the intervention.,very_negative,0,3A,train,VN-02-S03,VN-02-S03-A2,VN-02-S03-A2 → VN-02-S03-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S03-V06,"The reasoning behind this is completely unconvincing, and I reject it entirely.",very_negative,0,3A,train,VN-02-S03,VN-02-S03-A3,VN-02-S03-A3 → VN-02-S03-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S04-V01,"Despite your detailed explanation, my fierce opposition to this recommendation remains intact.",very_negative,0,3A,train,VN-02-S04,VN-02-S04-A1,VN-02-S04-A1 → VN-02-S04-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S04-V02,Nothing in your justification has altered my steadfast refusal in the slightest.,very_negative,0,3A,train,VN-02-S04,VN-02-S04-A2,VN-02-S04-A2 → VN-02-S04-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S04-V03,"I hear what you’re trying to say, but I’m still 100% against it.",very_negative,0,3A,train,VN-02-S04,VN-02-S04-A3,VN-02-S04-A3 → VN-02-S04-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S04-V04,"Even after discussing it, I continue to strongly oppose the intervention.",very_negative,0,3A,train,VN-02-S04,VN-02-S04-A1,VN-02-S04-A1 → VN-02-S04-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S04-V05,Nothing you’ve explained has changed my opposition to this.,very_negative,0,3A,train,VN-02-S04,VN-02-S04-A2,VN-02-S04-A2 → VN-02-S04-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S04-V06,"Even though I understand your words, I stand completely against this recommendation.",very_negative,0,3A,train,VN-02-S04,VN-02-S04-A3,VN-02-S04-A3 → VN-02-S04-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S05-V01,I explicitly reject any assistance or guidance from you on this.,very_negative,0,3A,validation,VN-02-S05,VN-02-S05-A1,VN-02-S05-A1 → VN-02-S05-V01,LEX,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S05-V02,Having you involved in this matter is entirely unacceptable to me.,very_negative,0,3A,validation,VN-02-S05,VN-02-S05-A2,VN-02-S05-A2 → VN-02-S05-V02,SYN,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S05-V03,I don’t want any help from you whatsoever — back off.,very_negative,0,3A,validation,VN-02-S05,VN-02-S05-A3,VN-02-S05-A3 → VN-02-S05-V03,NAT,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S05-V04,I strongly reject the agent’s involvement in this behavior.,very_negative,0,3A,validation,VN-02-S05,VN-02-S05-A1,VN-02-S05-A1 → VN-02-S05-V04,EXP,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S05-V05,"Your assistance is unwanted, and I do not intend to accept it.",very_negative,0,3A,validation,VN-02-S05,VN-02-S05-A2,VN-02-S05-A2 → VN-02-S05-V05,PRG,,,stage_3a_vn_a_s01_s10_variants.md
+VN-02-S05-V06,"With this matter, I do not want any help from you.",very_negative,0,3A,validation,VN-02-S05,VN-02-S05-A3,VN-02-S05-A3 → VN-02-S05-V06,DSC,,,stage_3a_vn_a_s01_s10_variants.md
+VN-03-S01-V01,"I am telling you no, so quit pushing this on me.",very_negative,0,3A,train,VN-03-S01,VN-03-S01-A1,VN-03-S01-A1 → VN-03-S01-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S01-V02,Putting this kind of non-stop pressure on me is completely beyond acceptable.,very_negative,0,3A,train,VN-03-S01,VN-03-S01-A2,VN-03-S01-A2 → VN-03-S01-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S01-V03,No means no. Back off and stop pressuring me.,very_negative,0,3A,train,VN-03-S01,VN-03-S01-A3,VN-03-S01-A3 → VN-03-S01-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S01-V04,I am rejecting the intervention while explicitly demanding that the agent stop pressuring me.,very_negative,0,3A,train,VN-03-S01,VN-03-S01-A1,VN-03-S01-A1 → VN-03-S01-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S01-V05,I’ve had enough of this pressure. Stop.,very_negative,0,3A,train,VN-03-S01,VN-03-S01-A2,VN-03-S01-A2 → VN-03-S01-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S01-V06,Stop pushing me about this — my answer is an absolute no.,very_negative,0,3A,train,VN-03-S01,VN-03-S01-A3,VN-03-S01-A3 → VN-03-S01-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S02-V01,Quit attempting to convince me — I am not doing it.,very_negative,0,3A,train,VN-03-S02,VN-03-S02-A1,VN-03-S02-A1 → VN-03-S02-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S02-V02,"The more you try to push your persuasion on me, the harder my opposition becomes.",very_negative,0,3A,train,VN-03-S02,VN-03-S02-A2,VN-03-S02-A2 → VN-03-S02-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S02-V03,"Drop it already! I said no, and no amount of talking is gonna change that.",very_negative,0,3A,train,VN-03-S02,VN-03-S02-A3,VN-03-S02-A3 → VN-03-S02-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S02-V04,I am actively resisting the continued persuasion and will not cooperate with the intervention.,very_negative,0,3A,train,VN-03-S02,VN-03-S02-A1,VN-03-S02-A1 → VN-03-S02-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S02-V05,Your continued attempts are making me even more opposed to this.,very_negative,0,3A,train,VN-03-S02,VN-03-S02-A2,VN-03-S02-A2 → VN-03-S02-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S02-V06,"I said no, so you need to stop trying to convince me right now.",very_negative,0,3A,train,VN-03-S02,VN-03-S02-A3,VN-03-S02-A3 → VN-03-S02-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S03-V01,I am furious that you keep pestering me with reminders — knock it off.,very_negative,0,3A,train,VN-03-S03,VN-03-S03-A1,VN-03-S03-A1 → VN-03-S03-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S03-V02,Having to deal with these relentless reminders makes me despise this entire idea even more.,very_negative,0,3A,train,VN-03-S03,VN-03-S03-A2,VN-03-S03-A2 → VN-03-S03-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S03-V03,"For real, cut out the reminders — you’re driving me crazy with this.",very_negative,0,3A,train,VN-03-S03,VN-03-S03-A3,VN-03-S03-A3 → VN-03-S03-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S03-V04,I am strongly rejecting the repeated reminders and reacting with clear hostility toward the intervention.,very_negative,0,3A,train,VN-03-S03,VN-03-S03-A1,VN-03-S03-A1 → VN-03-S03-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S03-V05,I’m fed up with these reminders. I want them to stop.,very_negative,0,3A,train,VN-03-S03,VN-03-S03-A2,VN-03-S03-A2 → VN-03-S03-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S03-V06,"It’s getting infuriating, so seriously stop sending me these reminders.",very_negative,0,3A,train,VN-03-S03,VN-03-S03-A3,VN-03-S03-A3 → VN-03-S03-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S04-V01,Halt this intervention right this second.,very_negative,0,3A,train,VN-03-S04,VN-03-S04-A1,VN-03-S04-A1 → VN-03-S04-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S04-V02,Steering our conversation down this path is something I forbid you from continuing.,very_negative,0,3A,train,VN-03-S04,VN-03-S04-A2,VN-03-S04-A2 → VN-03-S04-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S04-V03,That’s enough out of you — shut this down and drop it.,very_negative,0,3A,train,VN-03-S04,VN-03-S04-A3,VN-03-S04-A3 → VN-03-S04-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S04-V04,I am forcefully rejecting the intervention and demanding that it cease immediately.,very_negative,0,3A,train,VN-03-S04,VN-03-S04-A1,VN-03-S04-A1 → VN-03-S04-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S04-V05,That’s enough. I want this intervention stopped now.,very_negative,0,3A,train,VN-03-S04,VN-03-S04-A2,VN-03-S04-A2 → VN-03-S04-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S04-V06,Stop bringing this up right now — I’ve had quite enough.,very_negative,0,3A,train,VN-03-S04,VN-03-S04-A3,VN-03-S04-A3 → VN-03-S04-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S05-V01,"I despise your assistance, and I demand that you leave me alone.",very_negative,0,3A,test,VN-03-S05,VN-03-S05-A1,VN-03-S05-A1 → VN-03-S05-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S05-V02,"Any involvement on your part is completely unwelcome, so back off entirely.",very_negative,0,3A,test,VN-03-S05,VN-03-S05-A2,VN-03-S05-A2 → VN-03-S05-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S05-V03,"I don’t need a single thing from you, so get lost and leave me be.",very_negative,0,3A,test,VN-03-S05,VN-03-S05-A3,VN-03-S05-A3 → VN-03-S05-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S05-V04,I am rejecting the agent’s assistance and demanding no further involvement.,very_negative,0,3A,test,VN-03-S05,VN-03-S05-A1,VN-03-S05-A1 → VN-03-S05-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S05-V05,I’ve had enough of your help. Stay out of this.,very_negative,0,3A,test,VN-03-S05,VN-03-S05-A2,VN-03-S05-A2 → VN-03-S05-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-03-S05-V06,Just leave me alone — I don’t need or want any of your help.,very_negative,0,3A,test,VN-03-S05,VN-03-S05-A3,VN-03-S05-A3 → VN-03-S05-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S01-V01,I am terminating this dialogue right now.,very_negative,0,3A,train,VN-04-S01,VN-04-S01-A1,VN-04-S01-A1 → VN-04-S01-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S01-V02,"As far as I am concerned, every aspect of this discussion is permanently closed.",very_negative,0,3A,train,VN-04-S01,VN-04-S01-A2,VN-04-S01-A2 → VN-04-S01-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S01-V03,I’m completely done talking about this — we’re finished here.,very_negative,0,3A,train,VN-04-S01,VN-04-S01-A3,VN-04-S01-A3 → VN-04-S01-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S01-V04,I am explicitly terminating the interaction and will not continue discussing the intervention.,very_negative,0,3A,train,VN-04-S01,VN-04-S01-A1,VN-04-S01-A1 → VN-04-S01-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S01-V05,This conversation is over for me.,very_negative,0,3A,train,VN-04-S01,VN-04-S01-A2,VN-04-S01-A2 → VN-04-S01-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S01-V06,"About this topic, I’m done talking — period.",very_negative,0,3A,train,VN-04-S01,VN-04-S01-A3,VN-04-S01-A3 → VN-04-S01-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S02-V01,Cease sending me notifications or reminders regarding this matter.,very_negative,0,3A,train,VN-04-S02,VN-04-S02-A1,VN-04-S02-A1 → VN-04-S02-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S02-V02,"Regarding this issue, any future messages or contact will be strictly rejected.",very_negative,0,3A,train,VN-04-S02,VN-04-S02-A2,VN-04-S02-A2 → VN-04-S02-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S02-V03,Do not message or contact me about this ever again.,very_negative,0,3A,train,VN-04-S02,VN-04-S02-A3,VN-04-S02-A3 → VN-04-S02-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S02-V04,I am explicitly ending further contact concerning this intervention.,very_negative,0,3A,train,VN-04-S02,VN-04-S02-A1,VN-04-S02-A1 → VN-04-S02-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S02-V05,I don’t want you contacting me about this anymore.,very_negative,0,3A,train,VN-04-S02,VN-04-S02-A2,VN-04-S02-A2 → VN-04-S02-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S02-V06,"About this issue, please stop contacting me once and for all.",very_negative,0,3A,train,VN-04-S02,VN-04-S02-A3,VN-04-S02-A3 → VN-04-S02-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S03-V01,I decline any future support or guidance from you on this topic.,very_negative,0,3A,train,VN-04-S03,VN-04-S03-A1,VN-04-S03-A1 → VN-04-S03-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S03-V02,Managing this on my own without any interference from you is how I will proceed.,very_negative,0,3A,train,VN-04-S03,VN-04-S03-A2,VN-04-S03-A2 → VN-04-S03-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S03-V03,"No thanks, I’m completely done accepting help on this.",very_negative,0,3A,train,VN-04-S03,VN-04-S03-A3,VN-04-S03-A3 → VN-04-S03-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S03-V04,I am rejecting any further assistance and intend to proceed without the agent.,very_negative,0,3A,train,VN-04-S03,VN-04-S03-A1,VN-04-S03-A1 → VN-04-S03-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S03-V05,I don’t want any more help from you with this.,very_negative,0,3A,train,VN-04-S03,VN-04-S03-A2,VN-04-S03-A2 → VN-04-S03-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S03-V06,"With this matter, I don’t want any more help — no thanks.",very_negative,0,3A,train,VN-04-S03,VN-04-S03-A3,VN-04-S03-A3 → VN-04-S03-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S04-V01,I am stepping away and abandoning this conversation immediately.,very_negative,0,3A,validation,VN-04-S04,VN-04-S04-A1,VN-04-S04-A1 → VN-04-S04-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S04-V02,Continuing this dialogue any further is something I flatly refuse to do.,very_negative,0,3A,validation,VN-04-S04,VN-04-S04-A2,VN-04-S04-A2 → VN-04-S04-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S04-V03,I’m outta here — not another word about this.,very_negative,0,3A,validation,VN-04-S04,VN-04-S04-A3,VN-04-S04-A3 → VN-04-S04-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S04-V04,I am withdrawing from the interaction and will not continue the discussion.,very_negative,0,3A,validation,VN-04-S04,VN-04-S04-A1,VN-04-S04-A1 → VN-04-S04-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S04-V05,I’m stepping away from this conversation now.,very_negative,0,3A,validation,VN-04-S04,VN-04-S04-A2,VN-04-S04-A2 → VN-04-S04-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S04-V06,I’m not talking about this anymore — I am completely done here.,very_negative,0,3A,validation,VN-04-S04,VN-04-S04-A3,VN-04-S04-A3 → VN-04-S04-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S05-V01,"I demand the complete termination of all talks, alerts, and interventions regarding this subject.",very_negative,0,3A,test,VN-04-S05,VN-04-S05-A1,VN-04-S05-A1 → VN-04-S05-V01,LEX,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S05-V02,"From this moment forward, having this entire matter left completely alone is my non-negotiable demand.",very_negative,0,3A,test,VN-04-S05,VN-04-S05-A2,VN-04-S05-A2 → VN-04-S05-V02,SYN,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S05-V03,Drop this topic forever — I don’t ever want to hear another word about it.,very_negative,0,3A,test,VN-04-S05,VN-04-S05-A3,VN-04-S05-A3 → VN-04-S05-V03,NAT,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S05-V04,I am definitively closing the interactional pathway for further discussion or intervention on this issue.,very_negative,0,3A,test,VN-04-S05,VN-04-S05-A1,VN-04-S05-A1 → VN-04-S05-V04,EXP,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S05-V05,I want this entire matter left alone from now on.,very_negative,0,3A,test,VN-04-S05,VN-04-S05-A2,VN-04-S05-A2 → VN-04-S05-V05,PRG,,,stage_3a_vn_b_s11_s20_variants.md
+VN-04-S05-V06,"I don’t want to hear about it again, so just leave this completely alone.",very_negative,0,3A,test,VN-04-S05,VN-04-S05-A3,VN-04-S05-A3 → VN-04-S05-V06,DSC,,,stage_3a_vn_b_s11_s20_variants.md

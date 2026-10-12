@@ -1,0 +1,136 @@
+serial_id,utterance,response_category
+001,"Okay, I’ll think about it before I decide.",indifferent
+002,"Yes, I’m comfortable with that.",positive
+003,I want this entire matter left alone from now on.,very_negative
+004,I’m hesitant about continuing with this.,negative
+005,Just leave me alone — I don’t need or want any of your help.,very_negative
+006,"This isn’t a good time for me, although I may reconsider.",negative
+007,"Sure, I’ll follow through with it, even if I have a small doubt about the timing.",positive
+008,"Even with the context, I’m not expressing whether I’ll accept or resist the recommendation.",indifferent
+009,"I understand the proposed action, but I'm not committing to it.",indifferent
+010,Do I really need to keep doing this?,negative
+011,I’m actually looking forward to getting started.,very_positive
+012,Drop this topic forever — I don’t ever want to hear another word about it.,very_negative
+013,"I have to dispute that recommendation, though I’m very willing to explore other choices.",negative
+014,I’m having reservations about continuing the practice.,negative
+015,I’ve considered the suggestion and I’m comfortable accepting it.,positive
+016,I don’t have anything further to add at this point.,indifferent
+017,"I don’t agree with this approach, but I’m still open to alternatives.",negative
+018,The overall approach works for me with a slight change.,positive
+019,I understand what you want me to do.,indifferent
+020,"Okay, what would you suggest I do next?",very_positive
+021,"I understand the recommendation, but I’m not ready to commit.",indifferent
+022,I’m resisting the current recommendation while remaining willing to discuss a different approach.,negative
+023,I can see myself continuing this on my own.,very_positive
+024,I will not cooperate with this.,very_negative
+025,"I’m not sold on that idea, but I’m definitely down to look at other options.",negative
+026,I’d like to do more toward the same goal.,very_positive
+027,"I don’t want your help, and I want you to leave me alone.",very_negative
+028,"I agree with the plan, with that small adjustment.",positive
+029,"I have to refuse for the immediate present, though my stance might shift down the road.",negative
+030,"Yeah, absolutely, let’s do the follow-up.",very_positive
+031,"Yeah, that works. I’d just tweak one thing.",positive
+032,"I understand the recommendation, but I’m still not committing.",indifferent
+033,"I accept the recommendation and will cooperate, even though I have some minor reservations about the workload.",positive
+034,"Sure, I’m happy to keep going with your guidance.",very_positive
+035,"Right, I’m into this. I’d like to take it a bit further.",very_positive
+036,"I understand the discussion, yet my willingness to act is still unresolved.",indifferent
+037,I’m not prepared to do it right now.,negative
+038,What else could I do to support the same goal?,very_positive
+039,"Sure, I’m ready. Let’s do it.",very_positive
+040,"I find the continued support useful, and I’m receptive to working through the next steps with you.",very_positive
+041,I refuse to participate or cooperate with this in any form.,very_negative
+042,"I’m just not cooperating with this, period.",very_negative
+043,"I don’t agree with that, but let’s see what else we could do.",negative
+044,"Yes, that works for me.",positive
+045,"Alright, but what other approaches could we consider?",negative
+046,I’m strongly willing to remain engaged with the intervention and continue cooperating.,very_positive
+047,"While the action will need to be deferred until tonight, my willingness to proceed is completely genuine.",positive
+048,"Sure, I’ll postpone until later, but I’m definitely cooperating with this.",positive
+049,"Yeah, I can see how this could help with the bigger picture too.",very_positive
+050,"Pass for right now, but feel free to check back with me later.",negative
+051,"Yeah, I thought about it. That’s fine.",positive
+052,I’m more comfortable with the idea now.,positive
+053,"Well, could we revisit this later?",negative
+054,"Your assistance is unwanted, and I do not want further involvement.",very_negative
+055,I’m not going to cooperate with that.,very_negative
+056,"Any involvement on your part is completely unwelcome, so back off entirely.",very_negative
+057,I don’t need your help. Just leave me alone.,very_negative
+058,I don’t really have any more feedback on that right now.,indifferent
+059,"Honestly, I’m starting to rethink whether I want to stick with this.",negative
+060,Not for now. I might be open to it later.,negative
+061,"I do not want any more discussion, reminders, or intervention about this.",very_negative
+062,I’ll leave the matter there for now.,indifferent
+063,I’ve had enough of your help. Stay out of this.,very_negative
+064,"Yes, I’d be very glad to continue with the proposed follow-up.",very_positive
+065,"I can continue for now, but I’m becoming less willing to keep doing it.",negative
+066,"I’m deferring the implementation for now, but I maintain full cooperation with the intervention.",positive
+067,I understand the suggested next step.,indifferent
+068,Is there anything specific you need me to answer?,indifferent
+069,I see what you're asking me to do.,indifferent
+070,I’m resisting the action for the present without ruling out future cooperation.,negative
+071,"I’ve considered what you said, but I haven’t decided whether to follow it.",indifferent
+072,I understand the action you're suggesting.,indifferent
+073,"Deferred for now, but I’m still committed to doing it.",positive
+074,I am definitively refusing to participate in the recommended action.,very_negative
+075,"Alright, I know what you mean.",indifferent
+076,I’ll keep it going. I don’t need another reminder.,very_positive
+077,I don’t have anything else to say about it right now.,indifferent
+078,"I can do that, despite a small concern.",positive
+079,"Sure, let’s keep going — I’m keen to do the next part.",very_positive
+080,There is no agreement from me on this.,very_negative
+081,I am definitively closing the interactional pathway for further discussion or intervention on this issue.,very_negative
+082,I’m not sure I want to keep doing it.,negative
+083,Is there more I should consider before I decide?,indifferent
+084,"I’m not willing to do it at the moment, but that could change later.",negative
+085,"Okay, I can go with that.",positive
+086,"Yeah, keep the suggestions coming — I’m happy to work with them.",very_positive
+087,"Yeah, I’ll try that and maybe add another small step too.",very_positive
+088,"I was hesitant before, but I’m ready to cooperate now.",positive
+089,Under no circumstances will you get my agreement or consent on this.,very_negative
+090,Just leave this alone. I don’t want to hear about it again.,very_negative
+091,I’m happy to take that next step as well.,very_positive
+092,"I disagree with the recommendation, but I’m open to discussing alternatives.",negative
+093,"The next step makes sense to me, so I’m happy to keep moving forward.",very_positive
+094,"With that plan, I will not cooperate under any circumstances.",very_negative
+095,"I don’t think that approach works for me, although I’m willing to consider another one.",negative
+096,I’m reluctant to keep going with this.,negative
+097,I’m completely unwilling to cooperate with this.,very_negative
+098,I see what the proposed next step is.,indifferent
+099,"While I’m happy to consider other possibilities, that particular method isn’t going to work for me.",negative
+100,This is something I want completely left alone from now on.,very_negative
+101,"I don’t need a single thing from you, so get lost and leave me be.",very_negative
+102,"Although I might reconsider down the line, right now is simply not a good time for me.",negative
+103,"Okay, I know what you’re suggesting.",indifferent
+104,I don’t have a clearer response to give at the moment.,indifferent
+105,"Yes, I’m ready to start.",very_positive
+106,I’m not very comfortable continuing.,negative
+107,"I demand the complete termination of all talks, alerts, and interventions regarding this subject.",very_negative
+108,I am rejecting the agent’s assistance and demanding no further involvement.,very_negative
+109,"From this moment forward, having this entire matter left completely alone is my non-negotiable demand.",very_negative
+110,"I don’t want to hear about it again, so just leave this completely alone.",very_negative
+111,I’m strongly engaged with the goal and want to contribute beyond the immediate recommendation.,very_positive
+112,"I’m willing to follow the plan, though I have a slight concern about finding enough time.",positive
+113,"Okay, I understand, but I’m not ready to commit.",indifferent
+114,"Okay, I know what you're suggesting.",indifferent
+115,I’m keeping the recommendation under consideration without committing.,indifferent
+116,I’ll leave it there for now.,indifferent
+117,"Yeah, I’ll do it — I’m just a little worried about sticking with it.",positive
+118,"I despise your assistance, and I demand that you leave me alone.",very_negative
+119,"Yeah, let’s push it to tonight, but I’m definitely still on board to do it.",positive
+120,"I’ve considered it, and I can go ahead with the plan.",positive
+121,"Yeah, that’s fine.",positive
+122,"Yes, that’s fine with me.",positive
+123,I’m having second thoughts about keeping this up.,negative
+124,I’ll follow that recommendation and look for another way to support the same goal.,very_positive
+125,I can see how I could build on this further.,very_positive
+126,"This seems like a useful starting point for making broader progress, so I’d like to keep building on it.",very_positive
+127,"I need to postpone starting for a couple of hours, but I remain fully willing to cooperate.",positive
+128,I’ll keep it in consideration for now.,indifferent
+129,Nothing else from me right now.,indifferent
+130,"I was unsure earlier, but yeah, I can do it.",positive
+131,I’m happy to continue cooperating with your guidance.,very_positive
+132,What would you suggest we work on next?,very_positive
+133,"Although I wonder if it might be a bit tricky at first, I can certainly give it a try.",positive
+134,I’ll keep doing this even without another reminder.,very_positive
+135,I’m comfortable with that plan.,positive

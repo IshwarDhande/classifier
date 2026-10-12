@@ -1,0 +1,22 @@
+utterance_id,utterance,execution_status
+C-S06-A1,I already took it.,Completed
+C-S06-A2,That’s already done.,Completed
+C-S06-A3,You reminded me after I’d already finished it.,Completed
+C-S13-A1,I finished the exercises; they were tiring.,Completed
+C-S13-A2,"I’m done with the workout, and that was harder than expected.",Completed
+C-S13-A3,"The exercise is finished, though it took a lot out of me.",Completed
+NS-S03-A1,I’m not exercising right now.,Not Started
+NS-S03-A2,I’m not doing the exercise at the moment.,Not Started
+NS-S03-A3,I’m not on the exercise yet.,Not Started
+IP-S13-A1,"I started the exercise, but I had to pause.",In Progress
+IP-S13-A2,I was doing the exercise and stopped for a moment.,In Progress
+IP-S13-A3,I’m taking a short break in the middle of it.,In Progress
+NS-S06-A1,I haven’t started it; I’ll finish the routine tonight.,Not Started
+NS-S06-A2,I’m going to get the physiotherapy done later.,Not Started
+NS-S06-A3,The routine is something I’ll take care of this evening.,Not Started
+C-S05-A1,I took the medicine earlier today.,Completed
+C-S05-A2,I did it before breakfast.,Completed
+C-S05-A3,The dose was taken earlier.,Completed
+NS-S07-A1,"If I get enough time, I’ll do the exercise.",Not Started
+NS-S07-A2,I’ll exercise if I get a free hour.,Not Started
+NS-S07-A3,The exercise will happen if I can get some time later.,Not Started

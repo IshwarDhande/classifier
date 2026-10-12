@@ -1,0 +1,31 @@
+serial_id,utterance,execution_status
+001,Still working.,in_progress
+002,Still working through it.,in_progress
+003,Haven't started.,not_started
+004,I haven't started it.,not_started
+005,Working.,in_progress
+006,Haven't started yet.,not_started
+007,I've been working.,in_progress
+008,Working now.,in_progress
+009,Already working.,in_progress
+010,I'm working.,in_progress
+011,I haven't started yet.,not_started
+012,I'm still working on it.,in_progress
+013,I haven't started.,not_started
+014,I'm working on it.,in_progress
+015,Working through it.,in_progress
+016,I still haven't started.,not_started
+017,I'm working now.,in_progress
+018,I'm continuing to work.,in_progress
+019,I'm already working.,in_progress
+020,Working on it.,in_progress
+021,I'm working through it.,in_progress
+022,Not started yet.,not_started
+023,Working on this.,in_progress
+024,Currently working on it.,in_progress
+025,Not started.,not_started
+026,I haven't even started.,not_started
+027,Still working on it.,in_progress
+028,Never started.,not_started
+029,I've been working on it.,in_progress
+030,I'm still working.,in_progress

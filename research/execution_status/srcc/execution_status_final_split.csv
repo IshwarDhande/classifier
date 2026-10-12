@@ -1,0 +1,171 @@
+serial_id,utterance,execution_status,split,split_group_id
+001,Done.,completed,train,Semantic Variation Families
+002,All done.,completed,test,"Direct Variants of ""Done"""
+003,It's done.,completed,test,"Direct Variants of ""Done"""
+004,Already done.,completed,test,"Direct Variants of ""Done"""
+005,Fully done.,completed,test,"Direct Variants of ""Done"""
+006,Completely done.,completed,test,"Direct Variants of ""Done"""
+007,Finally done.,completed,test,"Direct Variants of ""Done"""
+008,Done already.,completed,test,"Direct Variants of ""Done"""
+009,Done now.,completed,test,"Direct Variants of ""Done"""
+010,That's done.,completed,test,"Direct Variants of ""Done"""
+011,It's all done.,completed,train,Semantic Variation Families
+012,It's done now.,completed,test,"Direct Variants of ""Done"""
+013,It's already done.,completed,test,"Direct Variants of ""Done"""
+014,It's finally done.,completed,test,"Direct Variants of ""Done"""
+015,I've done it.,completed,test,"Direct Variants of ""Done"""
+016,I have done it.,completed,test,"Direct Variants of ""Done"""
+017,I've done that.,completed,test,"Direct Variants of ""Done"""
+018,I got it done.,completed,train,Semantic Variation Families
+019,I've got it done.,completed,test,"Direct Variants of ""Done"""
+020,It's completely done.,completed,train,Semantic Variation Families
+021,Finished.,completed,train,Semantic Variation Families
+022,All finished.,completed,train,"Direct Variants of ""Finished"""
+023,It's finished.,completed,train,"Direct Variants of ""Finished"""
+024,Already finished.,completed,train,"Direct Variants of ""Finished"""
+025,Fully finished.,completed,train,"Direct Variants of ""Finished"""
+026,Completely finished.,completed,train,"Direct Variants of ""Finished"""
+027,Finally finished.,completed,train,"Direct Variants of ""Finished"""
+028,Finished already.,completed,train,"Direct Variants of ""Finished"""
+029,Finished now.,completed,train,"Direct Variants of ""Finished"""
+030,That's finished.,completed,train,"Direct Variants of ""Finished"""
+031,It's all finished.,completed,train,"Direct Variants of ""Finished"""
+032,It's finished now.,completed,train,"Direct Variants of ""Finished"""
+033,It's already finished.,completed,train,"Direct Variants of ""Finished"""
+034,It's finally finished.,completed,train,"Direct Variants of ""Finished"""
+035,I've finished.,completed,train,"Direct Variants of ""Finished"""
+036,I've finished it.,completed,train,"Direct Variants of ""Finished"""
+037,I finished it.,completed,train,Semantic Variation Families
+038,I have finished it.,completed,train,"Direct Variants of ""Finished"""
+039,I've finished that.,completed,train,"Direct Variants of ""Finished"""
+040,I got it finished.,completed,train,"Direct Variants of ""Finished"""
+041,Done.,completed,train,Semantic Variation Families
+042,Finished.,completed,train,Semantic Variation Families
+043,Completed.,completed,train,Semantic Variation Families
+044,The task is done.,completed,train,Semantic Variation Families
+045,The work is finished.,completed,train,Semantic Variation Families
+046,I finished it.,completed,train,Semantic Variation Families
+047,I've completed it.,completed,train,Semantic Variation Families
+048,I already did it.,completed,train,Semantic Variation Families
+049,Everything is done.,completed,train,Semantic Variation Families
+050,I finished everything required.,completed,train,Semantic Variation Families
+051,It's all done.,completed,train,Semantic Variation Families
+052,It's taken care of.,completed,train,Semantic Variation Families
+053,That's been taken care of.,completed,train,Semantic Variation Families
+054,It's been completed.,completed,train,Semantic Variation Families
+055,Nothing remains.,completed,train,Semantic Variation Families
+056,There's nothing left.,completed,train,Semantic Variation Families
+057,I got it done.,completed,train,Semantic Variation Families
+058,I completed it successfully.,completed,train,Semantic Variation Families
+059,"Yes, it's finished.",completed,train,Semantic Variation Families
+060,It's completely done.,completed,train,Semantic Variation Families
+061,Working.,in_progress,validation,Working — 20 Variants
+062,Still working.,in_progress,validation,Working — 20 Variants
+063,Working now.,in_progress,validation,Working — 20 Variants
+064,Already working.,in_progress,validation,Working — 20 Variants
+065,Working on it.,in_progress,validation,Working — 20 Variants
+066,I'm working.,in_progress,validation,Working — 20 Variants
+067,I'm still working.,in_progress,validation,Working — 20 Variants
+068,I'm working now.,in_progress,validation,Working — 20 Variants
+069,I'm already working.,in_progress,validation,Working — 20 Variants
+070,I'm working on it.,in_progress,validation,Working — 20 Variants
+071,Still working on it.,in_progress,validation,Working — 20 Variants
+072,Working through it.,in_progress,validation,Working — 20 Variants
+073,Working on this.,in_progress,validation,Working — 20 Variants
+074,I'm still working on it.,in_progress,validation,Working — 20 Variants
+075,I'm working through it.,in_progress,validation,Working — 20 Variants
+076,Currently working on it.,in_progress,validation,Working — 20 Variants
+077,Still working through it.,in_progress,validation,Working — 20 Variants
+078,I've been working.,in_progress,validation,Working — 20 Variants
+079,I've been working on it.,in_progress,validation,Working — 20 Variants
+080,I'm continuing to work.,in_progress,validation,Working — 20 Variants
+081,Doing.,in_progress,test,Doing — 20 Variants
+082,Still doing.,in_progress,test,Doing — 20 Variants
+083,Doing it.,in_progress,test,Doing — 20 Variants
+084,Doing it now.,in_progress,test,Doing — 20 Variants
+085,Already doing it.,in_progress,test,Doing — 20 Variants
+086,I'm doing it.,in_progress,test,Doing — 20 Variants
+087,I'm still doing it.,in_progress,test,Doing — 20 Variants
+088,I'm doing it now.,in_progress,test,Doing — 20 Variants
+089,I'm already doing it.,in_progress,test,Doing — 20 Variants
+090,Doing the work.,in_progress,test,Doing — 20 Variants
+091,Still doing the work.,in_progress,test,Doing — 20 Variants
+092,I'm doing the work.,in_progress,test,Doing — 20 Variants
+093,Doing it currently.,in_progress,test,Doing — 20 Variants
+094,I'm currently doing it.,in_progress,test,Doing — 20 Variants
+095,I'm still doing this.,in_progress,test,Doing — 20 Variants
+096,Doing this now.,in_progress,test,Doing — 20 Variants
+097,I'm doing this now.,in_progress,test,Doing — 20 Variants
+098,I've been doing it.,in_progress,test,Doing — 20 Variants
+099,I've been doing this.,in_progress,test,Doing — 20 Variants
+100,I'm continuing to do it.,in_progress,test,Doing — 20 Variants
+101,Trying.,in_progress,train,Trying — 20 Variants
+102,Still trying.,in_progress,train,Trying — 20 Variants
+103,Trying now.,in_progress,train,Trying — 20 Variants
+104,Already trying.,in_progress,train,Trying — 20 Variants
+105,Trying it.,in_progress,train,Trying — 20 Variants
+106,I'm trying.,in_progress,train,Trying — 20 Variants
+107,I'm still trying.,in_progress,train,Trying — 20 Variants
+108,I'm trying now.,in_progress,train,Trying — 20 Variants
+109,I'm already trying.,in_progress,train,Trying — 20 Variants
+110,Trying to finish.,in_progress,train,Trying — 20 Variants
+111,Still trying to finish.,in_progress,train,Trying — 20 Variants
+112,I'm trying to finish.,in_progress,train,Trying — 20 Variants
+113,Trying to complete it.,in_progress,train,Trying — 20 Variants
+114,I'm trying to complete it.,in_progress,train,Trying — 20 Variants
+115,I'm still trying to finish.,in_progress,train,Trying — 20 Variants
+116,Trying to get it done.,in_progress,train,Trying — 20 Variants
+117,I'm trying to get it done.,in_progress,train,Trying — 20 Variants
+118,I've been trying.,in_progress,train,Trying — 20 Variants
+119,I've been trying to finish.,in_progress,train,Trying — 20 Variants
+120,I'm continuing to try.,in_progress,train,Trying — 20 Variants
+121,Not started.,not_started,validation,START — 10 Variants
+122,Haven't started.,not_started,validation,START — 10 Variants
+123,Never started.,not_started,validation,START — 10 Variants
+124,Haven't started yet.,not_started,validation,START — 10 Variants
+125,Not started yet.,not_started,validation,START — 10 Variants
+126,I haven't started.,not_started,validation,START — 10 Variants
+127,I haven't started it.,not_started,validation,START — 10 Variants
+128,I haven't started yet.,not_started,validation,START — 10 Variants
+129,I still haven't started.,not_started,validation,START — 10 Variants
+130,I haven't even started.,not_started,validation,START — 10 Variants
+131,Not begun.,not_started,train,BEGIN — 10 Variants
+132,Haven't begun.,not_started,train,BEGIN — 10 Variants
+133,Haven't begun yet.,not_started,train,BEGIN — 10 Variants
+134,Never begun.,not_started,train,BEGIN — 10 Variants
+135,I haven't begun.,not_started,train,BEGIN — 10 Variants
+136,I haven't begun it.,not_started,train,BEGIN — 10 Variants
+137,I haven't begun yet.,not_started,train,BEGIN — 10 Variants
+138,I still haven't begun.,not_started,train,BEGIN — 10 Variants
+139,Still not begun.,not_started,train,BEGIN — 10 Variants
+140,I haven't even begun.,not_started,train,BEGIN — 10 Variants
+141,Not attempted.,not_started,train,ATTEMPT — 10 Variants
+142,Haven't attempted.,not_started,train,ATTEMPT — 10 Variants
+143,Haven't attempted it.,not_started,train,ATTEMPT — 10 Variants
+144,Never attempted.,not_started,train,ATTEMPT — 10 Variants
+145,I haven't attempted it.,not_started,train,ATTEMPT — 10 Variants
+146,I haven't attempted yet.,not_started,train,ATTEMPT — 10 Variants
+147,Haven't attempted yet.,not_started,train,ATTEMPT — 10 Variants
+148,I still haven't attempted it.,not_started,train,ATTEMPT — 10 Variants
+149,Still not attempted.,not_started,train,ATTEMPT — 10 Variants
+150,I haven't even attempted it.,not_started,train,ATTEMPT — 10 Variants
+151,Haven't tried.,not_started,train,TRY — 10 Variants
+152,Never tried.,not_started,train,TRY — 10 Variants
+153,Haven't tried yet.,not_started,train,TRY — 10 Variants
+154,Never tried it.,not_started,train,TRY — 10 Variants
+155,I haven't tried.,not_started,train,TRY — 10 Variants
+156,I haven't tried it.,not_started,train,TRY — 10 Variants
+157,I haven't tried yet.,not_started,train,TRY — 10 Variants
+158,I haven't tried it yet.,not_started,train,TRY — 10 Variants
+159,I still haven't tried.,not_started,train,TRY — 10 Variants
+160,I still haven't tried it.,not_started,train,TRY — 10 Variants
+161,Not done.,not_started,test,DO — 10 Variants
+162,Haven't done it.,not_started,test,DO — 10 Variants
+163,Haven't done it yet.,not_started,test,DO — 10 Variants
+164,Never done it.,not_started,test,DO — 10 Variants
+165,I haven't done it.,not_started,test,DO — 10 Variants
+166,I haven't done it yet.,not_started,test,DO — 10 Variants
+167,I still haven't done it.,not_started,test,DO — 10 Variants
+168,Still haven't done it.,not_started,test,DO — 10 Variants
+169,I never did it.,not_started,test,DO — 10 Variants
+170,Not done yet.,not_started,test,DO — 10 Variants

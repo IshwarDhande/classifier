@@ -1,0 +1,47 @@
+serial_id,utterance,execution_status
+001,I've got it done.,completed
+002,Not done yet.,not_started
+003,It's done.,completed
+004,It's finally done.,completed
+005,Not done.,not_started
+006,I'm doing this now.,in_progress
+007,Doing it.,in_progress
+008,Doing it currently.,in_progress
+009,Doing the work.,in_progress
+010,I never did it.,not_started
+011,I'm still doing it.,in_progress
+012,Still doing the work.,in_progress
+013,I've done it.,completed
+014,Already doing it.,in_progress
+015,Already done.,completed
+016,Done already.,completed
+017,Doing it now.,in_progress
+018,Haven't done it.,not_started
+019,I'm still doing this.,in_progress
+020,Doing this now.,in_progress
+021,I still haven't done it.,not_started
+022,I'm continuing to do it.,in_progress
+023,That's done.,completed
+024,I haven't done it yet.,not_started
+025,I'm doing it now.,in_progress
+026,I've been doing this.,in_progress
+027,I've done that.,completed
+028,Finally done.,completed
+029,I have done it.,completed
+030,It's done now.,completed
+031,Fully done.,completed
+032,I'm doing it.,in_progress
+033,Still doing.,in_progress
+034,Done now.,completed
+035,All done.,completed
+036,Doing.,in_progress
+037,I've been doing it.,in_progress
+038,I'm currently doing it.,in_progress
+039,Never done it.,not_started
+040,I'm already doing it.,in_progress
+041,Completely done.,completed
+042,Haven't done it yet.,not_started
+043,I'm doing the work.,in_progress
+044,Still haven't done it.,not_started
+045,It's already done.,completed
+046,I haven't done it.,not_started

@@ -1,0 +1,46 @@
+utterance_id,utterance,response_category,category_no,stage,split,task_or_scenario_id,parent_id,lineage,variation_type,boundary_id,hard_negative_mechanism,source_file
+VP-01-S04-A1,That recommendation fits me really well. I’m happy to follow it.,very_positive,4,1,validation,VP-01-S04,,,,,,01_initial_anchors_vp.md
+VP-01-S04-A2,That actually feels like it was made for my situation.,very_positive,4,1,validation,VP-01-S04,,,,,,01_initial_anchors_vp.md
+VP-01-S04-A3,"Yeah, that works really well for me. I’m definitely trying it.",very_positive,4,1,validation,VP-01-S04,,,,,,01_initial_anchors_vp.md
+VP-02-S05-A1,Thank you so much for tailoring that to my situation.,very_positive,4,1,validation,VP-02-S05,,,,,,01_initial_anchors_vp.md
+VP-02-S05-A2,That feels much more manageable for me now.,very_positive,4,1,validation,VP-02-S05,,,,,,01_initial_anchors_vp.md
+VP-02-S05-A3,"Thanks, this actually fits my situation really well.",very_positive,4,1,validation,VP-02-S05,,,,,,01_initial_anchors_vp.md
+VP-04-S04-A1,I’m committed to doing this consistently.,very_positive,4,1,validation,VP-04-S04,,,,,,01_initial_anchors_vp.md
+VP-04-S04-A2,I want to make this a regular part of my routine.,very_positive,4,1,validation,VP-04-S04,,,,,,01_initial_anchors_vp.md
+VP-04-S04-A3,"Yeah, I’m going to stick with it.",very_positive,4,1,validation,VP-04-S04,,,,,,01_initial_anchors_vp.md
+N-01-S04-A1,"I can do a small part of it, but I’m reluctant to do more.",negative,1,1,validation,N-01-S04,,,,,,04_initial_anchors_n.md
+N-01-S04-A2,I could probably manage a limited version of that.,negative,1,1,validation,N-01-S04,,,,,,04_initial_anchors_n.md
+N-01-S04-A3,"I can do a little, but I’m not keen on doing the whole thing.",negative,1,1,validation,N-01-S04,,,,,,04_initial_anchors_n.md
+N-02-S05-A1,"No, I don’t want to do that.",negative,1,1,validation,N-02-S05,,,,,,04_initial_anchors_n.md
+N-02-S05-A2,That’s not something I’m willing to take on.,negative,1,1,validation,N-02-S05,,,,,,04_initial_anchors_n.md
+N-02-S05-A3,"No, I’d rather skip that.",negative,1,1,validation,N-02-S05,,,,,,04_initial_anchors_n.md
+N-04-S04-A1,I’ll consider doing it if the recommendation is adjusted.,negative,1,1,validation,N-04-S04,,,,,,04_initial_anchors_n.md
+N-04-S04-A2,A small change would make me more willing to try it.,negative,1,1,validation,N-04-S04,,,,,,04_initial_anchors_n.md
+N-04-S04-A3,I could give it a shot if we changed that part.,negative,1,1,validation,N-04-S04,,,,,,04_initial_anchors_n.md
+I-01-S04-A1,I understand the explanation.,indifferent,2,1,validation,I-01-S04,,,,,,03_initial_anchors_i.md
+I-01-S04-A2,That makes the reasoning clear.,indifferent,2,1,validation,I-01-S04,,,,,,03_initial_anchors_i.md
+I-01-S04-A3,"Okay, I see how you got there.",indifferent,2,1,validation,I-01-S04,,,,,,03_initial_anchors_i.md
+I-02-S05-A1,I’m not sure if I’ll be able to follow through.,indifferent,2,1,validation,I-02-S05,,,,,,03_initial_anchors_i.md
+I-02-S05-A2,I’ll have to see how things work out.,indifferent,2,1,validation,I-02-S05,,,,,,03_initial_anchors_i.md
+I-02-S05-A3,I’ll see how it goes.,indifferent,2,1,validation,I-02-S05,,,,,,03_initial_anchors_i.md
+I-04-S04-A1,I know what you’re asking.,indifferent,2,1,validation,I-04-S04,,,,,,03_initial_anchors_i.md
+I-04-S04-A2,I understand the request.,indifferent,2,1,validation,I-04-S04,,,,,,03_initial_anchors_i.md
+I-04-S04-A3,"Okay, I know what you mean.",indifferent,2,1,validation,I-04-S04,,,,,,03_initial_anchors_i.md
+P-01-S04-A1,"Alright, I understand. I’ll follow it.",positive,3,1,validation,P-01-S04,,,,,,02_initial_anchors_p.md
+P-01-S04-A2,That explanation makes sense to me.,positive,3,1,validation,P-01-S04,,,,,,02_initial_anchors_p.md
+P-01-S04-A3,"Okay, I get it now. I’ll do that.",positive,3,1,validation,P-01-S04,,,,,,02_initial_anchors_p.md
+P-02-S05-A1,"Now that I understand it, I’ll follow the plan.",positive,3,1,validation,P-02-S05,,,,,,02_initial_anchors_p.md
+P-02-S05-A2,That clears things up enough for me to move forward.,positive,3,1,validation,P-02-S05,,,,,,02_initial_anchors_p.md
+P-02-S05-A3,Got it. I’ll go ahead with it.,positive,3,1,validation,P-02-S05,,,,,,02_initial_anchors_p.md
+P-04-S04-A1,"Now that I understand the concern, I’m willing to do it.",positive,3,1,validation,P-04-S04,,,,,,02_initial_anchors_p.md
+P-04-S04-A2,That explanation gives me enough confidence to move forward.,positive,3,1,validation,P-04-S04,,,,,,02_initial_anchors_p.md
+P-04-S04-A3,"Alright, that clears it up. I’ll give it a try.",positive,3,1,validation,P-04-S04,,,,,,02_initial_anchors_p.md
+VN-01-S04-A1,I do not want any more recommendations about this.,very_negative,0,1,validation,VN-01-S04,,,,,,05_initial_anchors_vn.md
+VN-01-S04-A2,Further suggestions on this are not welcome.,very_negative,0,1,validation,VN-01-S04,,,,,,05_initial_anchors_vn.md
+VN-01-S04-A3,Please don’t keep giving me suggestions about this.,very_negative,0,1,validation,VN-01-S04,,,,,,05_initial_anchors_vn.md
+VN-02-S05-A1,I do not want your assistance with this.,very_negative,0,1,validation,VN-02-S05,,,,,,05_initial_anchors_vn.md
+VN-02-S05-A2,Your involvement is not something I want here.,very_negative,0,1,validation,VN-02-S05,,,,,,05_initial_anchors_vn.md
+VN-02-S05-A3,I don’t want your help with this.,very_negative,0,1,validation,VN-02-S05,,,,,,05_initial_anchors_vn.md
+VN-04-S04-A1,I’m leaving this conversation now.,very_negative,0,1,validation,VN-04-S04,,,,,,05_initial_anchors_vn.md
+VN-04-S04-A2,I’m not continuing this discussion.,very_negative,0,1,validation,VN-04-S04,,,,,,05_initial_anchors_vn.md
+VN-04-S04-A3,I’m done here. I’m not talking about this anymore.,very_negative,0,1,validation,VN-04-S04,,,,,,05_initial_anchors_vn.md

@@ -1,0 +1,295 @@
+utterance_id,utterance,execution_status
+NS-S01-A1,I haven’t started the exercise yet.,Not Started
+NS-S01-A2,I still haven’t begun the exercise.,Not Started
+NS-S01-A3,The exercise hasn’t been started on my side yet.,Not Started
+NS-S07-A1,"If I get enough time, I’ll do the exercise.",Not Started
+NS-S07-A2,I’ll exercise if I get a free hour.,Not Started
+NS-S07-A3,The exercise will happen if I can get some time later.,Not Started
+NS-S10-A1,I’m not going to do the exercise.,Not Started
+NS-S10-A2,"No, I’m not doing it.",Not Started
+NS-S10-A3,I’ll pass on the exercise today.,Not Started
+NS-S13-A1,I haven’t exercised because I’m too busy.,Not Started
+NS-S13-A2,I haven’t had time to do the exercises.,Not Started
+NS-S13-A3,The exercise hasn’t happened; my schedule has been packed.,Not Started
+IP-S01-A1,I’m doing the exercise right now.,In Progress
+IP-S01-A2,I’m exercising at the moment.,In Progress
+IP-S01-A3,I’m in the middle of the exercise.,In Progress
+IP-S04-A1,"I’ve done part of the exercise, but I’m not finished.",In Progress
+IP-S04-A2,I’ve started the exercises; there’s still some left.,In Progress
+IP-S04-A3,I’m partway through the exercise.,In Progress
+IP-S07-A1,I’m almost finished with the exercises.,In Progress
+IP-S07-A2,I’m nearly done with the workout.,In Progress
+IP-S07-A3,I’ve got just a little of the exercise left.,In Progress
+IP-S10-A1,"I’ve finished the first two exercises, but I still have one left.",In Progress
+IP-S10-A2,I’ve done the first couple of sets and still have more to go.,In Progress
+IP-S10-A3,I’m partway through the routine; a few steps remain.,In Progress
+IP-S13-A1,"I started the exercise, but I had to pause.",In Progress
+IP-S13-A2,I was doing the exercise and stopped for a moment.,In Progress
+IP-S13-A3,I’m taking a short break in the middle of it.,In Progress
+C-S01-A1,I finished the exercise.,Completed
+C-S01-A2,I’m done with the exercise.,Completed
+C-S01-A3,The exercise is finished.,Completed
+C-S04-A1,I already did the exercise.,Completed
+C-S04-A2,I finished it earlier.,Completed
+C-S04-A3,That’s something I’ve already taken care of.,Completed
+C-S07-A1,The water bottle is empty now.,Completed
+C-S07-A2,There’s nothing left in the bottle.,Completed
+C-S07-A3,The whole bottle is gone.,Completed
+C-S10-A1,I finished all the exercises.,Completed
+C-S10-A2,I got through the whole routine.,Completed
+C-S10-A3,Every step is done.,Completed
+C-S13-A1,I finished the exercises; they were tiring.,Completed
+C-S13-A2,"I’m done with the workout, and that was harder than expected.",Completed
+C-S13-A3,"The exercise is finished, though it took a lot out of me.",Completed
+C-S01-A1-V01,I took my medication.,Completed
+C-S01-A1-V02,My medication has been taken.,Completed
+C-S01-A1-V03,I’ve taken it already.,Completed
+C-S01-A1-V04,I’ve completed the medication task; I took the medicine.,Completed
+C-S01-A1-V05,The medication is finished for this task.,Completed
+C-S01-A1-V06,That’s done—I’ve taken my medicine.,Completed
+C-S01-A2-V01,I took the medicine.,Completed
+C-S01-A2-V02,"To be honest, my medication has been taken.",Completed
+C-S01-A2-V03,"Basically, i’ve taken it already.",Completed
+C-S01-A2-V04,"Actually, i’ve completed the medication task; I took the medicine.",Completed
+C-S01-A2-V05,"Right, the medication is finished for this task.",Completed
+C-S01-A2-V06,That’s done—I’ve taken the medication.,Completed
+C-S01-A3-V01,"You know, i took my medication.",Completed
+C-S01-A3-V02,"Okay, my medication has been taken.",Completed
+C-S01-A3-V03,"Actually, i’ve taken it already.",Completed
+C-S01-A3-V04,I’ve completed my dose task; I took my dose.,Completed
+C-S01-A3-V05,"Listen, the medication is finished for this task.",Completed
+C-S01-A3-V06,"Right, that’s done—I’ve taken my medicine.",Completed
+C-S04-A1-V01,I finished my physiotherapy.,Completed
+C-S04-A1-V02,The physio routine has been completed.,Completed
+C-S04-A1-V03,I’m done with the physio.,Completed
+C-S04-A1-V04,I’ve completed the entire physiotherapy task.,Completed
+C-S04-A1-V05,The therapy session is finished.,Completed
+C-S04-A1-V06,That’s done—I’ve completed the physio routine.,Completed
+C-S04-A2-V01,"Actually, i finished my physiotherapy.",Completed
+C-S04-A2-V02,"Right, the physio routine has been completed.",Completed
+C-S04-A2-V03,I’m done with the therapy.,Completed
+C-S04-A2-V04,"You know, i’ve completed the entire physiotherapy task.",Completed
+C-S04-A2-V05,"I must say, the therapy session is finished.",Completed
+C-S04-A2-V06,That’s done—I’ve completed the therapy routine.,Completed
+C-S04-A3-V01,"Right, i finished my physiotherapy.",Completed
+C-S04-A3-V02,"Okay, the physio routine has been completed.",Completed
+C-S04-A3-V03,I’m done with the therapy session.,Completed
+C-S04-A3-V04,"Okay, i’ve completed the entire physiotherapy task.",Completed
+C-S04-A3-V05,"As I said, the therapy session is finished.",Completed
+C-S04-A3-V06,That’s done—I’ve completed the therapy session routine.,Completed
+C-S07-A1-V01,I already did my workout.,Completed
+C-S07-A1-V02,The workout was completed earlier.,Completed
+C-S07-A1-V03,I got my exercise done earlier.,Completed
+C-S07-A1-V04,I completed the exercise task before this reminder.,Completed
+C-S07-A1-V05,The workout was finished earlier today.,Completed
+C-S07-A1-V06,The reminder came after I’d already done the workout.,Completed
+C-S07-A2-V01,"Honestly, i already did my workout.",Completed
+C-S07-A2-V02,"Well, the workout was completed earlier.",Completed
+C-S07-A2-V03,"Look, i got my exercise done earlier.",Completed
+C-S07-A2-V04,"As I said, i completed the exercise task before this reminder.",Completed
+C-S07-A2-V05,"I mean, the workout was finished earlier today.",Completed
+C-S07-A2-V06,"Okay, the reminder came after I’d already done the workout.",Completed
+C-S07-A3-V01,"Okay, i already did my workout.",Completed
+C-S07-A3-V02,"As I said, the workout was completed earlier.",Completed
+C-S07-A3-V03,"I mean, i got my exercise done earlier.",Completed
+C-S07-A3-V04,I completed the exercise routine task before this reminder.,Completed
+C-S07-A3-V05,"I must say, the workout was finished earlier today.",Completed
+C-S07-A3-V06,The reminder came after I’d already done the exercise routine.,Completed
+C-S10-A1-V01,The bottle is empty now.,Completed
+C-S10-A1-V02,There is no water left in the bottle.,Completed
+C-S10-A1-V03,I’ve emptied the bottle.,Completed
+C-S10-A1-V04,The hydration task is complete; the required bottle is empty.,Completed
+C-S10-A1-V05,The bottle is finished and empty now.,Completed
+C-S10-A1-V06,"There’s nothing left in the bottle, so I’m finished with it.",Completed
+C-S10-A2-V01,"Well, the bottle is empty now.",Completed
+C-S10-A2-V02,"Okay, there is no water left in the bottle.",Completed
+C-S10-A2-V03,"Listen, i’ve emptied the bottle.",Completed
+C-S10-A2-V04,"I mean, the hydration task is complete; the required bottle is empty.",Completed
+C-S10-A2-V05,"I must say, the bottle is finished and empty now.",Completed
+C-S10-A2-V06,"Okay, there’s nothing left in the bottle, so I’m finished with it.",Completed
+C-S10-A3-V01,"Listen, the bottle is empty now.",Completed
+C-S10-A3-V02,"Basically, there is no water left in the bottle.",Completed
+C-S10-A3-V03,"Honestly, i’ve emptied the bottle.",Completed
+C-S10-A3-V04,"Basically, the hydration task is complete; the required bottle is empty.",Completed
+C-S10-A3-V05,"I mean, the bottle is finished and empty now.",Completed
+C-S10-A3-V06,"You know, there’s nothing left in the bottle, so I’m finished with it.",Completed
+C-S13-A1-V01,I finished all five sets.,Completed
+C-S13-A1-V02,Every exercise in the routine has been completed.,Completed
+C-S13-A1-V03,I got through the whole workout.,Completed
+C-S13-A1-V04,"I completed every required set and exercise, so the workout is finished.",Completed
+C-S13-A1-V05,The full exercise routine is complete.,Completed
+C-S13-A1-V06,I’ve worked through every set; there’s nothing left to do in the workout.,Completed
+C-S13-A2-V01,"Honestly, i finished all five sets.",Completed
+C-S13-A2-V02,"Okay, every exercise in the routine has been completed.",Completed
+C-S13-A2-V03,"Honestly, i got through the whole workout.",Completed
+C-S13-A2-V04,"As I said, i completed every required set and exercise, so the workout is finished.",Completed
+C-S13-A2-V05,"Right, the full exercise routine is complete.",Completed
+C-S13-A2-V06,"To be honest, i’ve worked through every set; there’s nothing left to do in the workout.",Completed
+C-S13-A3-V01,"To be honest, i finished all five sets.",Completed
+C-S13-A3-V02,"I mean, every exercise in the routine has been completed.",Completed
+C-S13-A3-V03,"Right, i got through the whole workout.",Completed
+C-S13-A3-V04,"I completed every required set and exercise, so the exercise routine is finished.",Completed
+C-S13-A3-V05,"To be honest, the full exercise routine is complete.",Completed
+C-S13-A3-V06,I’ve worked through every set; there’s nothing left to do in the exercise routine.,Completed
+IP-S01-A1-V01,I’m carrying out the exercise now.,In Progress
+IP-S01-A1-V02,I’m currently performing the exercise.,In Progress
+IP-S01-A1-V03,I’m in the middle of my workout right now.,In Progress
+IP-S01-A1-V04,"I’ve already begun the exercise, and I’m still working through it.",In Progress
+IP-S01-A1-V05,I’m doing the exercise now; I haven’t finished the whole routine.,In Progress
+IP-S01-A1-V06,The exercise is underway on my side at the moment.,In Progress
+IP-S01-A2-V01,"So, i’m carrying out the exercise now.",In Progress
+IP-S01-A2-V02,"Okay, i’m currently performing the exercise.",In Progress
+IP-S01-A2-V03,"From where I am, i’m in the middle of my workout right now.",In Progress
+IP-S01-A2-V04,"Well, i’ve already begun the exercise, and I’m still working through it.",In Progress
+IP-S01-A2-V05,"Okay, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress
+IP-S01-A2-V06,"In this session, the exercise is underway on my side at the moment.",In Progress
+IP-S01-A3-V01,"Well, i’m carrying out the exercise now.",In Progress
+IP-S01-A3-V02,"Right now, i’m currently performing the exercise.",In Progress
+IP-S01-A3-V03,"Look, i’m in the middle of my workout right now.",In Progress
+IP-S01-A3-V04,"At the moment, i’ve already begun the exercise, and I’m still working through it.",In Progress
+IP-S01-A3-V05,"Well, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress
+IP-S01-A3-V06,"I mean, in this session, the exercise is underway on my side at the moment.",In Progress
+IP-S04-A1-V01,"I’ve completed some of the exercise, but there’s still more.",In Progress
+IP-S04-A1-V02,"Part of the workout is done, while the rest remains.",In Progress
+IP-S04-A1-V03,I’m only partway through the exercises.,In Progress
+IP-S04-A1-V04,"I’ve already worked through one portion, and I still have the remainder to do.",In Progress
+IP-S04-A1-V05,Some of the routine is finished; I still have more to complete.,In Progress
+IP-S04-A1-V06,"I’ve made it through part of the exercise, with the rest still ahead.",In Progress
+IP-S04-A2-V01,"So, i’ve completed some of the exercise, but there’s still more.",In Progress
+IP-S04-A2-V02,"Okay, part of the workout is done, while the rest remains.",In Progress
+IP-S04-A2-V03,"From where I am, i’m only partway through the exercises.",In Progress
+IP-S04-A2-V04,"Basically, i’ve already worked through one portion, and I still have the remainder to do.",In Progress
+IP-S04-A2-V05,"Basically, some of the routine is finished; I still have more to complete.",In Progress
+IP-S04-A2-V06,"In this session, i’ve made it through part of the exercise, with the rest still ahead.",In Progress
+IP-S04-A3-V01,"Basically, i’ve completed some of the exercise, but there’s still more.",In Progress
+IP-S04-A3-V02,"Right now, part of the workout is done, while the rest remains.",In Progress
+IP-S04-A3-V03,"So, i’m only partway through the exercises.",In Progress
+IP-S04-A3-V04,"At the moment, i’ve already worked through one portion, and I still have the remainder to do.",In Progress
+IP-S04-A3-V05,"I mean, some of the routine is finished; I still have more to complete.",In Progress
+IP-S04-A3-V06,"As I said, in this session, i’ve made it through part of the exercise, with the rest still ahead.",In Progress
+IP-S07-A1-V01,I’m just about finished with the exercises.,In Progress
+IP-S07-A1-V02,"The workout is close to completion, but not complete yet.",In Progress
+IP-S07-A1-V03,I’m almost done with it.,In Progress
+IP-S07-A1-V04,"I’ve completed most of the exercise, with only a small part remaining.",In Progress
+IP-S07-A1-V05,"I’m near the end, but there’s still a little exercise left.",In Progress
+IP-S07-A1-V06,Only a small amount remains in the workout.,In Progress
+IP-S07-A2-V01,"So, i’m just about finished with the exercises.",In Progress
+IP-S07-A2-V02,"Right now, the workout is close to completion, but not complete yet.",In Progress
+IP-S07-A2-V03,"From where I am, i’m almost done with it.",In Progress
+IP-S07-A2-V04,"Listen, i’ve completed most of the exercise, with only a small part remaining.",In Progress
+IP-S07-A2-V05,"Okay, i’m near the end, but there’s still a little exercise left.",In Progress
+IP-S07-A2-V06,"In this session, only a small amount remains in the workout.",In Progress
+IP-S07-A3-V01,"I mean, i’m just about finished with the exercises.",In Progress
+IP-S07-A3-V02,"Listen, right now, the workout is close to completion, but not complete yet.",In Progress
+IP-S07-A3-V03,"I mean, i’m almost done with it.",In Progress
+IP-S07-A3-V04,"At the moment, i’ve completed most of the exercise, with only a small part remaining.",In Progress
+IP-S07-A3-V05,"Listen, i’m near the end, but there’s still a little exercise left.",In Progress
+IP-S07-A3-V06,"I mean, in this session, only a small amount remains in the workout.",In Progress
+IP-S10-A1-V01,"I’ve completed the first two exercises, with one more remaining.",In Progress
+IP-S10-A1-V02,"The first few steps are done, but the routine is still incomplete.",In Progress
+IP-S10-A1-V03,I’m through a few exercises and still have more to do.,In Progress
+IP-S10-A1-V04,"I’ve finished several required steps, while the remaining step is still unfinished.",In Progress
+IP-S10-A1-V05,Part of the routine is complete; the later exercise is still left.,In Progress
+IP-S10-A1-V06,"I’ve moved through the first section, and the rest is still ahead.",In Progress
+IP-S10-A2-V01,"So, i’ve completed the first two exercises, with one more remaining.",In Progress
+IP-S10-A2-V02,"Right now, the first few steps are done, but the routine is still incomplete.",In Progress
+IP-S10-A2-V03,"From where I am, i’m through a few exercises and still have more to do.",In Progress
+IP-S10-A2-V04,"I mean, i’ve finished several required steps, while the remaining step is still unfinished.",In Progress
+IP-S10-A2-V05,"Honestly, part of the routine is complete; the later exercise is still left.",In Progress
+IP-S10-A2-V06,"In this session, i’ve moved through the first section, and the rest is still ahead.",In Progress
+IP-S10-A3-V01,"Honestly, i’ve completed the first two exercises, with one more remaining.",In Progress
+IP-S10-A3-V02,"Right, right now, the first few steps are done, but the routine is still incomplete.",In Progress
+IP-S10-A3-V03,"As I said, i’m through a few exercises and still have more to do.",In Progress
+IP-S10-A3-V04,"At the moment, i’ve finished several required steps, while the remaining step is still unfinished.",In Progress
+IP-S10-A3-V05,"So, part of the routine is complete; the later exercise is still left.",In Progress
+IP-S10-A3-V06,"Well, in this session, i’ve moved through the first section, and the rest is still ahead.",In Progress
+IP-S13-A1-V01,I began the exercise and then took a temporary pause.,In Progress
+IP-S13-A1-V02,The exercise was underway before I stopped briefly.,In Progress
+IP-S13-A1-V03,I was doing it and took a quick break.,In Progress
+IP-S13-A1-V04,"I had already started the exercise when I paused, so the task remains unfinished.",In Progress
+IP-S13-A1-V05,I started the workout but paused before completing it.,In Progress
+IP-S13-A1-V06,The routine is still underway despite the short break.,In Progress
+IP-S13-A2-V01,"So, i began the exercise and then took a temporary pause.",In Progress
+IP-S13-A2-V02,"Right now, the exercise was underway before I stopped briefly.",In Progress
+IP-S13-A2-V03,"From where I am, i was doing it and took a quick break.",In Progress
+IP-S13-A2-V04,"Honestly, i had already started the exercise when I paused, so the task remains unfinished.",In Progress
+IP-S13-A2-V05,"Look, i started the workout but paused before completing it.",In Progress
+IP-S13-A2-V06,"In this session, the routine is still underway despite the short break.",In Progress
+IP-S13-A3-V01,"Listen, i began the exercise and then took a temporary pause.",In Progress
+IP-S13-A3-V02,"To be honest, right now, the exercise was underway before I stopped briefly.",In Progress
+IP-S13-A3-V03,"Right, i was doing it and took a quick break.",In Progress
+IP-S13-A3-V04,"At the moment, i had already started the exercise when I paused, so the task remains unfinished.",In Progress
+IP-S13-A3-V05,"Right, i started the workout but paused before completing it.",In Progress
+IP-S13-A3-V06,"To be honest, in this session, the routine is still underway despite the short break.",In Progress
+`NS-S01-A-V01`,I still haven't started the exercise yet.,Not Started
+`NS-S01-A-V03`,"Honestly, i haven’t started the exercise yet.",Not Started
+`NS-S01-A-V04`,I haven’t started the exercise yet.,Not Started
+`NS-S01-A-V07`,"As of now, i haven’t started the exercise yet.",Not Started
+`NS-S01-A-V08`,"Okay, i haven’t started the exercise yet.",Not Started
+`NS-S01-A-V10`,"I haven’t started the exercise yet, at least not yet.",Not Started
+`NS-S01-B-V01`,I still haven’t begun the workout.,Not Started
+`NS-S01-B-V03`,"Yeah, i still haven’t begun the exercise.",Not Started
+`NS-S01-B-V04`,I still haven’t begun the exercise — I haven't started it.,Not Started
+`NS-S01-B-V07`,"As of now, i still haven’t begun the exercise.",Not Started
+`NS-S01-B-V08`,"Basically, yeah, i still haven’t begun the exercise.",Not Started
+`NS-S01-B-V10`,"I still haven’t begun the exercise, at least not yet.",Not Started
+`NS-S01-C-V01`,The exercise hasn’t been started on my side so far.,Not Started
+`NS-S01-C-V03`,"Yeah, the exercise hasn’t been started on my side yet.",Not Started
+`NS-S01-C-V04`,The exercise hasn’t been started on my side yet.,Not Started
+`NS-S01-C-V07`,"As of now, the exercise hasn’t been started on my side yet.",Not Started
+`NS-S01-C-V08`,"You know, yeah, the exercise hasn’t been started on my side yet.",Not Started
+`NS-S01-C-V10`,"The exercise hasn’t been started on my side yet, at least not yet.",Not Started
+`NS-S07-A-V01`,"If I get enough time, I'm going to do the exercise.",Not Started
+`NS-S07-A-V03`,"Yeah, if I get enough time, I’ll do the exercise.",Not Started
+`NS-S07-A-V04`,"If I get enough time, I’ll do the exercise — I haven't begun the task.",Not Started
+`NS-S07-A-V07`,"Just to clarify, if I get enough time, I’ll do the exercise.",Not Started
+`NS-S07-A-V08`,"I mean, yeah, if I get enough time, I’ll do the exercise.",Not Started
+`NS-S07-A-V10`,"If I get enough time, I’ll do the exercise, is that okay?",Not Started
+`NS-S07-B-V01`,I'm going to exercise if I get a free hour.,Not Started
+`NS-S07-B-V03`,"At the moment, i’ll exercise if I get a free hour.",Not Started
+`NS-S07-B-V04`,I’ll exercise if I get a free hour — I haven't begun the task.,Not Started
+`NS-S07-B-V07`,"Just to clarify, i’ll exercise if I get a free hour.",Not Started
+`NS-S07-B-V08`,"Right, i’ll exercise if I get a free hour.",Not Started
+`NS-S07-B-V10`,"I’ll exercise if I get a free hour, is that okay?",Not Started
+`NS-S07-C-V01`,The exercise will happen if I can get some time later.,Not Started
+`NS-S07-C-V03`,"Honestly, the exercise will happen if I can get some time later.",Not Started
+`NS-S07-C-V04`,The exercise will happen if I can get some time later — I haven't begun the task.,Not Started
+`NS-S07-C-V07`,"Just to clarify, the exercise will happen if I can get some time later.",Not Started
+`NS-S07-C-V08`,"Okay, the exercise will happen if I can get some time later.",Not Started
+`NS-S07-C-V10`,"The exercise will happen if I can get some time later, is that okay?",Not Started
+`NS-S10-A-V01`,I'm currently not going to do the exercise.,Not Started
+`NS-S10-A-V03`,"Honestly, i’m not going to do the exercise.",Not Started
+`NS-S10-A-V04`,I’m not going to do the exercise — I haven't started it.,Not Started
+`NS-S10-A-V07`,My answer is no — i’m not going to do the exercise.,Not Started
+`NS-S10-A-V08`,"Okay, i’m not going to do the exercise.",Not Started
+`NS-S10-A-V10`,"I’m not going to do the exercise, okay?",Not Started
+`NS-S10-B-V01`,"No, I'm currently not doing it.",Not Started
+`NS-S10-B-V03`,"At the moment, no, I’m not doing it.",Not Started
+`NS-S10-B-V04`,"No, I’m not doing it — I haven't started it.",Not Started
+`NS-S10-B-V07`,"My answer is no — no, I’m not doing it.",Not Started
+`NS-S10-B-V08`,"Right, no, I’m not doing it.",Not Started
+`NS-S10-B-V10`,"No, I’m not doing it, okay?",Not Started
+`NS-S10-C-V01`,I'm going to pass on the exercise today.,Not Started
+`NS-S10-C-V03`,"For now, i’ll pass on the exercise today.",Not Started
+`NS-S10-C-V04`,I’ll pass on the exercise today — I haven't started it.,Not Started
+`NS-S10-C-V07`,My answer is no — i’ll pass on the exercise today.,Not Started
+`NS-S10-C-V08`,"Honestly, i’ll pass on the exercise today.",Not Started
+`NS-S10-C-V10`,"I’ll pass on the exercise today, okay?",Not Started
+`NS-S13-A-V01`,I still haven't exercised because I’m too busy.,Not Started
+`NS-S13-A-V03`,"Honestly, i haven’t exercised because I’m too busy.",Not Started
+`NS-S13-A-V04`,I haven’t exercised because I’m too busy — the task hasn't started.,Not Started
+`NS-S13-A-V07`,"As of now, i haven’t exercised because I’m too busy.",Not Started
+`NS-S13-A-V08`,"Okay, i haven’t exercised because I’m too busy.",Not Started
+`NS-S13-A-V10`,"I haven’t exercised because I’m too busy, at least not yet.",Not Started
+`NS-S13-B-V01`,I still haven't had time to do the exercises.,Not Started
+`NS-S13-B-V03`,"At the moment, i haven’t had time to do the exercises.",Not Started
+`NS-S13-B-V04`,I haven’t had time to do the exercises — the task hasn't started.,Not Started
+`NS-S13-B-V07`,"As of now, i haven’t had time to do the exercises.",Not Started
+`NS-S13-B-V08`,"Right, i haven’t had time to do the exercises.",Not Started
+`NS-S13-B-V10`,"I haven’t had time to do the exercises, at least not yet.",Not Started
+`NS-S13-C-V01`,The exercise hasn’t happened; my schedule has been packed.,Not Started
+`NS-S13-C-V03`,"For now, the exercise hasn’t happened; my schedule has been packed.",Not Started
+`NS-S13-C-V04`,The exercise hasn’t happened; my schedule has been packed — the task hasn't started.,Not Started
+`NS-S13-C-V07`,"As of now, the exercise hasn’t happened; my schedule has been packed.",Not Started
+`NS-S13-C-V08`,"Honestly, the exercise hasn’t happened; my schedule has been packed.",Not Started
+`NS-S13-C-V10`,"The exercise hasn’t happened; my schedule has been packed, at least not yet.",Not Started

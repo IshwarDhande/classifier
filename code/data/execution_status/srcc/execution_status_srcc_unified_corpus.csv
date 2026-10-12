@@ -1,0 +1,181 @@
+ID,utterance,execution_status
+NS1,Later.,not_started
+NS2,Soon.,not_started
+NS3,Eventually.,not_started
+NS4,Tomorrow.,not_started
+NS5,Postponed.,not_started
+NS6,Deferred.,not_started
+NS7,Forgot.,not_started
+NS8,Refused.,not_started
+NS9,Declined.,not_started
+NS10,Skipped.,not_started
+NS11,Avoided.,not_started
+NS12,Cancelled.,not_started
+NS13,Canceled.,not_started
+NS14,Unable.,not_started
+NS15,Never.,not_started
+NS16,Unwilling.,not_started
+NS17,Ignored.,not_started
+NS18,Neglected.,not_started
+NS19,Rejected.,not_started
+NS20,Abstained.,not_started
+NS23W01,Not yet.,not_started
+NS23W02,Not started.,not_started
+NS23W03,Haven't started.,not_started
+NS23W04,Still haven't.,not_started
+NS23W05,Not begun.,not_started
+NS23W06,Haven't begun.,not_started
+NS23W07,I'll wait.,not_started
+NS23W08,Later then.,not_started
+NS23W09,Maybe later.,not_started
+NS23W10,Not today.,not_started
+NS23W11,Can't yet.,not_started
+NS23W12,Couldn't start.,not_started
+NS23W13,Haven't done.,not_started
+NS23W14,Didn't start.,not_started
+NS23W15,Never started.,not_started
+NS23W16,Not begun.,not_started
+NS23W17,Still pending.,not_started
+NS23W18,Yet to.,not_started
+NS23W19,Haven't managed.,not_started
+NS23W20,Haven't attempted.,not_started
+NS47W01,I haven't started it yet.,not_started
+NS47W02,I haven't begun it yet.,not_started
+NS47W03,I haven't done it yet.,not_started
+NS47W04,I'll do it later.,not_started
+NS47W05,I'll get to it later.,not_started
+NS47W06,I haven't gotten started.,not_started
+NS47W07,I still haven't started.,not_started
+NS47W08,I still haven't begun.,not_started
+NS47W09,I haven't attempted it yet.,not_started
+NS47W10,I haven't tried it yet.,not_started
+NS47W11,I couldn't start it.,not_started
+NS47W12,I wasn't able to start.,not_started
+NS47W13,I forgot to start it.,not_started
+NS47W14,I haven't had time.,not_started
+NS47W15,I haven't gotten around to it.,not_started
+NS47W16,I decided not to start.,not_started
+NS47W17,I haven't taken it up.,not_started
+NS47W18,I haven't touched it yet.,not_started
+NS47W19,I only prepared for it.,not_started
+NS47W20,I haven't actually started.,not_started
+IP1W01,Working.,in_progress
+IP1W02,Started.,in_progress
+IP1W03,Continuing.,in_progress
+IP1W04,Ongoing.,in_progress
+IP1W05,Proceeding.,in_progress
+IP1W06,Trying.,in_progress
+IP1W07,Practicing.,in_progress
+IP1W08,Completing.,in_progress
+IP1W09,Progressing.,in_progress
+IP1W10,Developing.,in_progress
+IP1W11,Processing.,in_progress
+IP1W12,Advancing.,in_progress
+IP1W13,Underway.,in_progress
+IP1W14,Attempting.,in_progress
+IP1W15,Resuming.,in_progress
+IP1W16,Engaged.,in_progress
+IP1W17,Executing.,in_progress
+IP1W18,Midway.,in_progress
+IP1W19,Incomplete.,in_progress
+IP1W20,Partial.,in_progress
+IP23W01,Still working.,in_progress
+IP23W02,Already started.,in_progress
+IP23W03,I'm working.,in_progress
+IP23W04,Still going.,in_progress
+IP23W05,Ongoing now.,in_progress
+IP23W06,Still trying.,in_progress
+IP23W07,Making progress.,in_progress
+IP23W08,Not finished.,in_progress
+IP23W09,Almost finished.,in_progress
+IP23W10,Halfway through.,in_progress
+IP23W11,Partly done.,in_progress
+IP23W12,Still incomplete.,in_progress
+IP23W13,Nearly there.,in_progress
+IP23W14,Work continues.,in_progress
+IP23W15,Still underway.,in_progress
+IP23W16,Progressing slowly.,in_progress
+IP23W17,Continuing now.,in_progress
+IP23W18,Work ongoing.,in_progress
+IP23W19,Still progressing.,in_progress
+IP23W20,Not complete.,in_progress
+IP47W01,I'm still working on it.,in_progress
+IP47W02,"I've started, but it's unfinished.",in_progress
+IP47W03,I'm doing it right now.,in_progress
+IP47W04,I'm still in the middle.,in_progress
+IP47W05,I've done part of it.,in_progress
+IP47W06,I'm halfway through it.,in_progress
+IP47W07,I'm still trying to finish.,in_progress
+IP47W08,There's still some left.,in_progress
+IP47W09,I'm almost finished with it.,in_progress
+IP47W10,I'm nearly done with it.,in_progress
+IP47W11,"I started, but need more time.",in_progress
+IP47W12,I'm continuing with it.,in_progress
+IP47W13,I'm making progress on it.,in_progress
+IP47W14,I'm still working through it.,in_progress
+IP47W15,"I've begun, but not finished.",in_progress
+IP47W16,I'm partway through the task.,in_progress
+IP47W17,The work is still underway.,in_progress
+IP47W18,I'm not finished with it.,in_progress
+IP47W19,I have some work remaining.,in_progress
+IP47W20,I need to finish it.,in_progress
+C1W01,Done.,completed
+C1W02,Finished.,completed
+C1W03,Completed.,completed
+C1W04,Accomplished.,completed
+C1W05,Fulfilled.,completed
+C1W06,Achieved.,completed
+C1W07,Finalized.,completed
+C1W08,Settled.,completed
+C1W09,Resolved.,completed
+C1W10,Concluded.,completed
+C1W11,Executed.,completed
+C1W12,Delivered.,completed
+C1W13,Submitted.,completed
+C1W14,Attained.,completed
+C1W15,Attained.,completed
+C1W16,Fulfilled.,completed
+C1W17,Completed.,completed
+C1W18,Achieved.,completed
+C1W19,Resolved.,completed
+C1W20,Delivered.,completed
+C23W01,All done.,completed
+C23W02,Fully done.,completed
+C23W03,Already done.,completed
+C23W04,It's finished.,completed
+C23W05,It's completed.,completed
+C23W06,Task finished.,completed
+C23W07,Work finished.,completed
+C23W08,Work completed.,completed
+C23W09,Fully completed.,completed
+C23W10,Finally finished.,completed
+C23W11,Everything's done.,completed
+C23W12,That's finished.,completed
+C23W13,That's completed.,completed
+C23W14,Already completed.,completed
+C23W15,Successfully completed.,completed
+C23W16,Successfully finished.,completed
+C23W17,Fully completed.,completed
+C23W18,Completely finished.,completed
+C23W19,Work is finished.,completed
+C23W20,Work is complete.,completed
+C47W01,I finished it already.,completed
+C47W02,I've completed it.,completed
+C47W03,I've finished the task.,completed
+C47W04,The task is finished.,completed
+C47W05,The work is complete.,completed
+C47W06,Everything is done now.,completed
+C47W07,I already completed it.,completed
+C47W08,I have finished it.,completed
+C47W09,I completed it successfully.,completed
+C47W10,I've done everything.,completed
+C47W11,The work has been completed.,completed
+C47W12,The task has been finished.,completed
+C47W13,I have already finished.,completed
+C47W14,I finished everything required.,completed
+C47W15,I've completed all the work.,completed
+C47W16,Everything has been completed.,completed
+C47W17,I have completed the task.,completed
+C47W18,The entire task is finished.,completed
+C47W19,I have finished all of it.,completed
+C47W20,The work is completely finished.,completed

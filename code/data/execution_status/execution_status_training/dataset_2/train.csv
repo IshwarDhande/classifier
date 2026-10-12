@@ -1,0 +1,1012 @@
+serial_id,utterance,execution_status
+0001,I haven’t started the exercise yet.,Not Started
+0002,I still haven’t begun the exercise.,Not Started
+0003,The exercise hasn’t been started on my side yet.,Not Started
+0004,I haven’t taken any of the medicine yet.,Not Started
+0005,I haven’t done anything with the dose so far.,Not Started
+0006,The dose is still untouched.,Not Started
+0007,I’m not exercising right now.,Not Started
+0008,I’m not doing the exercise at the moment.,Not Started
+0009,I’m not on the exercise yet.,Not Started
+0010,I haven’t started it; I’ll finish the routine tonight.,Not Started
+0011,I’m going to get the physiotherapy done later.,Not Started
+0012,The routine is something I’ll take care of this evening.,Not Started
+0013,"If I get enough time, I’ll do the exercise.",Not Started
+0014,I’ll exercise if I get a free hour.,Not Started
+0015,The exercise will happen if I can get some time later.,Not Started
+0016,I’ll take the medicine after dinner.,Not Started
+0017,"Once I finish dinner, I’ll take it.",Not Started
+0018,The dose comes after I’m done eating.,Not Started
+0019,I’m not going to take the medicine.,Not Started
+0020,I don’t want to do the routine.,Not Started
+0021,I’m skipping the therapy today.,Not Started
+0022,"No, I won’t do it.",Not Started
+0023,I’m not doing that.,Not Started
+0024,I’ll pass.,Not Started
+0025,I haven’t exercised because I’m too busy.,Not Started
+0026,I haven’t had time to do the exercises.,Not Started
+0027,The exercise hasn’t happened; my schedule has been packed.,Not Started
+0028,I’m doing the exercise right now.,In Progress
+0029,I’m exercising at the moment.,In Progress
+0030,I’m in the middle of the exercise.,In Progress
+0031,I’m drinking the water now.,In Progress
+0032,I’m having the water right now.,In Progress
+0033,I’m working through my water target now.,In Progress
+0034,"Yes, I’ve started the physiotherapy and I’m still doing it.",In Progress
+0035,I’ve started already; I’m working through it now.,In Progress
+0036,I’m on it now.,In Progress
+0037,"I started the medicine routine, but I haven’t finished it.",In Progress
+0038,"I’ve begun the routine, but I still have more to do.",In Progress
+0039,I’m not done with the routine yet; I’ve already started.,In Progress
+0040,I’m almost finished with the exercises.,In Progress
+0041,I’m nearly done with the workout.,In Progress
+0042,I’ve got just a little of the exercise left.,In Progress
+0043,I’ve got one exercise left.,In Progress
+0044,I’m on the last set now.,In Progress
+0045,Just one more part of the routine remains.,In Progress
+0046,I’m on the third step of the physiotherapy routine.,In Progress
+0047,I’m working through the routine one step at a time.,In Progress
+0048,I’m in the middle of the therapy sequence.,In Progress
+0049,"I’ve done three sets, and two more are left.",In Progress
+0050,"I’ve got most of the routine done, but there’s still more to finish.",In Progress
+0051,I’m through the first few parts; the rest is still pending.,In Progress
+0052,"I started the exercise, but I had to pause.",In Progress
+0053,I was doing the exercise and stopped for a moment.,In Progress
+0054,I’m taking a short break in the middle of it.,In Progress
+0055,I finished the exercise.,Completed
+0056,I’m done with the exercise.,Completed
+0057,The exercise is finished.,Completed
+0058,Done with the medicine.,Completed
+0059,All done.,Completed
+0060,That’s finished now.,Completed
+0061,I’ve completed the physiotherapy routine.,Completed
+0062,I’m finished with the therapy.,Completed
+0063,The whole therapy routine is done.,Completed
+0064,I already took it.,Completed
+0065,That’s already done.,Completed
+0066,You reminded me after I’d already finished it.,Completed
+0067,The water bottle is empty now.,Completed
+0068,There’s nothing left in the bottle.,Completed
+0069,The whole bottle is gone.,Completed
+0070,I finished the whole bottle of water.,Completed
+0071,I drank all of it.,Completed
+0072,There’s none of the target amount left.,Completed
+0073,I just finished the last set.,Completed
+0074,The final exercise is done.,Completed
+0075,"That was the last step, and it’s finished.",Completed
+0076,I completed every part of the physiotherapy routine.,Completed
+0077,I went through the whole routine.,Completed
+0078,I’ve finished all of it.,Completed
+0079,I finished the exercises; they were tiring.,Completed
+0080,"I’m done with the workout, and that was harder than expected.",Completed
+0081,"The exercise is finished, though it took a lot out of me.",Completed
+0082,I took my medication.,Completed
+0083,My medication has been taken.,Completed
+0084,I’ve taken it already.,Completed
+0085,I’ve completed the medication task; I took the medicine.,Completed
+0086,The medication is finished for this task.,Completed
+0087,That’s done—I’ve taken my medicine.,Completed
+0088,I took the medicine.,Completed
+0089,"To be honest, my medication has been taken.",Completed
+0090,"Basically, i’ve taken it already.",Completed
+0091,"Actually, i’ve completed the medication task; I took the medicine.",Completed
+0092,"Right, the medication is finished for this task.",Completed
+0093,That’s done—I’ve taken the medication.,Completed
+0094,"You know, i took my medication.",Completed
+0095,"Okay, my medication has been taken.",Completed
+0096,"Actually, i’ve taken it already.",Completed
+0097,I’ve completed my dose task; I took my dose.,Completed
+0098,"Listen, the medication is finished for this task.",Completed
+0099,"Right, that’s done—I’ve taken my medicine.",Completed
+0100,I drank the water.,Completed
+0101,The water has been finished.,Completed
+0102,I’ve had the water already.,Completed
+0103,I’ve completed the hydration task and finished the water.,Completed
+0104,My water intake for this task is finished.,Completed
+0105,That’s done—I’ve finished the water.,Completed
+0106,I drank the bottle.,Completed
+0107,"As I said, the water has been finished.",Completed
+0108,I’ve had the bottle already.,Completed
+0109,I’ve completed the hydration task and finished the bottle.,Completed
+0110,The bottle intake for this task is finished.,Completed
+0111,That’s done—I’ve finished the bottle.,Completed
+0112,I drank the required water.,Completed
+0113,"Look, the water has been finished.",Completed
+0114,I’ve had the required water already.,Completed
+0115,I’ve completed the hydration task and finished the required water.,Completed
+0116,"Look, my water intake for this task is finished.",Completed
+0117,That’s done—I’ve finished the required water.,Completed
+0118,I finished the exercise.,Completed
+0119,My workout has been completed.,Completed
+0120,I’m done with the workout.,Completed
+0121,I’ve completed the exercise task from start to finish.,Completed
+0122,The workout is finished now.,Completed
+0123,That’s done—I’ve completed my exercise.,Completed
+0124,I finished the routine.,Completed
+0125,"I must say, my workout has been completed.",Completed
+0126,"I must say, i’m done with the workout.",Completed
+0127,"So, i’ve completed the exercise task from start to finish.",Completed
+0128,"Listen, the workout is finished now.",Completed
+0129,"You know, that’s done—I’ve completed my exercise.",Completed
+0130,I finished the exercise routine.,Completed
+0131,"Actually, my workout has been completed.",Completed
+0132,I’m done with the exercise routine.,Completed
+0133,I’ve completed the exercise routine task from start to finish.,Completed
+0134,"Right, the workout is finished now.",Completed
+0135,"Right, that’s done—I’ve completed my exercise.",Completed
+0136,I already drank the water.,Completed
+0137,The water was already finished earlier.,Completed
+0138,I had it earlier.,Completed
+0139,"I completed the hydration task earlier, before you reminded me.",Completed
+0140,The required water was finished earlier today.,Completed
+0141,That reminder came after I’d already finished my water.,Completed
+0142,I already drank the bottle.,Completed
+0143,"So, the water was already finished earlier.",Completed
+0144,"Look, i had it earlier.",Completed
+0145,"Actually, i completed the hydration task earlier, before you reminded me.",Completed
+0146,"I must say, the required water was finished earlier today.",Completed
+0147,"Honestly, that reminder came after I’d already finished my water.",Completed
+0148,I already drank the required water.,Completed
+0149,"Actually, the water was already finished earlier.",Completed
+0150,"So, i had it earlier.",Completed
+0151,"Well, i completed the hydration task earlier, before you reminded me.",Completed
+0152,"Listen, the required water was finished earlier today.",Completed
+0153,"I mean, that reminder came after I’d already finished my water.",Completed
+0154,I already did my workout.,Completed
+0155,The workout was completed earlier.,Completed
+0156,I got my exercise done earlier.,Completed
+0157,I completed the exercise task before this reminder.,Completed
+0158,The workout was finished earlier today.,Completed
+0159,The reminder came after I’d already done the workout.,Completed
+0160,"Honestly, i already did my workout.",Completed
+0161,"Well, the workout was completed earlier.",Completed
+0162,"Look, i got my exercise done earlier.",Completed
+0163,"As I said, i completed the exercise task before this reminder.",Completed
+0164,"I mean, the workout was finished earlier today.",Completed
+0165,"Okay, the reminder came after I’d already done the workout.",Completed
+0166,"Okay, i already did my workout.",Completed
+0167,"As I said, the workout was completed earlier.",Completed
+0168,"I mean, i got my exercise done earlier.",Completed
+0169,I completed the exercise routine task before this reminder.,Completed
+0170,"I must say, the workout was finished earlier today.",Completed
+0171,The reminder came after I’d already done the exercise routine.,Completed
+0172,I already did my physio.,Completed
+0173,The therapy routine was completed earlier.,Completed
+0174,I got the physio done earlier.,Completed
+0175,I completed the physiotherapy task before this reminder.,Completed
+0176,The therapy session was finished earlier today.,Completed
+0177,You reminded me after I’d already completed the routine.,Completed
+0178,"Honestly, i already did my physio.",Completed
+0179,"To be honest, the therapy routine was completed earlier.",Completed
+0180,I got the therapy done earlier.,Completed
+0181,I completed the therapytherapy task before this reminder.,Completed
+0182,"You know, the therapy session was finished earlier today.",Completed
+0183,You reminded me after I’d already completed the therapy routine.,Completed
+0184,"Well, i already did my physio.",Completed
+0185,"So, the therapy routine was completed earlier.",Completed
+0186,I got the therapy session done earlier.,Completed
+0187,I completed the therapy sessiontherapy task before this reminder.,Completed
+0188,"Look, the therapy session was finished earlier today.",Completed
+0189,"Honestly, you reminded me after I’d already completed the therapy routine.",Completed
+0190,I’ve put the exercise equipment away.,Completed
+0191,The workout mat has been rolled up and stored.,Completed
+0192,The gear is all put away now.,Completed
+0193,The exercise is complete; I’ve finished the routine and stored the equipment.,Completed
+0194,The workout setup is packed away now.,Completed
+0195,"The equipment is already stored, so the workout is finished.",Completed
+0196,I’ve put the routine equipment away.,Completed
+0197,"I mean, the workout mat has been rolled up and stored.",Completed
+0198,"I must say, the gear is all put away now.",Completed
+0199,"Well, the exercise is complete; I’ve finished the routine and stored the equipment.",Completed
+0200,"I mean, the workout setup is packed away now.",Completed
+0201,"Look, the equipment is already stored, so the workout is finished.",Completed
+0202,I’ve put the exercise routine equipment away.,Completed
+0203,"Well, the workout mat has been rolled up and stored.",Completed
+0204,"As I said, the gear is all put away now.",Completed
+0205,"Look, the exercise is complete; I’ve finished the routine and stored the equipment.",Completed
+0206,"Honestly, the workout setup is packed away now.",Completed
+0207,"The equipment is already stored, so the exercise routine is finished.",Completed
+0208,I finished all the exercises in the physio routine.,Completed
+0209,Every step of the therapy sequence has been completed.,Completed
+0210,I’ve worked through the whole physio routine.,Completed
+0211,"I completed every required physiotherapy step, so the routine is finished.",Completed
+0212,The entire therapy sequence is finished now.,Completed
+0213,I’ve gone through all the physio exercises; there’s nothing left in the routine.,Completed
+0214,I finished all the exercises in the therapy routine.,Completed
+0215,"So, every step of the therapy sequence has been completed.",Completed
+0216,"Listen, i’ve worked through the whole physio routine.",Completed
+0217,"I completed every required physiotherapy step, so the therapy routine is finished.",Completed
+0218,"Basically, the entire therapy sequence is finished now.",Completed
+0219,I’ve gone through all the therapy exercises; there’s nothing left in the therapy routine.,Completed
+0220,I finished all the exercises in the therapy session routine.,Completed
+0221,"Look, every step of the therapy sequence has been completed.",Completed
+0222,"Look, i’ve worked through the whole physio routine.",Completed
+0223,"You know, i completed every required physiotherapy step, so the therapy routine is finished.",Completed
+0224,"Right, the entire therapy sequence is finished now.",Completed
+0225,I’ve gone through all the therapy session exercises; there’s nothing left in the therapy routine.,Completed
+0226,I finished all five sets.,Completed
+0227,Every exercise in the routine has been completed.,Completed
+0228,I got through the whole workout.,Completed
+0229,"I completed every required set and exercise, so the workout is finished.",Completed
+0230,The full exercise routine is complete.,Completed
+0231,I’ve worked through every set; there’s nothing left to do in the workout.,Completed
+0232,"Honestly, i finished all five sets.",Completed
+0233,"Okay, every exercise in the routine has been completed.",Completed
+0234,"Honestly, i got through the whole workout.",Completed
+0235,"As I said, i completed every required set and exercise, so the workout is finished.",Completed
+0236,"Right, the full exercise routine is complete.",Completed
+0237,"To be honest, i’ve worked through every set; there’s nothing left to do in the workout.",Completed
+0238,"To be honest, i finished all five sets.",Completed
+0239,"I mean, every exercise in the routine has been completed.",Completed
+0240,"Right, i got through the whole workout.",Completed
+0241,"I completed every required set and exercise, so the exercise routine is finished.",Completed
+0242,"To be honest, the full exercise routine is complete.",Completed
+0243,I’ve worked through every set; there’s nothing left to do in the exercise routine.,Completed
+0244,I’m carrying out the exercise now.,In Progress
+0245,I’m currently performing the exercise.,In Progress
+0246,I’m in the middle of my workout right now.,In Progress
+0247,"I’ve already begun the exercise, and I’m still working through it.",In Progress
+0248,I’m doing the exercise now; I haven’t finished the whole routine.,In Progress
+0249,The exercise is underway on my side at the moment.,In Progress
+0250,"So, i’m carrying out the exercise now.",In Progress
+0251,"Okay, i’m currently performing the exercise.",In Progress
+0252,"From where I am, i’m in the middle of my workout right now.",In Progress
+0253,"Well, i’ve already begun the exercise, and I’m still working through it.",In Progress
+0254,"Okay, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress
+0255,"In this session, the exercise is underway on my side at the moment.",In Progress
+0256,"Well, i’m carrying out the exercise now.",In Progress
+0257,"Right now, i’m currently performing the exercise.",In Progress
+0258,"Look, i’m in the middle of my workout right now.",In Progress
+0259,"At the moment, i’ve already begun the exercise, and I’m still working through it.",In Progress
+0260,"Well, i’m doing the exercise now; I haven’t finished the whole routine.",In Progress
+0261,"I mean, in this session, the exercise is underway on my side at the moment.",In Progress
+0262,I’m having some water right now.,In Progress
+0263,The water is what I’m drinking at the moment.,In Progress
+0264,I’m drinking it at the moment.,In Progress
+0265,"I’ve started drinking the water, and I’m still on it.",In Progress
+0266,"I’m drinking now, but I haven’t finished the amount yet.",In Progress
+0267,I’ve got the water with me and I’m drinking from it now.,In Progress
+0268,"So, i’m having some water right now.",In Progress
+0269,"Right now, the water is what I’m drinking at the moment.",In Progress
+0270,"From where I am, i’m drinking it at the moment.",In Progress
+0271,"I mean, i’ve started drinking the water, and I’m still on it.",In Progress
+0272,"Honestly, i’m drinking now, but I haven’t finished the amount yet.",In Progress
+0273,"In this session, i’ve got the water with me and I’m drinking from it now.",In Progress
+0274,"Actually, i’m having some water right now.",In Progress
+0275,"You know, right now, the water is what I’m drinking at the moment.",In Progress
+0276,"Listen, i’m drinking it at the moment.",In Progress
+0277,"At the moment, i’ve started drinking the water, and I’m still on it.",In Progress
+0278,"Basically, i’m drinking now, but I haven’t finished the amount yet.",In Progress
+0279,"Look, in this session, i’ve got the water with me and I’m drinking from it now.",In Progress
+0280,I’m carrying on with the physiotherapy right now.,In Progress
+0281,I’m currently working through the physiotherapy session.,In Progress
+0282,I’m doing the physio at the moment.,In Progress
+0283,"I’ve begun the session already, and the exercises are still underway.",In Progress
+0284,"The physiotherapy has started, and I’m not finished yet.",In Progress
+0285,The routine is underway right now.,In Progress
+0286,"So, i’m carrying on with the physiotherapy right now.",In Progress
+0287,"You know, i’m currently working through the physiotherapy session.",In Progress
+0288,"From where I am, i’m doing the physio at the moment.",In Progress
+0289,"So, i’ve begun the session already, and the exercises are still underway.",In Progress
+0290,"Actually, the physiotherapy has started, and I’m not finished yet.",In Progress
+0291,"In this session, the routine is underway right now.",In Progress
+0292,"To be honest, i’m carrying on with the physiotherapy right now.",In Progress
+0293,"Right now, i’m currently working through the physiotherapy session.",In Progress
+0294,"I must say, i’m doing the physio at the moment.",In Progress
+0295,"At the moment, i’ve begun the session already, and the exercises are still underway.",In Progress
+0296,"I mean, the physiotherapy has started, and I’m not finished yet.",In Progress
+0297,"Listen, in this session, the routine is underway right now.",In Progress
+0298,"I’ve begun the medication routine, but it’s only partly done.",In Progress
+0299,"The medication routine has started, although some of it remains.",In Progress
+0300,I’m partway through the routine.,In Progress
+0301,"I’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress
+0302,"The routine has started, but I still have some to complete.",In Progress
+0303,I’ve made a start on the routine; the rest is still ahead.,In Progress
+0304,"So, i’ve begun the medication routine, but it’s only partly done.",In Progress
+0305,"Right now, the medication routine has started, although some of it remains.",In Progress
+0306,"From where I am, i’m partway through the routine.",In Progress
+0307,"To be honest, i’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress
+0308,"Okay, the routine has started, but I still have some to complete.",In Progress
+0309,"In this session, i’ve made a start on the routine; the rest is still ahead.",In Progress
+0310,"I mean, i’ve begun the medication routine, but it’s only partly done.",In Progress
+0311,"Well, right now, the medication routine has started, although some of it remains.",In Progress
+0312,"I must say, i’m partway through the routine.",In Progress
+0313,"At the moment, i’ve already carried out part of the routine, and the remaining part is unfinished.",In Progress
+0314,"Honestly, the routine has started, but I still have some to complete.",In Progress
+0315,"I must say, in this session, i’ve made a start on the routine; the rest is still ahead.",In Progress
+0316,I’m just about finished with the exercises.,In Progress
+0317,"The workout is close to completion, but not complete yet.",In Progress
+0318,I’m almost done with it.,In Progress
+0319,"I’ve completed most of the exercise, with only a small part remaining.",In Progress
+0320,"I’m near the end, but there’s still a little exercise left.",In Progress
+0321,Only a small amount remains in the workout.,In Progress
+0322,"So, i’m just about finished with the exercises.",In Progress
+0323,"Right now, the workout is close to completion, but not complete yet.",In Progress
+0324,"From where I am, i’m almost done with it.",In Progress
+0325,"Listen, i’ve completed most of the exercise, with only a small part remaining.",In Progress
+0326,"Okay, i’m near the end, but there’s still a little exercise left.",In Progress
+0327,"In this session, only a small amount remains in the workout.",In Progress
+0328,"I mean, i’m just about finished with the exercises.",In Progress
+0329,"Listen, right now, the workout is close to completion, but not complete yet.",In Progress
+0330,"I mean, i’m almost done with it.",In Progress
+0331,"At the moment, i’ve completed most of the exercise, with only a small part remaining.",In Progress
+0332,"Listen, i’m near the end, but there’s still a little exercise left.",In Progress
+0333,"I mean, in this session, only a small amount remains in the workout.",In Progress
+0334,I have a single exercise remaining.,In Progress
+0335,Only one exercise remains for me to complete.,In Progress
+0336,I’m down to the last exercise.,In Progress
+0337,"I’ve completed the earlier exercises, and the final one is still unfinished.",In Progress
+0338,Most of the routine is done; one exercise remains.,In Progress
+0339,"I’m at the final exercise, but it isn’t finished yet.",In Progress
+0340,"So, i have a single exercise remaining.",In Progress
+0341,"To be honest, only one exercise remains for me to complete.",In Progress
+0342,"From where I am, i’m down to the last exercise.",In Progress
+0343,"To be honest, i’ve completed the earlier exercises, and the final one is still unfinished.",In Progress
+0344,"So, most of the routine is done; one exercise remains.",In Progress
+0345,"In this session, i’m at the final exercise, but it isn’t finished yet.",In Progress
+0346,"Look, i have a single exercise remaining.",In Progress
+0347,"Right now, only one exercise remains for me to complete.",In Progress
+0348,"Look, i’m down to the last exercise.",In Progress
+0349,"At the moment, i’ve completed the earlier exercises, and the final one is still unfinished.",In Progress
+0350,"As I said, most of the routine is done; one exercise remains.",In Progress
+0351,"Look, in this session, i’m at the final exercise, but it isn’t finished yet.",In Progress
+0352,I’m working through the third stage of the physiotherapy routine.,In Progress
+0353,"The physiotherapy sequence is underway, and I’m partway through it.",In Progress
+0354,I’m in the middle of the physio routine.,In Progress
+0355,I’ve completed some earlier steps and am now carrying out the next one.,In Progress
+0356,"I’m partway through the sequence, with later steps still remaining.",In Progress
+0357,I’ve moved beyond the opening steps and am continuing through the routine.,In Progress
+0358,"So, i’m working through the third stage of the physiotherapy routine.",In Progress
+0359,"Right now, the physiotherapy sequence is underway, and I’m partway through it.",In Progress
+0360,"From where I am, i’m in the middle of the physio routine.",In Progress
+0361,"I must say, i’ve completed some earlier steps and am now carrying out the next one.",In Progress
+0362,"You know, i’m partway through the sequence, with later steps still remaining.",In Progress
+0363,"In this session, i’ve moved beyond the opening steps and am continuing through the routine.",In Progress
+0364,"Basically, i’m working through the third stage of the physiotherapy routine.",In Progress
+0365,"Honestly, right now, the physiotherapy sequence is underway, and I’m partway through it.",In Progress
+0366,"So, i’m in the middle of the physio routine.",In Progress
+0367,"At the moment, i’ve completed some earlier steps and am now carrying out the next one.",In Progress
+0368,"I mean, i’m partway through the sequence, with later steps still remaining.",In Progress
+0369,"I mean, in this session, i’ve moved beyond the opening steps and am continuing through the routine.",In Progress
+0370,"I’ve completed three sets, with two still remaining.",In Progress
+0371,"Three sets are done, while two more are still required.",In Progress
+0372,"I’m most of the way through, but I’ve still got a couple of sets left.",In Progress
+0373,"I’ve finished the first three sets, and the final two have not yet been done.",In Progress
+0374,Three sets are complete; two are still to go.,In Progress
+0375,"I’m well into the workout, with two sets still ahead.",In Progress
+0376,"So, i’ve completed three sets, with two still remaining.",In Progress
+0377,"I must say, three sets are done, while two more are still required.",In Progress
+0378,"From where I am, i’m most of the way through, but I’ve still got a couple of sets left.",In Progress
+0379,"Listen, i’ve finished the first three sets, and the final two have not yet been done.",In Progress
+0380,"Actually, three sets are complete; two are still to go.",In Progress
+0381,"In this session, i’m well into the workout, with two sets still ahead.",In Progress
+0382,"Honestly, i’ve completed three sets, with two still remaining.",In Progress
+0383,"Right now, three sets are done, while two more are still required.",In Progress
+0384,"So, i’m most of the way through, but I’ve still got a couple of sets left.",In Progress
+0385,"At the moment, i’ve finished the first three sets, and the final two have not yet been done.",In Progress
+0386,"To be honest, three sets are complete; two are still to go.",In Progress
+0387,"As I said, in this session, i’m well into the workout, with two sets still ahead.",In Progress
+0388,I began the exercise and then took a temporary pause.,In Progress
+0389,The exercise was underway before I stopped briefly.,In Progress
+0390,I was doing it and took a quick break.,In Progress
+0391,"I had already started the exercise when I paused, so the task remains unfinished.",In Progress
+0392,I started the workout but paused before completing it.,In Progress
+0393,The routine is still underway despite the short break.,In Progress
+0394,"So, i began the exercise and then took a temporary pause.",In Progress
+0395,"Right now, the exercise was underway before I stopped briefly.",In Progress
+0396,"From where I am, i was doing it and took a quick break.",In Progress
+0397,"Honestly, i had already started the exercise when I paused, so the task remains unfinished.",In Progress
+0398,"Look, i started the workout but paused before completing it.",In Progress
+0399,"In this session, the routine is still underway despite the short break.",In Progress
+0400,"Listen, i began the exercise and then took a temporary pause.",In Progress
+0401,"To be honest, right now, the exercise was underway before I stopped briefly.",In Progress
+0402,"Right, i was doing it and took a quick break.",In Progress
+0403,"At the moment, i had already started the exercise when I paused, so the task remains unfinished.",In Progress
+0404,"Right, i started the workout but paused before completing it.",In Progress
+0405,"To be honest, in this session, the routine is still underway despite the short break.",In Progress
+0406,I still haven't started the exercise yet.,Not Started
+0407,"Honestly, i haven’t started the exercise yet.",Not Started
+0408,I haven’t started the exercise yet.,Not Started
+0409,"As of now, i haven’t started the exercise yet.",Not Started
+0410,"Okay, i haven’t started the exercise yet.",Not Started
+0411,"I haven’t started the exercise yet, at least not yet.",Not Started
+0412,I still haven’t begun the workout.,Not Started
+0413,"Yeah, i still haven’t begun the exercise.",Not Started
+0414,I still haven’t begun the exercise — I haven't started it.,Not Started
+0415,"As of now, i still haven’t begun the exercise.",Not Started
+0416,"Basically, yeah, i still haven’t begun the exercise.",Not Started
+0417,"I still haven’t begun the exercise, at least not yet.",Not Started
+0418,The exercise hasn’t been started on my side so far.,Not Started
+0419,"Yeah, the exercise hasn’t been started on my side yet.",Not Started
+0420,The exercise hasn’t been started on my side yet.,Not Started
+0421,"As of now, the exercise hasn’t been started on my side yet.",Not Started
+0422,"You know, yeah, the exercise hasn’t been started on my side yet.",Not Started
+0423,"The exercise hasn’t been started on my side yet, at least not yet.",Not Started
+0424,I still haven't taken any of the medicine yet.,Not Started
+0425,"No, i haven’t taken any of the medicine yet.",Not Started
+0426,I haven’t taken any of the medicine yet.,Not Started
+0427,"As of now, i haven’t taken any of the medicine yet.",Not Started
+0428,"Well, i haven’t taken any of the medicine yet.",Not Started
+0429,"I haven’t taken any of the medicine yet, at least not yet.",Not Started
+0430,I still haven't done anything with the dose so far.,Not Started
+0431,"No, i haven’t done anything with the dose so far.",Not Started
+0432,I haven’t done anything with the dose so far — I haven't started it.,Not Started
+0433,"As of now, i haven’t done anything with the dose so far.",Not Started
+0434,"Well, i haven’t done anything with the dose so far.",Not Started
+0435,"I haven’t done anything with the dose so far, at least not yet.",Not Started
+0436,The medicine is still untouched.,Not Started
+0437,"No, the dose is still untouched.",Not Started
+0438,The dose is still untouched — I haven't started it.,Not Started
+0439,"As of now, the dose is still untouched.",Not Started
+0440,"Well, the dose is still untouched.",Not Started
+0441,"The dose is still untouched, at least not yet.",Not Started
+0442,I'm currently not exercising right now.,Not Started
+0443,"Yeah, i’m not exercising right now.",Not Started
+0444,I’m not exercising right now — I haven't started it.,Not Started
+0445,"As of now, i’m not exercising right now.",Not Started
+0446,"Right, yeah, i’m not exercising right now.",Not Started
+0447,"I’m not exercising right now, at least not yet.",Not Started
+0448,I'm currently not doing the exercise at the moment.,Not Started
+0449,"No, i’m not doing the exercise at the moment.",Not Started
+0450,I’m not doing the exercise at the moment — I haven't started it.,Not Started
+0451,"As of now, i’m not doing the exercise at the moment.",Not Started
+0452,"Well, i’m not doing the exercise at the moment.",Not Started
+0453,"I’m not doing the exercise at the moment, at least not yet.",Not Started
+0454,I'm currently not on the exercise yet.,Not Started
+0455,"At the moment, i’m not on the exercise yet.",Not Started
+0456,I’m not on the exercise yet.,Not Started
+0457,"As of now, i’m not on the exercise yet.",Not Started
+0458,"Right, i’m not on the exercise yet.",Not Started
+0459,"I’m not on the exercise yet, at least not yet.",Not Started
+0460,I still haven't started it; I’ll finish the routine tonight.,Not Started
+0461,"For now, i haven’t started it; I’ll finish the routine tonight.",Not Started
+0462,I haven’t started it; I’ll finish the routine tonight — I haven't started yet.,Not Started
+0463,"Just to clarify, i haven’t started it; I’ll finish the routine tonight.",Not Started
+0464,"Honestly, i haven’t started it; I’ll finish the routine tonight.",Not Started
+0465,"I haven’t started it; I’ll finish the routine tonight, is that okay?",Not Started
+0466,I'm planning to to get the physiotherapy done later.,Not Started
+0467,"Yeah, i’m going to get the physiotherapy done later.",Not Started
+0468,I’m going to get the physiotherapy done later — I haven't started yet.,Not Started
+0469,"Just to clarify, i’m going to get the physiotherapy done later.",Not Started
+0470,"I mean, yeah, i’m going to get the physiotherapy done later.",Not Started
+0471,"I’m going to get the physiotherapy done later, is that okay?",Not Started
+0472,The routine is something I'm going to take care of this evening.,Not Started
+0473,"Yeah, the routine is something I’ll take care of this evening.",Not Started
+0474,The routine is something I’ll take care of this evening — I haven't started yet.,Not Started
+0475,"Just to clarify, the routine is something I’ll take care of this evening.",Not Started
+0476,"As I said, yeah, the routine is something I’ll take care of this evening.",Not Started
+0477,"The routine is something I’ll take care of this evening, is that okay?",Not Started
+0478,"If I get enough time, I'm going to do the exercise.",Not Started
+0479,"Yeah, if I get enough time, I’ll do the exercise.",Not Started
+0480,"If I get enough time, I’ll do the exercise — I haven't begun the task.",Not Started
+0481,"Just to clarify, if I get enough time, I’ll do the exercise.",Not Started
+0482,"I mean, yeah, if I get enough time, I’ll do the exercise.",Not Started
+0483,"If I get enough time, I’ll do the exercise, is that okay?",Not Started
+0484,I'm going to exercise if I get a free hour.,Not Started
+0485,"At the moment, i’ll exercise if I get a free hour.",Not Started
+0486,I’ll exercise if I get a free hour — I haven't begun the task.,Not Started
+0487,"Just to clarify, i’ll exercise if I get a free hour.",Not Started
+0488,"Right, i’ll exercise if I get a free hour.",Not Started
+0489,"I’ll exercise if I get a free hour, is that okay?",Not Started
+0490,The exercise will happen if I can get some time later.,Not Started
+0491,"Honestly, the exercise will happen if I can get some time later.",Not Started
+0492,The exercise will happen if I can get some time later — I haven't begun the task.,Not Started
+0493,"Just to clarify, the exercise will happen if I can get some time later.",Not Started
+0494,"Okay, the exercise will happen if I can get some time later.",Not Started
+0495,"The exercise will happen if I can get some time later, is that okay?",Not Started
+0496,I'm going to take the medicine after dinner.,Not Started
+0497,"For now, i’ll take the medicine after dinner.",Not Started
+0498,I’ll take the medicine after dinner — I haven't begun the task.,Not Started
+0499,"Just to clarify, i’ll take the medicine after dinner.",Not Started
+0500,"Honestly, i’ll take the medicine after dinner.",Not Started
+0501,"I’ll take the medicine after dinner, is that okay?",Not Started
+0502,"Once I finish dinner, I'm going to take it.",Not Started
+0503,"At the moment, once I finish dinner, I’ll take it.",Not Started
+0504,"Once I finish dinner, I’ll take it — I haven't begun the task.",Not Started
+0505,"Just to clarify, once I finish dinner, I’ll take it.",Not Started
+0506,"Right, once I finish dinner, I’ll take it.",Not Started
+0507,"Once I finish dinner, I’ll take it, is that okay?",Not Started
+0508,The dose comes after I'm done eating.,Not Started
+0509,"No, the dose comes after I’m done eating.",Not Started
+0510,The dose comes after I’m done eating — I haven't begun the task.,Not Started
+0511,"Just to clarify, the dose comes after I’m done eating.",Not Started
+0512,"Well, the dose comes after I’m done eating.",Not Started
+0513,"The dose comes after I’m done eating, is that okay?",Not Started
+0514,I'm currently not going to take the medicine.,Not Started
+0515,"Yeah, i’m not going to take the medicine.",Not Started
+0516,I’m not going to take the medicine — I haven't started it.,Not Started
+0517,My answer is no — i’m not going to take the medicine.,Not Started
+0518,"Basically, yeah, i’m not going to take the medicine.",Not Started
+0519,"I’m not going to take the medicine, okay?",Not Started
+0520,I don’t want to do the therapy routine.,Not Started
+0521,"Yeah, i don’t want to do the routine.",Not Started
+0522,I don’t want to do the routine — I haven't started it.,Not Started
+0523,My answer is no — i don’t want to do the routine.,Not Started
+0524,"Well, yeah, i don’t want to do the routine.",Not Started
+0525,"I don’t want to do the routine, okay?",Not Started
+0526,I'm skipping the therapy today.,Not Started
+0527,"At the moment, i’m skipping the therapy today.",Not Started
+0528,I’m skipping the therapy today — I haven't started it.,Not Started
+0529,My answer is no — i’m skipping the therapy today.,Not Started
+0530,"Right, i’m skipping the therapy today.",Not Started
+0531,"I’m skipping the therapy today, okay?",Not Started
+0532,"No, I won’t do it.",Not Started
+0533,"Yeah, no, I won’t do it.",Not Started
+0534,"No, I won’t do it — I haven't started it.",Not Started
+0535,"My answer is no — no, I won’t do it.",Not Started
+0536,"Look, yeah, no, I won’t do it.",Not Started
+0537,"No, I won’t do it, okay?",Not Started
+0538,I'm currently not doing that.,Not Started
+0539,"Yeah, i’m not doing that.",Not Started
+0540,I’m not doing that — I haven't started it.,Not Started
+0541,My answer is no — i’m not doing that.,Not Started
+0542,"Right, yeah, i’m not doing that.",Not Started
+0543,"I’m not doing that, okay?",Not Started
+0544,I'm going to pass.,Not Started
+0545,"At the moment, i’ll pass.",Not Started
+0546,I’ll pass — I haven't started it.,Not Started
+0547,My answer is no — i’ll pass.,Not Started
+0548,"Right, i’ll pass.",Not Started
+0549,"I’ll pass, okay?",Not Started
+0550,I still haven't exercised because I’m too busy.,Not Started
+0551,"Honestly, i haven’t exercised because I’m too busy.",Not Started
+0552,I haven’t exercised because I’m too busy — the task hasn't started.,Not Started
+0553,"As of now, i haven’t exercised because I’m too busy.",Not Started
+0554,"Okay, i haven’t exercised because I’m too busy.",Not Started
+0555,"I haven’t exercised because I’m too busy, at least not yet.",Not Started
+0556,I still haven't had time to do the exercises.,Not Started
+0557,"At the moment, i haven’t had time to do the exercises.",Not Started
+0558,I haven’t had time to do the exercises — the task hasn't started.,Not Started
+0559,"As of now, i haven’t had time to do the exercises.",Not Started
+0560,"Right, i haven’t had time to do the exercises.",Not Started
+0561,"I haven’t had time to do the exercises, at least not yet.",Not Started
+0562,The exercise hasn’t happened; my schedule has been packed.,Not Started
+0563,"For now, the exercise hasn’t happened; my schedule has been packed.",Not Started
+0564,The exercise hasn’t happened; my schedule has been packed — the task hasn't started.,Not Started
+0565,"As of now, the exercise hasn’t happened; my schedule has been packed.",Not Started
+0566,"Honestly, the exercise hasn’t happened; my schedule has been packed.",Not Started
+0567,"The exercise hasn’t happened; my schedule has been packed, at least not yet.",Not Started
+0568,I haven't started taking the medication yet.,Not Started
+0569,I'm taking the medication now.,In Progress
+0570,"I'm getting ready to start the exercises, but I haven't begun them yet.",Not Started
+0571,"I've started the first exercise, and I'm working through it now.",In Progress
+0572,The bottle is still full; I'll deal with it after I finish this.,Not Started
+0573,I'm halfway through the routine and still have a few exercises left.,In Progress
+0574,"I'm drinking the water now, and I still have some left.",In Progress
+0575,I finished drinking the water.,Completed
+0576,"I've done most of the physiotherapy exercises, but I still have one left.",In Progress
+0577,I just finished the last exercise.,Completed
+0578,I'm on the last few steps of taking it.,In Progress
+0579,That's the whole routine done for today.,Completed
+0580,I haven't started taking the medication yet.,Not Started
+0581,I finished taking the medication.,Completed
+0582,"I have everything ready, but I haven't started the exercises.",Not Started
+0583,I completed the exercises and put everything away.,Completed
+0584,The bottle is still untouched.,Not Started
+0585,The whole routine is behind me now.,Completed
+0586,"I was supposed to take the medication earlier, but I still haven't started taking it.",Not Started
+0587,I haven't finished the exercises yet because I'm still doing them.,In Progress
+0588,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started
+0589,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress
+0590,"I was getting ready earlier and even laid out the mat, but I still haven't begun the exercises.",Not Started
+0591,"The routine is taking longer than I expected, and I need to get through it before I can relax; I'm still working through the exercises.",In Progress
+0592,"I took the medication earlier today, and it's completely finished.",Completed
+0593,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress
+0594,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed
+0595,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed
+0596,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress
+0597,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed
+0598,"I was meant to take the medication earlier, but I haven't started it.",Not Started
+0599,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed
+0600,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed
+0601,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed
+0602,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started
+0603,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed
+0604,I haven't started taking the medication yet.,Not Started
+0605,"I've started taking the medication, but I'm not finished yet.",In Progress
+0606,The water is still sitting there; I haven't started drinking it.,Not Started
+0607,"I'm drinking the water now, and I haven't finished it.",In Progress
+0608,I haven't done any of the exercises yet.,Not Started
+0609,I've done the first exercise and still have the others to do.,In Progress
+0610,"I've got the physiotherapy equipment ready, but I haven't begun.",Not Started
+0611,"I've started the physiotherapy routine with the equipment, but I'm not done.",In Progress
+0612,"I'm about to take the first step, but I haven't started yet.",Not Started
+0613,"I've taken the first step, but there's more of the task left.",In Progress
+0614,The routine is still untouched.,Not Started
+0615,I'm halfway through the routine.,In Progress
+0616,I'm still taking the medication; I haven't finished yet.,In Progress
+0617,I've finished taking the medication.,Completed
+0618,"I've done most of the exercises, but I still have one left.",In Progress
+0619,I've done all the exercises; there isn't one left.,Completed
+0620,I'm still working through the physiotherapy routine.,In Progress
+0621,I've completed the physiotherapy routine.,Completed
+0622,"I'm nearly finished with the water, but there's still some left.",In Progress
+0623,I've finished the water; there's none left.,Completed
+0624,I've completed the first few exercises and still have the rest to do.,In Progress
+0625,I've completed all of the exercises.,Completed
+0626,I'm halfway through the routine and still have exercises left.,In Progress
+0627,"The whole routine is done, and I have nothing left to do.",Completed
+0628,I haven't started taking the medication yet.,Not Started
+0629,I finished taking the medication.,Completed
+0630,I haven't touched the water yet.,Not Started
+0631,I've finished the water.,Completed
+0632,"The exercise mat is ready, but I haven't done the exercises.",Not Started
+0633,"The exercises are done, and the mat is put away.",Completed
+0634,I'll do the physiotherapy routine later; I haven't started it.,Not Started
+0635,I did the physiotherapy routine already.,Completed
+0636,The medication is still untouched.,Not Started
+0637,"The medication has been taken, and there's nothing left to take.",Completed
+0638,I didn't do the exercises.,Not Started
+0639,I did all the exercises.,Completed
+0640,I haven't begun taking the medication yet.,Not Started
+0641,Taking the medication hasn't started for me yet.,Not Started
+0642,Not yet—I've still not taken the medication.,Not Started
+0643,The medication is still untouched; I haven't taken it.,Not Started
+0644,"As of now, I haven't started the medication.",Not Started
+0645,"Well, I haven't started taking the medication yet.",Not Started
+0646,I'm currently taking the medication.,In Progress
+0647,The medication is being taken right now.,In Progress
+0648,"Yeah, I'm taking it right now.",In Progress
+0649,I'm in the middle of taking the medication now.,In Progress
+0650,You caught me while I'm taking the medication.,In Progress
+0651,"Actually, I'm taking the medication now.",In Progress
+0652,"I'm preparing to begin the exercises, but I haven't started them.",Not Started
+0653,The exercises haven't begun yet; I'm only getting things ready.,Not Started
+0654,"I'm all set to go, but I haven't actually started the exercises.",Not Started
+0655,"I've got everything ready, but the exercise itself hasn't started.",Not Started
+0656,I'm ready to begin the exercises; I just haven't begun them yet.,Not Started
+0657,"Okay, I'm getting everything ready, but I haven't started the exercises.",Not Started
+0658,I've begun the first exercise and I'm working through it now.,In Progress
+0659,"The first exercise is underway, and I haven't finished the routine yet.",In Progress
+0660,I started with the first one and I'm still working through the exercises.,In Progress
+0661,"I've actually started the first exercise, and I'm still doing the routine.",In Progress
+0662,"I'm already working on the first exercise, so the routine is underway.",In Progress
+0663,"Right, I've started the first exercise and I'm working through it now.",In Progress
+0664,The bottle is still untouched; I'll have the water once I'm finished here.,Not Started
+0665,"Once I finish this, I'll take care of the water—the bottle is still full.",Not Started
+0666,The water's still sitting there; I'll get to it after this.,Not Started
+0667,"The bottle hasn't been touched, and I'll have it after I finish what I'm doing.",Not Started
+0668,I'm tied up with this right now; the bottle can wait until I'm done.,Not Started
+0669,"Well, the bottle is still full; I'll get to it when I'm finished here.",Not Started
+0670,"I'm partway through the routine, with a few exercises still remaining.",In Progress
+0671,A few exercises remain because I've already worked through part of the routine.,In Progress
+0672,I'm partway through the physio routine—there are just a few more exercises to go.,In Progress
+0673,"I've worked through part of the routine already, and I still have a few exercises left.",In Progress
+0674,I'm in the middle of the routine; I'll finish the remaining exercises next.,In Progress
+0675,"Actually, I'm halfway through the routine and still have a few exercises left.",In Progress
+0676,"The medication is being taken now, but I haven't finished the dose yet.",In Progress
+0677,I'm still taking the medication; the dose isn't finished yet.,In Progress
+0678,I'm in the middle of taking it—I haven't finished yet.,In Progress
+0679,"I've started taking the medication, and there's still some left to take.",In Progress
+0680,I'm partway through the dose and will finish it shortly.,In Progress
+0681,"I'm taking it now; give me a moment, I'm not finished yet.",In Progress
+0682,I finished taking the medication.,Completed
+0683,The medication has been taken in full.,Completed
+0684,That's done—I took the whole dose.,Completed
+0685,"I took the medication completely, so there's nothing left to take.",Completed
+0686,I've finished the dose and am done with the medication for now.,Completed
+0687,"Yep, I took it all already.",Completed
+0688,"I've started the exercises, but I still have the last few to do.",In Progress
+0689,The exercise routine is underway; I haven't worked through all of it yet.,In Progress
+0690,"I'm on the final few exercises, so I'm not quite through the routine.",In Progress
+0691,"I've already worked through most of the routine, with a small part still remaining.",In Progress
+0692,"I'm wrapping up the last exercises, but they're not all done yet.",In Progress
+0693,I'm nearly through the routine—just a few exercises are still left.,In Progress
+0694,I've worked through the entire exercise routine.,Completed
+0695,All of the exercises have been completed.,Completed
+0696,I'm through the whole routine now.,Completed
+0697,"I went through every exercise in the routine, with none remaining.",Completed
+0698,The routine is wrapped up; I've done every exercise.,Completed
+0699,That's the whole routine finished—I got through all of it.,Completed
+0700,"I've had some water already, but I still need to drink the rest of this bottle.",In Progress
+0701,The bottle is partly emptied; I haven't finished drinking it yet.,In Progress
+0702,"I've had some of it, and there's still quite a bit left.",In Progress
+0703,"The water level has gone down, but there is still water left in the bottle.",In Progress
+0704,I'm partway through the bottle and will finish the remaining water next.,In Progress
+0705,"I've already had some, but I'm not through the bottle yet.",In Progress
+0706,There are no exercises left in my physiotherapy routine.,Completed
+0707,I've gone through the full physiotherapy routine; nothing remains.,Completed
+0708,I'm through the whole physio routine now.,Completed
+0709,"I worked through every exercise in the routine, so there is nothing left to do.",Completed
+0710,The routine is wrapped up—I completed all the exercises.,Completed
+0711,All done with the physio routine; I don't have any exercises left.,Completed
+0712,I haven't begun taking the medication yet.,Not Started
+0713,Taking the medication hasn't started yet.,Not Started
+0714,Not yet—I still haven't taken the medication.,Not Started
+0715,The medication is still untouched; I haven't taken it.,Not Started
+0716,"As of now, I haven't started taking the medication.",Not Started
+0717,"No, I haven't taken the medication yet.",Not Started
+0718,I finished taking the medication.,Completed
+0719,The medication has been taken in full.,Completed
+0720,I took it already—that's done.,Completed
+0721,"I took the entire dose, so there's nothing left to take.",Completed
+0722,I've completed the medication dose for this task.,Completed
+0723,"Yep, I took all of it already.",Completed
+0724,"Everything is ready, but I haven't started the exercises.",Not Started
+0725,I've got everything set up; the exercises themselves haven't begun.,Not Started
+0726,"I'm all set to go, but I haven't actually done any of the exercises yet.",Not Started
+0727,"The mat and equipment are ready, but I haven't started the routine.",Not Started
+0728,I'm ready to begin the exercises; none of the routine has been done yet.,Not Started
+0729,"I've got everything ready, but I haven't started the exercises.",Not Started
+0730,I completed the exercises and put the equipment away.,Completed
+0731,I've gone through the whole exercise routine and packed everything up.,Completed
+0732,The exercises are all done—I put everything away afterward.,Completed
+0733,"I worked through every exercise, then cleared the equipment away.",Completed
+0734,"The full routine is finished, and I've already put things back.",Completed
+0735,That's all done; I finished the exercises and put everything away.,Completed
+0736,The bottle is still untouched.,Not Started
+0737,I haven't used the bottle at all yet.,Not Started
+0738,The water's still sitting there untouched.,Not Started
+0739,"The bottle is exactly where I left it, completely full.",Not Started
+0740,I haven't taken any water from the bottle yet.,Not Started
+0741,The bottle's still full—I haven't touched it.,Not Started
+0742,The whole routine is behind me now.,Completed
+0743,I've been through the entire routine already.,Completed
+0744,That's the whole physio routine out of the way.,Completed
+0745,"I worked through every part of the routine, and there's nothing left.",Completed
+0746,The full routine is behind me; I don't have any exercises remaining.,Completed
+0747,I'm done with the whole physio routine—nothing's left.,Completed
+0748,I haven't started taking the medication yet.,Not Started
+0749,"I've started taking the medication, but I haven't finished it yet.",In Progress
+0750,"I've got everything ready, but I haven't started the exercises.",Not Started
+0751,"I've got everything ready, and I've started the first exercise.",In Progress
+0752,The bottle is still full; I haven't had any water yet.,Not Started
+0753,The bottle isn't full anymore; I've started drinking from it.,In Progress
+0754,I haven't done any of the routine yet.,Not Started
+0755,I've done the first few exercises and still have some of the routine left.,In Progress
+0756,I'll take the medication after I finish breakfast.,Not Started
+0757,"I started taking the medication after breakfast, and I'm still finishing the dose.",In Progress
+0758,"The exercise mat is out, but I haven't done any of the exercises.",Not Started
+0759,"The exercise mat is out, and I'm already working through the routine.",In Progress
+0760,I'm still taking the medication; I haven't finished the dose.,In Progress
+0761,I've finished taking the medication; the dose is complete.,Completed
+0762,"I'm taking the medication now, but I'm not done with it yet.",In Progress
+0763,I took the medication already; I'm done with it.,Completed
+0764,The medication is still being taken—I haven't finished yet.,In Progress
+0765,The medication has been taken; I've finished the dose.,Completed
+0766,I'm partway through taking the medication.,In Progress
+0767,I've completed taking the medication.,Completed
+0768,I'm still on the medication dose; there's some left to take.,In Progress
+0769,There's nothing left to take—I finished the medication.,Completed
+0770,"Not done yet—I started the medication, but I'm still taking it.",In Progress
+0771,Done—I started and finished the medication.,Completed
+0772,"I've finished most of the exercises, but one is still left.",In Progress
+0773,I've finished all the exercises; none are left.,Completed
+0774,"Most of the routine is done, but I still have one exercise to go.",In Progress
+0775,The whole exercise routine is done; I have nothing left.,Completed
+0776,"I've worked through nearly all of them, but there's still one exercise remaining.",In Progress
+0777,I've worked through every exercise; there isn't anything remaining.,Completed
+0778,Just one exercise remains—I haven't finished the set yet.,In Progress
+0779,The entire set is finished; no exercise remains.,Completed
+0780,"I'm close to the end, but I still need to do the last exercise.",In Progress
+0781,I've reached the end and completed the last exercise.,Completed
+0782,"I've done the first few and most of the rest, but I'm not finished.",In Progress
+0783,"I've done the full set, so there's nothing more to complete.",Completed
+0784,I'm still working through the physiotherapy routine.,In Progress
+0785,I've finished the physiotherapy routine.,Completed
+0786,The physio routine is still underway.,In Progress
+0787,The physio routine is complete.,Completed
+0788,I'm in the middle of my physiotherapy routine.,In Progress
+0789,I've gone through the entire physiotherapy routine.,Completed
+0790,I'm still doing the physiotherapy exercises.,In Progress
+0791,I've finished all the physiotherapy exercises.,Completed
+0792,I'm continuing with the routine; I haven't reached the end yet.,In Progress
+0793,I've reached the end of the routine and finished it.,Completed
+0794,The routine isn't over yet—I'm still working through it.,In Progress
+0795,The routine is over; I've completed the whole thing.,Completed
+0796,"I'm almost finished with the water, but there's still some in the bottle.",In Progress
+0797,I've finished the water; the bottle is empty.,Completed
+0798,"There's only a little water left, so I'm nearly done.",In Progress
+0799,There's no water left; I've finished it.,Completed
+0800,"I've drunk most of it, but I haven't finished the water yet.",In Progress
+0801,I've drunk all of it; the water is finished.,Completed
+0802,"I'm on the last bit of the water, and there's still some left.",In Progress
+0803,That last bit is gone—I finished the water.,Completed
+0804,"I'm just about done drinking, but I still have some left.",In Progress
+0805,I'm done drinking; there's nothing left in the bottle.,Completed
+0806,"Almost all of the water is gone, but I haven't finished it.",In Progress
+0807,All of the water is gone; I've finished drinking it.,Completed
+0808,"I've finished the first few exercises, but I still have the rest to do.",In Progress
+0809,I've finished every exercise in the routine.,Completed
+0810,"I've done part of the exercise set, but I'm not through the whole thing.",In Progress
+0811,I've done the entire exercise set.,Completed
+0812,"The first part is complete, but the remaining exercises still need to be done.",In Progress
+0813,The first part and the remaining exercises are all complete.,Completed
+0814,I've worked through some of the exercises; there are still more to do.,In Progress
+0815,I've worked through all of the exercises; nothing remains.,Completed
+0816,"I've completed a portion of the routine, but I haven't finished the full set.",In Progress
+0817,"I've completed the full routine, including every exercise.",Completed
+0818,"Some of the exercises are done, but the routine as a whole isn't finished.",In Progress
+0819,"Every exercise is done, so the routine as a whole is finished.",Completed
+0820,"I'm halfway through the routine, with a few exercises still ahead.",In Progress
+0821,I've gone through the whole routine; there's nothing left.,Completed
+0822,"I'm still in the middle of the routine, and some exercises remain.",In Progress
+0823,I've reached the end of the routine; nothing remains.,Completed
+0824,"I've made it through part of the routine, but I still have exercises to do.",In Progress
+0825,I've made it through the entire routine; I have nothing more to do.,Completed
+0826,"The routine is underway, but I'm not through all the exercises yet.",In Progress
+0827,The routine is fully behind me; all the exercises are done.,Completed
+0828,"I'm still working my way through it, with exercises left to complete.",In Progress
+0829,I've worked my way through the whole thing; there are no exercises left.,Completed
+0830,I'm not at the end yet—there are still parts of the routine left.,In Progress
+0831,I'm at the end now; every part of the routine is complete.,Completed
+0832,I haven't started taking the medication yet.,Not Started
+0833,I've finished taking the medication.,Completed
+0834,I still haven't taken the medication.,Not Started
+0835,I already took the medication.,Completed
+0836,The medication hasn't been taken yet.,Not Started
+0837,The medication has been taken in full.,Completed
+0838,I haven't begun the medication dose.,Not Started
+0839,I've completed the medication dose.,Completed
+0840,"No, I haven't taken it yet.",Not Started
+0841,"Yes, I've taken it already.",Completed
+0842,I haven't started the dose at all.,Not Started
+0843,I took the whole dose and finished it.,Completed
+0844,I haven't touched the water yet.,Not Started
+0845,I've finished the water.,Completed
+0846,The water is still untouched.,Not Started
+0847,The water is all gone; I finished it.,Completed
+0848,I haven't had any of the water yet.,Not Started
+0849,I've had all of the water.,Completed
+0850,The bottle is still full; I haven't drunk from it.,Not Started
+0851,The bottle is empty; I've finished drinking it.,Completed
+0852,I haven't taken a sip from the bottle.,Not Started
+0853,I've finished the water in the bottle.,Completed
+0854,The water is exactly as it was; I haven't used it.,Not Started
+0855,The water is gone now; I used it all.,Completed
+0856,"The mat is ready, but I haven't started the exercises.",Not Started
+0857,"The exercises are finished, and I've put the mat away.",Completed
+0858,"I've set everything up, but I haven't done the exercise routine.",Not Started
+0859,I did the full routine and packed the equipment away.,Completed
+0860,"Everything is prepared, but none of the exercises have been done.",Not Started
+0861,"Everything is finished, and the equipment is back in place.",Completed
+0862,The equipment is laid out; I haven't begun the exercises.,Not Started
+0863,I completed the exercises and cleared the equipment.,Completed
+0864,"I'm all set to exercise, but I haven't actually started.",Not Started
+0865,I finished the exercise routine and put everything away.,Completed
+0866,"The exercise setup is ready, but the routine hasn't begun.",Not Started
+0867,"The routine is complete, and the exercise setup has been put away.",Completed
+0868,I'll do the physiotherapy routine later; I haven't started it.,Not Started
+0869,I did the physiotherapy routine already.,Completed
+0870,I haven't started the physio routine; I'll do it later.,Not Started
+0871,I already went through the physio routine.,Completed
+0872,The routine hasn't begun yet; I'll get to it later.,Not Started
+0873,The routine was already completed.,Completed
+0874,I still need to start the physiotherapy routine.,Not Started
+0875,I've already finished the physiotherapy routine.,Completed
+0876,"I haven't done the routine yet, but I plan to do it later.",Not Started
+0877,I did the routine earlier; it's already done.,Completed
+0878,I'm going to do the physio later—I haven't begun it.,Not Started
+0879,I went through the whole physio routine earlier.,Completed
+0880,The medication is still untouched.,Not Started
+0881,"The medication has been taken, and there's nothing left to take.",Completed
+0882,The medication is still sitting there; none of it has been taken.,Not Started
+0883,The medication is gone; I've taken the full dose.,Completed
+0884,The dose is still there exactly as it was.,Not Started
+0885,The dose has been taken in full; nothing remains.,Completed
+0886,Nothing has been taken from the medication yet.,Not Started
+0887,Everything that needed to be taken is already done.,Completed
+0888,The medication hasn't been used at all.,Not Started
+0889,The medication has been fully taken; there's no dose left.,Completed
+0890,The dose is still untouched.,Not Started
+0891,"The dose is finished, with nothing remaining to take.",Completed
+0892,I didn't do the exercises.,Not Started
+0893,I did all the exercises.,Completed
+0894,I didn't do any of the exercises.,Not Started
+0895,I completed every exercise.,Completed
+0896,None of the exercises got done.,Not Started
+0897,The entire exercise set got done.,Completed
+0898,I left the exercises undone.,Not Started
+0899,I finished the whole exercise set.,Completed
+0900,I didn't carry out the exercise routine.,Not Started
+0901,I carried out the complete exercise routine.,Completed
+0902,I didn't do the routine at all.,Not Started
+0903,I went through the full routine.,Completed
+0904,"I was meant to take the medication earlier, but I still haven't started it.",Not Started
+0905,"I should have taken the medication by now, but I haven't begun the dose.",Not Started
+0906,It was supposed to be done earlier; I haven't actually taken the medication yet.,Not Started
+0907,"I was due to take it earlier, but the medication is still untouched.",Not Started
+0908,"I expected to have taken the medication already, but I haven't started taking it.",Not Started
+0909,"The dose was supposed to happen earlier, but I still haven't taken it.",Not Started
+0910,I haven't finished the exercises yet because I'm still doing them.,In Progress
+0911,"The exercises aren't finished, but I'm working through them now.",In Progress
+0912,I'm not done with the exercises yet; I've already started them.,In Progress
+0913,"I still have exercises left, and I'm doing them now.",In Progress
+0914,The routine isn't complete yet because I'm still going through it.,In Progress
+0915,"I haven't completed the set, but I'm partway through the exercises.",In Progress
+0916,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started
+0917,"Everything is ready for physio, though I haven't begun the routine.",Not Started
+0918,"I'm set up for the physiotherapy exercises, but I haven't actually started.",Not Started
+0919,I've got everything ready for the routine; none of the exercises have begun.,Not Started
+0920,"I'm all set to start physiotherapy, but I haven't done any of it yet.",Not Started
+0921,"The routine is ready to go, but I haven't started working through it.",Not Started
+0922,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress
+0923,"I was about to say I hadn't started, but I have; I'm already drinking it.",In Progress
+0924,"No, that's not right—I have started drinking the water, and there's still some left.",In Progress
+0925,"I thought I hadn't started, but I have; I'm partway through the bottle now.",In Progress
+0926,"I haven't started it—well, actually, I did; I'm still drinking the water.",In Progress
+0927,"At first I thought I hadn't begun, but I have; I'm not finished with the bottle yet.",In Progress
+0928,"I was getting ready earlier, laid out the mat, and planned to start, but I still haven't begun the exercises.",Not Started
+0929,"I cleared some space, put the equipment out, and was ready earlier, but I haven't done the exercises.",Not Started
+0930,"The mat is out, my shoes are on, and I was preparing to start, but the exercises haven't begun.",Not Started
+0931,"I set everything up earlier and even got into position, but I haven't actually started the routine.",Not Started
+0932,"Everything is prepared, and I was going to start earlier, but I still haven't done any of the exercises.",Not Started
+0933,"I got the equipment ready and was about to begin, but I haven't started the exercise routine.",Not Started
+0934,"The routine is taking longer than I expected, and I need to finish it before I can relax; I'm still working through the exercises.",In Progress
+0935,"This is taking up more time than I planned, and I still have things to do afterward; I'm continuing the physiotherapy routine now.",In Progress
+0936,"I thought I'd be finished by now, and I need to get on with the rest of my day, but I'm still doing the exercises.",In Progress
+0937,"It's been a longer routine than I expected, and I have somewhere to be later; I'm still going through the physiotherapy exercises.",In Progress
+0938,"I was hoping to be done already because I have other things to handle, but I'm still working through the routine.",In Progress
+0939,"The routine is taking longer than I wanted, and I need to move on afterward; I'm still in the middle of the exercises.",In Progress
+0940,"I took the medication earlier today, and it's completely finished.",Completed
+0941,I finished the medication this morning; it's all done now.,Completed
+0942,"The dose was taken earlier, and I've completed it.",Completed
+0943,"I already took the medication a while ago, and the dose is finished.",Completed
+0944,"I took the medication before lunch, and there's nothing left to take.",Completed
+0945,"The medication was taken earlier, and I've finished the full dose.",Completed
+0946,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress
+0947,"I'm nearly done with the routine, but I'm still doing the final exercise.",In Progress
+0948,"I've reached the last exercise, and I haven't finished the routine yet.",In Progress
+0949,"There's only one exercise left, so I'm close to done, but I'm still working on it.",In Progress
+0950,"I'm at the end of the exercise routine, but I still have the final exercise to finish.",In Progress
+0951,"Most of the routine is complete, but I'm still doing the last exercise.",In Progress
+0952,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed
+0953,"My legs are still sore from physio, but I completed the entire routine.",Completed
+0954,"I still feel the effects of the physiotherapy, although the routine is already finished.",Completed
+0955,"I'm still feeling tired after physio, but I completed all the exercises.",Completed
+0956,"My body is still worn out from the routine, but I've finished the full session.",Completed
+0957,"I still feel tired from doing the exercises, but the physiotherapy routine is done.",Completed
+0958,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed
+0959,"I thought I still had some water left, but that's a different bottle; I've finished the task bottle.",Completed
+0960,"There's still water here—actually, that's for later; I already finished the water for this task.",Completed
+0961,"I still have a bottle with water in it—wait, that's not the one I was supposed to drink; I finished mine.",Completed
+0962,"I was about to say I had some left, but I checked the bottle and realized I had already finished the task amount.",Completed
+0963,"I still have water beside me—no, that's separate; I finished the water I needed for this task.",Completed
+0964,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress
+0965,"I've finished nearly the whole routine, and I started earlier, but there's still one exercise left.",In Progress
+0966,"Most of it is done and I'm close to the end, but I'm still working through the final exercise.",In Progress
+0967,"I got through almost everything earlier, but one exercise remains, so the routine isn't finished yet.",In Progress
+0968,"I'm nearly done after completing most of the exercises, but I still have the last one to do.",In Progress
+0969,"I completed almost the entire set earlier, but there's one exercise I haven't finished.",In Progress
+0970,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed
+0971,"I'm exhausted and need to sit down for a while, but I completed the full physiotherapy routine.",Completed
+0972,I need to rest after that session because my legs are tired; the whole routine is already done.,Completed
+0973,"My legs are worn out, and I don't want to do anything else right now; I finished all the physiotherapy exercises.",Completed
+0974,"I'm feeling the strain and need some recovery time, but I've completed the entire routine.",Completed
+0975,I need to take a break now because I'm tired; the physiotherapy session itself is finished.,Completed
+0976,"I was meant to take the medication earlier, but I haven't started it.",Not Started
+0977,"I should have taken the medication by now, but I haven't begun.",Not Started
+0978,"The medication was due earlier, but I still haven't taken it.",Not Started
+0979,"I was supposed to take the dose earlier, but I haven't started the medication.",Not Started
+0980,"I expected to have taken it already, but the dose hasn't begun.",Not Started
+0981,"The medication was meant to be taken earlier, but I haven't actually taken it yet.",Not Started
+0982,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed
+0983,"The final exercise wasn't done on its own, but I completed the complete routine.",Completed
+0984,I didn't finish that last movement separately; the full exercise set is already complete.,Completed
+0985,"That final exercise wasn't completed as a separate step, but I finished the entire routine.",Completed
+0986,"I didn't do the last exercise by itself, but the full exercise routine was completed.",Completed
+0987,"The last movement wasn't finished separately, but I completed the whole exercise set.",Completed
+0988,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed
+0989,"I'm ready to do physio again, but today's routine is already finished.",Completed
+0990,"I could start another physiotherapy session now, although I already finished today's routine.",Completed
+0991,"I'm prepared for the next physio session, but I completed the one for today.",Completed
+0992,I'm ready for another round of physiotherapy; today's exercises are already done.,Completed
+0993,"I can do another session whenever needed, but I already completed today's physiotherapy routine.",Completed
+0994,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed
+0995,"I haven't drunk that water—actually, that's the other bottle; I finished the one for this task.",Completed
+0996,"I thought I hadn't had it yet, but I meant the other bottle; I already finished this task's water.",Completed
+0997,"I still have water to drink—no, that's for later; I already finished the water assigned to this task.",Completed
+0998,I was thinking of the second bottle; the one for this task is already finished.,Completed
+0999,"No, I haven't had the other bottle yet; I already finished the water for this task.",Completed
+1000,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started
+1001,"I meant to start earlier, laid out the equipment, and planned the routine, but I haven't started the exercises.",Not Started
+1002,"I was going to exercise earlier, set everything up, and decided what to do first, but I haven't done the routine.",Not Started
+1003,"The mat is ready, I planned the first set, and I expected to begin earlier, but the exercises haven't started.",Not Started
+1004,"I prepared the space and intended to begin earlier, but I haven't actually done any exercises.",Not Started
+1005,"I got everything ready and planned the routine for earlier, but I still haven't started exercising.",Not Started
+1006,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed
+1007,"I'm ready to take it easy now, and I'm thinking about tomorrow's session, but today's physiotherapy routine is finished.",Completed
+1008,"That routine wore me out, and I need to think about the next session; today's physiotherapy is already complete.",Completed
+1009,"I need a break after all those exercises, and tomorrow's routine is on my mind; today's session is fully done.",Completed
+1010,"I'm tired and already planning what I'll do tomorrow, but I've finished today's entire physiotherapy routine.",Completed
+1011,I need to recover now and prepare for the next session; the physiotherapy routine for today is completely finished.,Completed

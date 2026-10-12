@@ -1,0 +1,138 @@
+serial_id,utterance,response_category
+001,Maybe.,indifferent
+002,Perhaps.,indifferent
+003,Possibly.,indifferent
+004,Both are fine.,indifferent
+005,Doesn't matter.,indifferent
+006,Either is fine.,indifferent
+007,Either way.,indifferent
+008,It doesn't matter.,indifferent
+009,No preference.,indifferent
+010,Can't say yet.,indifferent
+011,Hard to say.,indifferent
+012,I haven't decided.,indifferent
+013,I'm not certain.,indifferent
+014,I'm undecided.,indifferent
+015,Not decided.,indifferent
+016,Not sure yet.,indifferent
+017,We'll see.,indifferent
+018,Could be.,indifferent
+019,I don't know.,indifferent
+020,I'm not sure.,indifferent
+021,I'm unsure.,indifferent
+022,Maybe so.,indifferent
+023,Not sure.,indifferent
+024,Any option is fine.,indifferent
+025,I have no preference.,indifferent
+026,I'm okay either way.,indifferent
+027,I don't know yet.,indifferent
+028,I need to think.,indifferent
+029,Hesitant.,negative
+030,Reluctant.,negative
+031,I'm not happy.,negative
+032,I'm not satisfied.,negative
+033,Not good.,negative
+034,Not great.,negative
+035,Not ideal.,negative
+036,That's disappointing.,negative
+037,That's not good.,negative
+038,I can't.,negative
+039,I won't.,negative
+040,I'll pass.,negative
+041,No thanks.,negative
+042,Not for me.,negative
+043,Not this time.,negative
+044,Probably not.,negative
+045,I have reservations.,negative
+046,I'd rather not.,negative
+047,I'm hesitant.,negative
+048,I'm not comfortable.,negative
+049,I'm not keen.,negative
+050,I'm reluctant.,negative
+051,Not keen.,negative
+052,I don't like it.,negative
+053,I don't like that.,negative
+054,I'm unhappy with that.,negative
+055,I don't want to.,negative
+056,Agree.,positive
+057,Nice.,positive
+058,Fine by me.,positive
+059,Okay with me.,positive
+060,Sure thing.,positive
+061,"Sure, okay.",positive
+062,That's fine.,positive
+063,That's okay.,positive
+064,"Yes, sure.",positive
+065,I agree.,positive
+066,Sounds good.,positive
+067,That sounds good.,positive
+068,That works.,positive
+069,Works for me.,positive
+070,"Yes, I agree.",positive
+071,I'm satisfied.,positive
+072,Looks good.,positive
+073,Pretty good.,positive
+074,Seems good.,positive
+075,That's good.,positive
+076,That's nice.,positive
+077,I'm okay with that.,positive
+078,Never.,very_negative
+079,Absolutely no.,very_negative
+080,Absolutely not.,very_negative
+081,Certainly not.,very_negative
+082,Definitely not.,very_negative
+083,I completely disagree.,very_negative
+084,I strongly disagree.,very_negative
+085,I totally disagree.,very_negative
+086,No way.,very_negative
+087,Not at all.,very_negative
+088,I refuse completely.,very_negative
+089,I refuse.,very_negative
+090,I will not.,very_negative
+091,I would never.,very_negative
+092,No chance.,very_negative
+093,"No, never.",very_negative
+094,Not a chance.,very_negative
+095,I strongly object.,very_negative
+096,I won't cooperate.,very_negative
+097,I won't do it.,very_negative
+098,I completely oppose it.,very_negative
+099,I refuse to cooperate.,very_negative
+100,I strongly object to that.,very_negative
+101,I strongly oppose it.,very_negative
+102,I strongly oppose that.,very_negative
+103,I will not support it.,very_negative
+104,I'm completely against it.,very_negative
+105,I'm totally against it.,very_negative
+106,Amazing!,very_positive
+107,Excellent!,very_positive
+108,Fantastic!,very_positive
+109,Great!,very_positive
+110,Perfect!,very_positive
+111,Wonderful!,very_positive
+112,Certainly.,very_positive
+113,Definitely.,very_positive
+114,Absolutely.,very_positive
+115,Sounds excellent.,very_positive
+116,That sounds great.,very_positive
+117,That's fantastic.,very_positive
+118,That's wonderful.,very_positive
+119,I'm delighted.,very_positive
+120,I'm very pleased.,very_positive
+121,That's excellent.,very_positive
+122,That's perfect.,very_positive
+123,Certainly yes.,very_positive
+124,Definitely yes.,very_positive
+125,"Definitely, yes.",very_positive
+126,For sure!,very_positive
+127,"Yes, definitely.",very_positive
+128,"Yes, of course.",very_positive
+129,Absolutely yes.,very_positive
+130,"Absolutely, I agree.",very_positive
+131,"Absolutely, yes.",very_positive
+132,Completely agree.,very_positive
+133,I absolutely agree.,very_positive
+134,I strongly agree.,very_positive
+135,I totally agree.,very_positive
+136,Totally agree.,very_positive
+137,"Yes, absolutely.",very_positive

@@ -1,0 +1,438 @@
+serial_id,utterance,response_category
+0001,"I know you mean to help, but please leave me alone about the exercise shoes. I don’t want this brought up again.",very_negative
+0002,That actually solves it. I’ll put the medication on my nightstand tonight.,very_positive
+0003,"Leave me alone about the walks. I know you’re trying to help, but stop pushing me about getting ready for them.",very_negative
+0004,Don't ever ask me to organize my workout gear beforehand.,very_negative
+0005,"Now that the recommendation is clear to me, I’m willing to carry it out.",positive
+0006,I know what you’re asking of me.,indifferent
+0007,"You can call it a wonderful habit if you want; either way, yes, I’ll leave the shoes by the door and follow through.",positive
+0008,"I like the creativity behind the idea, and I appreciate you suggesting it, but I can’t make drinking an extra glass with every cup of tea work for me.",negative
+0009,"Okay, I understand the reasoning now.",indifferent
+0010,"Maybe it helps, maybe not. Honestly, I don’t care—stop lecturing me about hydration. I’m done discussing this.",very_negative
+0011,I genuinely intend to follow through with this over the coming weekend.,positive
+0012,"I dislike planning ahead and I almost rejected the idea, but I actually think this is great and I’ll prepare everything tonight.",very_positive
+0013,I could lay them out tonight.,indifferent
+0014,"Getting my exercise clothes ready the night before could make the morning easier, but I haven’t decided whether it suits me.",indifferent
+0015,"Okay, that makes sense, I’ll follow that.",positive
+0016,That explanation gives me enough confidence to move forward.,positive
+0017,"Getting my exercise clothes ready in the morning fits my routine better, so I’d rather do it then.",negative
+0018,What hydration setup works for me is something I’ll decide later.,indifferent
+0019,"Thanks, I know you’re trying to help, but no—stop pushing me about the walks and leave me alone about it.",very_negative
+0020,"No, seriously, I don’t want any more hydration advice from you.",very_negative
+0021,I appreciate the intervention and I’m clearly willing to continue engaging with it.,very_positive
+0022,I’m rejecting not only this recommendation but any further recommendations on this issue.,very_negative
+0023,I’d prefer to prepare my exercise clothes in the morning instead.,negative
+0024,"Beside my monitor, I’ll keep a full bottle so I can keep drinking while I work.",very_positive
+0025,"Yeah, this has been great. I’m happy to keep going.",very_positive
+0026,"Your assistance is unwanted, and I do not intend to accept it.",very_negative
+0027,I explicitly reject any assistance or guidance from you on this.,very_negative
+0028,I'm still unsure whether I can follow through.,indifferent
+0029,I don’t want you telling me how to manage my water intake. Stop bringing this up.,very_negative
+0030,"Okay, that works. I’ll do the physiotherapy before I settle in.",positive
+0031,"Yes, that sounds really helpful. I’ll have a glass of water with my meal now.",very_positive
+0032,I’d rather do it in the morning.,negative
+0033,"Alright, I can keep some water beside my desk today.",positive
+0034,"Before I settle down tonight, I’ll get the physiotherapy done.",positive
+0035,"As soon as dinner’s finished, I’ll be ready to go—I’ll leave my shoes by the door now.",very_positive
+0036,Preparing my exercise clothes the night before is something I could consider.,indifferent
+0037,I’m not continuing this discussion.,very_negative
+0038,"Okay, I get it now. I’ll do that.",positive
+0039,"I get why you’re suggesting it, and I definitely want to stay hydrated, but having the water tied to lunch doesn’t work for me, so I’ll skip that routine.",negative
+0040,I’d rather get everything ready in the morning.,negative
+0041,I’ll keep a water bottle at my desk and use it throughout the day.,positive
+0042,"Yeah, I know why you suggest it, and I want to stay hydrated, but no, tying the water to lunch doesn’t suit me. I’ll skip that.",negative
+0043,I’m fully aware of what you’re asking.,indifferent
+0044,"I appreciate the goal of helping with hydration, but I’m rejecting the reminder approach completely. Stop pushing drinking reminders; I don’t want this level of monitoring.",very_negative
+0045,"I can keep that option in mind, but I’m leaving the decision open for now.",indifferent
+0046,"I’m frustrated by having to think about routines, and I’m not sure I like this suggestion, but I haven’t decided against it.",indifferent
+0047,"Okay, setting them out tonight is one option.",indifferent
+0048,"Hmm, maybe. I’ll decide later what works best for my hydration.",indifferent
+0049,I see what you’re asking me to do.,indifferent
+0050,I decline to drink water before eating.,negative
+0051,I’ll start having water before meals today.,very_positive
+0052,I’d rather prepare my exercise clothes in the morning because doing it the night before doesn’t fit my routine.,negative
+0053,"Okay, I know what you mean.",indifferent
+0054,"After dinner tonight, I’ll go for a short walk.",positive
+0055,I could put them out tonight.,indifferent
+0056,"Yeah, that works really well for me. I’m definitely trying it.",very_positive
+0057,Please don’t keep giving me suggestions about this.,very_negative
+0058,I don't know yet whether I'll be able to carry it out.,indifferent
+0059,That’ll work. I’ll keep the bottle nearby so I can stay on top of my water intake.,positive
+0060,"No, I’m not doing that. Leave it alone.",very_negative
+0061,I like that approach. I’ll set everything out tonight so tomorrow morning is easier.,very_positive
+0062,I’d prefer not to have to drink water before every meal.,negative
+0063,Arranging my workout gear beforehand is one choice.,indifferent
+0064,"I’m willing to do a small portion, rather than the whole thing.",negative
+0065,I’m not willing to take that particular action.,negative
+0066,I understand the reasoning and I’m willing to follow the recommendation.,positive
+0067,"Drinking water before every meal could help, but I’d rather not make that part of my routine.",negative
+0068,I’ll have my walking shoes ready and take the walk immediately after lunch.,very_positive
+0069,I could probably manage a limited version of that.,negative
+0070,"Okay, I get it now. I can do that.",positive
+0071,"Yeah, I’m definitely planning to follow through on this over the weekend.",positive
+0072,I like that plan. I’ll leave my walking shoes ready so I can head out as soon as lunch is over.,very_positive
+0073,"Sure, I can keep a glass of water by my desk.",positive
+0074,"That explanation makes sense, and I can go ahead with the recommendation.",positive
+0075,I'll organize my workout gear beforehand.,positive
+0076,"I’m not changing how I manage my drinking, and I’m done with you monitoring or advising me about it.",very_negative
+0077,"If we can just tweak that one piece, I’d probably be up for giving it a go.",negative
+0078,I’ll prepare my medication tonight for the morning.,positive
+0079,"Okay, I’ll see how things are set up in the morning before deciding.",indifferent
+0080,I'm thrilled to organize my workout gear beforehand.,very_positive
+0081,"About this topic, do not give me any more suggestions.",very_negative
+0082,"Got it, I’ll go ahead with that.",positive
+0083,"I could manage a limited part of it, but I’m reluctant to do more.",negative
+0084,Your intention to help doesn’t change my response—I’m ending this discussion about getting ready for walks. Stop pushing me and leave me alone.,very_negative
+0085,Further suggestions on this are not welcome.,very_negative
+0086,That’s something I can consider. I’ll decide later what setup works for me.,indifferent
+0087,That makes the reasoning clear.,indifferent
+0088,I’ll decide in the morning whether to keep the medication there.,indifferent
+0089,"No, seriously, I don’t want any more suggestions about preparing them.",very_negative
+0090,Having water before meals is something I could consider.,indifferent
+0091,I'll have to see how things go.,indifferent
+0092,That’s a great idea. I’ll have some water with my meal right now.,very_positive
+0093,"Yeah, that would help a lot. I’ll fill one up and keep it beside my monitor.",very_positive
+0094,I’d rather not drink water before every meal.,negative
+0095,"Okay, but I’d rather get my exercise clothes ready in the morning.",negative
+0096,I could try having water before meals.,indifferent
+0097,"No, I’m not doing that, and I don’t want to discuss it anymore.",very_negative
+0098,Continuing this dialogue any further is something I flatly refuse to do.,very_negative
+0099,Don't ever tell me to drink water before eating.,very_negative
+0100,I want to make this a regular part of my routine.,very_positive
+0101,That timing doesn’t suit me. I’d rather do the physiotherapy exercises later in the day.,negative
+0102,I’m stepping away from this conversation now.,very_negative
+0103,"Yeah, it sounds great, but honestly, I’m still thinking about whether I want the water bottle on my desk today.",indifferent
+0104,"I’m uncertain whether it will save much time, and I usually don’t plan ahead, but I really like this idea and I’ll prepare everything tonight.",very_positive
+0105,"I don’t want to be micromanaged about hydration. I know you’re trying to help, but stop pushing the drinking reminders.",very_negative
+0106,I’ll get my medication ready tonight.,very_positive
+0107,I'll arrange my workout gear the evening before.,positive
+0108,"I understand the request, but I haven’t expressed a behavioral position.",indifferent
+0109,"I can do a little, but I’m not keen on doing the whole thing.",negative
+0110,"Okay, I’ll set out my exercise clothes tonight.",positive
+0111,That gives me an easy way to stay on top of my water. I’ll get a bottle ready now.,very_positive
+0112,"Now that I understand it, I’ll go ahead.",positive
+0113,"I understand that it’s a sensible routine, and I’m still considering my fitness, but I don’t want my walking shoes left by the door today.",negative
+0114,I’m committed to doing this consistently.,very_positive
+0115,"I’m done discussing hydration. Maybe more water helps and maybe it doesn’t, but I don’t care anymore, so stop lecturing me about it.",very_negative
+0116,"Sure, I'll go for the walk once dinner is finished.",positive
+0117,I’d prefer to leave that action out.,negative
+0118,That’s fine. I’ll split them into two sessions.,positive
+0119,"Sure, I’ll go for the walk after dinner tonight.",positive
+0120,I’ll have water before each meal starting today.,very_positive
+0121,"I can do a small part of it, but I’m reluctant to do more.",negative
+0122,Further suggestions about this are not welcome.,very_negative
+0123,"The routine itself may be sensible, but that doesn’t change my response—I don’t want to leave the walking shoes by the door today.",negative
+0124,That clears things up enough for me to move forward.,positive
+0125,I’m making a firm personal commitment to follow through with the recommendation.,very_positive
+0126,I could do that tonight.,indifferent
+0127,"Hmm, let’s leave that open. I’ll see how the morning goes.",indifferent
+0128,The hydration goal isn’t what I’m objecting to—I’m rejecting the repeated reminders and the feeling of being monitored. Stop pushing them.,very_negative
+0129,That’s one option. I’ll consider what kind of hydration setup suits me.,indifferent
+0130,"Thanks, I know you’re trying to help, but no—leave me alone about the exercise shoes and don’t bring this up again.",very_negative
+0131,"It’s a little inconvenient and I’m not thrilled about changing the routine, but I’ll split the exercises today.",positive
+0132,"I recognize your good intentions regarding my hydration, but please stop nagging me with these reminders.",very_negative
+0133,"Okay, drinking water before meals is one option.",indifferent
+0134,"I’m not preparing them ahead of time, and I don’t want you bringing this suggestion up again.",very_negative
+0135,I’ll drink water before meals.,very_positive
+0136,"I can handle a small part, though I’d rather not take on more.",negative
+0137,"Okay, drinking water before meals is one option.",indifferent
+0138,I understand the request.,indifferent
+0139,"I realize having a routine is helpful and fitness matters to me, but I really don’t want to leave my walking shoes by the door today.",negative
+0140,How my tea setup looks tomorrow morning can determine whether I put the medication there.,indifferent
+0141,"No, I’d prefer not to do that.",negative
+0142,"I’m not doing that, and I don’t want you bringing this suggestion up again.",very_negative
+0143,"I'm not opposed to it, but I don't know yet whether I'll be able to follow through.",indifferent
+0144,"Thanks, I know you’re trying to help, but no—stop pushing the drinking reminders. I don’t want to be micromanaged.",very_negative
+0145,I’ll prepare my medication tonight so it’s ready in the morning.,very_positive
+0146,"Yep, that solves it. I’ll put the medication by the lamp tonight.",very_positive
+0147,"Now that I can see how useful this is for me, I’m keen to put it into practice.",very_positive
+0148,Could I just do a smaller part of it?,negative
+0149,Having water before meals is something I could consider.,indifferent
+0150,Would it be useful if I followed through with the whole plan myself?,very_positive
+0151,I’d rather do it in the morning.,negative
+0152,"I’m hesitant about it and I don’t particularly like the idea, but I haven’t decided against preparing them.",indifferent
+0153,"It might help, and I’m still thinking about whether I like the idea, but I’ll set the reminder for tonight.",positive
+0154,That could be worth considering. I’ll see what works for me.,indifferent
+0155,I decline to organize my workout gear beforehand.,negative
+0156,"I’ll skip that arrangement. I do want to stay hydrated, and I understand why you suggest it, but tying the water to lunch doesn’t suit me.",negative
+0157,I’ll prepare my medication tonight,very_positive
+0158,"Yep, I’m on it. I’ll put my shoes by the door now and go after dinner.",very_positive
+0159,I want to carry this through because I’ve decided it’s worth doing.,very_positive
+0160,I’m outta here — not another word about this.,very_negative
+0161,I'm enthusiastic about drinking water before eating.,very_positive
+0162,"I understand the repeated explanation, but I haven't decided how I feel about acting on it.",indifferent
+0163,"Yeah, I’m going to stick with it.",very_positive
+0164,I’ll get my medication ready tonight.,very_positive
+0165,"I know you’re trying to help, but stop pushing me about getting ready for walks and leave me alone about it.",very_negative
+0166,"Don’t bring up the exercise shoes again. I appreciate that you think you’re helping, but seriously, leave me alone about this.",very_negative
+0167,"Sure, I’ll get the physiotherapy done before I settle down.",positive
+0168,I understand the explanation.,indifferent
+0169,That actually feels like it was made for my situation.,very_positive
+0170,Stop bringing up my water intake.,very_negative
+0171,I’ll have a glass of water before every meal starting today.,very_positive
+0172,"Okay, but setting everything out tonight doesn’t work well for me.",negative
+0173,That solves the main problem for me. I’ll prepare everything tonight and get started first thing tomorrow.,very_positive
+0174,"I can see why the routine makes sense, and I’m thinking about staying active, but I’m not willing to leave my walking shoes by the door today.",negative
+0175,I'll organize my workout gear beforehand.,positive
+0176,"Right, I hear you.",indifferent
+0177,I’m in. I’ll put my walking shoes out now so I can head out as soon as dinner is over.,very_positive
+0178,I’ll get them ready tonight.,very_positive
+0179,"The hydration goal itself is fine, but this particular routine isn’t—I’m not going to tie drinking water to lunch.",negative
+0180,"Now that I understand it, I’ll follow the plan.",positive
+0181,I’d be more willing to try it after a small change.,negative
+0182,I am withdrawing from the interaction and will not continue the discussion.,very_negative
+0183,I’ll go for a 10-minute walk after dinner tonight.,positive
+0184,"Alright, I’ll keep the bottle beside my desk and use it to stay on track with my water.",positive
+0185,"Yes, I’ll leave my shoes by the door and do the session. It does sound like a good habit, and I appreciate the suggestion.",positive
+0186,I’ll drink some water before meals starting today.,very_positive
+0187,"I can cooperate to a limited extent, but I’m resisting doing the full activity.",negative
+0188,"I can see how that might help, and I’ll probably walk tomorrow, but I’m still undecided about leaving my shoes by the door tonight.",indifferent
+0189,Setting out my exercise clothes the night before is something I could consider.,indifferent
+0190,Let’s keep that undecided for now. I’ll see what my morning tea setup looks like.,indifferent
+0191,"The idea itself is creative, but that particular routine doesn’t work for me—I’m not going to add an extra glass whenever I make tea.",negative
+0192,I don’t think mornings will work for me. I’d rather do the exercises later.,negative
+0193,"I’m still weighing whether I want a water bottle on my desk today. The strategy sounds fantastic on paper, but I haven’t decided to do it.",indifferent
+0194,This has been useful enough that I’d like to keep working through the next steps with you.,very_positive
+0195,That timing works for me. I’ll fit the physiotherapy in before I settle down.,positive
+0196,"I really admire how creative that habit-building approach is, yet I still decline to drink an extra glass with tea.",negative
+0197,I'll gladly drink water before eating.,very_positive
+0198,"Okay, setting them out tonight is one option.",indifferent
+0199,I’m leaving this conversation now.,very_negative
+0200,"Maybe more water helps, maybe it doesn’t. Either way, I don’t care anymore—stop lecturing me about hydration. I’m done with the topic.",very_negative
+0201,I don’t want any more advice about this.,very_negative
+0202,Drinking water before eating is a possibility.,indifferent
+0203,I'll gladly organize my pills tonight for tomorrow's dose.,very_positive
+0204,"No, leave my drinking habits alone. Stop bringing this up.",very_negative
+0205,I’d rather get them ready in the morning.,negative
+0206,"Yes, that sounds really useful. I’ll prepare everything tonight.",very_positive
+0207,"Beside my bedside lamp, I’ll keep the medication from tonight so it’s right where I need it.",very_positive
+0208,I could give it a shot if we changed that part.,negative
+0209,"Sure, I’ll get my medication ready tonight.",positive
+0210,Having you involved in this matter is entirely unacceptable to me.,very_negative
+0211,I’ll lay them out tonight.,positive
+0212,I’m not sure if I’ll be able to follow through.,indifferent
+0213,"Okay, I see how you got there.",indifferent
+0214,"It may be a little inconvenient, and I’m not especially enthusiastic about changing my routine, but I think this is a great approach and I’ll try both sessions today.",very_positive
+0215,"Okay, I can keep a glass of water by my desk today so it’s easy to reach when I need it.",positive
+0216,"No, I’d rather skip that.",negative
+0217,"Right, I’m going to stick with it.",very_positive
+0218,I can keep some water by my desk.,positive
+0219,"Okay, I’ll get my medication ready tonight for tomorrow morning.",positive
+0220,"Okay, I’ll prepare my medication tonight.",positive
+0221,I'll see how it goes before I know.,indifferent
+0222,"I can see why the strategy sounds fantastic, but that doesn’t mean I’ve decided to use it—I’m still considering whether I want the bottle on my desk today.",indifferent
+0223,That feels much more manageable for me now.,very_positive
+0224,"Drinking an extra glass whenever I make tea doesn’t work for me. I appreciate the thought, and it is a creative way to build the habit, but I won’t do it that way.",negative
+0225,I follow the reasoning you've explained.,indifferent
+0226,"I don’t want to split them up, and I’m tired of changing routines, but I’ll do the full set in one session.",positive
+0227,I’d prefer to prepare my exercise clothes in the morning instead.,negative
+0228,"Yep, I’m up for that. I’ll have my shoes ready and head out after lunch.",very_positive
+0229,I’ll lay them out tonight.,positive
+0230,That fixes the main problem for me. I’ll put the medication beside my lamp tonight so it’s ready when I need it.,very_positive
+0231,I don’t want your help with this.,very_negative
+0232,"I’m not changing when I prepare my exercise clothes, and I’m done discussing it.",very_negative
+0233,"Okay, I understand the angle you’re taking.",indifferent
+0234,I do not want your assistance with this.,very_negative
+0235,That seems really useful — is there anything else I should do with it?,very_positive
+0236,Drinking water before eating is something I might do.,indifferent
+0237,I’ll get my exercise clothes ready tonight so I can start easily tomorrow.,very_positive
+0238,I could drink water before meals.,indifferent
+0239,I'd rather avoid preparing my workout clothes beforehand.,negative
+0240,Following through on this over the weekend is something I fully plan on doing.,positive
+0241,I don’t really want to drink a glass of water before every meal.,negative
+0242,I’ll prepare my exercise clothes tonight so everything is ready when I start tomorrow.,very_positive
+0243,"Alright, I understand. I’ll follow it.",positive
+0244,I’ll have a glass of water with my meal now,very_positive
+0245,I am stepping away and abandoning this conversation immediately.,very_negative
+0246,"That was genuinely useful, and I’m glad to follow it.",very_positive
+0247,I don’t want you commenting on my drinking habits. Stop bringing this up.,very_negative
+0248,Don't ever ask me to organize my workout gear beforehand.,very_negative
+0249,No. Stop bringing it up.,very_negative
+0250,"Alright, that’s fine with me.",positive
+0251,I like it. I’ll leave my shoes ready so I can go straight out after lunch.,very_positive
+0252,No. I’m not doing that. Stop bringing it up.,very_negative
+0253,I could put my exercise clothes out tonight.,indifferent
+0254,"No, I’m not doing that. Leave it alone.",very_negative
+0255,That recommendation fits me really well. I’m happy to follow it.,very_positive
+0256,I’ll do my physiotherapy exercises later instead of before breakfast.,negative
+0257,"Alright, I’ll make sure to follow through on that this weekend.",positive
+0258,"I’m not changing when I prepare my exercise clothes, and I’m done discussing this with you.",very_negative
+0259,"I totally get the reasoning behind your suggestion and value hydration, yet I prefer not to tie it to lunch.",negative
+0260,Whether more water helps is no longer the issue—I’m ending this conversation about hydration. Stop lecturing me about it.,very_negative
+0261,"It makes sense to me, and I can imagine walking tomorrow, but none of that means I’ve decided to set the shoes out tonight.",indifferent
+0262,I’ll fill a large bottle and keep it beside my monitor throughout the workday.,very_positive
+0263,"Yeah, I’ll see it through.",very_positive
+0264,"Thanks, this actually fits my situation really well.",very_positive
+0265,"With this matter, I do not want any help from you.",very_negative
+0266,Organizing my workout gear beforehand is feasible.,indifferent
+0267,"Sure, I’ll put them out tonight.",positive
+0268,I’ll lay out my exercise clothes tonight so everything is ready when I start tomorrow.,positive
+0269,Got it. I’ll go ahead with it.,positive
+0270,"I’m undecided about leaving the shoes by the door tonight. I can see how it would help, and I might walk tomorrow, but I haven’t committed to it.",indifferent
+0271,"Yeah, I see the point, and maybe tomorrow. But for tonight, I’m still undecided about leaving the shoes by the door.",indifferent
+0272,I have every intention of cooperating with the recommendation in the near future.,positive
+0273,"Thanks, this has helped — what should we work on next?",very_positive
+0274,I know what you’re asking.,indifferent
+0275,"Oh, that really helped — I’m happy to go with this.",very_positive
+0276,I refuse to organize my workout gear beforehand.,negative
+0277,I’d rather do it in the morning.,negative
+0278,That clarification gives me enough information to follow the plan.,positive
+0279,I’ll make it easy to follow through—I’m putting my shoes by the door now for after dinner.,very_positive
+0280,"I appreciate that you’re trying to help, but I’m rejecting the conversation altogether—stop pushing me about getting ready for walks and leave me alone.",very_negative
+0281,I'll organize my pills tonight for tomorrow's dose.,positive
+0282,I’d rather get them ready in the morning.,negative
+0283,I’m not talking about this anymore — I am completely done here.,very_negative
+0284,That’s fine with me. I’ll take a short walk after dinner tonight.,positive
+0285,I strongly reject the agent’s involvement in this behavior.,very_negative
+0286,Your intention to help isn’t the issue—I’m ending this conversation about the exercise shoes. Please leave me alone and don’t raise it again.,very_negative
+0287,"The strategy is creative and I appreciate the suggestion, but I’m not willing to add an extra glass every time I make tea.",negative
+0288,"I understand it now, so I can move forward with it.",positive
+0289,"I’m not changing when or how I drink water, and I’m done with you giving me hydration advice.",very_negative
+0290,"Okay, but I’d prefer to prepare them in the morning.",negative
+0291,That’s a great idea. I’ll get everything ready tonight.,very_positive
+0292,"Beside my desk, I’ll keep the water bottle so I can stay on track.",positive
+0293,"Sure, I’ll keep it right by my desk and use it during the day.",positive
+0294,I’ll do my physiotherapy before my evening routine.,positive
+0295,"I’m declining the action, but I’m not trying to end the conversation.",negative
+0296,"Now that I understand the concern, I’m willing to do it.",positive
+0297,That’s one possibility. I’ll have to see what works.,indifferent
+0298,I’ll get my medication ready tonight for tomorrow morning.,very_positive
+0299,Drinking some water before meals could be one way to stay hydrated.,indifferent
+0300,"I really appreciate the suggestion, and it does sound like a great habit, but yes, I’ll keep my shoes by the door and do the session.",positive
+0301,I want all further recommendations regarding this issue stopped immediately.,very_negative
+0302,That explanation makes sense to me.,positive
+0303,"Okay, but I’d rather not do that before every meal.",negative
+0304,"The idea may sound fantastic, but my current position is still undecided—I’m considering whether to keep a water bottle on my desk today.",indifferent
+0305,That gives me an easy way to follow through. I’ll get my shoes ready before lunch.,very_positive
+0306,I don’t think that timing is going to work for me. I’d rather keep the exercises later in the day.,negative
+0307,"Yeah, I’d rather keep the exercises for later in the day. That morning timing won’t work for me.",negative
+0308,No. Stop telling me when to drink water.,very_negative
+0309,Later in the day would work better for me; I don’t want to do the exercises before breakfast.,negative
+0310,"Maybe drinking more water helps people, maybe it doesn’t, but I don’t care. Stop lecturing me about hydration; I’m done discussing this.",very_negative
+0311,"Alright, I can keep a glass of water by my desk today.",positive
+0312,I'm uncertain about whether I'll manage to follow through.,indifferent
+0313,That would make it much easier. I’ll fill a large bottle now and keep it right beside my monitor.,very_positive
+0314,I do not want any more recommendations about this.,very_negative
+0315,Alright. I’ll set things up before dinner so I can get them done.,positive
+0316,"No thanks, I’d really prefer to skip over that one.",negative
+0317,I’ll set out my exercise clothes tonight so they’re ready for the morning.,positive
+0318,"Okay, I’ll set out my exercise clothes tonight.",positive
+0319,"Okay, I see what you mean.",indifferent
+0320,Laying out my exercise clothes tonight might make the morning easier.,indifferent
+0321,"No, I’m not doing that. Leave my drinking habits alone.",very_negative
+0322,"I understand the benefit, and maybe I’ll take a walk tomorrow, but I haven’t decided whether I want the shoes by the door tonight.",indifferent
+0323,"I understand you’re trying to help me stay hydrated, but stop pushing the drinking reminders. I don’t want to be micromanaged.",very_negative
+0324,I really appreciate the support and I’m happy to keep working with you.,very_positive
+0325,"I really don’t want to leave my walking shoes by the door today. I know the routine is sensible, and I’m still thinking about fitness overall, but that setup isn’t for me.",negative
+0326,"I agree that staying hydrated matters, and I understand the reasoning, but I’m not going to connect the water to lunch. I’ll skip that arrangement.",negative
+0327,"I’m annoyed by the suggestion and I really don’t want to do it tonight, but I’m open to trying a different approach.",negative
+0328,"Look, could we change that part so I can consider doing it?",negative
+0329,I’ll see how it goes.,indifferent
+0330,"Alright, that clears it up. I’ll give it a try.",positive
+0331,What exactly are you asking me to do?,indifferent
+0332,"Okay, I’ll put the bottle by my desk and keep drinking from it.",positive
+0333,I’ll lay out my exercise clothes tonight so I can get ready more easily in the morning.,positive
+0334,"Sure, I’m doing that. I’ll fill a bottle and keep it right next to my monitor.",very_positive
+0335,"I’m not opposed to doing the exercises, but that early timing doesn’t work for me. I’d rather move them later.",negative
+0336,"Changing my routine is inconvenient and I was hesitant at first, but I really like this approach and I’ll try the two sessions today.",very_positive
+0337,"Right after lunch, I’ll be ready to walk; I’ll put my shoes out beforehand.",very_positive
+0338,Your involvement is not something I want here.,very_negative
+0339,I’ll set out my exercise clothes tonight so they’re ready for tomorrow.,positive
+0340,"Alright, I’ll follow it.",positive
+0341,"No, seriously, leave my drinking habits alone and stop bringing them up.",very_negative
+0342,I’ll have some water with my meal.,very_positive
+0343,I’ll have to see how things work out.,indifferent
+0344,Go ahead and set it. I’ll get everything ready before it goes off tonight.,very_positive
+0345,That makes the routine much easier for me. I’ll set the medication there tonight and follow through.,very_positive
+0346,I could drink water before meals.,indifferent
+0347,"Sure, I’ll put my exercise clothes out tonight.",positive
+0348,"Yeah, this is really helpful. I’m definitely going to use it.",very_positive
+0349,I’d rather prepare my exercise clothes in the morning instead.,negative
+0350,"Yeah, I know it makes sense, and I’m thinking about fitness. But honestly, I don’t want the walking shoes by the door today.",negative
+0351,"I understand that you’re trying to help, and I appreciate the intention, but I’m rejecting the discussion altogether. Leave me alone about the exercise shoes and don’t raise it again.",very_negative
+0352,I could try drinking water before meals.,indifferent
+0353,Could we look at a different option?,negative
+0354,I fully plan to carry that out this weekend.,positive
+0355,"It sounds great in theory, but I’m honestly still deciding whether I want a water bottle sitting on my desk today.",indifferent
+0356,"Drinking water before meals could be useful, but I’ll think about whether it fits my routine.",indifferent
+0357,"I appreciate that you think you’re being helpful, but seriously, leave me alone about exercise shoes and don’t bring this up again.",very_negative
+0358,"The idea makes sense and a walk tomorrow is possible, but those are only possibilities—I’m still considering whether to set the shoes out tonight.",indifferent
+0359,I understand the explanation you've given.,indifferent
+0360,Thank you so much for tailoring that to my situation.,very_positive
+0361,That works for me. I’ll do it before I settle down for the evening.,positive
+0362,Sounds good. I’ll leave my shoes by the door now so I’m ready to go after dinner.,very_positive
+0363,That sounds excellent. I’ll have a glass of water with my meal and start doing this regularly.,very_positive
+0364,Making a minor tweak here would significantly improve my willingness to attempt it.,negative
+0365,"Yes, I’ll prepare my medication tonight.",positive
+0366,"Thanks, that sounds great. But yes, I’ll leave the shoes by the door and get the session done.",positive
+0367,"Your strategy makes a lot of sense in theory, though I'm still deciding if I'll actually keep a water bottle on my desk today.",indifferent
+0368,I’ll think about keeping a water bottle on my desk.,indifferent
+0369,"I understand you mean well, but please stop pushing the walking routine. I want to be left alone about it.",very_negative
+0370,"I can manage a small bit of it, but I’m really not up for doing the whole thing.",negative
+0371,That fits my routine. I’ll do the physiotherapy before I settle down for the evening.,positive
+0372,That’s not something I’m willing to take on.,negative
+0373,I’ll put my evening medication on the nightstand tonight and keep it there for the routine.,very_positive
+0374,I’d rather prepare my exercise clothes in the morning because getting them ready the night before doesn’t fit my routine.,negative
+0375,Stop sending suggestions my way about this — I don’t want them.,very_negative
+0376,I’d be open to considering the proposal provided some modifications are made.,negative
+0377,I’m very positive about this recommendation; it addresses exactly what I needed.,very_positive
+0378,I’ll consider doing it if the recommendation is adjusted.,negative
+0379,A small change would make me more willing to try it.,negative
+0380,Don't ever ask me to prepare my workout clothes beforehand.,very_negative
+0381,I’ll get my shoes ready now and head out for the walk after dinner.,very_positive
+0382,I’m done here. I’m not talking about this anymore.,very_negative
+0383,That works for me. I’ll fit the walk in after dinner.,positive
+0384,"I can see that drinking more water might help, but I’m rejecting the discussion itself. Stop lecturing me about hydration; I’m done talking about it.",very_negative
+0385,"Thanks, I appreciate the idea, but no, drinking an extra glass every time I make tea doesn’t work for me.",negative
+0386,"Thanks, I’m glad we’re doing this — I’m happy to keep going.",very_positive
+0387,"That sounds like a wonderful habit and I appreciate the helpful thought, but simply put, yes, I’ll leave my shoes by the door.",positive
+0388,"Okay, got it. I’ll do it.",positive
+0389,"I’m resisting the recommendation as it stands, but I may cooperate after the requested adjustment.",negative
+0390,I don’t want any help from you whatsoever — back off.,very_negative
+0391,That would make things much easier. I’ll do the first part before work and finish the rest later.,very_positive
+0392,"It sounds wonderful and I’m grateful for the suggestion, but my response is simply yes—I’ll leave the shoes by the door and do it.",positive
+0393,"No, I don’t want to do that.",negative
+0394,I intend to follow through with it on my own.,very_positive
+0395,I don’t need to decide that now. I’ll see how the morning routine works first.,indifferent
+0396,Either option is fine.,indifferent
+0397,Possibly.,indifferent
+0398,I don't know.,indifferent
+0399,Not decided.,indifferent
+0400,Anyway.,indifferent
+0401,Maybe sometime.,indifferent
+0402,Maybe I will later.,indifferent
+0403,We will have to see.,indifferent
+0404,Hmm.,indifferent
+0405,I am not sure about that.,negative
+0406,Disagree.,negative
+0407,I would prefer not to.,negative
+0408,Hesitantly.,negative
+0409,Disagree!,negative
+0410,Pass.,negative
+0411,No problem.,positive
+0412,Fine!,positive
+0413,Thanks.,positive
+0414,Alright!,positive
+0415,Right.,positive
+0416,Can do.,positive
+0417,I can do that.,positive
+0418,"No problem, I can do it.",positive
+0419,That's acceptable.,positive
+0420,Offensive!,very_negative
+0421,No way.,very_negative
+0422,Disgusting!,very_negative
+0423,Nonsense!,very_negative
+0424,Never ever.,very_negative
+0425,I want this to stop.,very_negative
+0426,I will never do that.,very_negative
+0427,Ugh!,very_negative
+0428,"Absolutely not, I refuse.",very_negative
+0429,That sounds really wonderful.,very_positive
+0430,I would be delighted.,very_positive
+0431,Excellent!,very_positive
+0432,"Yes, absolutely, I would.",very_positive
+0433,"Definitely, that sounds great.",very_positive
+0434,"Yes, that would be excellent.",very_positive
+0435,Absolutely.,very_positive
+0436,I am very happy.,very_positive
+0437,I am definitely willing.,very_positive

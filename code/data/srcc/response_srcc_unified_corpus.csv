@@ -1,0 +1,280 @@
+ID,utterance,response_category
+VP-SR1-001,Absolutely.,very_positive
+VP-SR1-002,Definitely.,very_positive
+VP-SR1-003,Certainly.,very_positive
+VP-SR1-004,Excellent!,very_positive
+VP-SR1-005,Wonderful!,very_positive
+VP-SR1-006,Perfect!,very_positive
+VP-SR1-007,Great!,very_positive
+VP-SR1-008,Fantastic!,very_positive
+VP-SR1-009,Brilliant!,very_positive
+VP-SR1-010,Awesome!,very_positive
+VP-SR1-011,Gladly.,very_positive
+VP-SR1-012,Happily.,very_positive
+VP-SR1-013,Enthusiastically.,very_positive
+VP-SR1-014,Absolutely!,very_positive
+VP-SR1-015,Definitely!,very_positive
+VP-SR1-016,Certainly!,very_positive
+VP-SR1-017,Yes!,very_positive
+VP-SR1-018,Thanks!,very_positive
+VP-SR1-019,Great.,very_positive
+VP-SR1-020,Perfect.,very_positive
+VP-SR2-001,Absolutely yes.,very_positive
+VP-SR2-002,Definitely yes.,very_positive
+VP-SR2-003,Certainly yes.,very_positive
+VP-SR2-004,"Yes, absolutely.",very_positive
+VP-SR2-005,"Yes, definitely.",very_positive
+VP-SR2-006,"Yes, certainly.",very_positive
+VP-SR2-007,Absolutely perfect.,very_positive
+VP-SR2-008,Absolutely wonderful.,very_positive
+VP-SR2-009,Truly excellent.,very_positive
+VP-SR2-010,Really fantastic.,very_positive
+VP-SR2-011,Sounds fantastic.,very_positive
+VP-SR2-012,Sounds wonderful.,very_positive
+VP-SR2-013,Sounds perfect.,very_positive
+VP-SR2-014,Very happy.,very_positive
+VP-SR2-015,More than happy.,very_positive
+VP-SR2-016,Happy to.,very_positive
+VP-SR2-017,Glad to.,very_positive
+VP-SR2-018,Definitely willing.,very_positive
+VP-SR2-019,Completely willing.,very_positive
+VP-SR2-020,Fully agreed.,very_positive
+VP-SR3-001,"Yes, absolutely, I would.",very_positive
+VP-SR3-002,"Yes, definitely, I would.",very_positive
+VP-SR3-003,"Yes, I would love that.",very_positive
+VP-SR3-004,"Absolutely, that sounds wonderful.",very_positive
+VP-SR3-005,"Absolutely, that sounds perfect.",very_positive
+VP-SR3-006,"Definitely, that sounds great.",very_positive
+VP-SR3-007,That sounds absolutely fantastic.,very_positive
+VP-SR3-008,That sounds really wonderful.,very_positive
+VP-SR3-009,That sounds perfectly good.,very_positive
+VP-SR3-010,I would be delighted.,very_positive
+VP-SR3-011,I would be very happy.,very_positive
+VP-SR3-012,I am very happy.,very_positive
+VP-SR3-013,I am absolutely willing.,very_positive
+VP-SR3-014,I am definitely willing.,very_positive
+VP-SR3-015,I would gladly do that.,very_positive
+VP-SR3-016,I would happily do that.,very_positive
+VP-SR3-017,"Yes, that would be excellent.",very_positive
+VP-SR3-018,"Yes, that would be wonderful.",very_positive
+VP-SR3-019,"Yes, that sounds fantastic.",very_positive
+VP-SR3-020,I am completely on board.,very_positive
+P-SR1-001,Okay.,positive
+P-SR1-002,Sure.,positive
+P-SR1-003,Yes.,positive
+P-SR1-004,Fine.,positive
+P-SR1-005,Alright.,positive
+P-SR1-006,Agreed.,positive
+P-SR1-007,Accepted.,positive
+P-SR1-008,Willingly.,positive
+P-SR1-009,Thanks.,positive
+P-SR1-010,Right.,positive
+P-SR1-011,Yep.,positive
+P-SR1-012,Yup.,positive
+P-SR1-013,Okay!,positive
+P-SR1-014,Sure!,positive
+P-SR1-015,Yes!,positive
+P-SR1-016,Fine!,positive
+P-SR1-017,Alright!,positive
+P-SR1-018,Agreed!,positive
+P-SR1-019,Yep!,positive
+P-SR1-020,Yup!,positive
+P-SR2-001,Sounds good.,positive
+P-SR2-002,That's fine.,positive
+P-SR2-003,That's okay.,positive
+P-SR2-004,"Sure, okay.",positive
+P-SR2-005,"Yes, okay.",positive
+P-SR2-006,"Yes, sure.",positive
+P-SR2-007,"Okay, sure.",positive
+P-SR2-008,I agree.,positive
+P-SR2-009,I will.,positive
+P-SR2-010,Can do.,positive
+P-SR2-011,Will do.,positive
+P-SR2-012,That's acceptable.,positive
+P-SR2-013,Seems good.,positive
+P-SR2-014,Sounds okay.,positive
+P-SR2-015,Works fine.,positive
+P-SR2-016,No problem.,positive
+P-SR2-017,Happy enough.,positive
+P-SR2-018,I can.,positive
+P-SR2-019,"Yes, please.",positive
+P-SR2-020,"Sure, thanks.",positive
+P-SR3-001,"Okay, I can do that.",positive
+P-SR3-002,"Sure, I can do that.",positive
+P-SR3-003,"Yes, I can do that.",positive
+P-SR3-004,"Fine, I can do that.",positive
+P-SR3-005,"Okay, that sounds good.",positive
+P-SR3-006,"Sure, that sounds good.",positive
+P-SR3-007,"Yes, that sounds good.",positive
+P-SR3-008,That sounds good to me.,positive
+P-SR3-009,That works well for me.,positive
+P-SR3-010,I think that's fine.,positive
+P-SR3-011,I think that's okay.,positive
+P-SR3-012,I can do that.,positive
+P-SR3-013,I will do that.,positive
+P-SR3-014,"Sure, I will do that.",positive
+P-SR3-015,"Yes, I will do that.",positive
+P-SR3-016,"Okay, I will try.",positive
+P-SR3-017,"Sure, I'll try that.",positive
+P-SR3-018,I am okay with that.,positive
+P-SR3-019,That should work for me.,positive
+P-SR3-020,"No problem, I can do it.",positive
+01,Maybe.,indifferent
+02,Perhaps.,indifferent
+03,Possibly.,indifferent
+04,Somehow.,indifferent
+05,Whatever.,indifferent
+06,Anyway.,indifferent
+07,Hmm.,indifferent
+08,Hm.,indifferent
+09,Well.,indifferent
+10,Apparently.,indifferent
+11,Probably.,indifferent
+12,Unsure.,indifferent
+13,Undecided.,indifferent
+14,Unclear.,indifferent
+15,Likely.,indifferent
+16,Neutral.,indifferent
+17,Indifferent.,indifferent
+18,Undetermined.,indifferent
+19,Uncertain.,indifferent
+I-SR2-001,Maybe later.,indifferent
+I-SR2-002,Perhaps later.,indifferent
+I-SR2-003,Not sure.,indifferent
+I-SR2-004,I suppose.,indifferent
+I-SR2-005,I guess.,indifferent
+I-SR2-006,Could be.,indifferent
+I-SR2-007,Hard to say.,indifferent
+I-SR2-008,We'll see.,indifferent
+I-SR2-009,I don't know.,indifferent
+I-SR2-010,Not certain.,indifferent
+I-SR2-011,Maybe so.,indifferent
+I-SR2-012,Perhaps so.,indifferent
+I-SR2-013,I suppose so.,indifferent
+I-SR2-014,I guess so.,indifferent
+I-SR2-015,Could be.,indifferent
+I-SR2-016,Maybe sometime.,indifferent
+I-SR2-017,Perhaps sometime.,indifferent
+I-SR2-018,We'll see.,indifferent
+I-SR2-019,Not decided.,indifferent
+I-SR2-020,No preference.,indifferent
+I-SR3-001,I am not sure.,indifferent
+I-SR3-002,I am not certain.,indifferent
+I-SR3-003,I am undecided about it.,indifferent
+I-SR3-004,I will have to see.,indifferent
+I-SR3-005,We will have to see.,indifferent
+I-SR3-006,I am not really sure.,indifferent
+I-SR3-007,I cannot say yet.,indifferent
+I-SR3-008,I don't really know.,indifferent
+I-SR3-009,I am still thinking.,indifferent
+I-SR3-010,I haven't decided yet.,indifferent
+I-SR3-011,I might decide later.,indifferent
+I-SR3-012,Maybe I will later.,indifferent
+I-SR3-013,Perhaps I will later.,indifferent
+I-SR3-014,I need to think.,indifferent
+I-SR3-015,I need some time.,indifferent
+I-SR3-016,I am still unsure.,indifferent
+I-SR3-017,I have no preference.,indifferent
+I-SR3-018,Either option is fine.,indifferent
+I-SR3-019,I could go either way.,indifferent
+I-SR3-020,I haven't made up my mind.,indifferent
+N-SR1-001,No.,negative
+N-SR1-002,Nope.,negative
+N-SR1-003,Nah.,negative
+N-SR1-004,Never.,negative
+N-SR1-005,Reluctantly.,negative
+N-SR1-006,Hesitantly.,negative
+N-SR1-007,Unwillingly.,negative
+N-SR1-008,Disagree.,negative
+N-SR1-009,Refuse.,negative
+N-SR1-010,Decline.,negative
+N-SR1-011,Impossible.,negative
+N-SR1-012,Unlikely.,negative
+N-SR1-013,Sorry.,negative
+N-SR1-014,Unfortunately.,negative
+N-SR1-015,Pass.,negative
+N-SR1-016,Resist.,negative
+N-SR1-017,Doubtful.,negative
+N-SR1-018,Unwilling.,negative
+N-SR1-019,Disagree!,negative
+N-SR1-020,Refuse!,negative
+N-SR3-001,I don't think so.,negative
+N-SR3-002,I would rather not.,negative
+N-SR3-003,I don't really want to.,negative
+N-SR3-004,I am not interested.,negative
+N-SR3-005,I am not comfortable.,negative
+N-SR3-006,I don't agree with that.,negative
+N-SR3-007,I don't think that's necessary.,negative
+N-SR3-008,I would prefer not to.,negative
+N-SR3-009,I don't want to do that.,negative
+N-SR3-010,I don't think I can.,negative
+N-SR3-011,I am not sure about that.,negative
+N-SR3-012,I don't feel like it.,negative
+N-SR3-013,I would rather skip it.,negative
+N-SR3-014,I don't want that.,negative
+N-SR3-015,That doesn't work for me.,negative
+N-SR3-016,That is not for me.,negative
+N-SR3-017,I am not willing to.,negative
+N-SR3-018,I don't agree with this.,negative
+N-SR3-019,I would not choose that.,negative
+N-SR3-020,I don't think I should.,negative
+VN-SR1-001,Stop!,very_negative
+VN-SR1-002,Enough!,very_negative
+VN-SR1-003,Unacceptable!,very_negative
+VN-SR1-004,Ridiculous!,very_negative
+VN-SR1-005,Outrageous!,very_negative
+VN-SR1-006,Absurd!,very_negative
+VN-SR1-007,Awful!,very_negative
+VN-SR1-008,Horrible!,very_negative
+VN-SR1-009,Terrible!,very_negative
+VN-SR1-010,Disgusting!,very_negative
+VN-SR1-011,Offensive!,very_negative
+VN-SR1-012,Insulting!,very_negative
+VN-SR1-013,Nonsense!,very_negative
+VN-SR1-014,Denied!,very_negative
+VN-SR1-015,Rejected!,very_negative
+VN-SR1-016,Refused!,very_negative
+VN-SR1-017,Absolutelynot!,very_negative
+VN-SR1-018,Nooooo!,very_negative
+VN-SR1-019,Seriously!,very_negative
+VN-SR1-020,Ugh!,very_negative
+VN-SR2-001,Absolutely not.,very_negative
+VN-SR2-002,Definitely not.,very_negative
+VN-SR2-003,Never again.,very_negative
+VN-SR2-004,No way.,very_negative
+VN-SR2-005,Stop this.,very_negative
+VN-SR2-006,Stop now.,very_negative
+VN-SR2-007,Enough already.,very_negative
+VN-SR2-008,Absolutely unacceptable.,very_negative
+VN-SR2-009,Completely unacceptable.,very_negative
+VN-SR2-010,Totally unacceptable.,very_negative
+VN-SR2-011,Completely ridiculous.,very_negative
+VN-SR2-012,Absolutely ridiculous.,very_negative
+VN-SR2-013,Totally absurd.,very_negative
+VN-SR2-014,Utterly unacceptable.,very_negative
+VN-SR2-015,Strongly opposed.,very_negative
+VN-SR2-016,Hard no.,very_negative
+VN-SR2-017,Absolutely refused.,very_negative
+VN-SR2-018,Completely rejected.,very_negative
+VN-SR2-019,Never ever.,very_negative
+VN-SR2-020,Not ever.,very_negative
+VN-SR3-001,"Absolutely not, I refuse.",very_negative
+VN-SR3-002,"Definitely not, I refuse.",very_negative
+VN-SR3-003,"No, I absolutely refuse.",very_negative
+VN-SR3-004,"No, I will not.",very_negative
+VN-SR3-005,I absolutely do not want this.,very_negative
+VN-SR3-006,I absolutely refuse to do that.,very_negative
+VN-SR3-007,I strongly object to this.,very_negative
+VN-SR3-008,I strongly reject this.,very_negative
+VN-SR3-009,I completely reject this.,very_negative
+VN-SR3-010,I will never agree.,very_negative
+VN-SR3-011,I will never do that.,very_negative
+VN-SR3-012,Please stop this right now.,very_negative
+VN-SR3-013,I want this to stop.,very_negative
+VN-SR3-014,This is completely unacceptable.,very_negative
+VN-SR3-015,That is completely unacceptable.,very_negative
+VN-SR3-016,This is absolutely ridiculous.,very_negative
+VN-SR3-017,That is absolutely ridiculous.,very_negative
+VN-SR3-018,I am completely against this.,very_negative
+VN-SR3-019,I do not want this.,very_negative
+VN-SR3-020,I refuse to continue this.,very_negative

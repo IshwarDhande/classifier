@@ -1,0 +1,631 @@
+serial_id,utterance,response_category
+001,"I hear what you’re trying to say, but I’m still 100% against it.",very_negative
+002,Maybe; I’ll think it over first.,indifferent
+003,I see that this is your suggested approach.,indifferent
+004,"Yeah, I’d much rather pick a different option if possible.",negative
+005,I’ve had enough of this pressure. Stop.,very_negative
+006,"Thank you, that explanation really helped me understand it.",very_positive
+007,"I get where you’re coming from, but the logic just doesn’t add up for me.",negative
+008,No means no. Back off and stop pressuring me.,very_negative
+009,"Honestly, thanks — I really needed that explanation.",very_positive
+010,I’ll follow the recommendation.,positive
+011,"Sure, I can do that if I have enough time in the day.",positive
+012,"Okay, I’ll go with that. I’d just prefer the other option if possible.",positive
+013,The explanation hasn’t convinced me that the recommendation is appropriate.,negative
+014,I’ll take a different approach instead.,negative
+015,"Okay, yeah, let’s keep going.",very_positive
+016,"Yeah, that works for me — I’m happy to do it.",very_positive
+017,"I needed a little time, but yeah, I’ll do it.",positive
+018,Managing this on my own without any interference from you is how I will proceed.,very_negative
+019,I might be able to swing it if we could shift the time around a bit.,negative
+020,I don’t accept the premise that this is something I should do.,very_negative
+021,"I don’t know, I really don’t feel like that’s the smartest way to tackle this.",negative
+022,Would it make sense for me to build that into my routine from now on?,very_positive
+023,"Yeah, I can try it as long as it’s manageable.",positive
+024,"I’m open to doing it, provided the demands stay within what I can handle.",positive
+025,I’d rather not do that. Is there another way?,negative
+026,Doing this is something I am firmly against — definitely not.,very_negative
+027,"That recommendation is workable for me, and I’ll get to it this evening.",positive
+028,I can make that part of what I do today.,positive
+029,"I’m not willing to get started right now, although I’m not ruling it out entirely.",negative
+030,"I’m not willing to do that, although I’m not opposed to discussing alternatives.",negative
+031,That’s probably not something I want to take on.,negative
+032,"Okay, that sounds fine.",positive
+033,"Now that I understand why you’re suggesting it, I’m fully on board.",very_positive
+034,I understand what you’re suggesting.,indifferent
+035,I don’t think that approach is appropriate for me.,negative
+036,Sure — should I start with that recommendation now?,very_positive
+037,I dismiss the underlying logic behind this recommendation as wholly invalid.,very_negative
+038,I understand the recommendation and I’m comfortable following it.,positive
+039,That guidance helped a lot — is there another step you’d recommend?,very_positive
+040,The core premise that this action is something I ought to be doing is completely unacceptable to me.,very_negative
+041,"Right, I’m happy to keep going. Can you show me the next part?",very_positive
+042,That’s the option you’re recommending.,indifferent
+043,"Oh, that makes much more sense now. I’ll do it.",very_positive
+044,I really appreciate how much this intervention has helped me.,very_positive
+045,I can follow that suggestion as part of my routine.,positive
+046,Thanks a lot. That’s a really useful suggestion.,very_positive
+047,"I’ll follow the plan, although the alternative would be my preference.",positive
+048,I can’t really do that under my current circumstances.,negative
+049,"Okay, I’ve heard you.",indifferent
+050,I strongly oppose the recommended approach and reject following it.,very_negative
+051,"Yeah, that seems like something I can do.",positive
+052,Alright.,indifferent
+053,"Ah, got it. Thanks, that cleared things up.",very_positive
+054,I'd like to build on this rather than stop here; what would you recommend next?,very_positive
+055,I’m unwilling to carry it out in that specific manner.,negative
+056,Your explanation hasn’t changed my position on this.,very_negative
+057,That specific setup really doesn’t sit well with me — can we try a different angle?,negative
+058,"I totally disagree with this method, and there’s no way I’m following it.",very_negative
+059,Steering our conversation down this path is something I forbid you from continuing.,very_negative
+060,That approach is not acceptable to me.,very_negative
+061,Could you give me a little more guidance on the next step?,very_positive
+062,"I am telling you no, so quit pushing this on me.",very_negative
+063,I’ve made the decision to act on this because I genuinely want to.,very_positive
+064,"I’m happy to continue, and I’d like to make sure I’m doing it properly.",very_positive
+065,"My answer is still no, even after all the reminders.",very_negative
+066,"That option isn’t for me, but I’m open to alternatives.",negative
+067,"I still strongly oppose the recommendation, even after your explanation.",very_negative
+068,"Look, could we adjust the plan for my current situation?",negative
+069,I completely reject the reasoning behind this recommendation.,very_negative
+070,Hmm.,indifferent
+071,"Okay, I understand. Got it.",indifferent
+072,I’m choosing not to do it at the moment.,negative
+073,"No thanks, I don’t want any more help with this.",very_negative
+074,That intervention is completely unacceptable to me.,very_negative
+075,"Yeah, I’d definitely go with that.",very_positive
+076,"I can see both sides, but I don't know yet.",indifferent
+077,"Thank you. I really appreciate the help, and I’ll give it a try.",very_positive
+078,I’m reluctant to start that at the moment.,negative
+079,"Alright, shall I get started with it now?",very_positive
+080,"Got it, so that’s the general idea?",indifferent
+081,"Okay, I hear you.",indifferent
+082,"Yes, I completely agree with the approach you’ve outlined.",very_positive
+083,I’m not really comfortable doing that yet.,negative
+084,"Yeah, I can do that.",positive
+085,Stop bringing this up right now — I’ve had quite enough.,very_negative
+086,I don’t think that particular approach will work for me.,negative
+087,"Alright, I’ve heard you.",indifferent
+088,This continued pressure is completely unacceptable.,very_negative
+089,I recognize what you're recommending.,indifferent
+090,I’ll follow that suggestion.,positive
+091,"Yes, I’ll do that. Is there anything else I should try?",very_positive
+092,I reject the underlying premise and therefore reject the behavioral direction you’re recommending.,very_negative
+093,"Despite your detailed explanation, my fierce opposition to this recommendation remains intact.",very_negative
+094,I can continue with the recommended practice.,positive
+095,Maybe. I’ll think it over.,indifferent
+096,I’m not sure if that recommendation is right for me.,indifferent
+097,"I can follow that recommendation, even though another option would suit me better.",positive
+098,I'm still thinking through whether it's right for me.,indifferent
+099,"To be honest, hearing about it over and over is kind of putting me off doing it.",negative
+100,I’m not comfortable with that version. Maybe we could try something else.,negative
+101,I don’t think I can manage that right now.,negative
+102,I’d rather go with something else.,negative
+103,I’d rather make the decision after I’ve considered it.,indifferent
+104,Halt this intervention right this second.,very_negative
+105,"We’ll see how it unfolds, but I’m certainly not committing to anything just yet.",indifferent
+106,"Well, I'm not sure about it yet.",indifferent
+107,"Okay, I’ll stick to that.",positive
+108,I am explicitly terminating the interaction and will not continue discussing the intervention.,very_negative
+109,I’ll keep that in mind.,indifferent
+110,Would you like me to go ahead with it myself?,very_positive
+111,Sounds good — is there anything else you'd suggest?,very_positive
+112,Not at the moment — I’d rather put that on hold for later.,negative
+113,I’d prefer not to follow that recommendation.,negative
+114,I do not want any further assistance from you.,very_negative
+115,I’d like to make sure I’m doing this as well as I can.,very_positive
+116,"Yeah, I’ll take care of it.",positive
+117,"Okay, got it.",indifferent
+118,I’m ending this conversation now.,very_negative
+119,"Sure, I’ll keep at it.",positive
+120,I can work with that provided it remains practical for me.,positive
+121,"I’ll do that, and I can also start tracking my progress.",very_positive
+122,I want to consider it before I make a decision.,indifferent
+123,I have some hesitation about going ahead with it.,negative
+124,I’m resisting the current form of the intervention rather than rejecting every possible alternative.,negative
+125,"The way you explained it addressed the part I was struggling with, so I really appreciate the guidance.",very_positive
+126,I strongly oppose this intervention.,very_negative
+127,I’m angry that you keep reminding me. Stop.,very_negative
+128,Enough. Stop bringing this up.,very_negative
+129,"I’m keen to do this well, so some additional guidance would be useful.",very_positive
+130,That would be difficult for me with things as they are right now.,negative
+131,"Yeah, right after dinner works best — I’ll knock it out then.",positive
+132,Only under altered circumstances could that potentially be viable for me.,negative
+133,"I understand the recommendation, but I’m not committing to carrying it out.",indifferent
+134,I’m becoming increasingly reluctant to follow through because of the repeated suggestions.,negative
+135,"No way, I’m dead set against doing something like this.",very_negative
+136,I’m willing to make the recommended practice part of my regular routine.,positive
+137,I’m willing to follow it despite having a preference for a different approach.,positive
+138,"Yes, I can do that.",positive
+139,"Okay, I’m good with that.",positive
+140,That worked really well — thanks for walking me through it.,very_positive
+141,"I can do that, as long as it fits into my schedule.",positive
+142,"I've heard the recommendation, but I haven't formed a position on it.",indifferent
+143,I understand; I’ve received the message.,indifferent
+144,I’d rather leave that one.,negative
+145,I’m choosing not to take that on.,negative
+146,I’m not doing it at the moment.,negative
+147,"Okay, I’ll follow the plan. I’d just prefer a different time.",positive
+148,"I’ll do it, but I’d prefer to adjust the timing.",positive
+149,I can incorporate the recommendation into what I normally do.,positive
+150,I see what you mean.,indifferent
+151,"Alright, I understand what you mean.",indifferent
+152,"I really don’t agree with this approach, and I’m not following it.",very_negative
+153,Thanks for helping me see it that way — what should I do next?,very_positive
+154,"I understand the different sides, but I remain undecided.",indifferent
+155,That should work if I can fit it in.,positive
+156,Stop this intervention immediately.,very_negative
+157,I don’t agree with the reasoning behind that suggestion.,negative
+158,"Right, I’ll see that it gets done.",positive
+159,I’d be willing to proceed if we modified the schedule.,negative
+160,I am forcefully rejecting the intervention and demanding that it cease immediately.,very_negative
+161,"Sure, I’ll take care of it.",positive
+162,"I’m willing to go ahead, although the timing could work better for me.",positive
+163,That sounds reasonable.,positive
+164,I’d prefer to leave the action for another time.,negative
+165,I strongly oppose the intervention and do not intend to follow it.,very_negative
+166,"Thanks, that’s actually really useful.",very_positive
+167,I commit to carrying out that action first thing tomorrow morning.,positive
+168,I’ll see how things go before I make any commitment.,indifferent
+169,Do I need to commit to doing it now?,indifferent
+170,Did you hear what I’m saying as well?,indifferent
+171,No. I’m not doing that.,very_negative
+172,Stop trying to persuade me. I’m not doing it.,very_negative
+173,I would prefer not to do that.,negative
+174,I’d prefer to leave that for another time.,negative
+175,That explanation is fantastic — shall we get started on that approach right away?,very_positive
+176,I am explicitly ending further contact concerning this intervention.,very_negative
+177,I need more time to decide whether I'll cooperate with the recommendation.,indifferent
+178,"I understand, but I’m not deciding yet.",indifferent
+179,I don’t think I’ll do that one.,negative
+180,"Alright, I acknowledge that.",indifferent
+181,I don’t really buy the reasoning behind that suggestion.,negative
+182,I would rather avoid taking that recommended route.,negative
+183,"I understand the point you're making, though I haven't decided what to do.",indifferent
+184,"No, I’m really against doing this.",very_negative
+185,Is that the recommendation you’re referring to?,indifferent
+186,"Yeah, I’d like to keep going with it.",very_positive
+187,I’m comfortable trying the recommended approach in my usual routine.,positive
+188,I reject that recommendation completely.,very_negative
+189,More persuasion is only making me oppose this more strongly.,very_negative
+190,Your guidance was genuinely valuable.,very_positive
+191,"I understand what you’re saying, but I’m still completely against it.",very_negative
+192,I'm weighing whether that recommendation makes sense for me.,indifferent
+193,"It’s getting infuriating, so seriously stop sending me these reminders.",very_negative
+194,"I hear you, but I’m not making a decision yet.",indifferent
+195,I don’t really want to start that right now.,negative
+196,"Ah, that cleared things up much more than I expected.",very_positive
+197,"I don’t want to do that, but I’m happy to discuss another option.",negative
+198,"Yes, I’ll handle it on my own.",very_positive
+199,Could I decide about this later?,indifferent
+200,"Okay, I’ll do that. I’d just prefer the other option.",positive
+201,I’d really prefer not to do that — could we try a different angle instead?,negative
+202,I am rejecting the intervention while explicitly demanding that the agent stop pressuring me.,very_negative
+203,"I can make that work, assuming the schedule lines up.",positive
+204,I’ve heard the recommendation.,indifferent
+205,"Yeah, I’ll do that. I might as well track it too.",very_positive
+206,"No, I’m not going to do that.",very_negative
+207,I don’t agree with that recommendation.,negative
+208,"I’ve already said no, and I’m still not going to do it.",very_negative
+209,I’m not just willing to follow the recommendation; I want to continue working through it.,very_positive
+210,"I don’t want to take that particular approach, but I’m open to another one.",negative
+211,I'm still considering both possibilities.,indifferent
+212,That’s enough. I want this intervention stopped now.,very_negative
+213,I’ll do that later.,positive
+214,I’m not going to follow that specific recommendation.,negative
+215,"Okay, I hear you. I’m not deciding yet.",indifferent
+216,"I hear you, but I’m still leaving the decision open.",indifferent
+217,Maybe later. I’m not deciding right now.,indifferent
+218,I’m happy to make that part of my routine.,very_positive
+219,The repeated reminders are making me less willing to do it.,negative
+220,"Yeah, I can do that, provided I have the time.",positive
+221,Quit attempting to convince me — I am not doing it.,very_negative
+222,"Given what you’ve explained, I’m genuinely keen to follow that recommendation.",very_positive
+223,"With that approach, I’m not going forward; it’s an absolute no.",very_negative
+224,I’ll make time for it and get it done.,positive
+225,I accept the recommendation and will start on it a bit later today.,positive
+226,I already told you no. I’m not doing it.,very_negative
+227,That was exactly the kind of guidance I needed.,very_positive
+228,I’d like to know a little more before I get started.,very_positive
+229,"Yeah, absolutely. I’m in.",very_positive
+230,"Yeah, I’ll do it after dinner.",positive
+231,"Yeah, I’ll take care of it myself.",very_positive
+232,I strongly disagree with this approach and will not follow it.,very_negative
+233,Things are just too hectic right now for me to manage that.,negative
+234,I’ll see. I’m not promising anything yet.,indifferent
+235,I’m still not persuaded by the reasoning.,negative
+236,"Okay, yeah, that sounds fine.",positive
+237,I’m going to leave that recommendation aside.,negative
+238,Choosing an alternate path would fit my personal preferences much better.,negative
+239,I’ll do it. You don’t need to remind me.,very_positive
+240,"Seriously, stop reminding me. It’s getting really annoying.",very_negative
+241,"Yeah, I’ll try it if we keep things reasonably manageable.",positive
+242,"I was more willing before, but the repeated reminders are reducing my willingness.",negative
+243,I don’t believe that strategy is well-suited for my case.,negative
+244,I’m not convinced that method will work in my situation.,negative
+245,That’s exactly the approach I want to take.,very_positive
+246,"I’m willing to consider it, but I’m leaving the outcome undecided.",indifferent
+247,"I wasn’t sure at first, but I’m willing to follow it now.",positive
+248,Sounds good. Anything else you’d recommend?,very_positive
+249,I finally see what you mean now.,very_positive
+250,I can manage that if it works with my schedule.,positive
+251,"Yeah, I can do that, as long as the timing works for me.",positive
+252,Not right now; I need to leave it for later.,indifferent
+253,"Yeah, I caught all of that.",indifferent
+254,What other option could we consider?,negative
+255,"Okay, I agree.",positive
+256,That’s enough out of you — shut this down and drop it.,very_negative
+257,I'm uncertain about whether I'll follow through.,indifferent
+258,"I have repeatedly rejected this recommendation, and I am not going to cooperate.",very_negative
+259,"Okay, I’ll think about it.",indifferent
+260,I’m willing to do that.,positive
+261,I can work that into my routine.,positive
+262,"I’ll go with the recommendation, but I’d be more comfortable with another option.",positive
+263,"I’m declining to do it for now, without ruling out revisiting it later.",negative
+264,Not right now. I’ll leave it for later.,negative
+265,I’m fully committed to carrying this out without needing further prompting.,very_positive
+266,"I see your point, but I don’t agree with the reasoning.",negative
+267,"Yeah, I’d rather not.",negative
+268,That version doesn’t work for me.,negative
+269,"That fits well enough with how I want to structure things, so I’m glad to adopt it.",very_positive
+270,I think I can make that work if it stays practical.,positive
+271,Could I use a different approach instead?,negative
+272,I’ll work that into my routine.,positive
+273,I don’t see a problem with trying it.,positive
+274,I’m telling you no. Stop pushing this.,very_negative
+275,"Right, that’s what you’re suggesting.",indifferent
+276,I can make sure that I carry out the recommendation.,positive
+277,I’m completely against this approach.,very_negative
+278,I’m still hesitant about doing that.,negative
+279,I haven't made up my mind about doing it.,indifferent
+280,"I’m declining that particular recommendation, though I can consider another approach.",negative
+281,"I’ll do it, but a small timing change would make it easier.",positive
+282,Should I go ahead and start the next step now?,very_positive
+283,"Okay, yeah, I can make that part of my routine.",very_positive
+284,I’d rather not do that.,negative
+285,I’m willing to cooperate without needing to be pushed.,very_positive
+286,That makes a lot of sense to me.,very_positive
+287,There’s no reason for me to wait.,very_positive
+288,"Yes, I’ll follow the recommendation as you suggested.",positive
+289,I’m not doing that — no is my final answer.,very_negative
+290,I’m willing to try it if we keep it manageable.,positive
+291,I don't know yet whether I'm going to act on the recommendation.,indifferent
+292,There is nothing more I want to discuss about this.,very_negative
+293,I’m happy to do that if it fits around my other commitments.,positive
+294,I’m still not quite comfortable with it.,negative
+295,I can fit that action in after I’ve finished dinner.,positive
+296,"The more you try to push your persuasion on me, the harder my opposition becomes.",very_negative
+297,That seems like a practical approach.,positive
+298,"I thought it over. Yeah, I’ll give it a try.",positive
+299,This is useful enough that I’d like to explore it a little further.,very_positive
+300,"Sure, I’m happy to do my part.",very_positive
+301,"Okay, I can do that.",positive
+302,I fundamentally object to this entire intervention.,very_negative
+303,I intend to follow the recommendation and complete the action.,positive
+304,"Thanks, I appreciate it. I’ll definitely try this.",very_positive
+305,I’ll follow through with that.,positive
+306,I’ll do it after dinner today.,positive
+307,I’m leaving the decision open for now.,indifferent
+308,"I’m comfortable taking this on because I want to cooperate, not because I’m being pressured.",very_positive
+309,I’ll decide at a later point.,indifferent
+310,I accept the suggestion and intend to cooperate once my current obligation is resolved.,positive
+311,I heard you.,indifferent
+312,"Yeah, no, I’m definitely not doing that.",very_negative
+313,That sounds fine to me.,positive
+314,That is the recommendation you’re putting forward.,indifferent
+315,This conversation is over for me.,very_negative
+316,"Yeah, I’ve got it. I’ll take care of it.",very_positive
+317,I want to understand the process well enough to carry it out properly.,very_positive
+318,I’ll complete it after dinner.,positive
+319,"Well, could we consider a different recommendation?",negative
+320,"Honestly, I really doubt that way of doing things is gonna work for me.",negative
+321,"As far as I am concerned, every aspect of this discussion is permanently closed.",very_negative
+322,"Yeah, that was really useful. Thanks.",very_positive
+323,"Yeah, that works for me.",positive
+324,"Yeah, I’ll do that, though I’d still rather use the other option.",positive
+325,"Okay, I’ll get it done after dinner.",positive
+326,"After considering it, the plan seems workable.",positive
+327,"Busy right now, but I’ll do it as soon as I’m free.",positive
+328,"Don’t worry, I’ll handle it.",very_positive
+329,I’m not following this approach because I completely disagree with it.,very_negative
+330,"I’m not comfortable proceeding yet, so I’m holding back for now.",negative
+331,I’m not committing to doing it yet.,indifferent
+332,The approach works better for me with a small change.,positive
+333,I’m unable to take that on given my existing constraints.,negative
+334,That might work for me under different conditions.,negative
+335,"Your support gave me the confidence to move forward with the recommendation, and I’m very thankful for that.",very_positive
+336,I categorically condemn this approach and refuse to implement it.,very_negative
+337,I’m keeping my decision open for now.,indifferent
+338,"Well, would it work if we changed the timing?",negative
+339,I’m not convinced that recommendation works for me.,negative
+340,"Mm-hmm, got it.",indifferent
+341,I do not want this conversation to continue in this direction.,very_negative
+342,"I disagree with the recommendation, so I’m not willing to follow it as proposed.",negative
+343,Stop trying to convince me. I said no.,very_negative
+344,That’s all I can say about it right now.,indifferent
+345,I'd rather think it over before committing.,indifferent
+346,I do not want any further contact about this issue.,very_negative
+347,"Hmm, I'm not sure I'll do it.",indifferent
+348,I’m extremely grateful for the support you provided.,very_positive
+349,I'm still uncertain about whether the recommendation suits me.,indifferent
+350,"I heard the recommendation, but this response does not indicate what I’ll do.",indifferent
+351,"Alright, I hear you.",indifferent
+352,"Though another way could potentially work, the way it’s currently set up doesn’t suit me.",negative
+353,I’m not really ready to start yet.,negative
+354,That explanation really cleared it up for me.,very_positive
+355,I'm undecided about whether to do it.,indifferent
+356,I’m prepared to continue the practice as recommended.,positive
+357,I don’t want any more help from you with this.,very_negative
+358,"Right, I’m busy at the moment, but I’ll get to it as soon as I can.",positive
+359,I have to disagree with that suggested plan.,negative
+360,"Okay, yeah, I’m definitely ready to do it.",very_positive
+361,"Sure, I’ll get started now.",very_positive
+362,"Sure thing, I’ll plan on doing that tomorrow.",positive
+363,I can clearly see that your explanation has made the recommendation much easier for me to understand and accept.,very_positive
+364,"Hmm, I'm still not sure about that.",indifferent
+365,"Well, could I use the other option instead?",negative
+366,I see the suggestion you're making.,indifferent
+367,I don’t buy into the logic of this for a single second.,very_negative
+368,"Thanks, that was genuinely useful.",very_positive
+369,I’m rejecting that recommendation outright.,very_negative
+370,I know what you've recommended.,indifferent
+371,"Hmm, I’m not sure about that yet.",indifferent
+372,"Even after discussing it, I continue to strongly oppose the intervention.",very_negative
+373,I think I’ll take a different approach for that.,negative
+374,"I understand the recommendation, but I’m not ready to say whether I’ll follow through.",indifferent
+375,"I’m currently tied up, but I’ll follow the recommendation as soon as I finish.",positive
+376,Please stop contacting me about this.,very_negative
+377,That gives me a good starting point for the next step.,very_positive
+378,"Honestly, all these reminders are making me less willing to do it.",negative
+379,I’m willing to keep following the recommendation.,positive
+380,I can keep this going as part of my routine.,positive
+381,"Drop it already! I said no, and no amount of talking is gonna change that.",very_negative
+382,I am terminating this dialogue right now.,very_negative
+383,I can consider the recommendation without deciding on it yet.,indifferent
+384,Could you show me one more example so I can build on what I’ve understood?,very_positive
+385,I’m completely on board with that — let’s go for it!,very_positive
+386,Can I think about the suggestion before deciding?,indifferent
+387,This approach goes against what I’m willing to do.,very_negative
+388,I am actively resisting the continued persuasion and will not cooperate with the intervention.,very_negative
+389,I’ve heard what you said.,indifferent
+390,"The more we keep going over it, the less inclined I am to do it.",negative
+391,I’d prefer the alternative rather than following that recommendation.,negative
+392,I’m still trying to decide whether it makes sense for me.,indifferent
+393,I’ll handle this without any more help.,very_negative
+394,"Alright, I hear the recommendation.",indifferent
+395,"Okay, that’s your suggestion.",indifferent
+396,I’m very appreciative because your guidance gave me a clear way forward.,very_positive
+397,"That approach works for me, so I can follow it.",positive
+398,"Yeah, no pressure needed. I’m happy to do it.",very_positive
+399,I’m having trouble agreeing to that under my current circumstances.,negative
+400,"Look, I already told you no, and that answer isn’t going to budge.",very_negative
+401,"I understand the suggestion, but I’m not indicating that I’ll follow through.",indifferent
+402,I’ll come back to that later.,indifferent
+403,"Right, so that’s the path you’re laying out.",indifferent
+404,"I’ll follow through, though I’d rather change the timing a little.",positive
+405,"I’m not willing to do it under the current conditions, but I could cooperate if that condition changed.",negative
+406,Understood.,indifferent
+407,What else should I know before I continue?,very_positive
+408,I'm still weighing the alternatives.,indifferent
+409,That’s not something I’m going to agree to.,very_negative
+410,That gives me something practical I can actually use.,very_positive
+411,I’ve already decided to make this part of my routine.,very_positive
+412,"I see the two sides, but I'm not ready to decide.",indifferent
+413,"About this topic, I’m done talking — period.",very_negative
+414,Nothing you’ve explained has changed my opposition to this.,very_negative
+415,"Yeah, sounds good. I’ll definitely do that later on.",positive
+416,I’ll start right away.,very_positive
+417,"Yes, I’m definitely going with that.",very_positive
+418,I’m choosing against the recommended action because another option seems more suitable to me.,negative
+419,I’ll keep the recommendation in mind without committing to it.,indifferent
+420,"Look, can you explain why that reasoning should lead to this recommendation?",negative
+421,"Yeah, I can see myself sticking with that.",very_positive
+422,I agree with that approach and can go along with it.,positive
+423,That made this much easier for me.,very_positive
+424,"No, I’m not going with that approach.",very_negative
+425,That recommendation is a definite no for me.,very_negative
+426,It’s something I can think about.,indifferent
+427,"Yes, I’ll do that.",positive
+428,"That particular approach doesn’t work for me, though I’m open to alternatives.",negative
+429,"You’ve made the whole thing much easier to approach, and I’m very grateful for that.",very_positive
+430,I'd be happy to keep discussing this.,very_positive
+431,My current circumstances make me unable or unwilling to take this on as proposed.,negative
+432,Could we consider something else instead?,negative
+433,I’m firmly opposed to that approach.,very_negative
+434,I can do that if we move the timing slightly.,positive
+435,Stop reminding me about this.,very_negative
+436,Your continued attempts are making me even more opposed to this.,very_negative
+437,"Okay, that works for me — I’ll take care of it tonight.",positive
+438,"I can see both sides, and I haven’t decided.",indifferent
+439,"Sure, I’m willing to try it if we keep the routine practical.",positive
+440,I’m firmly against this intervention.,very_negative
+441,"Yeah, I understand what you're suggesting.",indifferent
+442,"Yeah, I think I’ll pass on that one.",negative
+443,I’m not ready to decide right now.,indifferent
+444,So could we try a different way of doing it?,negative
+445,"Sure, I can give that a try.",positive
+446,Putting this kind of non-stop pressure on me is completely beyond acceptable.,very_negative
+447,I’ll do it as you suggested.,positive
+448,"Okay, I understand.",indifferent
+449,I am rejecting any further assistance and intend to proceed without the agent.,very_negative
+450,"Your explanation turned something I was unsure about into something I can actually work with, and I appreciate that.",very_positive
+451,That should be fine provided I can fit it into my day.,positive
+452,"With everything going on as it stands, pulling that off would be pretty tough for me.",negative
+453,I’m not convinced that’s the right approach for me.,negative
+454,"Okay, I've heard you.",indifferent
+455,I’m going to move forward with the next step without waiting for another prompt.,very_positive
+456,Everything about this method runs directly counter to what I will ever agree to do.,very_negative
+457,"Don’t worry, I’ll take care of it.",very_positive
+458,"Even after the explanation, I haven't decided whether to accept the recommendation.",indifferent
+459,I genuinely appreciate your support because it helped me understand and accept the action you recommended.,very_positive
+460,"Yeah, I’m in the middle of something right now, but I’ll jump on it right after.",positive
+461,I’d need a little more time before I go ahead with it.,negative
+462,I can take care of this myself from here.,very_positive
+463,"I’m choosing to follow the recommendation freely, without needing repeated encouragement.",very_positive
+464,I’m finding myself less inclined to do it.,negative
+465,That’s what you recommend.,indifferent
+466,"Yeah, tell me more. I’m interested.",very_positive
+467,"Yeah, I heard you.",indifferent
+468,"I can work with that, even though another option would suit me better.",positive
+469,Give me a little time to think about it.,indifferent
+470,"Alright, I understand. Do I have to decide now?",indifferent
+471,"Okay, what happens next?",indifferent
+472,I don’t buy the reasoning behind this at all.,very_negative
+473,I reject that intervention completely.,very_negative
+474,Thank you so much. That was really helpful.,very_positive
+475,"My decision is firm, and no amount of continued prompting is going to change that.",very_negative
+476,I’ve decided to go ahead with it.,positive
+477,"Sure, I’m fine with adopting that suggestion.",positive
+478,"Absolutely, I’ll do that.",very_positive
+479,"Even though I understand your words, I stand completely against this recommendation.",very_negative
+480,I could consider doing it if we changed the timing.,negative
+481,I’m hesitant about starting it.,negative
+482,I'm still not sure yet.,indifferent
+483,"I’m rejecting the intervention itself, not just one part of it.",very_negative
+484,"The current approach doesn’t work for me, but another approach might.",negative
+485,I’d rather not do that; I’m willing to consider an alternative.,negative
+486,No. Stop pushing me about this.,very_negative
+487,I could do it if the timing were changed.,negative
+488,Let me think about it for a bit.,indifferent
+489,"Yeah, I can work with that.",positive
+490,I’m refusing the current approach while remaining willing to discuss a different option.,negative
+491,I have a specific time in mind and intend to complete the recommended action then.,positive
+492,I’m still holding off on deciding.,indifferent
+493,"Sure, I’ll do it. I’d just rather do it later.",positive
+494,"Okay, I’ll stick with that routine.",positive
+495,"Okay, I hear you.",indifferent
+496,I’m not going to follow that particular recommendation.,negative
+497,Would it be okay if I waited before doing that?,negative
+498,"Okay, I’m with you — can you walk me through what comes next?",very_positive
+499,I’ve got the information.,indifferent
+500,I’m questioning the suitability of the recommended approach for my situation.,negative
+501,"Yeah, that sounds good. Anything else I should try?",very_positive
+502,Could we come back to this another time?,negative
+503,"Sure, I can try that.",positive
+504,"Yeah, I’ll put it on my calendar for tomorrow and make sure it gets done.",positive
+505,"Alright, noted.",indifferent
+506,I’m making a clear commitment to complete the recommended steps tomorrow.,positive
+507,"Yeah, I’m gonna skip that specific suggestion.",negative
+508,That sounds like exactly what I should do.,very_positive
+509,"Yeah, thank you — that was a big help.",very_positive
+510,Nothing in your justification has altered my steadfast refusal in the slightest.,very_negative
+511,I’m very willing to give it a go.,very_positive
+512,"The reasoning behind this is completely unconvincing, and I reject it entirely.",very_negative
+513,"With this matter, I don’t want any more help — no thanks.",very_negative
+514,I am furious that you keep pestering me with reminders — knock it off.,very_negative
+515,"I told you no already, and doing it is completely out of the question.",very_negative
+516,Okay.,indifferent
+517,"Thanks, that really helped.",very_positive
+518,Would there be another step you’d recommend after this?,very_positive
+519,Do we need to keep going over this?,negative
+520,I've received and understood the recommendation.,indifferent
+521,I've taken in the recommendation.,indifferent
+522,I don’t think that’s the best way for me to handle it.,negative
+523,Having to deal with these relentless reminders makes me despise this entire idea even more.,very_negative
+524,"For real, cut out the reminders — you’re driving me crazy with this.",very_negative
+525,"I’ll follow the recommendation, although I’d prefer another option.",positive
+526,I’ll have to see how things go.,indifferent
+527,I’m becoming less willing to do this with all the reminders.,negative
+528,I’m not sure whether I’ll do it.,indifferent
+529,That approach doesn’t really strike me as the right fit for my situation.,negative
+530,"Honestly, is there another approach that might work better?",negative
+531,I’ll do it after dinner.,positive
+532,"No, there’s zero chance I’m going along with that approach.",very_negative
+533,The reasoning behind this does not give me any basis to accept the intervention.,very_negative
+534,I'd like some time before deciding what I'll do.,indifferent
+535,"I’ll think about the suggestion, but no decision yet.",indifferent
+536,Can we look at one more part of this?,very_positive
+537,I'd like to know what else I can do.,very_positive
+538,I decline any future support or guidance from you on this topic.,very_negative
+539,"Alright, I’ll get started on the next part.",very_positive
+540,"Sure, I’m willing to give it a try.",positive
+541,I’d prefer not to begin it just yet.,negative
+542,"I'm considering the recommendation, but I haven't decided whether to follow it.",indifferent
+543,The explanation you gave doesn’t sufficiently justify that recommendation to me.,negative
+544,"Oh, I get it now — that actually makes a lot of sense.",very_positive
+545,I’ll keep it as part of my usual schedule.,positive
+546,That reasoning really works for me.,very_positive
+547,I’m not convinced the explanation supports that recommendation.,negative
+548,"Yeah, I’ve got it. I’ll take it from here.",very_positive
+549,I really need some space to think through this before committing one way or the other.,indifferent
+550,"Yeah, I can stick to that.",positive
+551,Cease sending me notifications or reminders regarding this matter.,very_negative
+552,That explanation was extremely useful to me.,very_positive
+553,I’m not going to do it right now.,negative
+554,"Yeah, I’ll keep doing it.",positive
+555,I’m ready and genuinely enthusiastic about following through.,very_positive
+556,I’ve decided to take care of it myself.,very_positive
+557,"Okay, I understand the suggestion.",indifferent
+558,Could I hold off on starting that for now?,negative
+559,"Okay, I’ve made up my mind. I’ll go ahead.",positive
+560,"No thanks, I’m completely done accepting help on this.",very_negative
+561,No. I simply will not do that.,very_negative
+562,Continuing to suggest it isn’t going to change my decision.,very_negative
+563,Another option would suit me better.,negative
+564,"Since I’m comfortable with the plan, I’ll take the initiative and continue from here.",very_positive
+565,"Yeah, absolutely, I’m happy to go with that.",very_positive
+566,"I’m willing to follow the advice, but I’ll need to carry it out at a later time.",positive
+567,I see what you're saying.,indifferent
+568,I think I’m ready to move forward now.,positive
+569,"Because I have a prior commitment right now, I’ll carry this out immediately afterward.",positive
+570,"I don’t know, I’m feeling pretty hesitant about jumping into that right now.",negative
+571,"I said no, so you need to stop trying to convince me right now.",very_negative
+572,Stop pushing me about this — my answer is an absolute no.,very_negative
+573,I’m still weighing the options.,indifferent
+574,I’m completely done talking about this — we’re finished here.,very_negative
+575,I don’t want to do it in that way.,negative
+576,"Yeah, sounds like a plan, I’ll go with that.",positive
+577,That was really helpful; what else can I do with this?,very_positive
+578,I’d rather wait before getting started.,negative
+579,I’m not sure that approach is going to work for me.,negative
+580,These repeated reminders are making me want nothing to do with this.,very_negative
+581,I’ll schedule it for tomorrow and follow through.,positive
+582,"Alright, that seems reasonable to me.",positive
+583,Adopting this kind of approach is something I stand completely against.,very_negative
+584,I could probably do it if we moved it to another time.,negative
+585,"I understand the recommendation, but I'm not saying yet whether I'll follow it.",indifferent
+586,That works for me.,positive
+587,I am explicitly refusing the recommended action and will not cooperate with it.,very_negative
+588,"Honestly, I’m just not feeling ready to kick this off right now.",negative
+589,I’m a bit hesitant about doing that.,negative
+590,I can take the next step myself.,very_positive
+591,"I can give it a go, but it needs to remain manageable.",positive
+592,Putting this on my schedule for tomorrow is something I can commit to doing.,positive
+593,I need some time to think about it.,indifferent
+594,"Right, I hear what you're proposing.",indifferent
+595,I haven’t decided what I want to do yet.,indifferent
+596,"About this issue, please stop contacting me once and for all.",very_negative
+597,"Yeah, I’ll do it. I’d just like the timing changed a bit.",positive
+598,"Right, yeah, that makes complete sense to me — absolutely love this idea!",very_positive
+599,"I’ve thought about it, and I’ll do it.",positive
+600,Do not message or contact me about this ever again.,very_negative
+601,I’m willing to give it a try as long as it stays manageable.,positive
+602,"Regarding this issue, any future messages or contact will be strictly rejected.",very_negative
+603,"I’ve had some time to think, and it seems reasonable.",positive
+604,"Now that you’ve explained it, I’m completely on board.",very_positive
+605,I’m voluntarily willing to incorporate the recommendation into my regular routine.,very_positive
+606,I am strongly rejecting the repeated reminders and reacting with clear hostility toward the intervention.,very_negative
+607,"I recognize the recommendation, but my response does not establish whether I’ll follow it.",indifferent
+608,"Since it fits what I need, I’m keen to get started immediately.",very_positive
+609,I’m not ready to make a behavioral decision at this point.,indifferent
+610,I don’t want you contacting me about this anymore.,very_negative
+611,I’m done talking about this.,very_negative
+612,That approach is completely unacceptable to me.,very_negative
+613,"Yes, please tell me more. I want to understand how to do it properly.",very_positive
+614,"Given what my situation looks like, I have serious doubts that method would work.",negative
+615,"Right, that explanation really helped — thanks.",very_positive
+616,"Yeah, I’m up for doing that right away.",very_positive
+617,I’m not really sure yet.,indifferent
+618,I’ll start with that and then build from there.,very_positive
+619,"Okay, I’ll start there and see what else I can add.",very_positive
+620,I’m not making a commitment to follow it yet.,indifferent
+621,I’m fed up with these reminders. I want them to stop.,very_negative
+622,"Yeah, I get what you’re saying.",indifferent
+623,"I’ve stated my refusal previously, and I remain entirely unwilling to do it.",very_negative
+624,I don’t know yet. I’m still thinking.,indifferent
+625,I already know when I can fit it in.,positive
+626,I really value the help you’ve given me.,very_positive
+627,"Yeah, I really appreciate it. That helped me get on board.",very_positive
+628,"I can go ahead with this on my own, right?",very_positive
+629,I could probably keep a record of it too.,very_positive
+630,"I’ll consider the suggestion, but I haven’t decided.",indifferent

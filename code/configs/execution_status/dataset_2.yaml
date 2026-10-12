@@ -1,0 +1,20 @@
+task:
+  name: "execution_status"
+  dataset_variant: "dataset_2"
+  num_labels: 3
+  text_column: "utterance"
+  label_column: "execution_status"
+  labels:
+    - "Not Started"
+    - "In Progress"
+    - "Completed"
+
+data:
+  train_file: "code/data/execution_status/execution_status_training/dataset_2/train.csv"
+  val_file: "code/data/execution_status/execution_status_training/dataset_2/val.csv"
+  test_file: "code/data/execution_status/execution_status_training/dataset_2/test.csv"
+
+paths:
+  output_dir: "code/models/execution_status/dataset_2"
+  log_dir: "code/logs/execution_status/dataset_2"
+  report_dir: "code/reports/execution_status/dataset_2"

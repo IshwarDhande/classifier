@@ -1,0 +1,445 @@
+utterance_id,utterance,execution_status,status_no,stage,split,task_or_scenario_id,parent_id,lineage,variation_type,boundary_id,hard_negative_mechanism,target_task,semantic_subtype,context,source_file,validation_status,ambiguity_flag
+BA01-01,I haven't started taking the medication yet.,Not Started,2,2,train,B01-01,BA01-01,B01-01,boundary_semantic_realization,B01,,Medication,boundary_anchor,Immediately after a medication reminder.,BA01_not_started_in_progress.md,candidate,False
+BA01-02,I'm taking the medication now.,In Progress,1,2,train,B01-02,BA01-02,B01-02,boundary_semantic_realization,B01,,Medication,boundary_anchor,Immediately after a medication reminder.,BA01_not_started_in_progress.md,candidate,False
+BA01-03,"I'm getting ready to start the exercises, but I haven't begun them yet.",Not Started,2,2,train,B01-03,BA01-03,B01-03,boundary_semantic_realization,B01,,Exercise,boundary_anchor,The user is discussing beginning the exercise after a reminder.,BA01_not_started_in_progress.md,candidate,False
+BA01-04,"I've started the first exercise, and I'm working through it now.",In Progress,1,2,train,B01-04,BA01-04,B01-04,boundary_semantic_realization,B01,,Exercise,boundary_anchor,The user responds while beginning the exercise.,BA01_not_started_in_progress.md,candidate,False
+BA01-05,The bottle is still full; I'll deal with it after I finish this.,Not Started,2,2,train,B01-05,BA01-05,B01-05,boundary_semantic_realization,B01,,Hydration,boundary_anchor,The user responds to a hydration reminder.,BA01_not_started_in_progress.md,candidate,False
+BA01-06,I'm halfway through the routine and still have a few exercises left.,In Progress,1,2,train,B01-06,BA01-06,B01-06,boundary_semantic_realization,B01,,Physiotherapy,boundary_anchor,The user responds during a physiotherapy routine.,BA01_not_started_in_progress.md,candidate,False
+,"I'm drinking the water now, and I still have some left.",In Progress,1,2,train,,,,,B02,,,boundary_anchor,,BA02_in_progress_completed.md,candidate,false
+,I finished drinking the water.,Completed,0,2,train,,,,,B02,,,boundary_anchor,,BA02_in_progress_completed.md,candidate,false
+,"I've done most of the physiotherapy exercises, but I still have one left.",In Progress,1,2,train,,,,,B02,,,boundary_anchor,,BA02_in_progress_completed.md,candidate,false
+,I just finished the last exercise.,Completed,0,2,train,,,,,B02,,,boundary_anchor,,BA02_in_progress_completed.md,candidate,false
+,I'm on the last few steps of taking it.,In Progress,1,2,train,,,,,B02,,,boundary_anchor,,BA02_in_progress_completed.md,candidate,false
+,That's the whole routine done for today.,Completed,0,2,train,,,,,B02,,,boundary_anchor,,BA02_in_progress_completed.md,candidate,false
+,I haven't started taking the medication yet.,Not Started,2,2,train,,,,,B03,,,boundary_anchor,,BA03_not_started_completed.md,candidate,false
+,I finished taking the medication.,Completed,0,2,train,,,,,B03,,,boundary_anchor,,BA03_not_started_completed.md,candidate,false
+,"I have everything ready, but I haven't started the exercises.",Not Started,2,2,train,,,,,B03,,,boundary_anchor,,BA03_not_started_completed.md,candidate,false
+,I completed the exercises and put everything away.,Completed,0,2,train,,,,,B03,,,boundary_anchor,,BA03_not_started_completed.md,candidate,false
+,The bottle is still untouched.,Not Started,2,2,train,,,,,B03,,,boundary_anchor,,BA03_not_started_completed.md,candidate,false
+,The whole routine is behind me now.,Completed,0,2,train,,,,,B03,,,boundary_anchor,,BA03_not_started_completed.md,candidate,false
+,"I was supposed to take the medication earlier, but I still haven't started taking it.",Not Started,2,2,train,,,,,B01,,,hard_negative,,HN01_not_started_in_progress.md,candidate,false
+,I haven't finished the exercises yet because I'm still doing them.,In Progress,1,2,train,,,,,B01,,,hard_negative,,HN01_not_started_in_progress.md,candidate,false
+,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started,2,2,train,,,,,B01,,,hard_negative,,HN01_not_started_in_progress.md,candidate,false
+,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress,1,2,train,,,,,B01,,,hard_negative,,HN01_not_started_in_progress.md,candidate,false
+,"I was getting ready earlier and even laid out the mat, but I still haven't begun the exercises.",Not Started,2,2,train,,,,,B01,,,hard_negative,,HN01_not_started_in_progress.md,candidate,false
+,"The routine is taking longer than I expected, and I need to get through it before I can relax; I'm still working through the exercises.",In Progress,1,2,train,,,,,B01,,,hard_negative,,HN01_not_started_in_progress.md,candidate,false
+,"I took the medication earlier today, and it's completely finished.",Completed,0,2,train,,,,,B02,,,minimal_pair,,HN02_in_progress_completed.md,candidate,false
+,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress,1,2,train,,,,,B02,,,minimal_pair,,HN02_in_progress_completed.md,candidate,false
+,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed,0,2,train,,,,,B02,,,minimal_pair,,HN02_in_progress_completed.md,candidate,false
+,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed,0,2,train,,,,,B02,,,minimal_pair,,HN02_in_progress_completed.md,candidate,false
+,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress,1,2,train,,,,,B02,,,minimal_pair,,HN02_in_progress_completed.md,candidate,false
+,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed,0,2,train,,,,,B02,,,minimal_pair,,HN02_in_progress_completed.md,candidate,false
+,"I was meant to take the medication earlier, but I haven't started it.",Not Started,2,2,train,,,,,B03,,,minimal_pair,,HN03_not_started_completed.md,candidate,false
+,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed,0,2,train,,,,,B03,,,minimal_pair,,HN03_not_started_completed.md,candidate,false
+,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed,0,2,train,,,,,B03,,,minimal_pair,,HN03_not_started_completed.md,candidate,false
+,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed,0,2,train,,,,,B03,,,minimal_pair,,HN03_not_started_completed.md,candidate,false
+,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started,2,2,train,,,,,B03,,,minimal_pair,,HN03_not_started_completed.md,candidate,false
+,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed,0,2,train,,,,,B03,,,minimal_pair,,HN03_not_started_completed.md,candidate,false
+,I haven't started taking the medication yet.,Not Started,2,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,"I've started taking the medication, but I'm not finished yet.",In Progress,1,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,The water is still sitting there; I haven't started drinking it.,Not Started,2,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,"I'm drinking the water now, and I haven't finished it.",In Progress,1,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,I haven't done any of the exercises yet.,Not Started,2,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,I've done the first exercise and still have the others to do.,In Progress,1,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,"I've got the physiotherapy equipment ready, but I haven't begun.",Not Started,2,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,"I've started the physiotherapy routine with the equipment, but I'm not done.",In Progress,1,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,"I'm about to take the first step, but I haven't started yet.",Not Started,2,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,"I've taken the first step, but there's more of the task left.",In Progress,1,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,The routine is still untouched.,Not Started,2,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,I'm halfway through the routine.,In Progress,1,2,train,,,,,B01,,,minimal_pair,,MP01_not_started_in_progress.md,candidate,false
+,I'm still taking the medication; I haven't finished yet.,In Progress,1,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I've finished taking the medication.,Completed,0,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,"I've done most of the exercises, but I still have one left.",In Progress,1,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I've done all the exercises; there isn't one left.,Completed,0,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I'm still working through the physiotherapy routine.,In Progress,1,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I've completed the physiotherapy routine.,Completed,0,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,"I'm nearly finished with the water, but there's still some left.",In Progress,1,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I've finished the water; there's none left.,Completed,0,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I've completed the first few exercises and still have the rest to do.,In Progress,1,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I've completed all of the exercises.,Completed,0,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I'm halfway through the routine and still have exercises left.,In Progress,1,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,"The whole routine is done, and I have nothing left to do.",Completed,0,2,train,,,,,B02,,,minimal_pair,,MP02_in_progress_completed.md,candidate,false
+,I haven't started taking the medication yet.,Not Started,2,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I finished taking the medication.,Completed,0,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I haven't touched the water yet.,Not Started,2,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I've finished the water.,Completed,0,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,"The exercise mat is ready, but I haven't done the exercises.",Not Started,2,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,"The exercises are done, and the mat is put away.",Completed,0,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I'll do the physiotherapy routine later; I haven't started it.,Not Started,2,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I did the physiotherapy routine already.,Completed,0,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,The medication is still untouched.,Not Started,2,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,"The medication has been taken, and there's nothing left to take.",Completed,0,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I didn't do the exercises.,Not Started,2,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I did all the exercises.,Completed,0,2,train,,,,,B03,,,minimal_pair,,MP03_not_started_completed.md,candidate,false
+,I haven't begun taking the medication yet.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,Taking the medication hasn't started for me yet.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,Not yet—I've still not taken the medication.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,The medication is still untouched; I haven't taken it.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"As of now, I haven't started the medication.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Well, I haven't started taking the medication yet.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I'm currently taking the medication.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,The medication is being taken right now.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Yeah, I'm taking it right now.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I'm in the middle of taking the medication now.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,You caught me while I'm taking the medication.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Actually, I'm taking the medication now.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I'm preparing to begin the exercises, but I haven't started them.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,The exercises haven't begun yet; I'm only getting things ready.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I'm all set to go, but I haven't actually started the exercises.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I've got everything ready, but the exercise itself hasn't started.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I'm ready to begin the exercises; I just haven't begun them yet.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Okay, I'm getting everything ready, but I haven't started the exercises.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I've begun the first exercise and I'm working through it now.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"The first exercise is underway, and I haven't finished the routine yet.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I started with the first one and I'm still working through the exercises.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I've actually started the first exercise, and I'm still doing the routine.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I'm already working on the first exercise, so the routine is underway.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Right, I've started the first exercise and I'm working through it now.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,The bottle is still untouched; I'll have the water once I'm finished here.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Once I finish this, I'll take care of the water—the bottle is still full.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,The water's still sitting there; I'll get to it after this.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"The bottle hasn't been touched, and I'll have it after I finish what I'm doing.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I'm tied up with this right now; the bottle can wait until I'm done.,Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Well, the bottle is still full; I'll get to it when I'm finished here.",Not Started,2,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I'm partway through the routine, with a few exercises still remaining.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,A few exercises remain because I've already worked through part of the routine.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I'm partway through the physio routine—there are just a few more exercises to go.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"I've worked through part of the routine already, and I still have a few exercises left.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,I'm in the middle of the routine; I'll finish the remaining exercises next.,In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+,"Actually, I'm halfway through the routine and still have a few exercises left.",In Progress,1,3B,train,,,,,B01,,,boundary_anchor,,ba01_not_started_in_progress_variants.md,candidate,false
+BA02-01,"The medication is being taken now, but I haven't finished the dose yet.",In Progress,1,3B,train,BA02-01,BA02-01,BA02-01,LEX,B02,,Medication,boundary_anchor,The user is currently taking the target medication.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-02,I'm still taking the medication; the dose isn't finished yet.,In Progress,1,3B,train,BA02-01,BA02-01,BA02-01,SYN,B02,,Medication,boundary_anchor,The user is currently taking the target medication.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-03,I'm in the middle of taking it—I haven't finished yet.,In Progress,1,3B,train,BA02-01,BA02-01,BA02-01,NAT,B02,,Medication,boundary_anchor,The user is currently taking the target medication.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-04,"I've started taking the medication, and there's still some left to take.",In Progress,1,3B,train,BA02-01,BA02-01,BA02-01,EXP,B02,,Medication,boundary_anchor,The user is currently taking the target medication.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-05,I'm partway through the dose and will finish it shortly.,In Progress,1,3B,train,BA02-01,BA02-01,BA02-01,PRG,B02,,Medication,boundary_anchor,The user is currently taking the target medication.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-06,"I'm taking it now; give me a moment, I'm not finished yet.",In Progress,1,3B,train,BA02-01,BA02-01,BA02-01,CMK,B02,,Medication,boundary_anchor,The user is currently taking the target medication.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-07,I finished taking the medication.,Completed,0,3B,train,BA02-02,BA02-02,BA02-02,LEX,B02,,Medication,boundary_anchor,The user reports the target medication after the dose has been fully taken.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-08,The medication has been taken in full.,Completed,0,3B,train,BA02-02,BA02-02,BA02-02,SYN,B02,,Medication,boundary_anchor,The user reports the target medication after the dose has been fully taken.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-09,That's done—I took the whole dose.,Completed,0,3B,train,BA02-02,BA02-02,BA02-02,NAT,B02,,Medication,boundary_anchor,The user reports the target medication after the dose has been fully taken.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-10,"I took the medication completely, so there's nothing left to take.",Completed,0,3B,train,BA02-02,BA02-02,BA02-02,EXP,B02,,Medication,boundary_anchor,The user reports the target medication after the dose has been fully taken.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-11,I've finished the dose and am done with the medication for now.,Completed,0,3B,train,BA02-02,BA02-02,BA02-02,PRG,B02,,Medication,boundary_anchor,The user reports the target medication after the dose has been fully taken.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-12,"Yep, I took it all already.",Completed,0,3B,train,BA02-02,BA02-02,BA02-02,CMK,B02,,Medication,boundary_anchor,The user reports the target medication after the dose has been fully taken.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-13,"I've started the exercises, but I still have the last few to do.",In Progress,1,3B,train,BA02-03,BA02-03,BA02-03,LEX,B02,,Exercise,boundary_anchor,The user is near the end of the exercise routine but has not completed it.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-14,The exercise routine is underway; I haven't worked through all of it yet.,In Progress,1,3B,train,BA02-03,BA02-03,BA02-03,SYN,B02,,Exercise,boundary_anchor,The user is near the end of the exercise routine but has not completed it.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-15,"I'm on the final few exercises, so I'm not quite through the routine.",In Progress,1,3B,train,BA02-03,BA02-03,BA02-03,NAT,B02,,Exercise,boundary_anchor,The user is near the end of the exercise routine but has not completed it.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-16,"I've already worked through most of the routine, with a small part still remaining.",In Progress,1,3B,train,BA02-03,BA02-03,BA02-03,EXP,B02,,Exercise,boundary_anchor,The user is near the end of the exercise routine but has not completed it.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-17,"I'm wrapping up the last exercises, but they're not all done yet.",In Progress,1,3B,train,BA02-03,BA02-03,BA02-03,PRG,B02,,Exercise,boundary_anchor,The user is near the end of the exercise routine but has not completed it.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-18,I'm nearly through the routine—just a few exercises are still left.,In Progress,1,3B,train,BA02-03,BA02-03,BA02-03,CMK,B02,,Exercise,boundary_anchor,The user is near the end of the exercise routine but has not completed it.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-19,I've worked through the entire exercise routine.,Completed,0,3B,train,BA02-04,BA02-04,BA02-04,LEX,B02,,Exercise,boundary_anchor,The user reports the exercise routine after every exercise has been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-20,All of the exercises have been completed.,Completed,0,3B,train,BA02-04,BA02-04,BA02-04,SYN,B02,,Exercise,boundary_anchor,The user reports the exercise routine after every exercise has been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-21,I'm through the whole routine now.,Completed,0,3B,train,BA02-04,BA02-04,BA02-04,NAT,B02,,Exercise,boundary_anchor,The user reports the exercise routine after every exercise has been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-22,"I went through every exercise in the routine, with none remaining.",Completed,0,3B,train,BA02-04,BA02-04,BA02-04,EXP,B02,,Exercise,boundary_anchor,The user reports the exercise routine after every exercise has been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-23,The routine is wrapped up; I've done every exercise.,Completed,0,3B,train,BA02-04,BA02-04,BA02-04,PRG,B02,,Exercise,boundary_anchor,The user reports the exercise routine after every exercise has been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-24,That's the whole routine finished—I got through all of it.,Completed,0,3B,train,BA02-04,BA02-04,BA02-04,CMK,B02,,Exercise,boundary_anchor,The user reports the exercise routine after every exercise has been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-25,"I've had some water already, but I still need to drink the rest of this bottle.",In Progress,1,3B,train,BA02-05,BA02-05,BA02-05,LEX,B02,,Hydration,boundary_anchor,The user has already consumed part of the target hydration amount.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-26,The bottle is partly emptied; I haven't finished drinking it yet.,In Progress,1,3B,train,BA02-05,BA02-05,BA02-05,SYN,B02,,Hydration,boundary_anchor,The user has already consumed part of the target hydration amount.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-27,"I've had some of it, and there's still quite a bit left.",In Progress,1,3B,train,BA02-05,BA02-05,BA02-05,NAT,B02,,Hydration,boundary_anchor,The user has already consumed part of the target hydration amount.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-28,"The water level has gone down, but there is still water left in the bottle.",In Progress,1,3B,train,BA02-05,BA02-05,BA02-05,EXP,B02,,Hydration,boundary_anchor,The user has already consumed part of the target hydration amount.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-29,I'm partway through the bottle and will finish the remaining water next.,In Progress,1,3B,train,BA02-05,BA02-05,BA02-05,PRG,B02,,Hydration,boundary_anchor,The user has already consumed part of the target hydration amount.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-30,"I've already had some, but I'm not through the bottle yet.",In Progress,1,3B,train,BA02-05,BA02-05,BA02-05,CMK,B02,,Hydration,boundary_anchor,The user has already consumed part of the target hydration amount.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-31,There are no exercises left in my physiotherapy routine.,Completed,0,3B,train,BA02-06,BA02-06,BA02-06,LEX,B02,,Physiotherapy,boundary_anchor,The user reports the physiotherapy routine after all required exercises have been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-32,I've gone through the full physiotherapy routine; nothing remains.,Completed,0,3B,train,BA02-06,BA02-06,BA02-06,SYN,B02,,Physiotherapy,boundary_anchor,The user reports the physiotherapy routine after all required exercises have been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-33,I'm through the whole physio routine now.,Completed,0,3B,train,BA02-06,BA02-06,BA02-06,NAT,B02,,Physiotherapy,boundary_anchor,The user reports the physiotherapy routine after all required exercises have been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-34,"I worked through every exercise in the routine, so there is nothing left to do.",Completed,0,3B,train,BA02-06,BA02-06,BA02-06,EXP,B02,,Physiotherapy,boundary_anchor,The user reports the physiotherapy routine after all required exercises have been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-35,The routine is wrapped up—I completed all the exercises.,Completed,0,3B,train,BA02-06,BA02-06,BA02-06,PRG,B02,,Physiotherapy,boundary_anchor,The user reports the physiotherapy routine after all required exercises have been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA02-36,All done with the physio routine; I don't have any exercises left.,Completed,0,3B,train,BA02-06,BA02-06,BA02-06,CMK,B02,,Physiotherapy,boundary_anchor,The user reports the physiotherapy routine after all required exercises have been performed.,ba02_in_progress_completed_variants.md,candidate,False
+BA03-01,I haven't begun taking the medication yet.,Not Started,2,3B,train,BA03-01,BA03-01,BA03-01,LEX,B03,,Medication,boundary_anchor,The target medication task has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-02,Taking the medication hasn't started yet.,Not Started,2,3B,train,BA03-01,BA03-01,BA03-01,SYN,B03,,Medication,boundary_anchor,The target medication task has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-03,Not yet—I still haven't taken the medication.,Not Started,2,3B,train,BA03-01,BA03-01,BA03-01,NAT,B03,,Medication,boundary_anchor,The target medication task has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-04,The medication is still untouched; I haven't taken it.,Not Started,2,3B,train,BA03-01,BA03-01,BA03-01,EXP,B03,,Medication,boundary_anchor,The target medication task has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-05,"As of now, I haven't started taking the medication.",Not Started,2,3B,train,BA03-01,BA03-01,BA03-01,PRG,B03,,Medication,boundary_anchor,The target medication task has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-06,"No, I haven't taken the medication yet.",Not Started,2,3B,train,BA03-01,BA03-01,BA03-01,CMK,B03,,Medication,boundary_anchor,The target medication task has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-07,I finished taking the medication.,Completed,0,3B,train,BA03-02,BA03-02,BA03-02,LEX,B03,,Medication,boundary_anchor,The target medication task has finished.,ba03_not_started_completed_variants.md,candidate,False
+BA03-08,The medication has been taken in full.,Completed,0,3B,train,BA03-02,BA03-02,BA03-02,SYN,B03,,Medication,boundary_anchor,The target medication task has finished.,ba03_not_started_completed_variants.md,candidate,False
+BA03-09,I took it already—that's done.,Completed,0,3B,train,BA03-02,BA03-02,BA03-02,NAT,B03,,Medication,boundary_anchor,The target medication task has finished.,ba03_not_started_completed_variants.md,candidate,False
+BA03-10,"I took the entire dose, so there's nothing left to take.",Completed,0,3B,train,BA03-02,BA03-02,BA03-02,EXP,B03,,Medication,boundary_anchor,The target medication task has finished.,ba03_not_started_completed_variants.md,candidate,False
+BA03-11,I've completed the medication dose for this task.,Completed,0,3B,train,BA03-02,BA03-02,BA03-02,PRG,B03,,Medication,boundary_anchor,The target medication task has finished.,ba03_not_started_completed_variants.md,candidate,False
+BA03-12,"Yep, I took all of it already.",Completed,0,3B,train,BA03-02,BA03-02,BA03-02,CMK,B03,,Medication,boundary_anchor,The target medication task has finished.,ba03_not_started_completed_variants.md,candidate,False
+BA03-13,"Everything is ready, but I haven't started the exercises.",Not Started,2,3B,train,BA03-03,BA03-03,BA03-03,LEX,B03,,Exercise,boundary_anchor,The exercise task is prepared but execution has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-14,I've got everything set up; the exercises themselves haven't begun.,Not Started,2,3B,train,BA03-03,BA03-03,BA03-03,SYN,B03,,Exercise,boundary_anchor,The exercise task is prepared but execution has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-15,"I'm all set to go, but I haven't actually done any of the exercises yet.",Not Started,2,3B,train,BA03-03,BA03-03,BA03-03,NAT,B03,,Exercise,boundary_anchor,The exercise task is prepared but execution has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-16,"The mat and equipment are ready, but I haven't started the routine.",Not Started,2,3B,train,BA03-03,BA03-03,BA03-03,EXP,B03,,Exercise,boundary_anchor,The exercise task is prepared but execution has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-17,I'm ready to begin the exercises; none of the routine has been done yet.,Not Started,2,3B,train,BA03-03,BA03-03,BA03-03,PRG,B03,,Exercise,boundary_anchor,The exercise task is prepared but execution has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-18,"I've got everything ready, but I haven't started the exercises.",Not Started,2,3B,train,BA03-03,BA03-03,BA03-03,CMK,B03,,Exercise,boundary_anchor,The exercise task is prepared but execution has not begun.,ba03_not_started_completed_variants.md,candidate,False
+BA03-19,I completed the exercises and put the equipment away.,Completed,0,3B,train,BA03-04,BA03-04,BA03-04,LEX,B03,,Exercise,boundary_anchor,The exercise task is fully executed and followed by a post-execution action.,ba03_not_started_completed_variants.md,candidate,False
+BA03-20,I've gone through the whole exercise routine and packed everything up.,Completed,0,3B,train,BA03-04,BA03-04,BA03-04,SYN,B03,,Exercise,boundary_anchor,The exercise task is fully executed and followed by a post-execution action.,ba03_not_started_completed_variants.md,candidate,False
+BA03-21,The exercises are all done—I put everything away afterward.,Completed,0,3B,train,BA03-04,BA03-04,BA03-04,NAT,B03,,Exercise,boundary_anchor,The exercise task is fully executed and followed by a post-execution action.,ba03_not_started_completed_variants.md,candidate,False
+BA03-22,"I worked through every exercise, then cleared the equipment away.",Completed,0,3B,train,BA03-04,BA03-04,BA03-04,EXP,B03,,Exercise,boundary_anchor,The exercise task is fully executed and followed by a post-execution action.,ba03_not_started_completed_variants.md,candidate,False
+BA03-23,"The full routine is finished, and I've already put things back.",Completed,0,3B,train,BA03-04,BA03-04,BA03-04,PRG,B03,,Exercise,boundary_anchor,The exercise task is fully executed and followed by a post-execution action.,ba03_not_started_completed_variants.md,candidate,False
+BA03-24,That's all done; I finished the exercises and put everything away.,Completed,0,3B,train,BA03-04,BA03-04,BA03-04,CMK,B03,,Exercise,boundary_anchor,The exercise task is fully executed and followed by a post-execution action.,ba03_not_started_completed_variants.md,candidate,False
+BA03-25,The bottle is still untouched.,Not Started,2,3B,train,BA03-05,BA03-05,BA03-05,LEX,B03,,Hydration,boundary_anchor,The target hydration task has not been initiated.,ba03_not_started_completed_variants.md,candidate,False
+BA03-26,I haven't used the bottle at all yet.,Not Started,2,3B,train,BA03-05,BA03-05,BA03-05,SYN,B03,,Hydration,boundary_anchor,The target hydration task has not been initiated.,ba03_not_started_completed_variants.md,candidate,False
+BA03-27,The water's still sitting there untouched.,Not Started,2,3B,train,BA03-05,BA03-05,BA03-05,NAT,B03,,Hydration,boundary_anchor,The target hydration task has not been initiated.,ba03_not_started_completed_variants.md,candidate,False
+BA03-28,"The bottle is exactly where I left it, completely full.",Not Started,2,3B,train,BA03-05,BA03-05,BA03-05,EXP,B03,,Hydration,boundary_anchor,The target hydration task has not been initiated.,ba03_not_started_completed_variants.md,candidate,False
+BA03-29,I haven't taken any water from the bottle yet.,Not Started,2,3B,train,BA03-05,BA03-05,BA03-05,PRG,B03,,Hydration,boundary_anchor,The target hydration task has not been initiated.,ba03_not_started_completed_variants.md,candidate,False
+BA03-30,The bottle's still full—I haven't touched it.,Not Started,2,3B,train,BA03-05,BA03-05,BA03-05,CMK,B03,,Hydration,boundary_anchor,The target hydration task has not been initiated.,ba03_not_started_completed_variants.md,candidate,False
+BA03-31,The whole routine is behind me now.,Completed,0,3B,train,BA03-06,BA03-06,BA03-06,LEX,B03,,Physiotherapy,boundary_anchor,The complete physiotherapy routine has already been carried out.,ba03_not_started_completed_variants.md,candidate,False
+BA03-32,I've been through the entire routine already.,Completed,0,3B,train,BA03-06,BA03-06,BA03-06,SYN,B03,,Physiotherapy,boundary_anchor,The complete physiotherapy routine has already been carried out.,ba03_not_started_completed_variants.md,candidate,False
+BA03-33,That's the whole physio routine out of the way.,Completed,0,3B,train,BA03-06,BA03-06,BA03-06,NAT,B03,,Physiotherapy,boundary_anchor,The complete physiotherapy routine has already been carried out.,ba03_not_started_completed_variants.md,candidate,False
+BA03-34,"I worked through every part of the routine, and there's nothing left.",Completed,0,3B,train,BA03-06,BA03-06,BA03-06,EXP,B03,,Physiotherapy,boundary_anchor,The complete physiotherapy routine has already been carried out.,ba03_not_started_completed_variants.md,candidate,False
+BA03-35,The full routine is behind me; I don't have any exercises remaining.,Completed,0,3B,train,BA03-06,BA03-06,BA03-06,PRG,B03,,Physiotherapy,boundary_anchor,The complete physiotherapy routine has already been carried out.,ba03_not_started_completed_variants.md,candidate,False
+BA03-36,I'm done with the whole physio routine—nothing's left.,Completed,0,3B,train,BA03-06,BA03-06,BA03-06,CMK,B03,,Physiotherapy,boundary_anchor,The complete physiotherapy routine has already been carried out.,ba03_not_started_completed_variants.md,candidate,False
+,I haven't started taking the medication yet.,Not Started,2,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,"I've started taking the medication, but I haven't finished it yet.",In Progress,1,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,"I've got everything ready, but I haven't started the exercises.",Not Started,2,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,"I've got everything ready, and I've started the first exercise.",In Progress,1,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,The bottle is still full; I haven't had any water yet.,Not Started,2,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,The bottle isn't full anymore; I've started drinking from it.,In Progress,1,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,I haven't done any of the routine yet.,Not Started,2,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,I've done the first few exercises and still have some of the routine left.,In Progress,1,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,I'll take the medication after I finish breakfast.,Not Started,2,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,"I started taking the medication after breakfast, and I'm still finishing the dose.",In Progress,1,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,"The exercise mat is out, but I haven't done any of the exercises.",Not Started,2,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,"The exercise mat is out, and I'm already working through the routine.",In Progress,1,3B,train,,,,,B01,,,minimal_pair,,mp01_not_started_in_progress_variants.md,candidate,false
+,I'm still taking the medication; I haven't finished the dose.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've finished taking the medication; the dose is complete.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm taking the medication now, but I'm not done with it yet.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I took the medication already; I'm done with it.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The medication is still being taken—I haven't finished yet.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The medication has been taken; I've finished the dose.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm partway through taking the medication.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've completed taking the medication.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm still on the medication dose; there's some left to take.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,There's nothing left to take—I finished the medication.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"Not done yet—I started the medication, but I'm still taking it.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,Done—I started and finished the medication.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've finished most of the exercises, but one is still left.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've finished all the exercises; none are left.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"Most of the routine is done, but I still have one exercise to go.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The whole exercise routine is done; I have nothing left.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've worked through nearly all of them, but there's still one exercise remaining.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've worked through every exercise; there isn't anything remaining.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,Just one exercise remains—I haven't finished the set yet.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The entire set is finished; no exercise remains.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm close to the end, but I still need to do the last exercise.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've reached the end and completed the last exercise.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've done the first few and most of the rest, but I'm not finished.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've done the full set, so there's nothing more to complete.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm still working through the physiotherapy routine.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've finished the physiotherapy routine.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The physio routine is still underway.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The physio routine is complete.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm in the middle of my physiotherapy routine.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've gone through the entire physiotherapy routine.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm still doing the physiotherapy exercises.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've finished all the physiotherapy exercises.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm continuing with the routine; I haven't reached the end yet.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've reached the end of the routine and finished it.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The routine isn't over yet—I'm still working through it.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The routine is over; I've completed the whole thing.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm almost finished with the water, but there's still some in the bottle.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've finished the water; the bottle is empty.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"There's only a little water left, so I'm nearly done.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,There's no water left; I've finished it.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've drunk most of it, but I haven't finished the water yet.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've drunk all of it; the water is finished.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm on the last bit of the water, and there's still some left.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,That last bit is gone—I finished the water.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm just about done drinking, but I still have some left.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm done drinking; there's nothing left in the bottle.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"Almost all of the water is gone, but I haven't finished it.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,All of the water is gone; I've finished drinking it.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've finished the first few exercises, but I still have the rest to do.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've finished every exercise in the routine.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've done part of the exercise set, but I'm not through the whole thing.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've done the entire exercise set.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"The first part is complete, but the remaining exercises still need to be done.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The first part and the remaining exercises are all complete.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've worked through some of the exercises; there are still more to do.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've worked through all of the exercises; nothing remains.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've completed a portion of the routine, but I haven't finished the full set.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've completed the full routine, including every exercise.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"Some of the exercises are done, but the routine as a whole isn't finished.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"Every exercise is done, so the routine as a whole is finished.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm halfway through the routine, with a few exercises still ahead.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've gone through the whole routine; there's nothing left.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm still in the middle of the routine, and some exercises remain.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've reached the end of the routine; nothing remains.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I've made it through part of the routine, but I still have exercises to do.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've made it through the entire routine; I have nothing more to do.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"The routine is underway, but I'm not through all the exercises yet.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,The routine is fully behind me; all the exercises are done.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,"I'm still working my way through it, with exercises left to complete.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I've worked my way through the whole thing; there are no exercises left.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm not at the end yet—there are still parts of the routine left.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I'm at the end now; every part of the routine is complete.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,mp02_in_progress_completed_variants.md,candidate,false
+,I haven't started taking the medication yet.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I've finished taking the medication.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I still haven't taken the medication.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I already took the medication.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication hasn't been taken yet.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication has been taken in full.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I haven't begun the medication dose.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I've completed the medication dose.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"No, I haven't taken it yet.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"Yes, I've taken it already.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I haven't started the dose at all.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I took the whole dose and finished it.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I haven't touched the water yet.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I've finished the water.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The water is still untouched.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The water is all gone; I finished it.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I haven't had any of the water yet.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I've had all of the water.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The bottle is still full; I haven't drunk from it.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The bottle is empty; I've finished drinking it.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I haven't taken a sip from the bottle.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I've finished the water in the bottle.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The water is exactly as it was; I haven't used it.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The water is gone now; I used it all.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"The mat is ready, but I haven't started the exercises.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"The exercises are finished, and I've put the mat away.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"I've set everything up, but I haven't done the exercise routine.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I did the full routine and packed the equipment away.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"Everything is prepared, but none of the exercises have been done.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"Everything is finished, and the equipment is back in place.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The equipment is laid out; I haven't begun the exercises.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I completed the exercises and cleared the equipment.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"I'm all set to exercise, but I haven't actually started.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I finished the exercise routine and put everything away.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"The exercise setup is ready, but the routine hasn't begun.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"The routine is complete, and the exercise setup has been put away.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I'll do the physiotherapy routine later; I haven't started it.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I did the physiotherapy routine already.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I haven't started the physio routine; I'll do it later.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I already went through the physio routine.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The routine hasn't begun yet; I'll get to it later.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The routine was already completed.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I still need to start the physiotherapy routine.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I've already finished the physiotherapy routine.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"I haven't done the routine yet, but I plan to do it later.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I did the routine earlier; it's already done.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I'm going to do the physio later—I haven't begun it.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I went through the whole physio routine earlier.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication is still untouched.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"The medication has been taken, and there's nothing left to take.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication is still sitting there; none of it has been taken.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication is gone; I've taken the full dose.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The dose is still there exactly as it was.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The dose has been taken in full; nothing remains.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,Nothing has been taken from the medication yet.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,Everything that needed to be taken is already done.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication hasn't been used at all.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The medication has been fully taken; there's no dose left.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The dose is still untouched.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"The dose is finished, with nothing remaining to take.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I didn't do the exercises.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I did all the exercises.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I didn't do any of the exercises.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I completed every exercise.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,None of the exercises got done.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,The entire exercise set got done.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I left the exercises undone.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I finished the whole exercise set.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I didn't carry out the exercise routine.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I carried out the complete exercise routine.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I didn't do the routine at all.,Not Started,2,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,I went through the full routine.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,mp03_not_started_completed_variants.md,candidate,false
+,"I was meant to take the medication earlier, but I still haven't started it.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I should have taken the medication by now, but I haven't begun the dose.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,It was supposed to be done earlier; I haven't actually taken the medication yet.,Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I was due to take it earlier, but the medication is still untouched.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I expected to have taken the medication already, but I haven't started taking it.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"The dose was supposed to happen earlier, but I still haven't taken it.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,I haven't finished the exercises yet because I'm still doing them.,In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"The exercises aren't finished, but I'm working through them now.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,I'm not done with the exercises yet; I've already started them.,In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I still have exercises left, and I'm doing them now.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,The routine isn't complete yet because I'm still going through it.,In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I haven't completed the set, but I'm partway through the exercises.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I'm ready to do the physiotherapy routine, but I haven't started it yet.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"Everything is ready for physio, though I haven't begun the routine.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I'm set up for the physiotherapy exercises, but I haven't actually started.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,I've got everything ready for the routine; none of the exercises have begun.,Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I'm all set to start physiotherapy, but I haven't done any of it yet.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"The routine is ready to go, but I haven't started working through it.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I haven't started drinking it—actually, I have; I'm halfway through the bottle.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I was about to say I hadn't started, but I have; I'm already drinking it.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"No, that's not right—I have started drinking the water, and there's still some left.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I thought I hadn't started, but I have; I'm partway through the bottle now.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I haven't started it—well, actually, I did; I'm still drinking the water.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"At first I thought I hadn't begun, but I have; I'm not finished with the bottle yet.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I was getting ready earlier, laid out the mat, and planned to start, but I still haven't begun the exercises.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I cleared some space, put the equipment out, and was ready earlier, but I haven't done the exercises.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"The mat is out, my shoes are on, and I was preparing to start, but the exercises haven't begun.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I set everything up earlier and even got into position, but I haven't actually started the routine.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"Everything is prepared, and I was going to start earlier, but I still haven't done any of the exercises.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I got the equipment ready and was about to begin, but I haven't started the exercise routine.",Not Started,2,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"The routine is taking longer than I expected, and I need to finish it before I can relax; I'm still working through the exercises.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"This is taking up more time than I planned, and I still have things to do afterward; I'm continuing the physiotherapy routine now.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I thought I'd be finished by now, and I need to get on with the rest of my day, but I'm still doing the exercises.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"It's been a longer routine than I expected, and I have somewhere to be later; I'm still going through the physiotherapy exercises.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I was hoping to be done already because I have other things to handle, but I'm still working through the routine.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"The routine is taking longer than I wanted, and I need to move on afterward; I'm still in the middle of the exercises.",In Progress,1,3B,train,,,,,B01,,,hard_negative,,hn01_not_started_in_progress_variants.md,candidate,false
+,"I took the medication earlier today, and it's completely finished.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,I finished the medication this morning; it's all done now.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"The dose was taken earlier, and I've completed it.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I already took the medication a while ago, and the dose is finished.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I took the medication before lunch, and there's nothing left to take.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"The medication was taken earlier, and I've finished the full dose.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,I haven't finished the exercise routine yet; I'm still on the last exercise.,In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm nearly done with the routine, but I'm still doing the final exercise.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I've reached the last exercise, and I haven't finished the routine yet.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"There's only one exercise left, so I'm close to done, but I'm still working on it.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm at the end of the exercise routine, but I still have the final exercise to finish.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"Most of the routine is complete, but I'm still doing the last exercise.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm still tired from the physiotherapy routine, but I finished the whole thing.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"My legs are still sore from physio, but I completed the entire routine.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I still feel the effects of the physiotherapy, although the routine is already finished.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm still feeling tired after physio, but I completed all the exercises.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"My body is still worn out from the routine, but I've finished the full session.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I still feel tired from doing the exercises, but the physiotherapy routine is done.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I still have some water to drink—no, that's from another bottle; I finished the one for this task.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I thought I still had some water left, but that's a different bottle; I've finished the task bottle.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"There's still water here—actually, that's for later; I already finished the water for this task.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I still have a bottle with water in it—wait, that's not the one I was supposed to drink; I finished mine.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I was about to say I had some left, but I checked the bottle and realized I had already finished the task amount.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I still have water beside me—no, that's separate; I finished the water I needed for this task.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I did most of the exercises earlier, I'm almost there, but I still have one exercise left to complete.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I've finished nearly the whole routine, and I started earlier, but there's still one exercise left.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"Most of it is done and I'm close to the end, but I'm still working through the final exercise.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I got through almost everything earlier, but one exercise remains, so the routine isn't finished yet.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm nearly done after completing most of the exercises, but I still have the last one to do.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I completed almost the entire set earlier, but there's one exercise I haven't finished.",In Progress,1,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,My legs are tired and I need to rest now; I finished the entire physiotherapy routine.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm exhausted and need to sit down for a while, but I completed the full physiotherapy routine.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,I need to rest after that session because my legs are tired; the whole routine is already done.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"My legs are worn out, and I don't want to do anything else right now; I finished all the physiotherapy exercises.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I'm feeling the strain and need some recovery time, but I've completed the entire routine.",Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,I need to take a break now because I'm tired; the physiotherapy session itself is finished.,Completed,0,3B,train,,,,,B02,,,minimal_pair,,hn02_in_progress_completed_variants.md,candidate,false
+,"I was meant to take the medication earlier, but I haven't started it.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I should have taken the medication by now, but I haven't begun.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"The medication was due earlier, but I still haven't taken it.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I was supposed to take the dose earlier, but I haven't started the medication.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I expected to have taken it already, but the dose hasn't begun.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"The medication was meant to be taken earlier, but I haven't actually taken it yet.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I didn't finish the last exercise separately, but I completed the full exercise routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"The final exercise wasn't done on its own, but I completed the complete routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,I didn't finish that last movement separately; the full exercise set is already complete.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"That final exercise wasn't completed as a separate step, but I finished the entire routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I didn't do the last exercise by itself, but the full exercise routine was completed.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"The last movement wasn't finished separately, but I completed the whole exercise set.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I'm ready for another session, but I already completed today's physiotherapy routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I'm ready to do physio again, but today's routine is already finished.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I could start another physiotherapy session now, although I already finished today's routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I'm prepared for the next physio session, but I completed the one for today.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,I'm ready for another round of physiotherapy; today's exercises are already done.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I can do another session whenever needed, but I already completed today's physiotherapy routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I haven't had the water yet—sorry, I mean the second bottle; I already finished the one for this task.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I haven't drunk that water—actually, that's the other bottle; I finished the one for this task.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I thought I hadn't had it yet, but I meant the other bottle; I already finished this task's water.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I still have water to drink—no, that's for later; I already finished the water assigned to this task.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,I was thinking of the second bottle; the one for this task is already finished.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"No, I haven't had the other bottle yet; I already finished the water for this task.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I was supposed to exercise earlier, got the mat ready, and even planned the first set, but I haven't actually done any of it.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I meant to start earlier, laid out the equipment, and planned the routine, but I haven't started the exercises.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I was going to exercise earlier, set everything up, and decided what to do first, but I haven't done the routine.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"The mat is ready, I planned the first set, and I expected to begin earlier, but the exercises haven't started.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I prepared the space and intended to begin earlier, but I haven't actually done any exercises.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I got everything ready and planned the routine for earlier, but I still haven't started exercising.",Not Started,2,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I need to rest after all that effort, and I'm already thinking about tomorrow's routine; today's physiotherapy routine is completely done.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I'm ready to take it easy now, and I'm thinking about tomorrow's session, but today's physiotherapy routine is finished.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"That routine wore me out, and I need to think about the next session; today's physiotherapy is already complete.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I need a break after all those exercises, and tomorrow's routine is on my mind; today's session is fully done.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,"I'm tired and already planning what I'll do tomorrow, but I've finished today's entire physiotherapy routine.",Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false
+,I need to recover now and prepare for the next session; the physiotherapy routine for today is completely finished.,Completed,0,3B,train,,,,,B03,,,minimal_pair,,hn03_not_started_completed_variants.md,candidate,false

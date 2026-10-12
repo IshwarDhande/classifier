@@ -1,0 +1,58 @@
+serial_id,utterance,execution_status
+001,Successfully completed.,completed
+002,Attained.,completed
+003,Engaged.,in_progress
+004,Continuing now.,in_progress
+005,The work is still underway.,in_progress
+006,Fulfilled.,completed
+007,I haven't gotten around to it.,not_started
+008,Executing.,in_progress
+009,Successfully finished.,completed
+010,Never.,not_started
+011,I've completed all the work.,completed
+012,Completed.,completed
+013,I haven't taken it up.,not_started
+014,I decided not to start.,not_started
+015,Resuming.,in_progress
+016,Everything has been completed.,completed
+017,Still underway.,in_progress
+018,Fully completed.,completed
+019,Progressing slowly.,in_progress
+020,Still pending.,not_started
+021,I have completed the task.,completed
+022,Never started.,not_started
+023,Unwilling.,not_started
+024,Ignored.,not_started
+025,"I've begun, but not finished.",in_progress
+026,I'm partway through the task.,in_progress
+027,Not begun.,not_started
+028,Still working.,in_progress
+029,Still working through it.,in_progress
+030,Haven't started.,not_started
+031,I haven't started it.,not_started
+032,Working.,in_progress
+033,Haven't started yet.,not_started
+034,I've been working.,in_progress
+035,Working now.,in_progress
+036,Already working.,in_progress
+037,I'm working.,in_progress
+038,I haven't started yet.,not_started
+039,I'm still working on it.,in_progress
+040,I haven't started.,not_started
+041,I'm working on it.,in_progress
+042,Working through it.,in_progress
+043,I still haven't started.,not_started
+044,I'm working now.,in_progress
+045,I'm continuing to work.,in_progress
+046,I'm already working.,in_progress
+047,Working on it.,in_progress
+048,I'm working through it.,in_progress
+049,Not started yet.,not_started
+050,Working on this.,in_progress
+051,Currently working on it.,in_progress
+052,Not started.,not_started
+053,I haven't even started.,not_started
+054,Still working on it.,in_progress
+055,Never started.,not_started
+056,I've been working on it.,in_progress
+057,I'm still working.,in_progress

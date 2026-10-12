@@ -1,0 +1,136 @@
+serial_id,utterance_id,utterance,response_category
+001,I-02-S05-A3,I’ll see how it goes.,indifferent
+002,P-01-S04-V01,"Alright, I’ll follow it.",positive
+003,VN-04-S04-V05,I’m stepping away from this conversation now.,very_negative
+004,N-01-S04-A1,"I can do a small part of it, but I’m reluctant to do more.",negative
+005,VN-02-S05-V06,"With this matter, I do not want any help from you.",very_negative
+006,N-04-S04-A2,A small change would make me more willing to try it.,negative
+007,P-02-S05-V06,"Got it, I’ll go ahead with that.",positive
+008,I-04-S04-V04,"I understand the request, but I haven’t expressed a behavioral position.",indifferent
+009,I-01-S04-V04,"I understand the repeated explanation, but I haven't decided how I feel about acting on it.",indifferent
+010,N-01-S04-V06,Could I just do a smaller part of it?,negative
+011,VP-01-S04-A2,That actually feels like it was made for my situation.,very_positive
+012,VN-04-S04-V03,I’m outta here — not another word about this.,very_negative
+013,N-02-S05-V01,"No, I’d prefer not to do that.",negative
+014,N-01-S04-V02,"I’m willing to do a small portion, rather than the whole thing.",negative
+015,P-01-S04-V04,I understand the reasoning and I’m willing to follow the recommendation.,positive
+016,I-04-S04-V01,I’m fully aware of what you’re asking.,indifferent
+017,N-02-S05-V05,I’d prefer to leave that action out.,negative
+018,P-02-S05-A2,That clears things up enough for me to move forward.,positive
+019,I-01-S04-A1,I understand the explanation.,indifferent
+020,VP-01-S04-V06,That seems really useful — is there anything else I should do with it?,very_positive
+021,I-02-S05-A1,I’m not sure if I’ll be able to follow through.,indifferent
+022,N-02-S05-V04,"I’m declining the action, but I’m not trying to end the conversation.",negative
+023,VP-04-S04-A2,I want to make this a regular part of my routine.,very_positive
+024,VN-01-S04-A1,I do not want any more recommendations about this.,very_negative
+025,N-02-S05-V03,"No thanks, I’d really prefer to skip over that one.",negative
+026,VP-02-S05-V01,I really appreciate the support and I’m happy to keep working with you.,very_positive
+027,VN-02-S05-A1,I do not want your assistance with this.,very_negative
+028,P-02-S05-A1,"Now that I understand it, I’ll follow the plan.",positive
+029,N-04-S04-V01,I’d be open to considering the proposal provided some modifications are made.,negative
+030,VP-01-S04-V05,"Yeah, this is really helpful. I’m definitely going to use it.",very_positive
+031,P-02-S05-A3,Got it. I’ll go ahead with it.,positive
+032,I-02-S05-V01,I'm uncertain about whether I'll manage to follow through.,indifferent
+033,P-02-S05-V04,"Now that the recommendation is clear to me, I’m willing to carry it out.",positive
+034,VP-04-S04-V05,"Right, I’m going to stick with it.",very_positive
+035,VP-02-S05-V05,"Yeah, this has been great. I’m happy to keep going.",very_positive
+036,I-02-S05-V04,"I'm not opposed to it, but I don't know yet whether I'll be able to follow through.",indifferent
+037,N-04-S04-V05,I’d be more willing to try it after a small change.,negative
+038,VP-02-S05-V06,"Thanks, this has helped — what should we work on next?",very_positive
+039,VP-01-S04-A3,"Yeah, that works really well for me. I’m definitely trying it.",very_positive
+040,VP-04-S04-V04,I want to carry this through because I’ve decided it’s worth doing.,very_positive
+041,VN-01-S04-V01,I want all further recommendations regarding this issue stopped immediately.,very_negative
+042,VN-01-S04-V03,Stop sending suggestions my way about this — I don’t want them.,very_negative
+043,N-02-S05-A3,"No, I’d rather skip that.",negative
+044,P-01-S04-V05,"Alright, that’s fine with me.",positive
+045,N-02-S05-V06,Could we look at a different option?,negative
+046,VP-04-S04-V03,I’m making a firm personal commitment to follow through with the recommendation.,very_positive
+047,P-04-S04-V02,Following through on this over the weekend is something I fully plan on doing.,positive
+048,P-04-S04-V06,"Alright, I’ll make sure to follow through on that this weekend.",positive
+049,VP-02-S05-V02,"Thanks, I’m glad we’re doing this — I’m happy to keep going.",very_positive
+050,N-04-S04-V03,"If we can just tweak that one piece, I’d probably be up for giving it a go.",negative
+051,P-01-S04-V03,"Okay, I get it now. I can do that.",positive
+052,P-04-S04-A2,That explanation gives me enough confidence to move forward.,positive
+053,N-04-S04-V06,"Look, could we change that part so I can consider doing it?",negative
+054,VN-02-S05-A2,Your involvement is not something I want here.,very_negative
+055,VN-01-S04-A3,Please don’t keep giving me suggestions about this.,very_negative
+056,VN-02-S05-V02,Having you involved in this matter is entirely unacceptable to me.,very_negative
+057,VN-02-S05-A3,I don’t want your help with this.,very_negative
+058,I-04-S04-V03,"Okay, I understand the angle you’re taking.",indifferent
+059,N-01-S04-V03,"I can manage a small bit of it, but I’m really not up for doing the whole thing.",negative
+060,N-04-S04-A3,I could give it a shot if we changed that part.,negative
+061,VN-04-S04-A1,I’m leaving this conversation now.,very_negative
+062,I-04-S04-V02,I see what you’re asking me to do.,indifferent
+063,VN-02-S05-V05,"Your assistance is unwanted, and I do not intend to accept it.",very_negative
+064,VP-01-S04-V03,I’m very positive about this recommendation; it addresses exactly what I needed.,very_positive
+065,N-01-S04-V04,"I can cooperate to a limited extent, but I’m resisting doing the full activity.",negative
+066,P-04-S04-V04,I have every intention of cooperating with the recommendation in the near future.,positive
+067,I-01-S04-V05,"Okay, I understand the reasoning now.",indifferent
+068,I-04-S04-V06,What exactly are you asking me to do?,indifferent
+069,I-01-S04-V02,I follow the reasoning you've explained.,indifferent
+070,N-04-S04-V04,"I’m resisting the recommendation as it stands, but I may cooperate after the requested adjustment.",negative
+071,I-02-S05-V02,I don't know yet whether I'll be able to carry it out.,indifferent
+072,I-01-S04-V01,I understand the explanation you've given.,indifferent
+073,P-04-S04-V05,I fully plan to carry that out this weekend.,positive
+074,VN-01-S04-V04,I’m rejecting not only this recommendation but any further recommendations on this issue.,very_negative
+075,I-01-S04-V06,"Right, I hear you.",indifferent
+076,VP-04-S04-A3,"Yeah, I’m going to stick with it.",very_positive
+077,I-04-S04-A1,I know what you’re asking.,indifferent
+078,P-02-S05-V05,"I understand it now, so I can move forward with it.",positive
+079,VP-01-S04-V02,"Oh, that really helped — I’m happy to go with this.",very_positive
+080,VN-01-S04-A2,Further suggestions on this are not welcome.,very_negative
+081,VN-04-S04-V04,I am withdrawing from the interaction and will not continue the discussion.,very_negative
+082,N-01-S04-A2,I could probably manage a limited version of that.,negative
+083,I-02-S05-V06,I'll see how it goes before I know.,indifferent
+084,N-04-S04-A1,I’ll consider doing it if the recommendation is adjusted.,negative
+085,P-01-S04-V06,"Okay, that makes sense, I’ll follow that.",positive
+086,VP-04-S04-V02,"Yeah, I’ll see it through.",very_positive
+087,VP-02-S05-A3,"Thanks, this actually fits my situation really well.",very_positive
+088,P-04-S04-A1,"Now that I understand the concern, I’m willing to do it.",positive
+089,VN-01-S04-V02,Further suggestions about this are not welcome.,very_negative
+090,VN-04-S04-A3,I’m done here. I’m not talking about this anymore.,very_negative
+091,VP-01-S04-V01,"That was genuinely useful, and I’m glad to follow it.",very_positive
+092,N-02-S05-A1,"No, I don’t want to do that.",negative
+093,VP-01-S04-V04,"Now that I can see how useful this is for me, I’m keen to put it into practice.",very_positive
+094,VN-01-S04-V06,"About this topic, do not give me any more suggestions.",very_negative
+095,N-02-S05-A2,That’s not something I’m willing to take on.,negative
+096,N-01-S04-V01,"I could manage a limited part of it, but I’m reluctant to do more.",negative
+097,VN-01-S04-V05,I don’t want any more advice about this.,very_negative
+098,I-01-S04-A2,That makes the reasoning clear.,indifferent
+099,N-02-S05-V02,I’m not willing to take that particular action.,negative
+100,VN-04-S04-A2,I’m not continuing this discussion.,very_negative
+101,VN-02-S05-V03,I don’t want any help from you whatsoever — back off.,very_negative
+102,N-04-S04-V02,Making a minor tweak here would significantly improve my willingness to attempt it.,negative
+103,I-01-S04-A3,"Okay, I see how you got there.",indifferent
+104,I-04-S04-V05,I know what you’re asking of me.,indifferent
+105,VP-01-S04-A1,That recommendation fits me really well. I’m happy to follow it.,very_positive
+106,N-01-S04-V05,"I can handle a small part, though I’d rather not take on more.",negative
+107,VN-04-S04-V01,I am stepping away and abandoning this conversation immediately.,very_negative
+108,VN-02-S05-V04,I strongly reject the agent’s involvement in this behavior.,very_negative
+109,VN-04-S04-V02,Continuing this dialogue any further is something I flatly refuse to do.,very_negative
+110,VN-04-S04-V06,I’m not talking about this anymore — I am completely done here.,very_negative
+111,VP-02-S05-V03,I appreciate the intervention and I’m clearly willing to continue engaging with it.,very_positive
+112,P-02-S05-V01,"Now that I understand it, I’ll go ahead.",positive
+113,I-02-S05-V03,I'll have to see how things go.,indifferent
+114,I-01-S04-V03,"Okay, I see what you mean.",indifferent
+115,I-02-S05-V05,I'm still unsure whether I can follow through.,indifferent
+116,I-04-S04-A2,I understand the request.,indifferent
+117,P-02-S05-V03,"Okay, got it. I’ll do it.",positive
+118,VN-02-S05-V01,I explicitly reject any assistance or guidance from you on this.,very_negative
+119,P-04-S04-V03,"Yeah, I’m definitely planning to follow through on this over the weekend.",positive
+120,P-01-S04-V02,"That explanation makes sense, and I can go ahead with the recommendation.",positive
+121,P-01-S04-A3,"Okay, I get it now. I’ll do that.",positive
+122,P-01-S04-A1,"Alright, I understand. I’ll follow it.",positive
+123,N-01-S04-A3,"I can do a little, but I’m not keen on doing the whole thing.",negative
+124,VP-02-S05-A1,Thank you so much for tailoring that to my situation.,very_positive
+125,VP-02-S05-A2,That feels much more manageable for me now.,very_positive
+126,VP-02-S05-V04,This has been useful enough that I’d like to keep working through the next steps with you.,very_positive
+127,P-04-S04-V01,I genuinely intend to follow through with this over the coming weekend.,positive
+128,I-02-S05-A2,I’ll have to see how things work out.,indifferent
+129,I-04-S04-A3,"Okay, I know what you mean.",indifferent
+130,P-04-S04-A3,"Alright, that clears it up. I’ll give it a try.",positive
+131,VP-04-S04-V01,I intend to follow through with it on my own.,very_positive
+132,VP-04-S04-V06,Would it be useful if I followed through with the whole plan myself?,very_positive
+133,P-02-S05-V02,That clarification gives me enough information to follow the plan.,positive
+134,VP-04-S04-A1,I’m committed to doing this consistently.,very_positive
+135,P-01-S04-A2,That explanation makes sense to me.,positive

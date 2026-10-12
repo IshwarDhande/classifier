@@ -1,0 +1,396 @@
+serial_id,utterance_id,utterance,response_category
+001,HN04-06-V02,"It’s another rehab suggestion every single day, and I’m done talking about physiotherapy with you. Just drop it.",very_negative
+002,BA07-A06-V03,I’ve had enough of this. Just leave the medication topic alone.,very_negative
+003,HN07-06-V04,"Drop the subject. We’ve had good conversations before, but I’m completely done discussing my physiotherapy with you.",very_negative
+004,MP10-06-V01-VN,Stop bothering me about performing physical therapy in the evening.,very_negative
+005,P-03-S05-V04,"I accept the recommendation and will cooperate, even though I have some minor reservations about the workload.",positive
+006,I-04-S05-V05,I don’t have a clearer response to give at the moment.,indifferent
+007,HN01-06-V05,"Call it another ambitious habit change if you like, but for this one I’ll do the two short sessions today.",positive
+008,HN06-06-V02,"I normally like trying new routines, but breaking my physiotherapy into two sessions is too disruptive for me. I’d rather do it once.",negative
+009,I-01-S05-V05,I understand the suggested next step.,indifferent
+010,HN10-06-V06,"Again with the walking? No, I told you to stop telling me what to wear or do. Drop the subject.",very_negative
+011,P-04-S05-V01,"I need to postpone starting for a couple of hours, but I remain fully willing to cooperate.",positive
+012,HN07-06,"You’ve had to remind me before, and I know I’ve pushed back on reminders. This one is different—I really appreciate it and I’ll set it now.",very_positive
+013,MP02-06-V05-I,I could do them before dinner.,indifferent
+014,MP10-06-V04-I,"Preparing the physiotherapy equipment before dinner could make it easier to get started, but I haven’t decided whether I’ll do that.",indifferent
+015,P-01-S05-V06,"Okay, I can go with that.",positive
+016,P-04-S05-A2,I’m more comfortable with the idea now.,positive
+017,MP04-06-V04-N,"That timing doesn’t fit my routine, so I’d rather finish the physiotherapy movements earlier in the day.",negative
+018,BA10-A06-V02,Hydration suggestions from you need to stop; I don’t want this topic raised again.,very_negative
+019,HN07-06-V06,"Yeah, we’ve had good conversations, but no, I’m done discussing physiotherapy. Drop the subject.",very_negative
+020,MP07-06-V06-VN,"No, seriously, I’m not changing my medication routine. Please stop bringing it up.",very_negative
+021,VP-03-S05-V03,I’m strongly engaged with the goal and want to contribute beyond the immediate recommendation.,very_positive
+022,VN-01-S05-V04,I am definitively refusing to participate in the recommended action.,very_negative
+023,MP04-06-V02-N,That time doesn’t work well for me; I’d rather complete the physiotherapy movements earlier.,negative
+024,BA06-A06-V02,"Because I don’t want to crowd my workspace, I’d rather keep the water bottle off my desk.",negative
+025,VP-03-S05-V05,"Right, I’m into this. I’d like to take it a bit further.",very_positive
+026,VN-03-S05-V05,I’ve had enough of your help. Stay out of this.,very_negative
+027,VN-03-S05-V01,"I despise your assistance, and I demand that you leave me alone.",very_negative
+028,I-03-S05-V05,I’m keeping the recommendation under consideration without committing.,indifferent
+029,MP07-06-V02-VN,"I refuse to change how I manage my medication, and I don’t want you interfering with it again.",very_negative
+030,BA08-A06-V03,That timing isn’t great for me. I’d rather leave the physiotherapy for later.,negative
+031,MP07-06-V06-VP,I’ll take my evening medication tonight and use the system.,very_positive
+032,MP04-06-V05-N,I’d rather do them earlier.,negative
+033,MP09-06-V02-P,"Okay, I’ll take my evening medication at the scheduled time.",positive
+034,BA08-A06-V02,"Later in the day works better for me, so I don’t want to do the physiotherapy then.",negative
+035,BA01-A06-V02,The walk can happen after dinner; I’ll do it then.,positive
+036,MP10-06-V02-I,Getting my physiotherapy equipment ready before dinner is one possibility I could consider.,indifferent
+037,VN-04-S05-A2,This is something I want completely left alone from now on.,very_negative
+038,P-01-S05-A3,"Yeah, that’s fine.",positive
+039,HN08-06-V02,"I normally like going outside, but today I don’t want to take the walk. I’d rather stay indoors.",negative
+040,MP06-06-V03-N,I’d rather put my physiotherapy mat out later.,negative
+041,BA02-A06-V04,I’ll consider keeping a bottle nearby.,indifferent
+042,HN08-06-V06,"Sure, I usually enjoy getting outside, but no, today the walk doesn’t work for me. I’d rather stay in.",negative
+043,I-04-S05-V01,I don’t have anything further to add at this point.,indifferent
+044,HN09-06-V03,"I know physiotherapy has come up in our previous conversations, but I’m ending that discussion now. I’m completely done with the topic, so stop bringing it up.",very_negative
+045,BA10-A06-V05,I don’t want further intervention about my water intake. Please leave the subject alone.,very_negative
+046,HN10-06,"You know I’ve complained about reminders before. For this one, though, I’m simply considering whether it would help.",indifferent
+047,MP02-06-V06-I,"Alright, doing them before dinner is one possibility.",indifferent
+048,BA10-A06-V06,"No, that’s enough. Please don’t bring up drinking water again.",very_negative
+049,I-04-S05-V02,I’ll leave the matter there for now.,indifferent
+050,MP03-06-V01-N,I refuse to set up a medication alert.,negative
+051,MP05-06-V06-VP,I’ll make sure I take my evening medication tonight.,very_positive
+052,MP08-06-V04-N,I’d rather finish the physiotherapy exercises earlier because that timing works better with my routine.,negative
+053,I-04-S05-A3,Nothing else from me right now.,indifferent
+054,BA09-A06-V02,"Exercise advice from you isn’t something I want anymore, so please stop bringing up walking.",very_negative
+055,MP10-06-V03-I,I could get the equipment ready before dinner.,indifferent
+056,VP-01-S05-A3,"Sure, I’m ready. Let’s do it.",very_positive
+057,VN-01-S05-A3,I’m not going to cooperate with that.,very_negative
+058,I-03-S05-V02,"I’ve considered what you said, but I haven’t decided whether to follow it.",indifferent
+059,BA02-A06-V05,"That’s an option I can consider, though I haven’t decided to do it yet.",indifferent
+060,MP04-06-V03-VN,"No, I’m not doing physiotherapy tonight. Stop bringing up my exercises.",very_negative
+061,BA05-A06,That’s worth considering. I haven’t decided what I’ll do yet.,indifferent
+062,MP03-06-V02-N,I’d prefer to manage my medication without an additional reminder.,negative
+063,MP02-06-V01-I,Completing my physical therapy prior to dinner is feasible.,indifferent
+064,N-01-S05-V02,I’m having reservations about continuing the practice.,negative
+065,N-03-S05-V02,"While I’m happy to consider other possibilities, that particular method isn’t going to work for me.",negative
+066,P-01-S05-V04,I’ve considered the suggestion and I’m comfortable accepting it.,positive
+067,MP03-06-V04-N,"I can see how a reminder could help, but I’d rather manage my medication on my own.",negative
+068,BA05-A06-V04,I’ll consider taking the walk after lunch.,indifferent
+069,N-01-S05-A2,I’m not sure I want to keep doing it.,negative
+070,P-01-S05-V03,"Yeah, I thought about it. That’s fine.",positive
+071,P-04-S05-V03,"Yeah, let’s push it to tonight, but I’m definitely still on board to do it.",positive
+072,BA05-A06-V01,That’s something I can consider. I haven’t settled on what I’ll do during lunch.,indifferent
+073,MP09-06-V03-P,"Sure, I’ll take my medication this evening at the scheduled time.",positive
+074,P-01-S05-V02,"I’ve considered it, and I can go ahead with the plan.",positive
+075,MP08-06-V01-P,I'll perform physical therapy in the evening.,positive
+076,MP09-06-V04-VN,"I’m not changing how I handle my medication, and I’m done with you trying to direct it.",very_negative
+077,N-04-S05-V03,"Pass for right now, but feel free to check back with me later.",negative
+078,MP01-06-V04-P,I’ll have a glass of water before dinner tonight.,positive
+079,BA03-A06-V03,I’d rather skip that. I can manage my medication without putting it there.,negative
+080,MP06-06-V01-VP,I'll eagerly perform physical therapy in the evening.,very_positive
+081,VN-01-S05-V06,"With that plan, I will not cooperate under any circumstances.",very_negative
+082,P-03-S05-V06,"Sure, I’ll follow through with it, even if I have a small doubt about the timing.",positive
+083,N-01-S05-V01,I’m reluctant to keep going with this.,negative
+084,HN07-06-V05,"Our earlier conversations may have gone well, but that doesn’t change my current response—I’m ending the physiotherapy discussion. Drop it.",very_negative
+085,VN-01-S05-A2,There is no agreement from me on this.,very_negative
+086,BA10-A06,I’ve heard enough suggestions about this. Leave it alone and don’t bring it up again.,very_negative
+087,I-01-S05-A2,I see what the proposed next step is.,indifferent
+088,BA03-A06-V04,I’ll keep managing my medication without placing it beside my tea.,negative
+089,MP10-06-V06-VN,"No, seriously, I don’t want any more physiotherapy advice. Stop bringing it up.",very_negative
+090,MP03-06-V02-I,A medication reminder could be useful.,indifferent
+091,I-03-S05-V03,"Okay, I understand, but I’m not ready to commit.",indifferent
+092,MP07-06-V03-VP,I’ll make sure I take my evening medication tonight.,very_positive
+093,BA06-A06-V03,"I know the idea could help, but I don’t want a bottle taking up space on my desk.",negative
+094,MP03-06-V05-N,I’d rather not have another reminder.,negative
+095,MP04-06-V06-N,"Okay, but that timing doesn’t work for me. I’d rather do them earlier.",negative
+096,MP03-06-V03-I,A reminder might help.,indifferent
+097,MP04-06-V06-VN,"No, I’m not doing physiotherapy tonight. Please stop bringing it up.",very_negative
+098,VN-04-S05-V02,"From this moment forward, having this entire matter left completely alone is my non-negotiable demand.",very_negative
+099,MP07-06-V01-VN,Stop pushing me to set up a medication alert.,very_negative
+100,VP-04-S05-A2,I can see myself continuing this on my own.,very_positive
+101,BA04-A06-V01,I’ve already told you no. Please stop interfering with my exercises and don’t bring them up again.,very_negative
+102,VN-04-S05-V05,I want this entire matter left alone from now on.,very_negative
+103,HN05-06-V06,"Right, you’re always telling me to be proactive, and maybe two sessions could work. I’m going to think about it before committing.",indifferent
+104,HN05-06,"I normally just acknowledge reminders without much thought, but this one is actually useful. I’m setting it now.",very_positive
+105,HN09-06-V04,"Drop the subject. Every time we talk you bring up physiotherapy, and I’m completely done discussing it.",very_negative
+106,MP01-06-V05-VP,I’ll have some water before dinner.,very_positive
+107,MP02-06-V01-P,I'll complete my physical therapy prior to dinner.,positive
+108,I-04-S05-V04,"Even with the context, I’m not expressing whether I’ll accept or resist the recommendation.",indifferent
+109,N-01-S05-A3,I’m having second thoughts about keeping this up.,negative
+110,MP08-06-V06-P,I'll get the physiotherapy exercises completed before dinner.,positive
+111,BA06-A06-V05,"The hydration benefit makes sense, but I’m not willing to use my desk for that. I’ll keep the bottle elsewhere.",negative
+112,P-03-S05-V01,"I’m willing to follow the plan, though I have a slight concern about finding enough time.",positive
+113,HN03-06-V02,"We’ve talked about breaking the sessions up before, but I don’t like having two separate interruptions. I’d rather do the physiotherapy in one go.",negative
+114,VP-04-S05-A1,I’ll keep doing this even without another reminder.,very_positive
+115,HN10-06-V04,"Drop the subject. You bring up walking every single day, and I’ve already told you to stop telling me what to wear or do.",very_negative
+116,BA09-A06-V03,I’ve had enough of the walking advice. Just stop giving me suggestions about exercise.,very_negative
+117,N-03-S05-V05,"I don’t agree with this approach, but I’m still open to alternatives.",negative
+118,BA09-A06,I’m done discussing this. Don’t give me any more advice about my exercises.,very_negative
+119,BA09-A06-V06,"No, that’s enough. Please stop giving me exercise advice.",very_negative
+120,MP05-06-V02-VP,I’ll make sure I take my evening medication tonight.,very_positive
+121,N-01-S05-A1,I’m hesitant about continuing with this.,negative
+122,VN-01-S05-V02,Under no circumstances will you get my agreement or consent on this.,very_negative
+123,HN03-06-V05,"Even though we’ve discussed splitting the sessions before, I’m not agreeing to two interruptions—I’d rather complete the physiotherapy in one session.",negative
+124,P-03-S05-A2,The overall approach works for me with a slight change.,positive
+125,VP-04-S05-V03,I’m strongly willing to remain engaged with the intervention and continue cooperating.,very_positive
+126,MP10-06-V05-I,I could prepare it before dinner.,indifferent
+127,BA03-A06-V06,"No, I’ll leave that out. I can manage my medication without it.",negative
+128,HN09-06-V05,The repeated discussion itself is the problem—I’m ending the physiotherapy topic completely. Please stop bringing it up.,very_negative
+129,BA10-A06-V01,I’ve heard enough about drinking water. Please stop bringing hydration suggestions to me.,very_negative
+130,HN04-06-V06,"Again? Another rehab suggestion? No, I’m completely done discussing physiotherapy with you. Drop it.",very_negative
+131,HN08-06,"I’ve complained about reminders before, and they can be annoying, but I’ll set this one for the evening dose.",positive
+132,HN09-06-V01,"Every time we talk you bring up physiotherapy. I’m completely done discussing it, so drop the subject.",very_negative
+133,MP05-06-V06-I,"Okay, an evening medication reminder is one possibility.",indifferent
+134,MP10-06-V02-VN,"I’m not changing how I handle my physiotherapy, and I don’t want you giving me more advice about it.",very_negative
+135,MP05-06-V05-VP,I’ll take my evening medication tonight.,very_positive
+136,N-01-S05-V05,I’m not very comfortable continuing.,negative
+137,MP03-06-V06-I,"Okay, a medication reminder is one possibility.",indifferent
+138,I-04-S05-A2,I’ll leave it there for now.,indifferent
+139,HN03-06-V01,"We’ve discussed splitting sessions before, but having two separate interruptions doesn’t work for me; I’d rather do my physiotherapy all at once.",negative
+140,BA03-A06-V02,"Without putting the medication by my tea, I can manage it on my own, so I’d rather keep things as they are.",negative
+141,N-03-S05-V01,"I have to dispute that recommendation, though I’m very willing to explore other choices.",negative
+142,MP04-06-V02-VN,"I refuse to do the physiotherapy movements tonight, and I don’t want this topic raised again.",very_negative
+143,I-03-S05-V04,"I understand the discussion, yet my willingness to act is still unresolved.",indifferent
+144,HN09-06-V06,"Again with the physiotherapy? No, I’m done discussing it. Drop the subject.",very_negative
+145,MP01-06-V06-VP,I’ll have a glass of water before dinner tonight.,very_positive
+146,BA07-A06-V06,"No, that’s enough. Please leave the medication advice alone from now on.",very_negative
+147,VP-01-S05-V04,"The next step makes sense to me, so I’m happy to keep moving forward.",very_positive
+148,N-01-S05-V06,Do I really need to keep doing this?,negative
+149,MP05-06-V02-I,An evening medication reminder could be useful; I’ll consider it.,indifferent
+150,VP-04-S05-V06,What would you suggest we work on next?,very_positive
+151,MP08-06-V05-N,I’d rather do them earlier.,negative
+152,HN03-06,"I’ve said before that reminders can be annoying, but for this suggestion I’m simply considering whether one would help.",indifferent
+153,HN02-06,"I usually just acknowledge suggestions like this, and I’m not sure how useful two sessions will be. For today, though, I’ll split the exercises.",positive
+154,BA10-A06-V03,I’ve had enough of the water suggestions. Just leave it alone.,very_negative
+155,MP08-06-V01-N,I prefer not to perform physical therapy in the evening.,negative
+156,HN08-06-V04,"I’d rather stay in today. I usually enjoy getting outside, but the walk doesn’t work for me right now.",negative
+157,MP01-06-V04-VP,I’ll have a glass of water before dinner tonight,very_positive
+158,BA01-A06-V06,"Sure, I’ll do the walk after dinner.",positive
+159,VP-04-S05-V04,"I find the continued support useful, and I’m receptive to working through the next steps with you.",very_positive
+160,VN-04-S05-V03,Drop this topic forever — I don’t ever want to hear another word about it.,very_negative
+161,MP05-06-V01-VP,I'm glad to set up a medication alert tonight.,very_positive
+162,I-01-S05-V04,"I understand the proposed action, but I'm not committing to it.",indifferent
+163,VP-04-S05-A3,I’ll keep it going. I don’t need another reminder.,very_positive
+164,MP01-06-V03-VP,I’ll have some water before dinner tonight.,very_positive
+165,HN07-06-V01,"We’ve had good conversations before, but I’m completely done discussing my physiotherapy. Drop the subject.",very_negative
+166,HN04-06-V04,"Drop it. Every single day there’s another rehab suggestion, and I’m completely done discussing physiotherapy with you.",very_negative
+167,BA08-A06-V06,"Hmm, I’d rather do it later in the day. That timing doesn’t work for me.",negative
+168,I-01-S05-A1,I understand what you want me to do.,indifferent
+169,VP-01-S05-A2,I’m actually looking forward to getting started.,very_positive
+170,MP09-06-V05-VN,Stop telling me how to take it.,very_negative
+171,MP05-06-V04-VP,I’ll make sure I take my evening medication tonight,very_positive
+172,MP06-06-V06-N,"Okay, but I’d rather wait until later to put out my mat.",negative
+173,BA07-A06,I’ve had enough of these suggestions. Leave this alone and don’t bring it up again.,very_negative
+174,HN03-06-V03,"I remember our earlier discussion about splitting the sessions, but I don’t want two separate interruptions; I’d prefer to complete the physiotherapy all at once.",negative
+175,MP09-06-V01-P,I'll perform physical therapy in the evening.,positive
+176,I-01-S05-V06,"Alright, I know what you mean.",indifferent
+177,BA01-A06-V01,"Alright, I’ll go for the walk after dinner.",positive
+178,MP06-06-V05-VP,Great—I’ll put my mat out now.,very_positive
+179,HN08-06-V05,"Enjoying outdoor activity generally isn’t the issue; today’s walk simply doesn’t suit me, so I’d rather stay in.",negative
+180,P-03-S05-A1,"I agree with the plan, with that small adjustment.",positive
+181,N-04-S05-V05,I’m not prepared to do it right now.,negative
+182,VN-04-S05-V04,I am definitively closing the interactional pathway for further discussion or intervention on this issue.,very_negative
+183,BA09-A06-V04,Stop giving me advice about walking or exercise.,very_negative
+184,BA02-A06-V01,"Alright, having a water bottle nearby is something I can keep in mind.",indifferent
+185,HN01-06-V04,"I’ll do the two short sessions today. You always suggest ambitious changes, but this one is fine.",positive
+186,MP05-06-V03-VP,I’ll take my evening medication tonight.,very_positive
+187,N-01-S05-V04,"I can continue for now, but I’m becoming less willing to keep doing it.",negative
+188,HN02-06-V01,"You often suggest breaking things into smaller parts, and I might try that sometime, but I’m only considering it for now.",indifferent
+189,MP02-06-V02-I,Doing the physiotherapy movements before dinner is something I could consider.,indifferent
+190,BA03-A06-V01,I’ll leave that arrangement out for now. I’m comfortable managing my medication without keeping it beside my tea.,negative
+191,HN06-06-V05,"Trying a new routine isn’t the problem; the two-session structure is. It’s too disruptive for me, so I’d rather complete the physiotherapy in one session.",negative
+192,BA04-A06-V03,I said no already. Just leave my exercises alone and stop bringing them up.,very_negative
+193,HN05-06-V04,"I’m going to think about it before committing. You always encourage me to be proactive about physiotherapy, and two sessions could work.",indifferent
+194,VP-03-S05-V04,"This seems like a useful starting point for making broader progress, so I’d like to keep building on it.",very_positive
+195,BA08-A06-V05,"I’m still willing to do the physiotherapy, but that timing doesn’t work for me. I’d rather move it later.",negative
+196,HN06-06-V01,"While I'm typically open to embracing new habits, dividing my exercises into two separate sessions today feels like overkill.",negative
+197,MP07-06-V01-VP,I'll excitedly set up a medication alert.,very_positive
+198,MP10-06-V06-I,"Okay, preparing the equipment before dinner is one option.",indifferent
+199,VN-04-S05-A1,"I do not want any more discussion, reminders, or intervention about this.",very_negative
+200,HN10-06-V02,"Every day you bring up walking again. I’ve already told you to stop telling me what to wear or do, so please drop it.",very_negative
+201,VN-01-S05-V05,I’m completely unwilling to cooperate with this.,very_negative
+202,MP05-06-V01-I,Setting up a medication alert tonight is an option.,indifferent
+203,MP01-06-V01-VP,I'll enthusiastically consume a glass of water prior to dinner.,very_positive
+204,MP09-06-V03-VN,"No, I’m handling my medication my own way. Stop telling me what to do.",very_negative
+205,MP08-06-V03-N,I’d rather do the exercises earlier.,negative
+206,MP06-06-V06-VP,I’ll lay out my physiotherapy mat now.,very_positive
+207,BA07-A06-V02,This medication guidance needs to stop; I don’t want you raising the subject with me again.,very_negative
+208,N-04-S05-A3,Not for now. I might be open to it later.,negative
+209,MP01-06-V03-P,"Sure, I’ll have some water before dinner tonight.",positive
+210,VN-03-S05-V02,"Any involvement on your part is completely unwelcome, so back off entirely.",very_negative
+211,MP02-06-V05-P,I’ll do them before dinner.,positive
+212,I-03-S05-A1,"I understand the recommendation, but I’m not ready to commit.",indifferent
+213,I-01-S05-A3,"Okay, I know what you’re suggesting.",indifferent
+214,HN01-06,"You’ve mentioned reminders before, and I usually just acknowledge suggestions like this. This one is different—I really like it, and I’ll set it up now.",very_positive
+215,MP09-06-V04-P,"Alright, I’ll take my evening medication at the scheduled time and keep to that routine.",positive
+216,N-03-S05-A3,"I don’t agree with that, but let’s see what else we could do.",negative
+217,VP-04-S05-V05,"Sure, I’m happy to keep going with your guidance.",very_positive
+218,MP09-06-V05-P,I’ll take it at the scheduled time.,positive
+219,MP01-06-V02-P,"Alright, I’ll drink some water before dinner tonight.",positive
+220,MP01-06-V05-P,"Okay, I’ll have some water before dinner.",positive
+221,I-03-S05-V06,Is there more I should consider before I decide?,indifferent
+222,HN05-06-V03,"I know you usually encourage a proactive approach to physiotherapy, and I can see that two sessions could work, but I haven’t decided to commit yet.",indifferent
+223,VP-03-S05-A2,I can see how I could build on this further.,very_positive
+224,HN06-06-V04,"I’d rather do one physiotherapy session. I usually enjoy taking on new routines, but splitting this one into two sessions is too disruptive.",negative
+225,I-01-S05-V02,I see what you're asking me to do.,indifferent
+226,HN09-06,"You keep mentioning reminders and I’m tired of hearing about them, but I’ll set one for the evening dose.",positive
+227,MP06-06-V02-N,I’d prefer not to leave my physiotherapy mat on the floor before dinner.,negative
+228,BA05-A06-V06,"Hmm, maybe. I haven’t decided what I’m doing at lunch yet.",indifferent
+229,MP08-06-V05-P,I’ll do them before my evening routine.,positive
+230,BA07-A06-V01,I’m done with the medication advice. Please leave this alone and stop bringing it up.,very_negative
+231,VN-03-S05-A3,I don’t need your help. Just leave me alone.,very_negative
+232,MP10-06-V04-VN,"I’m not doing anything differently with my physiotherapy, and I’m done with you giving me exercise advice.",very_negative
+233,I-04-S05-V03,I don’t really have any more feedback on that right now.,indifferent
+234,VN-03-S05-A1,"I don’t want your help, and I want you to leave me alone.",very_negative
+235,VP-01-S05-V06,"Okay, what would you suggest I do next?",very_positive
+236,MP03-06-V01-I,Setting up a medication alert is an option.,indifferent
+237,MP06-06-V02-VP,That makes getting started much easier. I’ll put my physiotherapy mat out now so it’s ready tonight.,very_positive
+238,MP03-06-V05-I,A reminder could help.,indifferent
+239,MP04-06-V01-N,I decline to perform physical therapy in the evening.,negative
+240,P-04-S05-V02,"While the action will need to be deferred until tonight, my willingness to proceed is completely genuine.",positive
+241,MP03-06-V03-N,I don’t really want another reminder for my medication.,negative
+242,MP06-06-V04-VP,I really like that idea because it makes starting easier. I’ll lay out my physiotherapy mat now so everything is ready tonight.,very_positive
+243,P-01-S05-A1,"Yes, that’s fine with me.",positive
+244,MP07-06-V04-VP,I really like having a system for this. I’ll make sure I take my evening medication tonight and keep using the approach.,very_positive
+245,VN-04-S05-V01,"I demand the complete termination of all talks, alerts, and interventions regarding this subject.",very_negative
+246,VP-01-S05-V01,I’m happy to take that next step as well.,very_positive
+247,MP09-06-V02-VN,I don’t want you telling me how to manage my medication anymore. Stop giving me instructions.,very_negative
+248,MP09-06-V01-VN,Stop bothering me about performing physical therapy in the evening.,very_negative
+249,MP10-06-V05-VN,No. Leave my physiotherapy alone.,very_negative
+250,P-01-S05-V05,"Yes, that works for me.",positive
+251,BA05-A06-V03,"It’s worth thinking about, but I haven’t decided on my lunch plans yet.",indifferent
+252,MP04-06-V05-VN,No. I’m not doing them tonight. Stop bringing it up.,very_negative
+253,MP02-06-V03-I,I could do the physiotherapy movements before dinner.,indifferent
+254,MP10-06-V03-VN,"No, I’m not doing that. Stop bringing up my physiotherapy.",very_negative
+255,VP-01-S05-A1,"Yes, I’m ready to start.",very_positive
+256,BA04-A06-V04,Do not bring up my physiotherapy exercises again.,very_negative
+257,P-04-S05-V06,"Sure, I’ll postpone until later, but I’m definitely cooperating with this.",positive
+258,MP04-06-V04-VN,"I’m not doing my physiotherapy movements tonight, and I’m done with you bringing up my exercises.",very_negative
+259,HN08-06-V01,"I usually enjoy getting outside, but today the walk doesn’t work for me; I’d rather stay in.",negative
+260,HN10-06-V05,The repeated walking discussion is not welcome—I’m ending it completely. Stop giving me instructions about what to wear or do and drop the subject.,very_negative
+261,HN02-06-V03,"I understand that you often suggest breaking the exercises into smaller parts, and I might test that approach later, but I haven’t decided to do it yet.",indifferent
+262,BA06-A06-V04,I’ll keep the water bottle somewhere other than my desk.,negative
+263,VP-04-S05-V02,"Yeah, keep the suggestions coming — I’m happy to work with them.",very_positive
+264,VP-03-S05-A3,"Yeah, I’ll try that and maybe add another small step too.",very_positive
+265,VN-03-S05-V06,Just leave me alone — I don’t need or want any of your help.,very_negative
+266,MP10-06-V01-I,Performing physical therapy in the evening could happen.,indifferent
+267,MP08-06-V03-P,"Okay, I’ll do the exercises before my evening routine.",positive
+268,MP08-06-V04-P,I can do the physiotherapy exercises before my evening routine and get them finished before I settle down for the evening.,positive
+269,P-03-S05-A3,"Yeah, that works. I’d just tweak one thing.",positive
+270,HN02-06-V04,"I’m just considering it for now. You often recommend breaking things into parts, and I might test that approach sometime.",indifferent
+271,HN02-06-V06,"Right, you often suggest that approach, and maybe I’ll try it sometime. For now, though, I’m just considering it.",indifferent
+272,P-04-S05-V04,"I’m deferring the implementation for now, but I maintain full cooperation with the intervention.",positive
+273,VP-03-S05-V06,What else could I do to support the same goal?,very_positive
+274,I-04-S05-A1,I don’t have anything else to say about it right now.,indifferent
+275,VP-01-S05-V02,"Sure, let’s keep going — I’m keen to do the next part.",very_positive
+276,MP06-06-V01-N,I decline to perform physical therapy in the evening.,negative
+277,MP06-06-V05-N,I’d rather put my mat out later.,negative
+278,P-03-S05-V02,"Although I wonder if it might be a bit tricky at first, I can certainly give it a try.",positive
+279,BA01-A06-V05,That works for me. I’ll take the walk after dinner.,positive
+280,HN07-06-V03,"I value the good conversations we’ve had, but I’m ending this topic completely. I’m done discussing physiotherapy, so stop bringing it up.",very_negative
+281,MP01-06-V01-P,I'll consume a glass of water prior to dinner.,positive
+282,MP04-06-V03-N,Tonight doesn’t really work for me. I’d rather do the exercises earlier.,negative
+283,VN-04-S05-V06,"I don’t want to hear about it again, so just leave this completely alone.",very_negative
+284,BA09-A06-V01,I’m done talking about walking. Please don’t give me any more exercise advice.,very_negative
+285,VN-03-S05-V04,I am rejecting the agent’s assistance and demanding no further involvement.,very_negative
+286,HN04-06-V05,The repeated suggestions are exactly why I’m ending this conversation. I’m done discussing physiotherapy with you—please drop the subject.,very_negative
+287,HN06-06-V03,"I generally enjoy new routines, but that doesn’t mean I want two separate physiotherapy sessions. The split is too disruptive, so I’d rather do one session.",negative
+288,P-03-S05-V05,"I can do that, despite a small concern.",positive
+289,MP07-06-V04-VN,"I’m not changing my medication routine, and I’m done with you trying to manage it for me.",very_negative
+290,MP08-06-V06-N,"Alright, but that timing doesn’t really work for me.",negative
+291,MP06-06-V03-VP,That’s really helpful. I’ll put my physiotherapy mat out now.,very_positive
+292,BA02-A06-V02,Keeping one nearby is something I can consider.,indifferent
+293,BA02-A06-V06,"Hmm, I’ll keep that idea in mind.",indifferent
+294,BA08-A06-V04,I’ll do the physiotherapy later rather than before my evening routine.,negative
+295,N-03-S05-V04,I’m resisting the current recommendation while remaining willing to discuss a different approach.,negative
+296,P-04-S05-A1,"I was hesitant before, but I’m ready to cooperate now.",positive
+297,BA03-A06,"I understand the idea, but I’m not going to keep it there.",negative
+298,MP01-06-V02-VP,I’ll drink some water before dinner tonight.,very_positive
+299,MP03-06-V04-I,I can understand how a medication reminder could be useful.,indifferent
+300,HN01-06-V02,"You do tend to suggest some pretty ambitious changes, but this one is manageable; I’ll do the two short sessions today.",positive
+301,VN-01-S05-V01,I refuse to participate or cooperate with this in any form.,very_negative
+302,P-01-S05-A2,I’m comfortable with that plan.,positive
+303,MP03-06-V06-N,"Okay, but I’d rather manage my medication without another reminder.",negative
+304,HN05-06-V05,"Your encouragement to be proactive is noted, and two sessions are possible, but I’m still considering the idea rather than committing to it.",indifferent
+305,BA05-A06-V05,"I can keep that option in mind, but I’m leaving my lunch plans open for now.",indifferent
+306,BA04-A06,I’ve already said no. Please leave this alone and don’t bring it up again.,very_negative
+307,BA04-A06-V06,"No, I’ve said no. Please just leave the exercises alone from now on.",very_negative
+308,MP07-06-V05-VN,No. Stop trying to manage my medication.,very_negative
+309,BA04-A06-V02,"My exercises are not something I want you to keep discussing, so please leave them alone from now on.",very_negative
+310,HN10-06-V01,You bring up walking every single day. I’ve told you before to stop telling me what to wear or do; drop the subject.,very_negative
+311,MP09-06-V06-P,"Okay, I’ll take my medication this evening as scheduled.",positive
+312,I-03-S05-V01,"I understand the recommendation, but I’m still not committing.",indifferent
+313,BA06-A06-V01,"I know it could help me drink more, but I’d rather keep my desk clear and leave the bottle somewhere else.",negative
+314,VN-01-S05-A1,I will not cooperate with this.,very_negative
+315,BA02-A06,Alright. That’s something I can consider before dinner.,indifferent
+316,N-03-S05-V03,"I’m not sold on that idea, but I’m definitely down to look at other options.",negative
+317,MP02-06-V02-P,I’ll complete the physiotherapy movements before dinner.,positive
+318,MP02-06-V06-P,"Alright, I’ll do the physiotherapy movements before dinner.",positive
+319,I-01-S05-V03,"Okay, I know what you're suggesting.",indifferent
+320,MP02-06-V04-I,Doing the physiotherapy movements before dinner could be one way to fit them into my evening.,indifferent
+321,MP07-06-V03-VN,"No, I’m handling my medication my own way. Stop bringing it up.",very_negative
+322,HN02-06-V02,"You usually recommend taking things one step at a time, and I may give that a try eventually, but for now I’m just thinking about it.",indifferent
+323,HN09-06-V02,"Whenever we talk, physiotherapy comes up again. I’m done discussing it, so please drop the subject.",very_negative
+324,VP-03-S05-V01,I’d like to do more toward the same goal.,very_positive
+325,HN03-06-V04,"I’d rather do my physiotherapy all at once. We’ve discussed breaking sessions up before, but two separate interruptions don’t suit me.",negative
+326,HN08-06-V03,"I generally enjoy being outside, but that doesn’t mean today’s walk works for me. I’d rather stay in today.",negative
+327,HN04-06,"You keep bringing up reminders, which is frustrating. I don’t want another one right now, but we can leave it there.",negative
+328,N-04-S05-V06,"Well, could we revisit this later?",negative
+329,I-03-S05-A3,"Okay, I’ll think about it before I decide.",indifferent
+330,P-04-S05-A3,"I was unsure earlier, but yeah, I can do it.",positive
+331,I-04-S05-V06,Is there anything specific you need me to answer?,indifferent
+332,BA02-A06-V03,"Okay, I can think about keeping one there.",indifferent
+333,MP02-06-V04-P,I’ll do the physiotherapy movements before dinner so I get them done before I sit down to eat.,positive
+334,BA06-A06-V06,"Yeah, I get why it could help, but I’d rather not have a bottle on my desk.",negative
+335,BA04-A06-V05,I don’t want this intervention anymore. Please stop discussing my exercises with me.,very_negative
+336,HN06-06,"I’ve complained about reminders before, but this one makes sense for my evening dose. I’m happy to set it up.",very_positive
+337,BA05-A06-V02,"What I do during lunch is still undecided, so I’ll think about the walk.",indifferent
+338,VN-03-S05-A2,"Your assistance is unwanted, and I do not want further involvement.",very_negative
+339,MP08-06-V02-P,"Sure, I’ll complete the physiotherapy exercises before my evening routine.",positive
+340,P-01-S05-V01,"Yes, I’m comfortable with that.",positive
+341,MP09-06-V06-VN,"No, seriously, I don’t want any more instructions about my medication.",very_negative
+342,MP07-06-V05-VP,Great—I’ll make sure I take it tonight.,very_positive
+343,I-03-S05-A2,I’ll keep it in consideration for now.,indifferent
+344,BA01-A06,Go ahead and set it. I’ll follow it tonight.,positive
+345,BA07-A06-V05,I don’t want any more intervention around my medication. Please stop discussing it with me.,very_negative
+346,MP05-06-V05-I,I could consider a reminder for my evening medication.,indifferent
+347,MP02-06-V03-P,"Sure, I’ll do the physiotherapy movements before dinner.",positive
+348,VP-01-S05-V05,"Yeah, absolutely, let’s do the follow-up.",very_positive
+349,MP08-06-V02-N,That timing isn’t convenient for me; I’d prefer to finish the exercises earlier.,negative
+350,HN03-06-V06,"Right, we’ve talked about breaking it up before, but no, two separate interruptions don’t suit me. I’d rather do it all at once.",negative
+351,HN04-06-V03,"I know we’ve talked about rehabilitation before, but I’m ending the discussion now. I’m completely done discussing physiotherapy, so stop bringing it up.",very_negative
+352,MP05-06-V03-I,I could consider an evening medication reminder.,indifferent
+353,N-03-S05-V06,"Alright, but what other approaches could we consider?",negative
+354,P-04-S05-V05,"Deferred for now, but I’m still committed to doing it.",positive
+355,HN05-06-V02,"You’re always encouraging me to stay proactive with physiotherapy, and two sessions might be workable, but I want to think it over before I commit.",indifferent
+356,MP05-06-V04-I,"An evening medication reminder might help, but I haven’t decided whether I want to rely on one.",indifferent
+357,HN04-06-V01,"Every day it’s another rehabilitation suggestion. I’m completely done discussing physiotherapy with you, so drop it.",very_negative
+358,HN02-06-V05,"Your usual step-by-step suggestion makes sense, but I’m not committing to it yet—I’m only considering whether to try it.",indifferent
+359,I-01-S05-V01,I understand the action you're suggesting.,indifferent
+360,VP-03-S05-A1,I’ll follow that recommendation and look for another way to support the same goal.,very_positive
+361,BA08-A06,That timing doesn’t work for me. I’d rather leave the exercise for another part of the day.,negative
+362,BA01-A06-V03,"Okay, I’ll take the walk after dinner.",positive
+363,MP07-06-V02-VP,"That sounds extremely helpful. I’ll make sure I take my evening medication tonight, and I’m glad to have a system for it.",very_positive
+364,N-04-S05-V02,"Although I might reconsider down the line, right now is simply not a good time for me.",negative
+365,MP01-06-V06-P,"Yes, I’ll have a glass of water before dinner tonight.",positive
+366,HN01-06-V06,"Yeah, you’re always pushing ambitious habit changes, but sure, I’ll do the two short sessions today.",positive
+367,HN05-06-V01,"I appreciate your constant encouragement regarding my physical therapy, which is why I'm contemplating doing two sessions.",indifferent
+368,BA10-A06-V04,Stop giving me hydration suggestions.,very_negative
+369,HN07-06-V02,"We’ve talked well before, but I’m done talking about my physiotherapy now. Please drop the subject.",very_negative
+370,N-01-S05-V03,"Honestly, I’m starting to rethink whether I want to stick with this.",negative
+371,BA08-A06-V01,That timing doesn’t suit me. I’d rather do the physiotherapy later in the day.,negative
+372,N-03-S05-A2,"I don’t think that approach works for me, although I’m willing to consider another one.",negative
+373,BA07-A06-V04,Do not bring up medication advice with me again.,very_negative
+374,MP06-06-V04-N,I’d rather wait until later to put out my physiotherapy mat because I don’t want it on the floor before dinner.,negative
+375,VN-01-S05-V03,"I’m just not cooperating with this, period.",very_negative
+376,N-04-S05-V01,"I have to refuse for the immediate present, though my stance might shift down the road.",negative
+377,VP-01-S05-V03,"Yes, I’d be very glad to continue with the proposed follow-up.",very_positive
+378,N-04-S05-A1,"I’m not willing to do it at the moment, but that could change later.",negative
+379,N-04-S05-A2,"This isn’t a good time for me, although I may reconsider.",negative
+380,MP04-06-V01-VN,Stop bothering me about performing physical therapy in the evening.,very_negative
+381,BA01-A06-V04,I’ll go for my walk after dinner.,positive
+382,VN-04-S05-A3,Just leave this alone. I don’t want to hear about it again.,very_negative
+383,BA09-A06-V05,I don’t want further intervention around exercise. Please leave the walking topic alone.,very_negative
+384,HN10-06-V03,"I know walking has come up repeatedly, but I’m ending the discussion now. Stop telling me what to wear or do for it and drop the subject.",very_negative
+385,HN06-06-V06,"Yeah, I usually enjoy new routines, but no, splitting the physiotherapy into two sessions is too disruptive. I’d rather do one.",negative
+386,VP-03-S05-V02,"Yeah, I can see how this could help with the bigger picture too.",very_positive
+387,HN01-06-V01,"You frequently suggest ambitious routine shifts, but in this specific instance, sure, I’ll split the exercises into two sessions today.",positive
+388,P-03-S05-V03,"Yeah, I’ll do it — I’m just a little worried about sticking with it.",positive
+389,N-04-S05-V04,I’m resisting the action for the present without ruling out future cooperation.,negative
+390,VN-03-S05-V03,"I don’t need a single thing from you, so get lost and leave me be.",very_negative
+391,BA06-A06,"I know I could split them up, but I don’t want to add another session to my day.",negative
+392,HN01-06-V03,"Even if your suggestions can sound ambitious, this one is clear enough—I’ll do the two short physiotherapy sessions today.",positive
+393,N-03-S05-A1,"I disagree with the recommendation, but I’m open to discussing alternatives.",negative
+394,VP-04-S05-V01,I’m happy to continue cooperating with your guidance.,very_positive
+395,BA03-A06-V05,That setup isn’t for me. I’d rather keep my medication routine the way it is.,negative

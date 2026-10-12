@@ -1,0 +1,94 @@
+utterance_id,utterance,execution_status
+IP-S04-A1,"I’ve done part of the exercise, but I’m not finished.",In Progress
+IP-S04-A2,I’ve started the exercises; there’s still some left.,In Progress
+IP-S04-A3,I’m partway through the exercise.,In Progress
+IP-S07-A1,I’m almost finished with the exercises.,In Progress
+IP-S07-A2,I’m nearly done with the workout.,In Progress
+IP-S07-A3,I’ve got just a little of the exercise left.,In Progress
+C-S07-A1,The water bottle is empty now.,Completed
+C-S07-A2,There’s nothing left in the bottle.,Completed
+C-S07-A3,The whole bottle is gone.,Completed
+NS-S11-A1,I’m not going to take the medicine.,Not Started
+NS-S11-A2,I don’t want to do the routine.,Not Started
+NS-S11-A3,I’m skipping the therapy today.,Not Started
+IP-S09-A1,"I’m almost finished with the therapy, but it took a while.",In Progress
+IP-S09-A2,I’m nearly through the routine; it’s been tiring.,In Progress
+IP-S09-A3,"There’s only a little left, although this session has been long.",In Progress
+NS-S10-A1,I’m not going to do the exercise.,Not Started
+NS-S10-A2,"No, I’m not doing it.",Not Started
+NS-S10-A3,I’ll pass on the exercise today.,Not Started
+IP-S14-A1,"I started the therapy, but I got interrupted before finishing.",In Progress
+IP-S14-A2,"I was doing the routine when something came up, and I still have some left.",In Progress
+IP-S14-A3,"I had to stop halfway through, so I’m not finished yet.",In Progress
+C-S03-A1,I’ve completed the physiotherapy routine.,Completed
+C-S03-A2,I’m finished with the therapy.,Completed
+C-S03-A3,The whole therapy routine is done.,Completed
+NS-S13-A1,I haven’t exercised because I’m too busy.,Not Started
+NS-S13-A2,I haven’t had time to do the exercises.,Not Started
+NS-S13-A3,The exercise hasn’t happened; my schedule has been packed.,Not Started
+NS-S04-A1,I’ll take the medicine later.,Not Started
+NS-S04-A2,I’m going to take it tonight.,Not Started
+NS-S04-A3,I’ll get to the dose later.,Not Started
+C-S04-A1,I already did the exercise.,Completed
+C-S04-A2,I finished it earlier.,Completed
+C-S04-A3,That’s something I’ve already taken care of.,Completed
+NS-S05-A1,I haven’t started the exercises yet; I’ll do them after lunch.,Not Started
+NS-S05-A2,I’ll start the exercises this evening.,Not Started
+NS-S05-A3,I’ll get started on the routine when I’m back.,Not Started
+C-S15-A1,"I finished the exercises, and now I’ll take a break.",Completed
+C-S15-A2,I’m done with the routine; I’m going to rest now.,Completed
+C-S15-A3,"The therapy is finished, so I’ll relax for a while.",Completed
+IP-S10-A1,"I’ve finished the first two exercises, but I still have one left.",In Progress
+IP-S10-A2,I’ve done the first couple of sets and still have more to go.,In Progress
+IP-S10-A3,I’m partway through the routine; a few steps remain.,In Progress
+NS-S12-A1,"No, I won’t do it.",Not Started
+NS-S12-A2,I’m not doing that.,Not Started
+NS-S12-A3,I’ll pass.,Not Started
+C-S02-A1,Done with the medicine.,Completed
+C-S02-A2,All done.,Completed
+C-S02-A3,That’s finished now.,Completed
+IP-S12-A1,"I’ve done three sets, and two more are left.",In Progress
+IP-S12-A2,"I’ve got most of the routine done, but there’s still more to finish.",In Progress
+IP-S12-A3,I’m through the first few parts; the rest is still pending.,In Progress
+C-S09-A1,There’s nothing left for me to do in the routine.,Completed
+C-S09-A2,I’m through the whole routine now.,Completed
+C-S09-A3,The session is over.,Completed
+C-S10-A1,I finished all the exercises.,Completed
+C-S10-A2,I got through the whole routine.,Completed
+C-S10-A3,Every step is done.,Completed
+IP-S15-A1,I started the routine and paused; I still need to finish it.,In Progress
+IP-S15-A2,"I’ve begun it, but I’ll continue after this break.",In Progress
+IP-S15-A3,I’m halfway through and will pick it up again shortly.,In Progress
+NS-S14-A1,I forgot to take the medicine.,Not Started
+NS-S14-A2,I completely forgot about the dose.,Not Started
+NS-S14-A3,The medicine never got taken because I forgot.,Not Started
+IP-S11-A1,I’m on the third step of the physiotherapy routine.,In Progress
+IP-S11-A2,I’m working through the routine one step at a time.,In Progress
+IP-S11-A3,I’m in the middle of the therapy sequence.,In Progress
+IP-S06-A1,"I started the medicine routine, but I haven’t finished it.",In Progress
+IP-S06-A2,"I’ve begun the routine, but I still have more to do.",In Progress
+IP-S06-A3,I’m not done with the routine yet; I’ve already started.,In Progress
+IP-S08-A1,I’ve got one exercise left.,In Progress
+IP-S08-A2,I’m on the last set now.,In Progress
+IP-S08-A3,Just one more part of the routine remains.,In Progress
+C-S01-A1,I finished the exercise.,Completed
+C-S01-A2,I’m done with the exercise.,Completed
+C-S01-A3,The exercise is finished.,Completed
+C-S12-A1,I completed every part of the physiotherapy routine.,Completed
+C-S12-A2,I went through the whole routine.,Completed
+C-S12-A3,I’ve finished all of it.,Completed
+NS-S01-A1,I haven’t started the exercise yet.,Not Started
+NS-S01-A2,I still haven’t begun the exercise.,Not Started
+NS-S01-A3,The exercise hasn’t been started on my side yet.,Not Started
+IP-S05-A1,"I’ve drunk half the bottle, but I still have some left.",In Progress
+IP-S05-A2,I’m halfway through the water.,In Progress
+IP-S05-A3,There’s still some of the bottle left for me to drink.,In Progress
+IP-S02-A1,I’m drinking the water now.,In Progress
+IP-S02-A2,I’m having the water right now.,In Progress
+IP-S02-A3,I’m working through my water target now.,In Progress
+C-S14-A1,I finished the exercise before breakfast.,Completed
+C-S14-A2,"I took the medicine at home, so that’s done.",Completed
+C-S14-A3,"I completed the therapy earlier, while I was at home.",Completed
+C-S08-A1,I finished the whole bottle of water.,Completed
+C-S08-A2,I drank all of it.,Completed
+C-S08-A3,There’s none of the target amount left.,Completed

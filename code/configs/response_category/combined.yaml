@@ -1,0 +1,22 @@
+task:
+  name: "response_category"
+  dataset_variant: "combined"
+  num_labels: 5
+  text_column: "utterance"
+  label_column: "response_category"
+  labels:
+    - "very_negative"
+    - "negative"
+    - "indifferent"
+    - "positive"
+    - "very_positive"
+
+data:
+  train_file: "code/data/response_dataset_training/combined/train.csv"
+  val_file: "code/data/response_dataset_training/combined/val.csv"
+  test_file: "code/data/response_dataset_training/combined/test.csv"
+
+paths:
+  output_dir: "code/models/response_category/combined"
+  log_dir: "code/logs/response_category/combined"
+  report_dir: "code/reports/response_category/combined"

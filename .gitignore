@@ -1,0 +1,108 @@
+# ==============================================================================
+# Standard .gitignore for NLP / Deep Learning Model Training (BERT Pipeline)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Byte-compiled / Optimized / Runtime files
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ------------------------------------------------------------------------------
+# 2. Virtual Environments
+# ------------------------------------------------------------------------------
+venv/
+.venv/
+env/
+.env
+ENV/
+env.bak/
+venv.bak/
+venv2/
+*/venv/
+*/venv2/
+
+# ------------------------------------------------------------------------------
+# 3. Model Weights, Checkpoints & Artifacts (Exceeds GitHub 100MB limit)
+# ------------------------------------------------------------------------------
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.tflite
+*.ckpt
+*.h5
+
+# Keep directories tracked via README.md, but ignore checkpoint dumps
+code/models/**/best_model/
+code/models/**/checkpoint-*/
+code/models/**/latest_checkpoint/
+code/models/**/*.pt
+code/models/**/*.bin
+code/models/**/*.safetensors
+!code/models/**/README.md
+!code/models/**/.gitkeep
+
+# ------------------------------------------------------------------------------
+# 4. Logs, TensorBoard & Experiment Tracking
+# ------------------------------------------------------------------------------
+code/logs/**/*.log
+events.out.tfevents.*
+tensorboard/
+wandb/
+.wandb/
+mlruns/
+lightning_logs/
+
+!code/logs/**/README.md
+!code/logs/**/.gitkeep
+
+# ------------------------------------------------------------------------------
+# 5. IDE, Editors & OS Files
+# ------------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ------------------------------------------------------------------------------
+# 6. Jupyter Notebook & Testing Caches
+# ------------------------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ------------------------------------------------------------------------------
+# 7. Temporary & Scratch Files
+# ------------------------------------------------------------------------------
+scratch/
+tmp/
+*.tmp

@@ -1,0 +1,22 @@
+utterance_id,utterance,execution_status
+NS-S09-A1,"If I have enough time, I’ll do the physiotherapy.",Not Started
+NS-S09-A2,I’ll do the routine if I get a break later.,Not Started
+NS-S09-A3,I can get to the therapy if I’m free this evening.,Not Started
+NS-S15-A1,I couldn’t start the physiotherapy today.,Not Started
+NS-S15-A2,I wasn’t able to do the routine.,Not Started
+NS-S15-A3,I never got to the therapy because I couldn’t.,Not Started
+IP-S01-A1,I’m doing the exercise right now.,In Progress
+IP-S01-A2,I’m exercising at the moment.,In Progress
+IP-S01-A3,I’m in the middle of the exercise.,In Progress
+IP-S03-A1,"Yes, I’ve started the physiotherapy and I’m still doing it.",In Progress
+IP-S03-A2,I’ve started already; I’m working through it now.,In Progress
+IP-S03-A3,I’m on it now.,In Progress
+NS-S02-A1,I haven’t taken any of the medicine yet.,Not Started
+NS-S02-A2,I haven’t done anything with the dose so far.,Not Started
+NS-S02-A3,The dose is still untouched.,Not Started
+NS-S08-A1,I’ll take the medicine after dinner.,Not Started
+NS-S08-A2,"Once I finish dinner, I’ll take it.",Not Started
+NS-S08-A3,The dose comes after I’m done eating.,Not Started
+C-S11-A1,I just finished the last set.,Completed
+C-S11-A2,The final exercise is done.,Completed
+C-S11-A3,"That was the last step, and it’s finished.",Completed
